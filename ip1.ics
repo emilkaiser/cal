@@ -1,0 +1,2847 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:G0Pbp-mvw9hxBJjrAp2Wb
+SUMMARY:IFK Aspudden-Tellus (3) vs Tyresö FF (1)
+DTSTAMP:20250321T223215Z
+DTSTART:20250326T190000Z
+DTEND:20250326T203000Z
+DESCRIPTION:Victoria Cup 24/25 A grupp 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-tyreso-ff-1-vic
+	toria-cup/6130166/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:jrAkzXgbshf6ApY-I1ZFY
+SUMMARY:Aspuddens FF (5) vs Sörskogens IF (5)
+DTSTAMP:20250321T223215Z
+DTSTART:20250329T150000Z
+DTEND:20250329T163000Z
+DESCRIPTION:Stockholm Cup 24/25 B grupp 1
+URL:https://www.stff.se/rs/matchfakta/aspuddens-ff-5-sorskogens-if-5-stockh
+	olm-cup/6130090/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:eF_mm5xEiIy-5moYaac_Z
+SUMMARY:IFK Aspudden-Tellus vs Hagalunds IS
+DTSTAMP:20250321T223215Z
+DTSTART:20250404T180000Z
+DTEND:20250404T193000Z
+DESCRIPTION:Veteran DM Herrar
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-hagalunds-is-vete
+	ran-dm/6195349/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:jdpSSgUhII8qEvbd0_QpX
+SUMMARY:IFK Aspudden-Tellus  vs Djurgårdens TFF
+DTSTAMP:20250321T223215Z
+DTSTART:20250405T100000Z
+DTEND:20250405T113000Z
+DESCRIPTION:P19 Div.1 2025 - Region 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--djurgardens-tff-
+	p19-serier/6191624/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:cHx-n2MQV2y2Utvxwcw_6
+SUMMARY:Stockholm StreetSoccer FF vs Handelskamraternas IS
+DTSTAMP:20250321T223215Z
+DTSTART:20250405T120000Z
+DTEND:20250405T133000Z
+DESCRIPTION:Herrar 5 Mellersta
+URL:https://www.stff.se/rs/matchfakta/stockholm-streetsoccer-ff-handelskamr
+	aternas-is-div-5-herrar/6189495/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:67i0lKHBnnoy9WOn3w1yQ
+SUMMARY:IFK Aspudden-Tellus 2 vs IFK Lidingö FK C
+DTSTAMP:20250321T223215Z
+DTSTART:20250405T140000Z
+DTEND:20250405T153000Z
+DESCRIPTION:P2009- 1B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-ifk-lidingo-fk-
+	c-pojkar-2009/6243142/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1yC2geJSXl73ScFfcYYfR
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs IFK Haninge H Blå
+DTSTAMP:20250321T223215Z
+DTSTART:20250406T100000Z
+DTEND:20250406T113000Z
+DESCRIPTION:P2012- 3I
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-ifk-haninge
+	-h-bla-pojkar-2012/6252220/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:XuDCr4iOtWXKHL_V5z7kl
+SUMMARY:IFK Aspudden-Tellus 3 vs Älvsjö AIK FF 3
+DTSTAMP:20250321T223215Z
+DTSTART:20250406T120000Z
+DTEND:20250406T133000Z
+DESCRIPTION:P2010- 3C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-alvsjo-aik-ff-3
+	-pojkar-2010/6245376/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:izh0VfEtceWmbGm8zAk0O
+SUMMARY:IFK Aspudden-Tellus 4 vs IF Brommapojkarna 10-5
+DTSTAMP:20250321T223215Z
+DTSTART:20250406T140000Z
+DTEND:20250406T153000Z
+DESCRIPTION:P2010- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-if-brommapojkar
+	na-10-5-pojkar-2010/6245859/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:NsBXQvO6f_373RV1XbugX
+SUMMARY:IFK Aspudden-Tellus vs Västerhaninge IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250406T160000Z
+DTEND:20250406T173000Z
+DESCRIPTION:Herrar 4 Södra
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vasterhaninge-if-
+	div-4-herrar/6186169/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:avsCZQMzacP1GBOiSes0v
+SUMMARY:Aspuddens FF vs Tullinge Triangel Pojkar FK
+DTSTAMP:20250321T223215Z
+DTSTART:20250411T180000Z
+DTEND:20250411T193000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/aspuddens-ff-tullinge-triangel-pojkar
+	-fk-div-5-herrar/6190671/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:HkI03z0FJAdxT24TFzjr-
+SUMMARY:Ospecificerat lag (6) vs Skogås-Trångsunds FF Blå
+DTSTAMP:20250321T223215Z
+DTSTART:20250412T000000Z
+DTEND:20250412T013000Z
+DESCRIPTION:F2011- 3B
+URL:https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-skogas-trangsunds
+	-ff-bla-flickor-2011/6258369/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:JM_RHNJXxoRijiWrr4mJ1
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Boo FF 31
+DTSTAMP:20250321T223215Z
+DTSTART:20250412T070000Z
+DTEND:20250412T083000Z
+DESCRIPTION:P2012- 3K
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-boo-ff-31-p
+	ojkar-2012/6252488/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:ucQd9LP0ReKDHd0Ci36-M
+SUMMARY:IFK Aspudden-Tellus 1 vs Djurgårdens IF FF 11
+DTSTAMP:20250321T223215Z
+DTSTART:20250412T083000Z
+DTEND:20250412T100000Z
+DESCRIPTION:P2011- 1E
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-djurgardens-if-
+	ff-11-pojkar-2011/6246650/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Eag3xlRP6qrBvNxEg4mmx
+SUMMARY:IFK Aspudden-Tellus vs Mälarhöjden-Hägersten FF 3
+DTSTAMP:20250321T223215Z
+DTSTART:20250412T100000Z
+DTEND:20250412T113000Z
+DESCRIPTION:F2011- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-malarhojden-hager
+	sten-ff-3-flickor-2011/6347336/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:cPB3OWRy_XYWckrVTrRQ8
+SUMMARY:BK Buffalo vs Spårvägens FF 
+DTSTAMP:20250321T223215Z
+DTSTART:20250412T140000Z
+DTEND:20250412T153000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/bk-buffalo-sparvagens-ff--div-5-herra
+	r/6190676/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:GMYzz__AjRLdZkfEWfK6h
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Gustavsbergs IF FK 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250413T070000Z
+DTEND:20250413T083000Z
+DESCRIPTION:P2012- 2D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-gustavsberg
+	s-if-fk-1-pojkar-2012/6250774/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:lfHV_r8e8PaJCnyoiBdYA
+SUMMARY:IFK Aspudden-Tellus 4 vs Värmdö IF Vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250413T083000Z
+DTEND:20250413T100000Z
+DESCRIPTION:P2011- 4D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-varmdo-if-vit-p
+	ojkar-2011/6249217/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:QlFLazIOIRE53KvjVowL8
+SUMMARY:IFK Aspudden-Tellus DJ vs Skogås-Trångsunds FF Röd
+DTSTAMP:20250321T223215Z
+DTSTART:20250413T120000Z
+DTEND:20250413T133000Z
+DESCRIPTION:DJ- 2C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dj-skogas-trangsu
+	nds-ff-rod-damjuniorer-0906/6254968/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a8P7k6xds6ZcPetgsbaxb
+SUMMARY:IFK Aspudden-Tellus vs Bromma/Nockebyhov 2
+DTSTAMP:20250321T223215Z
+DTSTART:20250413T140000Z
+DTEND:20250413T153000Z
+DESCRIPTION:DJ- 3B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-brommanockebyhov-
+	2-damjuniorer-0906/6255196/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:w-ollI9TTrG-kSMTJTalq
+SUMMARY:Kransen United FF vs AC Azzurri
+DTSTAMP:20250321T223215Z
+DTSTART:20250413T160000Z
+DTEND:20250413T173000Z
+DESCRIPTION:Herrar 6 E
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-ac-azzurri-div-6-he
+	rrar/6221014/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Q_PHyVdPgY6TtJBU6WCJo
+SUMMARY:IFK Aspudden-Tellus vs Segeltorps Idrottsförening Fotboll
+DTSTAMP:20250321T223215Z
+DTSTART:20250413T180000Z
+DTEND:20250413T193000Z
+DESCRIPTION:SSH 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-segeltorps-idrott
+	sforening-fotboll-stockholmsserien-3-herrar/6233559/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2TgY6VuCWziu4ru_8DO1_
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Nynäshamns IF FK 1 vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250421T100000Z
+DTEND:20250421T113000Z
+DESCRIPTION:P2012- 3I
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-nynashamns-
+	if-fk-1-vit-pojkar-2012/6252232/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:IZBH1nBPRaJj7u6yxnla3
+SUMMARY:IFK Aspudden-Tellus 4 vs IFK Lidingö FK C
+DTSTAMP:20250321T223215Z
+DTSTART:20250421T120000Z
+DTEND:20250421T133000Z
+DESCRIPTION:P2010- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-ifk-lidingo-fk-
+	c-pojkar-2010/6245871/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:slwkFxz4i0Qy9E34sweMh
+SUMMARY:Stockholm StreetSoccer FF vs Dardania Stockholm FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250421T140000Z
+DTEND:20250421T153000Z
+DESCRIPTION:Herrar 5 Mellersta
+URL:https://www.stff.se/rs/matchfakta/stockholm-streetsoccer-ff-dardania-st
+	ockholm-ff-div-5-herrar/6189507/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:YmvIdxk3Ze6LbqfnqcG2g
+SUMMARY:IFK Aspudden-Tellus vs IFK Tumba FK
+DTSTAMP:20250321T223215Z
+DTSTART:20250421T160000Z
+DTEND:20250421T173000Z
+DESCRIPTION:Herrar 4 Södra
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-ifk-tumba-fk-div-
+	4-herrar/6186147/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:dOkeUgS4JiWS47CZPQLiZ
+SUMMARY:IFK Aspudden-Tellus 2 vs Karlbergs BK Vit 11
+DTSTAMP:20250321T223215Z
+DTSTART:20250421T180000Z
+DTEND:20250421T193000Z
+DESCRIPTION:P2009- 1B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-karlbergs-bk-vi
+	t-11-pojkar-2009/6243154/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:OTyVDTUgQ3i7_2AmN0FoB
+SUMMARY:Aspuddens FF vs Tungelsta IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250425T180000Z
+DTEND:20250425T193000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/aspuddens-ff-tungelsta-if-div-5-herra
+	r/6190684/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:fhPO_C3g4etJQAXbSeROb
+SUMMARY:IFK Aspudden-Tellus Svart 1 vs IF Brommapojkarna
+DTSTAMP:20250321T223215Z
+DTSTART:20250426T070000Z
+DTEND:20250426T083000Z
+DESCRIPTION:P2013- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-1-if-bromma
+	pojkarna-pojkar-2013/6266656/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:nFnp7lJml8trFoTGYXsS5
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Mälarhöjden-Hägersten FF Gul
+DTSTAMP:20250321T223215Z
+DTSTART:20250426T070000Z
+DTEND:20250426T083000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-malarhojd
+	en-hagersten-ff-gul-pojkar-2013/6267573/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:LmWUORdc6RFtI90ntd4c4
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Gröndals IK Vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250426T083000Z
+DTEND:20250426T100000Z
+DESCRIPTION:P2012- 2D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-grondals-ik
+	-vit-pojkar-2012/6250786/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:cfgYR79MQbhjqdSvxOzBn
+SUMMARY:BK Buffalo vs Tullinge Triangel Pojkar FK
+DTSTAMP:20250321T223215Z
+DTSTART:20250426T120000Z
+DTEND:20250426T133000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/bk-buffalo-tullinge-triangel-pojkar-f
+	k-div-5-herrar/6190688/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:9sNbYLzYK1kFmIvWqmX1I
+SUMMARY:IFK Aspudden-Tellus vs Karlbergs BK Vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250426T140000Z
+DTEND:20250426T153000Z
+DESCRIPTION:DJ- 3B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-karlbergs-bk-vit-
+	damjuniorer-0906/6255209/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:qQo4-4DU56i6zAwaaoXXe
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Svensk-Palestinska FF 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250427T070000Z
+DTEND:20250427T083000Z
+DESCRIPTION:P2012- 3K
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-svensk-pale
+	stinska-ff-1-pojkar-2012/6252501/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:mmO4AmOdGFlcL90qCmZ64
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Karlbergs BK Grön
+DTSTAMP:20250321T223215Z
+DTSTART:20250427T070000Z
+DTEND:20250427T083000Z
+DESCRIPTION:P2013- 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-karlbergs-b
+	k-gron-pojkar-2013/6268878/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:KuQRsZA-RTS4H-KOtkRwV
+SUMMARY:IFK Aspudden-Tellus 4 vs IF Brommapojkarna 11-26
+DTSTAMP:20250321T223215Z
+DTSTART:20250427T083000Z
+DTEND:20250427T100000Z
+DESCRIPTION:P2011- 4D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-if-brommapojkar
+	na-11-26-pojkar-2011/6249230/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:QRrsZvZCsYdqG4qySb-Jd
+SUMMARY:IFK Aspudden-Tellus 3 vs IFK Lidingö FK 8
+DTSTAMP:20250321T223215Z
+DTSTART:20250427T100000Z
+DTEND:20250427T113000Z
+DESCRIPTION:P2010- 3C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-ifk-lidingo-fk-
+	8-pojkar-2010/6245389/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:JzkZqxZfIDEPSQRJ9rgVO
+SUMMARY:Gröndals IK 1 vs Ösmo GIF FK 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250427T120000Z
+DTEND:20250427T133000Z
+DESCRIPTION:P2008- 2C
+URL:https://www.stff.se/rs/matchfakta/grondals-ik-1-osmo-gif-fk-1-pojkar-20
+	08/6242743/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:h1bwQtz52LrIp6TfAdrMY
+SUMMARY:Kransen United FF vs Stuvsta FF 
+DTSTAMP:20250321T223215Z
+DTSTART:20250427T160000Z
+DTEND:20250427T173000Z
+DESCRIPTION:Damer 4 B
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-stuvsta-ff--div-4-d
+	amer/6220567/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:mpmeReQ1KDdG0ojrMedZV
+SUMMARY:IFK Aspudden-Tellus vs FK Bromma
+DTSTAMP:20250321T223215Z
+DTSTART:20250427T180000Z
+DTEND:20250427T193000Z
+DESCRIPTION:Herrar Vet B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-fk-bromma-veteran
+	/6234356/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cd2JXeYuRSaDhWFBjyKJL
+SUMMARY:IFK Aspudden-Tellus vs Stuvsta IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250502T180000Z
+DTEND:20250502T193000Z
+DESCRIPTION:Herrar 4 Södra
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-stuvsta-if-div-4-
+	herrar/6186125/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:NqtYWzLSzrm3hEf7BG1vN
+SUMMARY:Ospecificerat lag (6) vs Sickla IF Blå
+DTSTAMP:20250321T223215Z
+DTSTART:20250503T000000Z
+DTEND:20250503T013000Z
+DESCRIPTION:F2011- 3B
+URL:https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-sickla-if-bla-fli
+	ckor-2011/6258380/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:AAuwCUISISM0VbIufzEiE
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Vendelsö IK Vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250503T083000Z
+DTEND:20250503T100000Z
+DESCRIPTION:P2012- 3I
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-vendelso-ik
+	-vit-pojkar-2012/6252244/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:BY40WeOwuFDZze4kLPdoN
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Örby IS Röd
+DTSTAMP:20250321T223215Z
+DTSTART:20250503T083000Z
+DTEND:20250503T100000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-orby-is-rod
+	-pojkar-2013/6267663/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:wuiJ6TjY25O-CQcGO4ALk
+SUMMARY:IFK Aspudden-Tellus vs Skogås-Trångsunds FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250503T113000Z
+DTEND:20250503T130000Z
+DESCRIPTION:Damer 3 B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-skogas-trangsunds
+	-ff-div-3-damer/6187967/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:99xoJmJmLi_21hNkbV6ZF
+SUMMARY:IFK Aspudden-Tellus  vs Arameisk-Syrianska IF 
+DTSTAMP:20250321T223215Z
+DTSTART:20250503T140000Z
+DTEND:20250503T153000Z
+DESCRIPTION:P19 Div.1 2025 - Region 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--arameisk-syrians
+	ka-if--p19-serier/6191657/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:_J0y01QYVUco8erXoSHw2
+SUMMARY:IFK Aspudden-Tellus Svart 2 vs IF Brommapojkarna 2013-14
+DTSTAMP:20250321T223215Z
+DTSTART:20250504T083000Z
+DTEND:20250504T100000Z
+DESCRIPTION:P2013- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-2-if-bromma
+	pojkarna-2013-14-pojkar-2013/6266894/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:xVOl50_pKKEYm81RJO4r9
+SUMMARY:IFK Aspudden-Tellus 2 vs Boo FF 2
+DTSTAMP:20250321T223215Z
+DTSTART:20250504T120000Z
+DTEND:20250504T133000Z
+DESCRIPTION:P2009- 1B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-boo-ff-2-pojkar
+	-2009/6243166/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:jdrw4o8ha-BvZfRTpx9WG
+SUMMARY:IFK Aspudden-Tellus DJ vs Hammarby IF FF U
+DTSTAMP:20250321T223215Z
+DTSTART:20250504T140000Z
+DTEND:20250504T153000Z
+DESCRIPTION:DJ- 2C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dj-hammarby-if-ff
+	-u-damjuniorer-0906/6254978/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:qjbtcZ4zFFsrCAIZDIEq7
+SUMMARY:Kransen United FF vs Västerhaninge IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250504T160000Z
+DTEND:20250504T173000Z
+DESCRIPTION:Damer 4 B
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-vasterhaninge-if-di
+	v-4-damer/6220573/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:v6Dq603PixssLVMe5VU_W
+SUMMARY:Aspuddens FF vs Vega FC
+DTSTAMP:20250321T223215Z
+DTSTART:20250509T180000Z
+DTEND:20250509T193000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/aspuddens-ff-vega-fc-div-5-herrar/619
+	0697/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:GhRqICgZbDjTmOwzMAneq
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Saltsjö-Boo IF 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250510T083000Z
+DTEND:20250510T100000Z
+DESCRIPTION:P2012- 2D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-saltsjo-boo
+	-if-1-pojkar-2012/6250798/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:C7lNnt0_kczj4A5E7M-B3
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Högalids IF Grön
+DTSTAMP:20250321T223215Z
+DTSTART:20250510T083000Z
+DTEND:20250510T100000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-hogalids-
+	if-gron-pojkar-2013/6267790/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:FOSZCREdo5Xd2ajliv1oH
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Stureby SK
+DTSTAMP:20250321T223215Z
+DTSTART:20250510T100000Z
+DTEND:20250510T113000Z
+DESCRIPTION:P2011- 3H
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-stureby-s
+	k-pojkar-2011/6248585/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:jUVZgCQm_wfyn_OyLj0a0
+SUMMARY:BK Buffalo vs Botkyrka Kuluspor FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250510T120000Z
+DTEND:20250510T133000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/bk-buffalo-botkyrka-kuluspor-ff-div-5
+	-herrar/6190700/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:dSEWMxuBMo5hQjRABjwXR
+SUMMARY:Stockholm StreetSoccer FF vs IK Makkabi
+DTSTAMP:20250321T223215Z
+DTSTART:20250510T140000Z
+DTEND:20250510T153000Z
+DESCRIPTION:Herrar 5 Mellersta
+URL:https://www.stff.se/rs/matchfakta/stockholm-streetsoccer-ff-ik-makkabi-
+	div-5-herrar/6189521/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8Esbq4AMhCVtYkFemw6Aa
+SUMMARY:IFK Aspudden-Tellus Svart 1 vs Boo FF 13
+DTSTAMP:20250321T223215Z
+DTSTART:20250511T083000Z
+DTEND:20250511T100000Z
+DESCRIPTION:P2013- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-1-boo-ff-13
+	-pojkar-2013/6266682/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:sFs4BmuE9-HfaL4TcoVHx
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Stuvsta IF 2:3
+DTSTAMP:20250321T223215Z
+DTSTART:20250511T083000Z
+DTEND:20250511T100000Z
+DESCRIPTION:P2013- 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-stuvsta-if-
+	23-pojkar-2013/6269066/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:vDZFCzpB3zIlqosNsoMVD
+SUMMARY:IFK Aspudden-Tellus 1 vs Segeltorps Idrottsförening Fotboll Mörkblå
+DTSTAMP:20250321T223215Z
+DTSTART:20250511T100000Z
+DTEND:20250511T113000Z
+DESCRIPTION:P2011- 1E
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-segeltorps-idro
+	ttsforening-fotboll-morkbla-pojkar-2011/6246661/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ibfvSYQ-Zj_hamcXLMX51
+SUMMARY:IFK Aspudden-Tellus vs Gustavsbergs IF FK 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250511T120000Z
+DTEND:20250511T133000Z
+DESCRIPTION:F2011- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gustavsbergs-if-f
+	k-1-flickor-2011/6347349/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:tjp1ivTG-mpQQeNtZcA4s
+SUMMARY:IFK Aspudden-Tellus 1 vs Rågsveds IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250511T140000Z
+DTEND:20250511T153000Z
+DESCRIPTION:P2009-kval till P17- B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-ragsveds-if-poj
+	kar-2009-kval-till-p17/6254443/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:DwNTpTBYTOaW3GiAgShWX
+SUMMARY:Kransen United FF vs Preben BoIS
+DTSTAMP:20250321T223215Z
+DTSTART:20250511T160000Z
+DTEND:20250511T173000Z
+DESCRIPTION:Herrar 6 E
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-preben-bois-div-6-h
+	errar/6221025/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:YxaNrdrJl2NoLyfRRu5vN
+SUMMARY:Gröndals IK 1 vs Enskede IK 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250511T180000Z
+DTEND:20250511T193000Z
+DESCRIPTION:P2008- 2C
+URL:https://www.stff.se/rs/matchfakta/grondals-ik-1-enskede-ik-1-pojkar-200
+	8/6242754/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8Xre-Ae2z2s-dTnHKD6yi
+SUMMARY:IFK Aspudden-Tellus vs Enskede FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250516T180000Z
+DTEND:20250516T193000Z
+DESCRIPTION:Herrar 4 Södra
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-enskede-ff-div-4-
+	herrar/6186103/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Dk0oEuJVeiSP2oYOygNjb
+SUMMARY:IFK Aspudden-Tellus Svart 2 vs Spånga IS FK 77
+DTSTAMP:20250321T223215Z
+DTSTART:20250517T083000Z
+DTEND:20250517T100000Z
+DESCRIPTION:P2013- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-2-spanga-is
+	-fk-77-pojkar-2013/6267024/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:jvCVWJ_3ruHy54JDGWfk2
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Stureby SK Vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250517T083000Z
+DTEND:20250517T100000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-stureby-sk-
+	vit-pojkar-2013/6267850/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:HXbToMwiiRUT71KrU-G1C
+SUMMARY:IFK Aspudden-Tellus 4 vs Saltsjöbadens IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250517T100000Z
+DTEND:20250517T113000Z
+DESCRIPTION:P2010- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-saltsjobadens-i
+	f-pojkar-2010/6245895/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f8xeUwDoRmU92W75geDnw
+SUMMARY:IFK Aspudden-Tellus vs Älta IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250517T113000Z
+DTEND:20250517T130000Z
+DESCRIPTION:Damer 3 B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-alta-if-div-3-dam
+	er/6187949/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:dFYA7Cm02rQJEuJWQK7VB
+SUMMARY:IFK Aspudden-Tellus  vs Örby IS
+DTSTAMP:20250321T223215Z
+DTSTART:20250517T140000Z
+DTEND:20250517T153000Z
+DESCRIPTION:P19 Div.1 2025 - Region 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--orby-is-p19-seri
+	er/6191642/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:9YIH7y-XEwRRIBvMJXrLa
+SUMMARY:Ospecificerat lag (6) vs Hammarby IF FF 4
+DTSTAMP:20250321T223215Z
+DTSTART:20250518T000000Z
+DTEND:20250518T013000Z
+DESCRIPTION:F2011- 3B
+URL:https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-hammarby-if-ff-4-
+	flickor-2011/6258392/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:fiK4xPmw0hzAEcloE95G_
+SUMMARY:IFK Aspudden-Tellus Blå 3 vs Skå IK & Bygdegård Gul
+DTSTAMP:20250321T223215Z
+DTSTART:20250518T070000Z
+DTEND:20250518T083000Z
+DESCRIPTION:P2013- 5
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-3-ska-ik--byg
+	degard-gul-pojkar-2013/6269917/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:iyO7zMrcXuxqbzdGpEfrS
+SUMMARY:IFK Aspudden-Tellus 2 vs Hammarby IF FF 14
+DTSTAMP:20250321T223215Z
+DTSTART:20250518T100000Z
+DTEND:20250518T113000Z
+DESCRIPTION:P2009- 1B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-hammarby-if-ff-
+	14-pojkar-2009/6243178/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6nolrXjDCh1ih1oUrvRz5
+SUMMARY:Gröndals IK 1 vs Huddinge IF P17U
+DTSTAMP:20250321T223215Z
+DTSTART:20250518T120000Z
+DTEND:20250518T133000Z
+DESCRIPTION:P2008- 2C
+URL:https://www.stff.se/rs/matchfakta/grondals-ik-1-huddinge-if-p17u-pojkar
+	-2008/6242759/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:215ifACNt3SSn1x8h3oPg
+SUMMARY:IFK Aspudden-Tellus DJ vs Älvsjö AIK FF 2
+DTSTAMP:20250321T223215Z
+DTSTART:20250518T140000Z
+DTEND:20250518T153000Z
+DESCRIPTION:DJ- 2C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dj-alvsjo-aik-ff-
+	2-damjuniorer-0906/6254988/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:wVBRS8zWZmdt03t9tkDl7
+SUMMARY:Kransen United FF vs Sickla IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250518T160000Z
+DTEND:20250518T173000Z
+DESCRIPTION:Damer 4 B
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-sickla-if-div-4-dam
+	er/6220583/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:yeZBbx8ITZnbk93cynL3Q
+SUMMARY:Aspuddens FF vs Atletic Blåsut FC
+DTSTAMP:20250321T223215Z
+DTSTART:20250523T180000Z
+DTEND:20250523T193000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/aspuddens-ff-atletic-blasut-fc-div-5-
+	herrar/6190710/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:G_tuIJxwHD_PymTO8_-9x
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Mörtnäs IF Grön
+DTSTAMP:20250321T223215Z
+DTSTART:20250524T070000Z
+DTEND:20250524T083000Z
+DESCRIPTION:P2012- 2D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-mortnas-if-
+	gron-pojkar-2012/6250810/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:72is2Rc8l7VjOekk-N0DA
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs IF Brommapojkarna 2013-19
+DTSTAMP:20250321T223215Z
+DTSTART:20250524T070000Z
+DTEND:20250524T083000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-if-bromma
+	pojkarna-2013-19-pojkar-2013/6267934/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:BSZv10t8QVxZRYCuxC1uq
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Karlbergs BK 31
+DTSTAMP:20250321T223215Z
+DTSTART:20250524T083000Z
+DTEND:20250524T100000Z
+DESCRIPTION:P2012- 3K
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-karlbergs-b
+	k-31-pojkar-2012/6252527/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:5yjdbxh8WJZ3Dg_i0wheW
+SUMMARY:IFK Aspudden-Tellus Svart 1 vs Arameisk-Syrianska IF - Svart
+DTSTAMP:20250321T223215Z
+DTSTART:20250524T083000Z
+DTEND:20250524T100000Z
+DESCRIPTION:P2013- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-1-arameisk-
+	syrianska-if---svart-pojkar-2013/6266710/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:QQHgKdt6grKBvO6gqeOtc
+SUMMARY:IFK Aspudden-Tellus vs Saltsjöbadens IF Vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250524T101500Z
+DTEND:20250524T114500Z
+DESCRIPTION:F2011- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-saltsjobadens-if-
+	vit-flickor-2011/6347357/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5rmUdXYv-X3ZfWl0ER8Gg
+SUMMARY:BK Buffalo vs Tungelsta IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250524T120000Z
+DTEND:20250524T133000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/bk-buffalo-tungelsta-if-div-5-herrar/
+	6190712/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:BTX5CRXfBwB-0NDXr2Act
+SUMMARY:IFK Aspudden-Tellus vs Ängby IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250524T140000Z
+DTEND:20250524T153000Z
+DESCRIPTION:DJ- 3B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-angby-if-damjunio
+	rer-0906/6255235/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:e98YZnGOsiG1eYq9x1Ngw
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Ösmo GIF FK svart
+DTSTAMP:20250321T223215Z
+DTSTART:20250525T070000Z
+DTEND:20250525T083000Z
+DESCRIPTION:P2012- 3I
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-osmo-gif-fk
+	-svart-pojkar-2012/6252259/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:YFeTOTc_0mt3JMnZHtGdl
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Newroz FC
+DTSTAMP:20250321T223215Z
+DTSTART:20250525T070000Z
+DTEND:20250525T083000Z
+DESCRIPTION:P2013- 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-newroz-fc-p
+	ojkar-2013/6269208/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:J2FcH-OOp03KV7_L3ZXrI
+SUMMARY:IFK Aspudden-Tellus 1 vs Konyaspor Kultur och IF U14 Vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250525T083000Z
+DTEND:20250525T100000Z
+DESCRIPTION:P2011- 1E
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-konyaspor-kultu
+	r-och-if-u14-vit-pojkar-2011/6246672/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:xyODKIc1evoMYuupW5QKJ
+SUMMARY:IFK Aspudden-Tellus 3 vs Djurgårdens IF FF 11 Röd
+DTSTAMP:20250321T223215Z
+DTSTART:20250525T100000Z
+DTEND:20250525T113000Z
+DESCRIPTION:P2010- 3C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-djurgardens-if-
+	ff-11-rod-pojkar-2010/6245416/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:wOUC5UZBsAPPRkIAlsyLH
+SUMMARY:IFK Aspudden-Tellus 1 vs Rönninge Salem Fotboll U 16
+DTSTAMP:20250321T223215Z
+DTSTART:20250525T140000Z
+DTEND:20250525T153000Z
+DESCRIPTION:P2009-kval till P17- B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-ronninge-salem-
+	fotboll-u-16-pojkar-2009-kval-till-p17/6254454/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Wp2lIspm1e9KYZREoGnzR
+SUMMARY:Kransen United FF vs FC Plavi Team
+DTSTAMP:20250321T223215Z
+DTSTART:20250525T160000Z
+DTEND:20250525T173000Z
+DESCRIPTION:Herrar 6 E
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-fc-plavi-team-div-6
+	-herrar/6221036/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:G3rfHUDLJRPVp7RDXwnq_
+SUMMARY:IFK Aspudden-Tellus vs Huddinge IF U Dam
+DTSTAMP:20250321T223215Z
+DTSTART:20250525T180000Z
+DTEND:20250525T193000Z
+DESCRIPTION:SSD 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-huddinge-if-u-dam
+	-stockholmsserien-2-damer/6233436/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:fw0TNecWnqy6zfV7LqlKy
+SUMMARY:IFK Aspudden-Tellus  vs FBK Karlstad 
+DTSTAMP:20250321T223215Z
+DTSTART:20250529T140000Z
+DTEND:20250529T153000Z
+DESCRIPTION:P19 Div.1 2025 - Region 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--fbk-karlstad--p1
+	9-serier/6191607/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:vL0sA8SSGB_M-Mf-Agxu6
+SUMMARY:IFK Aspudden-Tellus vs Bagarmossen Kärrtorp BK
+DTSTAMP:20250321T223215Z
+DTSTART:20250530T180000Z
+DTEND:20250530T193000Z
+DESCRIPTION:Herrar 4 Södra
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bagarmossen-karrt
+	orp-bk-div-4-herrar/6186082/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4Ra9uVtitD0JfgJRXzaeh
+SUMMARY:Ospecificerat lag (6) vs Norsborg FC 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250531T000000Z
+DTEND:20250531T013000Z
+DESCRIPTION:F2011- 3B
+URL:https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-norsborg-fc-1-fli
+	ckor-2011/6258403/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:jzHZ6Tzh4vcUGKUSo4U44
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Arameisk-Syrianska IF 1 Gul
+DTSTAMP:20250321T223215Z
+DTSTART:20250531T070000Z
+DTEND:20250531T083000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-arameisk-sy
+	rianska-if-1-gul-pojkar-2013/6268092/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:NFOrkp6VtZfTaPOS0Qad4
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Årsta FF 2
+DTSTAMP:20250321T223215Z
+DTSTART:20250531T083000Z
+DTEND:20250531T100000Z
+DESCRIPTION:P2012- 3K
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-arsta-ff-2-
+	pojkar-2012/6252531/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:81BR53JWU8fJdMHR6U7K0
+SUMMARY:IFK Aspudden-Tellus 1 vs Årsta FF 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250531T101500Z
+DTEND:20250531T114500Z
+DESCRIPTION:P2010- 1C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-arsta-ff-1-pojk
+	ar-2010/6347957/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:fa3fl_64czS74UJV9C-IH
+SUMMARY:IFK Aspudden-Tellus vs Älvsjö AIK DFF
+DTSTAMP:20250321T223215Z
+DTSTART:20250531T120000Z
+DTEND:20250531T133000Z
+DESCRIPTION:Damer 3 B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-alvsjo-aik-dff-di
+	v-3-damer/6187931/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:QU0LI8E3rnShzEqSAC9J_
+SUMMARY:IFK Aspudden-Tellus 1 vs Örby IS
+DTSTAMP:20250321T223215Z
+DTSTART:20250531T140000Z
+DTEND:20250531T153000Z
+DESCRIPTION:P2009-kval till P17- B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-orby-is-pojkar-
+	2009-kval-till-p17/6254458/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Ov4bn7o__LEK3lkP8hiEH
+SUMMARY:IFK Aspudden-Tellus Svart 2 vs Hammarby IF FF 21 grön
+DTSTAMP:20250321T223215Z
+DTSTART:20250601T070000Z
+DTEND:20250601T083000Z
+DESCRIPTION:P2013- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-2-hammarby-
+	if-ff-21-gron-pojkar-2013/6267100/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:eW_rYuRcKqUa6XEMeZHLq
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Segeltorps Idrottsförening Fotboll O
+	range
+DTSTAMP:20250321T223215Z
+DTSTART:20250601T083000Z
+DTEND:20250601T100000Z
+DESCRIPTION:P2011- 3H
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-segeltorp
+	s-idrottsforening-fotboll-orange-pojkar-2011/6248602/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:eCwF6RRPpy_X0L0RH24vX
+SUMMARY:IFK Aspudden-Tellus 4 vs Norrtulls SK 4
+DTSTAMP:20250321T223215Z
+DTSTART:20250601T100000Z
+DTEND:20250601T113000Z
+DESCRIPTION:P2010- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-norrtulls-sk-4-
+	pojkar-2010/6245907/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4aQZ6Lvl_icYe9Luy8tdt
+SUMMARY:IFK Aspudden-Tellus  vs Karlslunds IF FK
+DTSTAMP:20250321T223215Z
+DTSTART:20250601T120000Z
+DTEND:20250601T133000Z
+DESCRIPTION:P19 Div.1 2025 - Region 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--karlslunds-if-fk
+	-p19-serier/6191660/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:bjYne5gDbTjhJuvPKxKRL
+SUMMARY:Gröndals IK 1 vs Hammarby TFF Herrfotboll 3
+DTSTAMP:20250321T223215Z
+DTSTART:20250601T140000Z
+DTEND:20250601T153000Z
+DESCRIPTION:P2008- 2C
+URL:https://www.stff.se/rs/matchfakta/grondals-ik-1-hammarby-tff-herrfotbol
+	l-3-pojkar-2008/6242769/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:gTmuDOQmqTFarNGjKTirK
+SUMMARY:Kransen United FF vs Ösmo GIF FK
+DTSTAMP:20250321T223215Z
+DTSTART:20250601T160000Z
+DTEND:20250601T173000Z
+DESCRIPTION:Damer 4 B
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-osmo-gif-fk-div-4-d
+	amer/6220593/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:yqU7ZZWtJgjtaZoPcVayV
+SUMMARY:IFK Aspudden-Tellus 1 vs Hammarby IF FF 9 grön
+DTSTAMP:20250321T223215Z
+DTSTART:20250606T120000Z
+DTEND:20250606T133000Z
+DESCRIPTION:P2011- 1E
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-hammarby-if-ff-
+	9-gron-pojkar-2011/6246683/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:-1stJh3vjK2IPNoAo4qZ0
+SUMMARY:IFK Aspudden-Tellus vs Älta IF 3
+DTSTAMP:20250321T223215Z
+DTSTART:20250606T140000Z
+DTEND:20250606T153000Z
+DESCRIPTION:F2011- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-alta-if-3-flickor
+	-2011/6347365/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Pkbn5e-7w-R_a98Y7x6U8
+SUMMARY:Kransen United FF vs Westermalms IF FK
+DTSTAMP:20250321T223215Z
+DTSTART:20250606T180000Z
+DTEND:20250606T193000Z
+DESCRIPTION:Herrar 6 E
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-westermalms-if-fk-d
+	iv-6-herrar/6221047/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ogucrNmhPAUnrlZxjo8S5
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Hammarby IF FF 26 vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250607T070000Z
+DTEND:20250607T083000Z
+DESCRIPTION:P2012- 2D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-hammarby-if
+	-ff-26-vit-pojkar-2012/6250822/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:cl3gnU9nWSMHgqBFk1EO6
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Segeltorps Idrottsförening Fotboll V
+	it
+DTSTAMP:20250321T223215Z
+DTSTART:20250607T070000Z
+DTEND:20250607T083000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-segeltorp
+	s-idrottsforening-fotboll-vit-pojkar-2013/6268187/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:_PEYQUDHYqgidYrlzdYPD
+SUMMARY:IFK Aspudden-Tellus 4 vs Boo FF 5
+DTSTAMP:20250321T223215Z
+DTSTART:20250607T083000Z
+DTEND:20250607T100000Z
+DESCRIPTION:P2011- 4D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-boo-ff-5-pojkar
+	-2011/6249269/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:bulO_4T1PbmKe08HzvO8m
+SUMMARY:Aspuddens FF vs Sörskogens IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250607T120000Z
+DTEND:20250607T133000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/aspuddens-ff-sorskogens-if-div-5-herr
+	ar/6190723/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:dfSm98OY4DKQoGkQPpe3U
+SUMMARY:BK Buffalo vs Mälarhöjden-Hägersten FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250607T140000Z
+DTEND:20250607T153000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/bk-buffalo-malarhojden-hagersten-ff-d
+	iv-5-herrar/6190724/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:GDNgCGZLqZ76q0cc_OSuV
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Tyresö FF 2
+DTSTAMP:20250321T223215Z
+DTSTART:20250608T070000Z
+DTEND:20250608T083000Z
+DESCRIPTION:P2012- 3I
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-tyreso-ff-2
+	-pojkar-2012/6252272/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:jUOG-5pBxQDfW3Zcm2vxG
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Hässelby SK FF P13 Röd
+DTSTAMP:20250321T223215Z
+DTSTART:20250608T070000Z
+DTEND:20250608T083000Z
+DESCRIPTION:P2013- 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-hasselby-sk
+	-ff-p13-rod-pojkar-2013/6269375/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:Qz1_8dvHqu9vK-8lVo24s
+SUMMARY:IFK Aspudden-Tellus 3 vs Mälarhöjden-Hägersten FF 3
+DTSTAMP:20250321T223215Z
+DTSTART:20250608T083000Z
+DTEND:20250608T100000Z
+DESCRIPTION:P2010- 3C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-malarhojden-hag
+	ersten-ff-3-pojkar-2010/6245429/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:PIUlvWfX3XutoBLxcYBMc
+SUMMARY:IFK Aspudden-Tellus 2 vs IF Brommapojkarna 09-6
+DTSTAMP:20250321T223215Z
+DTSTART:20250608T100000Z
+DTEND:20250608T113000Z
+DESCRIPTION:P2009- 1B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-if-brommapojkar
+	na-09-6-pojkar-2009/6243194/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:l1X_YzLhLmEOy_JLDqbxn
+SUMMARY:IFK Aspudden-Tellus DJ vs Enskede IK 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250608T120000Z
+DTEND:20250608T133000Z
+DESCRIPTION:DJ- 2C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dj-enskede-ik-1-d
+	amjuniorer-0906/6255001/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:F1rh_hCgRi876MBWgXhk8
+SUMMARY:IFK Aspudden-Tellus vs IF Brommapojkarna 09-4
+DTSTAMP:20250321T223215Z
+DTSTART:20250608T140000Z
+DTEND:20250608T153000Z
+DESCRIPTION:DJ- 3B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-if-brommapojkarna
+	-09-4-damjuniorer-0906/6255248/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:NfeajdBDaX45Vj7RtHNxi
+SUMMARY:IFK Aspudden-Tellus vs Norrtulls SK
+DTSTAMP:20250321T223215Z
+DTSTART:20250608T160000Z
+DTEND:20250608T173000Z
+DESCRIPTION:SSH 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-norrtulls-sk-stoc
+	kholmsserien-3-herrar/6233585/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ub0oZ13bdPS3hRSnb0Cr4
+SUMMARY:IFK Aspudden-Tellus vs Ursvik IK
+DTSTAMP:20250321T223215Z
+DTSTART:20250608T180000Z
+DTEND:20250608T193000Z
+DESCRIPTION:Herrar Vet B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-ursvik-ik-veteran
+	/6234386/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6D9pqtt7qu4qNRNRb3W_f
+SUMMARY:Aspuddens FF vs BK Buffalo
+DTSTAMP:20250321T223215Z
+DTSTART:20250613T180000Z
+DTEND:20250613T193000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/aspuddens-ff-bk-buffalo-div-5-herrar/
+	6190726/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:WcaVYnxnPxuhfhrWyt0ip
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Mälarhöjden-Hägersten FF Gul
+DTSTAMP:20250321T223215Z
+DTSTART:20250614T083000Z
+DTEND:20250614T100000Z
+DESCRIPTION:P2012- 3K
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-malarhojden
+	-hagersten-ff-gul-pojkar-2012/6252543/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:ryycVuOU7165HH76Tn4nC
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs IFK Tumba FK 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250614T101500Z
+DTEND:20250614T114500Z
+DESCRIPTION:P2011- 3H
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-ifk-tumba
+	-fk-1-pojkar-2011/6248614/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lGRwoZgs_0LuzxC3DGriz
+SUMMARY:IFK Aspudden-Tellus vs Hangvar SK
+DTSTAMP:20250321T223215Z
+DTSTART:20250614T120000Z
+DTEND:20250614T133000Z
+DESCRIPTION:Damer 3 B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-hangvar-sk-div-3-
+	damer/6187913/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:cZbEy45MZ_6fReeC68Dwa
+SUMMARY:IFK Aspudden-Tellus vs Skå IK & Bygdegård
+DTSTAMP:20250321T223215Z
+DTSTART:20250614T140000Z
+DTEND:20250614T153000Z
+DESCRIPTION:DJ- 3B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-ska-ik--bygdegard
+	-damjuniorer-0906/6255251/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:zVTfa2Ccq2gOtB-xJbcHM
+SUMMARY:Ospecificerat lag (6) vs IFK Stockholm FK 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250615T000000Z
+DTEND:20250615T013000Z
+DESCRIPTION:F2011- 3B
+URL:https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-ifk-stockholm-fk-
+	1-flickor-2011/6258414/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cy7bGAG5Bg1XcyRMZtmCW
+SUMMARY:IFK Aspudden-Tellus 4 vs Sköndals IK FK 3
+DTSTAMP:20250321T223215Z
+DTSTART:20250615T083000Z
+DTEND:20250615T100000Z
+DESCRIPTION:P2011- 4D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-skondals-ik-fk-
+	3-pojkar-2011/6249272/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:-td-etRG6SmrSg1J_fLHL
+SUMMARY:IFK Aspudden-Tellus  vs Athletic FC Eskilstuna
+DTSTAMP:20250321T223215Z
+DTSTART:20250615T120000Z
+DTEND:20250615T133000Z
+DESCRIPTION:P19 Div.1 2025 - Region 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--athletic-fc-eski
+	lstuna-p19-serier/6191674/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:0nKA-cusqRZp3n4p1EWe1
+SUMMARY:IFK Aspudden-Tellus 1 vs Ösmo GIF FK 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250615T140000Z
+DTEND:20250615T153000Z
+DESCRIPTION:P2009-kval till P17- B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-osmo-gif-fk-1-p
+	ojkar-2009-kval-till-p17/6254468/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:eF4XXqrZdF2icI42GckDr
+SUMMARY:Kransen United FF vs IFK Haninge
+DTSTAMP:20250321T223215Z
+DTSTART:20250615T160000Z
+DTEND:20250615T173000Z
+DESCRIPTION:Damer 4 B
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-ifk-haninge-div-4-d
+	amer/6220603/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:r8qzztAirwToW9KfopeHn
+SUMMARY:Gröndals IK 1 vs Djurgårdens IF FF 7
+DTSTAMP:20250321T223215Z
+DTSTART:20250615T180000Z
+DTEND:20250615T193000Z
+DESCRIPTION:P2008- 2C
+URL:https://www.stff.se/rs/matchfakta/grondals-ik-1-djurgardens-if-ff-7-poj
+	kar-2008/6242779/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4jfMmle0I-ESEgC9ckxHp
+SUMMARY:IFK Aspudden-Tellus vs IFK Stockholm FK
+DTSTAMP:20250321T223215Z
+DTSTART:20250622T160000Z
+DTEND:20250622T173000Z
+DESCRIPTION:Herrar 4 Södra
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-ifk-stockholm-fk-
+	div-4-herrar/6186059/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:bYNd2lg5AVSvxknMLCz9K
+SUMMARY:IFK Aspudden-Tellus  vs Nyköpings BIS
+DTSTAMP:20250321T223215Z
+DTSTART:20250629T140000Z
+DTEND:20250629T153000Z
+DESCRIPTION:P19 Div.1 2025 - Region 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--nykopings-bis-p1
+	9-serier/6191688/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:KpVy2XK_drfwVCDRZAhiH
+SUMMARY:BK Buffalo vs Aspuddens FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250802T113000Z
+DTEND:20250802T130000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/bk-buffalo-aspuddens-ff-div-5-herrar/
+	6190736/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7itn_tQOZjNCojku8W5U_
+SUMMARY:IFK Aspudden-Tellus vs Norsborg FC
+DTSTAMP:20250321T223215Z
+DTSTART:20250808T180000Z
+DTEND:20250808T193000Z
+DESCRIPTION:Herrar 4 Södra
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-norsborg-fc-div-4
+	-herrar/6186187/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:uEDQarOu4xfy6Y6eB5UhY
+SUMMARY:IFK Aspudden-Tellus 2 vs Enskede IK Svart
+DTSTAMP:20250321T223215Z
+DTSTART:20250809T120000Z
+DTEND:20250809T133000Z
+DESCRIPTION:P2009- 1B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-enskede-ik-svar
+	t-pojkar-2009/6243207/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:QAw4TVQM9LHuNDFsNRS-y
+SUMMARY:IFK Aspudden-Tellus vs Bagarmossen Kärrtorp BK
+DTSTAMP:20250321T223215Z
+DTSTART:20250809T140000Z
+DTEND:20250809T153000Z
+DESCRIPTION:F2011- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bagarmossen-karrt
+	orp-bk-flickor-2011/6347373/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:axP1RamCd-q40Cdqp2NUD
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Sickla IF 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250810T100000Z
+DTEND:20250810T113000Z
+DESCRIPTION:P2012- 2D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-sickla-if-1
+	-pojkar-2012/6250834/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:uvHfsVQ64DYAoRIFbgo1_
+SUMMARY:IFK Aspudden-Tellus 4 vs Djurö-Vindö IF 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250810T120000Z
+DTEND:20250810T133000Z
+DESCRIPTION:P2010- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-djuro-vindo-if-
+	1-pojkar-2010/6245924/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:0yFoTZgfkUggeTgBTimvD
+SUMMARY:IFK Aspudden-Tellus 3 vs Norrtulls SK 3
+DTSTAMP:20250321T223215Z
+DTSTART:20250810T140000Z
+DTEND:20250810T153000Z
+DESCRIPTION:P2010- 3C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-norrtulls-sk-3-
+	pojkar-2010/6245442/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:zOXDYlKNtMbBNsLMYtowJ
+SUMMARY:Kransen United FF vs Råsunda FC
+DTSTAMP:20250321T223215Z
+DTSTART:20250810T160000Z
+DTEND:20250810T173000Z
+DESCRIPTION:Herrar 6 E
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-rasunda-fc-div-6-he
+	rrar/6221058/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:QWibjAA475UL-Xr-3BRJd
+SUMMARY:BK Buffalo vs Sörskogens IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250813T180000Z
+DTEND:20250813T193000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/bk-buffalo-sorskogens-if-div-5-herrar
+	/6190748/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:uDlYhgU6rM0dBivye0vKO
+SUMMARY:Kransen United FF vs Rönninge Salem Fotboll 
+DTSTAMP:20250321T223215Z
+DTSTART:20250815T180000Z
+DTEND:20250815T193000Z
+DESCRIPTION:Damer 4 B
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-ronninge-salem-fotb
+	oll--div-4-damer/6220613/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:T_j44fuhIr43ErkkvsShJ
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs IFK Stockholm FK 2
+DTSTAMP:20250321T223215Z
+DTSTART:20250816T083000Z
+DTEND:20250816T100000Z
+DESCRIPTION:P2012- 3K
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-ifk-stockho
+	lm-fk-2-pojkar-2012/6252555/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:Vr5SsluwSfwOEcOLpgEJk
+SUMMARY:IFK Aspudden-Tellus vs Bagarmossen Kärrtorp BK
+DTSTAMP:20250321T223215Z
+DTSTART:20250816T120000Z
+DTEND:20250816T133000Z
+DESCRIPTION:Damer 3 B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bagarmossen-karrt
+	orp-bk-div-3-damer/6187914/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:hBMYlmFdRvLqIZ_ivVN7k
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Örby IS
+DTSTAMP:20250321T223215Z
+DTSTART:20250817T100000Z
+DTEND:20250817T113000Z
+DESCRIPTION:P2011- 3H
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-orby-is-p
+	ojkar-2011/6248626/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:s_4eOLyMzkKHsA_JhhGYY
+SUMMARY:IFK Aspudden-Tellus 1 vs Rågsveds IF Grön
+DTSTAMP:20250321T223215Z
+DTSTART:20250817T120000Z
+DTEND:20250817T133000Z
+DESCRIPTION:P2011- 1E
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-ragsveds-if-gro
+	n-pojkar-2011/6246694/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:xnw1j3G2L4MoDWbzmhY6i
+SUMMARY:IFK Aspudden-Tellus vs Norrtulls SK B
+DTSTAMP:20250321T223215Z
+DTSTART:20250817T160000Z
+DTEND:20250817T173000Z
+DESCRIPTION:SSD 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-norrtulls-sk-b-st
+	ockholmsserien-2-damer/6233447/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:o-LiYFlTxOWTE5OAAZbAl
+SUMMARY:IFK Aspudden-Tellus vs Långholmen FC
+DTSTAMP:20250321T223215Z
+DTSTART:20250817T180000Z
+DTEND:20250817T193000Z
+DESCRIPTION:Herrar Vet B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-langholmen-fc-vet
+	eran/6234396/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:RVUTzou3cK0HVacDfxjzT
+SUMMARY:IFK Aspudden-Tellus vs Ospecificerat
+DTSTAMP:20250321T223215Z
+DTSTART:20250818T000000Z
+DTEND:20250818T013000Z
+DESCRIPTION:SSH 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-ospecificerat-sto
+	ckholmsserien-3-herrar/6233598/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Nr8KCcrFa2phFR5rnEQXx
+SUMMARY:IFK Aspudden-Tellus vs Älvsjö AIK FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250820T180000Z
+DTEND:20250820T193000Z
+DESCRIPTION:Herrar 4 Södra
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-alvsjo-aik-ff-div
+	-4-herrar/6186101/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:nFUXSrUFU4in--H9k76iU
+SUMMARY:Aspuddens FF vs FC Tyresö United
+DTSTAMP:20250321T223215Z
+DTSTART:20250822T180000Z
+DTEND:20250822T193000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/aspuddens-ff-fc-tyreso-united-div-5-h
+	errar/6190758/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:hupok2LMwK8dl6TSyOcBV
+SUMMARY:IFK Aspudden-Tellus Svart 2 vs Boo FF 2 2
+DTSTAMP:20250321T223215Z
+DTSTART:20250823T070000Z
+DTEND:20250823T083000Z
+DESCRIPTION:P2013- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-2-boo-ff-2-
+	2-pojkar-2013/6267212/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:_rn_EV24lm3ABaEHZak4L
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Stuvsta IF 1:2
+DTSTAMP:20250321T223215Z
+DTSTART:20250823T070000Z
+DTEND:20250823T083000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-stuvsta-if-
+	12-pojkar-2013/6268274/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:jsbKn6SVnZG85gTT4LoM4
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Nacka FC Future2
+DTSTAMP:20250321T223215Z
+DTSTART:20250823T083000Z
+DTEND:20250823T100000Z
+DESCRIPTION:P2012- 2D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-nacka-fc-fu
+	ture2-pojkar-2012/6250846/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:BWRjXQraJWDshdxu0F8jr
+SUMMARY:IFK Aspudden-Tellus 4 vs Bagarmossen Kärrtorp BK 3
+DTSTAMP:20250321T223215Z
+DTSTART:20250823T100000Z
+DTEND:20250823T113000Z
+DESCRIPTION:P2011- 4D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-bagarmossen-kar
+	rtorp-bk-3-pojkar-2011/6249293/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:BW8amUqYEbPnS_oeR-Zc6
+SUMMARY:BK Buffalo vs KIF Söderort
+DTSTAMP:20250321T223215Z
+DTSTART:20250823T113000Z
+DTEND:20250823T130000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/bk-buffalo-kif-soderort-div-5-herrar/
+	6190760/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Q5UsEOtDVYt4RUM4FU0WL
+SUMMARY:IFK Aspudden-Tellus  vs Boo FF 
+DTSTAMP:20250321T223215Z
+DTSTART:20250823T140000Z
+DTEND:20250823T153000Z
+DESCRIPTION:P19 Div.1 2025 - Region 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--boo-ff--p19-seri
+	er/6191770/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:T4789izB9YTiBweuzy9iv
+SUMMARY:IFK Aspudden-Tellus Svart 1 vs Hammarby IF FF 24 grön
+DTSTAMP:20250321T223215Z
+DTSTART:20250824T070000Z
+DTEND:20250824T083000Z
+DESCRIPTION:P2013- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-1-hammarby-
+	if-ff-24-gron-pojkar-2013/6266752/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:vIQ96ye2bAhrl245Ux2MY
+SUMMARY:IFK Aspudden-Tellus Blå 3 vs Täby FK 52
+DTSTAMP:20250321T223215Z
+DTSTART:20250824T070000Z
+DTEND:20250824T083000Z
+DESCRIPTION:P2013- 5
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-3-taby-fk-52-
+	pojkar-2013/6269952/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:CU9hq7xIX710fxnusKAhF
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs FoC Farsta FF Röd 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250824T083000Z
+DTEND:20250824T100000Z
+DESCRIPTION:P2012- 3I
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-foc-farsta-
+	ff-rod-1-pojkar-2012/6252296/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:hEQaCgOAaFpPiE2NLC2c0
+SUMMARY:IFK Aspudden-Tellus 3 vs Örby IS
+DTSTAMP:20250321T223215Z
+DTSTART:20250824T100000Z
+DTEND:20250824T113000Z
+DESCRIPTION:P2010- 3C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-orby-is-pojkar-
+	2010/6245453/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:r_VLaOCgVZVvfB7bdf_nB
+SUMMARY:IFK Aspudden-Tellus 2 vs Djurgårdens IF FF 4 Gul
+DTSTAMP:20250321T223215Z
+DTSTART:20250824T120000Z
+DTEND:20250824T133000Z
+DESCRIPTION:P2009- 1B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-djurgardens-if-
+	ff-4-gul-pojkar-2009/6243218/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4Kku_wSnCz-4v2gpR6sZK
+SUMMARY:IFK Aspudden-Tellus vs Värtans IK
+DTSTAMP:20250321T223215Z
+DTSTART:20250824T140000Z
+DTEND:20250824T153000Z
+DESCRIPTION:DJ- 3B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vartans-ik-damjun
+	iorer-0906/6255272/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1ehxAXnB8yFYpx_IM2Myt
+SUMMARY:Kransen United FF vs Tudor Arms FC
+DTSTAMP:20250321T223215Z
+DTSTART:20250824T160000Z
+DTEND:20250824T173000Z
+DESCRIPTION:Herrar 6 E
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-tudor-arms-fc-div-6
+	-herrar/6221067/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:rGkCjj0dMUOQ5gYsSKXLg
+SUMMARY:IFK Aspudden-Tellus vs Stureby SK
+DTSTAMP:20250321T223215Z
+DTSTART:20250824T180000Z
+DTEND:20250824T193000Z
+DESCRIPTION:Herrar Vet B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-stureby-sk-vetera
+	n/6234316/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:mbQMbuxFbYnEaHDks1FRX
+SUMMARY:IFK Aspudden-Tellus vs Tyresö FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250829T180000Z
+DTEND:20250829T193000Z
+DESCRIPTION:Herrar 4 Södra
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-tyreso-ff-div-4-h
+	errar/6186124/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:uIZVoAsfZ95KMpES6-hq-
+SUMMARY:IFK Aspudden-Tellus Svart 2 vs Essinge IK Svart
+DTSTAMP:20250321T223215Z
+DTSTART:20250830T083000Z
+DTEND:20250830T100000Z
+DESCRIPTION:P2013- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-2-essinge-i
+	k-svart-pojkar-2013/6267268/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:LiFaZ9mtf1RnNYW1OJbCS
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Hammarby IF FF 28 grön
+DTSTAMP:20250321T223215Z
+DTSTART:20250830T083000Z
+DTEND:20250830T100000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-hammarby-
+	if-ff-28-gron-pojkar-2013/6268405/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:_8NrlP6Nk-TfJQO2e4SKa
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Huddinge IF P11-2 div3
+DTSTAMP:20250321T223215Z
+DTSTART:20250830T100000Z
+DTEND:20250830T113000Z
+DESCRIPTION:P2011- 3H
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-huddinge-
+	if-p11-2-div3-pojkar-2011/6248638/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:xBaovlx3TK4BorZ8V_BRc
+SUMMARY:IFK Aspudden-Tellus vs Norrtulls SK
+DTSTAMP:20250321T223215Z
+DTSTART:20250830T120000Z
+DTEND:20250830T133000Z
+DESCRIPTION:Damer 3 B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-norrtulls-sk-div-
+	3-damer/6187932/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:kOXSXXvsah5fV2RmtUDUR
+SUMMARY:Ospecificerat lag (6) vs Järla IF FK Röd
+DTSTAMP:20250321T223215Z
+DTSTART:20250831T000000Z
+DTEND:20250831T013000Z
+DESCRIPTION:F2011- 3B
+URL:https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-jarla-if-fk-rod-f
+	lickor-2011/6258516/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5m3xUi34SukAJcBFty8MT
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Gröndals IK Vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250831T083000Z
+DTEND:20250831T100000Z
+DESCRIPTION:P2013- 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-grondals-ik
+	-vit-pojkar-2013/6269490/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:Z6za4FZamOKOrJbBboXyi
+SUMMARY:IFK Aspudden-Tellus 1 vs Tullinge Triangel Pojkar FK Blå
+DTSTAMP:20250321T223215Z
+DTSTART:20250831T100000Z
+DTEND:20250831T113000Z
+DESCRIPTION:P2011- 1E
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-tullinge-triang
+	el-pojkar-fk-bla-pojkar-2011/6246703/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:aTM0_IFEeHy3-oMyqfinQ
+SUMMARY:IFK Aspudden-Tellus vs Reymersholms IK 2
+DTSTAMP:20250321T223215Z
+DTSTART:20250831T120000Z
+DTEND:20250831T133000Z
+DESCRIPTION:F2011- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-reymersholms-ik-2
+	-flickor-2011/6347384/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:tOYGMm1zbTeVz74AbENnP
+SUMMARY:IFK Aspudden-Tellus 4 vs Ängby IF P10 Mix
+DTSTAMP:20250321T223215Z
+DTSTART:20250831T140000Z
+DTEND:20250831T153000Z
+DESCRIPTION:P2010- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-angby-if-p10-mi
+	x-pojkar-2010/6245943/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:q2BMyNtEt_PiS91jUQQ_C
+SUMMARY:Kransen United FF vs Örby IS
+DTSTAMP:20250321T223215Z
+DTSTART:20250831T160000Z
+DTEND:20250831T173000Z
+DESCRIPTION:Damer 4 B
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-orby-is-div-4-damer
+	/6220623/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:u2Fobz9qDAfD-21HYT1I9
+SUMMARY:Aspuddens FF vs Mälarhöjden-Hägersten FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250905T180000Z
+DTEND:20250905T193000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/aspuddens-ff-malarhojden-hagersten-ff
+	-div-5-herrar/6190769/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:pAyvKA2HdlF7IcCv69qWc
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Hammarby IF FF 17 vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250906T070000Z
+DTEND:20250906T083000Z
+DESCRIPTION:P2012- 3I
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-hammarby-if
+	-ff-17-vit-pojkar-2012/6252307/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:7HSXDD-UleQ7f4Nxz1n7k
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Reymersholms IK 10
+DTSTAMP:20250321T223215Z
+DTSTART:20250906T070000Z
+DTEND:20250906T083000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-reymersholm
+	s-ik-10-pojkar-2013/6268455/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:N6m7wwRSxYr01uC7Fda74
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Djurgårdens IF FF 3
+DTSTAMP:20250321T223215Z
+DTSTART:20250906T083000Z
+DTEND:20250906T100000Z
+DESCRIPTION:P2012- 2D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-djurgardens
+	-if-ff-3-pojkar-2012/6250858/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:axR8CJRaW1WTmkMVzTdy7
+SUMMARY:IFK Aspudden-Tellus Svart 1 vs Ingarö IF Svart
+DTSTAMP:20250321T223215Z
+DTSTART:20250906T083000Z
+DTEND:20250906T100000Z
+DESCRIPTION:P2013- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-1-ingaro-if
+	-svart-pojkar-2013/6266779/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:3Tcl8O_5cerf1EFVA60G5
+SUMMARY:IFK Aspudden-Tellus 3 vs Nockebyhovs IF NFK
+DTSTAMP:20250321T223215Z
+DTSTART:20250906T100000Z
+DTEND:20250906T113000Z
+DESCRIPTION:P2010- 3C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-nockebyhovs-if-
+	nfk-pojkar-2010/6245464/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:fRfBS9ZempgeAjYSsybpD
+SUMMARY:BK Buffalo vs Atletic Blåsut FC
+DTSTAMP:20250321T223215Z
+DTSTART:20250906T113000Z
+DTEND:20250906T130000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/bk-buffalo-atletic-blasut-fc-div-5-he
+	rrar/6190772/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:L2jnPU0jgzflvRMwOAKNA
+SUMMARY:IFK Aspudden-Tellus  vs Vendelsö IK 
+DTSTAMP:20250321T223215Z
+DTSTART:20250906T140000Z
+DTEND:20250906T153000Z
+DESCRIPTION:P19 Div.1 2025 - Region 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--vendelso-ik--p19
+	-serier/6191724/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ZCZ9aOdKUd03ux17wixKs
+SUMMARY:IFK Aspudden-Tellus 4 vs Ospecificerat lag (11)
+DTSTAMP:20250321T223215Z
+DTSTART:20250907T000000Z
+DTEND:20250907T013000Z
+DESCRIPTION:P2011- 4D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-ospecificerat-l
+	ag-11-pojkar-2011/6249304/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:YD6EW1F5H-Q8u5WKQenZR
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Gröndals IK Blå
+DTSTAMP:20250321T223215Z
+DTSTART:20250907T070000Z
+DTEND:20250907T083000Z
+DESCRIPTION:P2012- 3K
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-grondals-ik
+	-bla-pojkar-2012/6252575/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:x04_h_KP95uNXRHTD84Gj
+SUMMARY:IFK Aspudden-Tellus Blå 3 vs Vendelsö IK Grön
+DTSTAMP:20250321T223215Z
+DTSTART:20250907T070000Z
+DTEND:20250907T083000Z
+DESCRIPTION:P2013- 5
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-3-vendelso-ik
+	-gron-pojkar-2013/6269975/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:BNCnGG2OsR9zIsq6FTz0b
+SUMMARY:Gröndals IK 1 vs Älta IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250907T100000Z
+DTEND:20250907T113000Z
+DESCRIPTION:P2008- 2C
+URL:https://www.stff.se/rs/matchfakta/grondals-ik-1-alta-if-pojkar-2008/624
+	2800/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:TYMnvICi0HFTnl08QOxgH
+SUMMARY:IFK Aspudden-Tellus vs Reymersholms IK DJ-U
+DTSTAMP:20250321T223215Z
+DTSTART:20250907T120000Z
+DTEND:20250907T133000Z
+DESCRIPTION:DJ- 3B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-reymersholms-ik-d
+	j-u-damjuniorer-0906/6255283/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:PqRrNzqmyLpaXGb1o4H-_
+SUMMARY:IFK Aspudden-Tellus DJ vs Årsta FF 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250907T140000Z
+DTEND:20250907T153000Z
+DESCRIPTION:DJ- 2C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dj-arsta-ff-1-dam
+	juniorer-0906/6255028/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:uMEZXd98lMyrjcsio2Q6c
+SUMMARY:Kransen United FF vs IF Lokomotiv Blackeberg
+DTSTAMP:20250321T223215Z
+DTSTART:20250907T160000Z
+DTEND:20250907T173000Z
+DESCRIPTION:Herrar 6 E
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-if-lokomotiv-blacke
+	berg-div-6-herrar/6221076/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Xnh-pQge3_J4rNz6k1sn-
+SUMMARY:IFK Aspudden-Tellus vs Segeltorps IF Fotboll
+DTSTAMP:20250321T223215Z
+DTSTART:20250907T180000Z
+DTEND:20250907T193000Z
+DESCRIPTION:SSD 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-segeltorps-if-fot
+	boll-stockholmsserien-2-damer/6233458/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:vo8vChiv519nTB8PZ2ew8
+SUMMARY:IFK Aspudden-Tellus vs Skogås-Trångsunds FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250912T180000Z
+DTEND:20250912T193000Z
+DESCRIPTION:Herrar 4 Södra
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-skogas-trangsunds
+	-ff-div-4-herrar/6186146/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:h-760F088vWUIht9ouma5
+SUMMARY:IFK Aspudden-Tellus Svart 2 vs Huddinge IF 2013:1S
+DTSTAMP:20250321T223215Z
+DTSTART:20250913T083000Z
+DTEND:20250913T100000Z
+DESCRIPTION:P2013- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-2-huddinge-
+	if-20131s-pojkar-2013/6267337/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:PZPH3F15WlFWdiRIko67Z
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Solberga BK 2
+DTSTAMP:20250321T223215Z
+DTSTART:20250913T083000Z
+DTEND:20250913T100000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-solberga-
+	bk-2-pojkar-2013/6268549/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:n-R1tioU4mkTCpiclG8lQ
+SUMMARY:IFK Aspudden-Tellus vs Ingarö IF
+DTSTAMP:20250321T223215Z
+DTSTART:20250913T120000Z
+DTEND:20250913T133000Z
+DESCRIPTION:Damer 3 B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-ingaro-if-div-3-d
+	amer/6187950/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:lkdy3jLeJs1HG8_zMKfHM
+SUMMARY:IFK Aspudden-Tellus 2 vs Reymersholms IK 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250913T140000Z
+DTEND:20250913T153000Z
+DESCRIPTION:P2009- 1B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-reymersholms-ik
+	-1-pojkar-2009/6243238/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:0-F_tQdB2FsojNxWgUGIV
+SUMMARY:Ospecificerat lag (6) vs Boo FF F11:3 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250914T000000Z
+DTEND:20250914T013000Z
+DESCRIPTION:F2011- 3B
+URL:https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-boo-ff-f113-1-fli
+	ckor-2011/6258527/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Hx7efD80dCYutyOArwsLu
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Nockebyhovs IF 2
+DTSTAMP:20250321T223215Z
+DTSTART:20250914T083000Z
+DTEND:20250914T100000Z
+DESCRIPTION:P2013- 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-nockebyhovs
+	-if-2-pojkar-2013/6269671/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:WggffyLRfiD4k99my6ZAE
+SUMMARY:IFK Aspudden-Tellus 1 vs IF Brommapojkarna 11-20
+DTSTAMP:20250321T223215Z
+DTSTART:20250914T100000Z
+DTEND:20250914T113000Z
+DESCRIPTION:P2011- 1E
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-if-brommapojkar
+	na-11-20-pojkar-2011/6246712/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:GVkppJx0FmXu3cPP-KztU
+SUMMARY:IFK Aspudden-Tellus vs Mälarhöjden-Hägersten FF 3
+DTSTAMP:20250321T223215Z
+DTSTART:20250914T120000Z
+DTEND:20250914T133000Z
+DESCRIPTION:F2011- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-malarhojden-hager
+	sten-ff-3-flickor-2011/6347392/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ZAUoVS1ICzVoYAkMLSTjc
+SUMMARY:IFK Aspudden-Tellus 4 vs Fisksätra IF U15
+DTSTAMP:20250321T223215Z
+DTSTART:20250914T140000Z
+DTEND:20250914T153000Z
+DESCRIPTION:P2010- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-fisksatra-if-u1
+	5-pojkar-2010/6245955/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:oUNXd9n_-eQ12lrcpq7N3
+SUMMARY:Kransen United FF vs FoC Farsta FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250914T160000Z
+DTEND:20250914T173000Z
+DESCRIPTION:Damer 4 B
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-foc-farsta-ff-div-4
+	-damer/6220633/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:XTnAgoOdIXMXFUB7yvnHs
+SUMMARY:Aspuddens FF vs Botkyrka Kuluspor FF
+DTSTAMP:20250321T223215Z
+DTSTART:20250919T180000Z
+DTEND:20250919T193000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/aspuddens-ff-botkyrka-kuluspor-ff-div
+	-5-herrar/6190780/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:J8Bx9Q43qiuKyrrRSZcTv
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Järla IF FK Grå
+DTSTAMP:20250321T223215Z
+DTSTART:20250920T070000Z
+DTEND:20250920T083000Z
+DESCRIPTION:P2012- 2D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-jarla-if-fk
+	-gra-pojkar-2012/6250870/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:InmXeeaGekRpC_YI04Ixc
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Segeltorps Idrottsförening Fotboll Blå
+DTSTAMP:20250321T223215Z
+DTSTART:20250920T070000Z
+DTEND:20250920T083000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-segeltorps-
+	idrottsforening-fotboll-bla-pojkar-2013/6268713/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:jc2D7folm4CgGMdFygDqf
+SUMMARY:IFK Aspudden-Tellus Svart 1 vs Rönninge Salem Fotboll Svart 2
+DTSTAMP:20250321T223215Z
+DTSTART:20250920T083000Z
+DTEND:20250920T100000Z
+DESCRIPTION:P2013- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-1-ronninge-
+	salem-fotboll-svart-2-pojkar-2013/6266799/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:9aPhiSv8Phv07R-CoBFeW
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Rönninge Salem Fotboll Svart
+DTSTAMP:20250321T223215Z
+DTSTART:20250920T100000Z
+DTEND:20250920T113000Z
+DESCRIPTION:P2011- 3H
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-ronninge-
+	salem-fotboll-svart-pojkar-2011/6248657/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:dXxD0ui7OfdDfa0O8LFhN
+SUMMARY:BK Buffalo vs FC Tyresö United
+DTSTAMP:20250321T223215Z
+DTSTART:20250920T113000Z
+DTEND:20250920T130000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/bk-buffalo-fc-tyreso-united-div-5-her
+	rar/6190784/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:alq1B3yeRPwfRImMsFXeZ
+SUMMARY:IFK Aspudden-Tellus  vs IFK Eskilstuna
+DTSTAMP:20250321T223215Z
+DTSTART:20250920T140000Z
+DTEND:20250920T153000Z
+DESCRIPTION:P19 Div.1 2025 - Region 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--ifk-eskilstuna-p
+	19-serier/6191736/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2tnfdNgColNX5HB_f3W8Y
+SUMMARY:IFK Aspudden-Tellus 3 vs Karlbergs BK Grön
+DTSTAMP:20250321T223215Z
+DTSTART:20250920T160000Z
+DTEND:20250920T173000Z
+DESCRIPTION:P2010- 3C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-karlbergs-bk-gr
+	on-pojkar-2010/6245475/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:xawzbHsV2ENv-K_ptdZ5u
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Hammarby IF FF 17 gul
+DTSTAMP:20250321T223215Z
+DTSTART:20250921T070000Z
+DTEND:20250921T083000Z
+DESCRIPTION:P2012- 3K
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-hammarby-if
+	-ff-17-gul-pojkar-2012/6252586/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:n2BmatgTM4H_d7pBshmLC
+SUMMARY:IFK Aspudden-Tellus 4 vs FoC Farsta FF Blå
+DTSTAMP:20250321T223215Z
+DTSTART:20250921T083000Z
+DTEND:20250921T100000Z
+DESCRIPTION:P2011- 4D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-foc-farsta-ff-b
+	la-pojkar-2011/6249315/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:Y3rFFUj7LtUdgm9R8IOdH
+SUMMARY:IFK Aspudden-Tellus vs Sickla IF Svart
+DTSTAMP:20250321T223215Z
+DTSTART:20250921T101500Z
+DTEND:20250921T114500Z
+DESCRIPTION:F2011- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-sickla-if-svart-f
+	lickor-2011/6347397/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:gMdNJwjnEdS3xfwTV9rLC
+SUMMARY:IFK Aspudden-Tellus DJ vs Nynäshamns IF FK 1 blå
+DTSTAMP:20250321T223215Z
+DTSTART:20250921T120000Z
+DTEND:20250921T133000Z
+DESCRIPTION:DJ- 2C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dj-nynashamns-if-
+	fk-1-bla-damjuniorer-0906/6255038/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:_ABGNxmimH6hjJsPmPqTN
+SUMMARY:IFK Aspudden-Tellus vs Hammarby IF FF 1619vit
+DTSTAMP:20250321T223215Z
+DTSTART:20250921T140000Z
+DTEND:20250921T153000Z
+DESCRIPTION:DJ- 3B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-hammarby-if-ff-16
+	19vit-damjuniorer-0906/6255294/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:eEQbSEnXEOb9QzuGPD0Nu
+SUMMARY:Kransen United FF vs Lado Sur FC
+DTSTAMP:20250321T223215Z
+DTSTART:20250921T160000Z
+DTEND:20250921T173000Z
+DESCRIPTION:Herrar 6 E
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-lado-sur-fc-div-6-h
+	errar/6221085/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:tsDV1hww6rFxX6rQT7n7j
+SUMMARY:IFK Aspudden-Tellus vs Sollentuna Utveckling FK 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250921T180000Z
+DTEND:20250921T193000Z
+DESCRIPTION:SSH 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-sollentuna-utveck
+	ling-fk-1-stockholmsserien-3-herrar/6233611/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a4w1b9mjiegFRQZ0Riak0
+SUMMARY:IFK Aspudden-Tellus vs Konyaspor KIF
+DTSTAMP:20250321T223215Z
+DTSTART:20250926T180000Z
+DTEND:20250926T193000Z
+DESCRIPTION:Herrar 4 Södra
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-konyaspor-kif-div
+	-4-herrar/6186168/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:rOCCN-Ac5xHw-ld4Mzf36
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Tungelsta IF 1
+DTSTAMP:20250321T223215Z
+DTSTART:20250927T070000Z
+DTEND:20250927T083000Z
+DESCRIPTION:P2012- 3I
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-tungelsta-i
+	f-1-pojkar-2012/6252328/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:oK_mWg2hzxgoGC5g_qqdn
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Reymersholms IK 8
+DTSTAMP:20250321T223216Z
+DTSTART:20250927T070000Z
+DTEND:20250927T083000Z
+DESCRIPTION:P2013- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-reymersho
+	lms-ik-8-pojkar-2013/6268835/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:GneazcR3L_uUkIeG2PWEI
+SUMMARY:IFK Aspudden-Tellus Svart 2 vs Reymersholms IK 4
+DTSTAMP:20250321T223216Z
+DTSTART:20250927T083000Z
+DTEND:20250927T100000Z
+DESCRIPTION:P2013- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-2-reymersho
+	lms-ik-4-pojkar-2013/6267445/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:pF2ZWBQ5PmLjUzWiFMP36
+SUMMARY:IFK Aspudden-Tellus 1 vs Mälarhöjden-Hägersten FF Gul
+DTSTAMP:20250321T223216Z
+DTSTART:20250927T100000Z
+DTEND:20250927T113000Z
+DESCRIPTION:P2011- 1E
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-malarhojden-hag
+	ersten-ff-gul-pojkar-2011/6246721/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:LRzAG0KZNIxq1coK2KimO
+SUMMARY:IFK Aspudden-Tellus vs Norsborg FC
+DTSTAMP:20250321T223216Z
+DTSTART:20250927T120000Z
+DTEND:20250927T133000Z
+DESCRIPTION:Damer 3 B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-norsborg-fc-div-3
+	-damer/6187968/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:JRNfA0hcXS79eGHfa-CHL
+SUMMARY:Gröndals IK 1 vs Rönninge Salem Fotboll 1
+DTSTAMP:20250321T223216Z
+DTSTART:20250927T140000Z
+DTEND:20250927T153000Z
+DESCRIPTION:P2008- 2C
+URL:https://www.stff.se/rs/matchfakta/grondals-ik-1-ronninge-salem-fotboll-
+	1-pojkar-2008/6242815/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:FyglGrqyFntlKqdGuPFR9
+SUMMARY:Ospecificerat lag (6) vs Årsta FF 2
+DTSTAMP:20250321T223216Z
+DTSTART:20250928T000000Z
+DTEND:20250928T013000Z
+DESCRIPTION:F2011- 3B
+URL:https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-arsta-ff-2-flicko
+	r-2011/6258538/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1dyzZWr2wzb4fOXgaTrFG
+SUMMARY:IFK Aspudden-Tellus Svart 1 vs Hagalunds IS Vit
+DTSTAMP:20250321T223216Z
+DTSTART:20250928T083000Z
+DTEND:20250928T100000Z
+DESCRIPTION:P2013- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-1-hagalunds
+	-is-vit-pojkar-2013/6266822/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:n433fAHIUGTtfa6CAIBHY
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Örby IS Gul
+DTSTAMP:20250321T223216Z
+DTSTART:20250928T083000Z
+DTEND:20250928T100000Z
+DESCRIPTION:P2013- 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-orby-is-gul
+	-pojkar-2013/6269832/
+LOCATION:Aspuddens IP 12
+END:VEVENT
+BEGIN:VEVENT
+UID:7yJf7q1vyQZkWCd7mu8UP
+SUMMARY:IFK Aspudden-Tellus 4 vs Karlbergs BK 41
+DTSTAMP:20250321T223216Z
+DTSTART:20250928T120000Z
+DTEND:20250928T133000Z
+DESCRIPTION:P2010- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-karlbergs-bk-41
+	-pojkar-2010/6245967/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:cqVQ-QOJFo47nfFB4X8uM
+SUMMARY:IFK Aspudden-Tellus 2 vs Spånga IS FK 2
+DTSTAMP:20250321T223216Z
+DTSTART:20250928T140000Z
+DTEND:20250928T153000Z
+DESCRIPTION:P2009- 1B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-spanga-is-fk-2-
+	pojkar-2009/6243250/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6oi5mm2NRs1x-oIPUfxEK
+SUMMARY:Kransen United FF vs Sundbyberg FC
+DTSTAMP:20250321T223216Z
+DTSTART:20250928T160000Z
+DTEND:20250928T173000Z
+DESCRIPTION:Herrar 6 E
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-sundbyberg-fc-div-6
+	-herrar/6221094/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:BJFW26-kjixXHVqqXA-at
+SUMMARY:IFK Aspudden-Tellus vs Gröndals IK 
+DTSTAMP:20250321T223216Z
+DTSTART:20250928T180000Z
+DTEND:20250928T193000Z
+DESCRIPTION:Herrar Vet B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-grondals-ik--vete
+	ran/6234336/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:tG_xFfqidIv-i8kBywfYx
+SUMMARY:Kransen United FF vs Årsta FF
+DTSTAMP:20250321T223216Z
+DTSTART:20251003T180000Z
+DTEND:20251003T193000Z
+DESCRIPTION:Damer 4 B
+URL:https://www.stff.se/rs/matchfakta/kransen-united-ff-arsta-ff-div-4-dame
+	r/6220647/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:hIswedLXUPTswbGOQpmyZ
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Årsta FF 1
+DTSTAMP:20250321T223216Z
+DTSTART:20251004T083000Z
+DTEND:20251004T100000Z
+DESCRIPTION:P2012- 2D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-arsta-ff-1-
+	pojkar-2012/6250882/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:6uGkGh3lyPB3GII6uMXJG
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Reymersholms IK 4
+DTSTAMP:20250321T223216Z
+DTSTART:20251004T100000Z
+DTEND:20251004T113000Z
+DESCRIPTION:P2012- 3K
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-reymersholm
+	s-ik-4-pojkar-2012/6252597/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:86W8NcFVFqSjefetZBO7R
+SUMMARY:IFK Aspudden-Tellus 1 vs IFK Stockholm FK 1
+DTSTAMP:20250321T223216Z
+DTSTART:20251004T120000Z
+DTEND:20251004T133000Z
+DESCRIPTION:P2011- 1E
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-ifk-stockholm-f
+	k-1-pojkar-2011/6246730/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:J1c_TybgQ1zGfd6toIKdz
+SUMMARY:IFK Aspudden-Tellus vs Djurgårdens IF FF 3
+DTSTAMP:20250321T223216Z
+DTSTART:20251004T140000Z
+DTEND:20251004T153000Z
+DESCRIPTION:DJ- 3B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-djurgardens-if-ff
+	-3-damjuniorer-0906/6255305/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8S1ieMbzoVqt27rJEcumj
+SUMMARY:IFK Aspudden-Tellus 4 vs Enskede IK Vit
+DTSTAMP:20250321T223216Z
+DTSTART:20251005T083000Z
+DTEND:20251005T100000Z
+DESCRIPTION:P2011- 4D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-enskede-ik-vit-
+	pojkar-2011/6249326/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:yLmL5VBzb6yle8Y7_UXog
+SUMMARY:IFK Aspudden-Tellus 3 vs Ekerö IK 2
+DTSTAMP:20250321T223216Z
+DTSTART:20251005T100000Z
+DTEND:20251005T113000Z
+DESCRIPTION:P2010- 3C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-ekero-ik-2-pojk
+	ar-2010/6245486/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:QPgv7eEsXdH9avjX5JPNV
+SUMMARY:Aspuddens FF vs Spårvägens FF 
+DTSTAMP:20250321T223216Z
+DTSTART:20251005T120000Z
+DTEND:20251005T133000Z
+DESCRIPTION:Herrar 5 Södra
+URL:https://www.stff.se/rs/matchfakta/aspuddens-ff-sparvagens-ff--div-5-her
+	rar/6190791/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:xX3_Y6QEFStEOr0H9KyvB
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Tullinge Triangel Pojkar FK Röd
+DTSTAMP:20250321T223216Z
+DTSTART:20251005T141500Z
+DTEND:20251005T154500Z
+DESCRIPTION:P2011- 3H
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-tullinge-
+	triangel-pojkar-fk-rod-pojkar-2011/6248668/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:tOB7NH_WlvdUL3ZB6gCoX
+SUMMARY:IFK Aspudden-Tellus vs Gustavsbergs IF FK 1
+DTSTAMP:20250321T223216Z
+DTSTART:20251005T160000Z
+DTEND:20251005T173000Z
+DESCRIPTION:F2011- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gustavsbergs-if-f
+	k-1-flickor-2011/6347405/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:i8166Q8zjWR0Q239rmq77
+SUMMARY:IFK Aspudden-Tellus DJ vs Reymersholms IK DJ
+DTSTAMP:20250321T223216Z
+DTSTART:20251005T180000Z
+DTEND:20251005T193000Z
+DESCRIPTION:DJ- 2C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dj-reymersholms-i
+	k-dj-damjuniorer-0906/6255048/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:crF3iVUsDUYS8LzJKxZP1
+SUMMARY:IFK Aspudden-Tellus vs Vällingby AIK
+DTSTAMP:20250321T223216Z
+DTSTART:20251010T180000Z
+DTEND:20251010T193000Z
+DESCRIPTION:Herrar Vet B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vallingby-aik-vet
+	eran/6234346/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:oy-cqvsvtzryWUg46y2ro
+SUMMARY:Ospecificerat lag (6) vs Älta IF 2
+DTSTAMP:20250321T223216Z
+DTSTART:20251011T000000Z
+DTEND:20251011T013000Z
+DESCRIPTION:F2011- 3B
+URL:https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-alta-if-2-flickor
+	-2011/6258549/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:wJABwdZEMzvLT9HxnnnQn
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Hammarby IF FF 25 vit
+DTSTAMP:20250321T223216Z
+DTSTART:20251011T083000Z
+DTEND:20251011T100000Z
+DESCRIPTION:P2012- 3I
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-hammarby-if
+	-ff-25-vit-pojkar-2012/6252340/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:nVb8AHKrdEskaePh8dzCU
+SUMMARY:IFK Aspudden-Tellus  vs Irsta IF
+DTSTAMP:20250321T223216Z
+DTSTART:20251011T120000Z
+DTEND:20251011T133000Z
+DESCRIPTION:P19 Div.1 2025 - Region 4
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--irsta-if-p19-ser
+	ier/6191772/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:O5OhEsiIQJSZa_h1z9Gyf
+SUMMARY:Gröndals IK 1 vs Tungelsta IF 1
+DTSTAMP:20250321T223216Z
+DTSTART:20251011T140000Z
+DTEND:20251011T153000Z
+DESCRIPTION:P2008- 2C
+URL:https://www.stff.se/rs/matchfakta/grondals-ik-1-tungelsta-if-1-pojkar-2
+	008/6242824/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:bBhq4ztypD6Epe4S4LqjQ
+SUMMARY:IFK Aspudden-Tellus 4 vs Reymersholms IK 3
+DTSTAMP:20250321T223216Z
+DTSTART:20251012T100000Z
+DTEND:20251012T113000Z
+DESCRIPTION:P2010- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-reymersholms-ik
+	-3-pojkar-2010/6245979/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:udJcNvAJeRSdRqXTufmmA
+SUMMARY:IFK Aspudden-Tellus 3 vs Ängby IF 3
+DTSTAMP:20250321T223216Z
+DTSTART:20251012T120000Z
+DTEND:20251012T133000Z
+DESCRIPTION:P2010- 3C
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-angby-if-3-pojk
+	ar-2010/6245497/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:iUTXn061Jss8e37pf1OC5
+SUMMARY:IFK Aspudden-Tellus 2 vs Norrtulls SK 1
+DTSTAMP:20250321T223216Z
+DTSTART:20251012T140000Z
+DTEND:20251012T153000Z
+DESCRIPTION:P2009- 1B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-norrtulls-sk-1-
+	pojkar-2009/6243262/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:nBC7oaG1WOW2kOeY2VOhh
+SUMMARY:IFK Aspudden-Tellus vs Saltsjöbadens IF Vit
+DTSTAMP:20250321T223216Z
+DTSTART:20251018T100000Z
+DTEND:20251018T113000Z
+DESCRIPTION:F2011- 4B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-saltsjobadens-if-
+	vit-flickor-2011/6347413/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:N27BkVILfyKYPEgsN1F_6
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Segeltorps Idrottsförening Fotboll Vit
+DTSTAMP:20250321T223216Z
+DTSTART:20251018T120000Z
+DTEND:20251018T133000Z
+DESCRIPTION:P2012- 3K
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-segeltorps-
+	idrottsforening-fotboll-vit-pojkar-2012/6252608/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:ijJVWXGqAAtxTaGkKyqCj
+SUMMARY:IFK Aspudden-Tellus vs Enskede IK 2
+DTSTAMP:20250321T223216Z
+DTSTART:20251018T140000Z
+DTEND:20251018T153000Z
+DESCRIPTION:DJ- 3B
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-enskede-ik-2-damj
+	uniorer-0906/6255316/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:k-jctXF3FDwvBqxE75KZQ
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Boo FF 21
+DTSTAMP:20250321T223216Z
+DTSTART:20251019T100000Z
+DTEND:20251019T113000Z
+DESCRIPTION:P2012- 2D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-boo-ff-21-p
+	ojkar-2012/6250894/
+LOCATION:Aspuddens IP 11
+END:VEVENT
+BEGIN:VEVENT
+UID:W8sODsjFoGRzXUj3ld_l-
+SUMMARY:IFK Aspudden-Tellus Svart 3 vs Stuvsta IF 2
+DTSTAMP:20250321T223216Z
+DTSTART:20251019T120000Z
+DTEND:20251019T133000Z
+DESCRIPTION:P2011- 3H
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-stuvsta-i
+	f-2-pojkar-2011/6248679/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:dHZwMLEfPDwi7Y36PVwIR
+SUMMARY:IFK Aspudden-Tellus 4 vs Ingarö IF Gul
+DTSTAMP:20250321T223216Z
+DTSTART:20251019T140000Z
+DTEND:20251019T153000Z
+DESCRIPTION:P2011- 4D
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-ingaro-if-gul-p
+	ojkar-2011/6249337/
+LOCATION:Aspuddens IP 1
+END:VEVENT
+END:VCALENDAR

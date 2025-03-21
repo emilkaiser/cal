@@ -1,17 +1,23 @@
 {
   "name": "cal",
   "version": "1.0.0",
-  "description": "Calendar scraper",
-  "main": "scrape.ts",
+  "description": "Calendar scraper for Aspuddens IP",
+  "main": "dist/scrape-venue.js",
   "scripts": {
-    "start": "ts-node scrape.ts"
+    "build": "tsc",
+    "start": "ts-node scrape-venue.ts",
+    "start-team": "ts-node team-scraper.ts",
+    "dev": "ts-node-dev scrape-venue.ts"
   },
   "dependencies": {
-    "ics": "^3.1.0"
+    "ics": "^3.5.0",
+    "jsdom": "^21.1.0"
   },
   "devDependencies": {
-    "@types/node": "^18.0.0",
+    "@types/jsdom": "^21.1.0",
+    "@types/node": "^20.10.0",
     "ts-node": "^10.9.1",
-    "typescript": "^4.9.5"
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.2"
   }
 }

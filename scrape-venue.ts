@@ -19,7 +19,7 @@ interface Match {
     team: string;
   };
   note?: string;
-    url: string;
+  url: string;
 }
 
 interface MatchesResponse {
@@ -69,16 +69,49 @@ function toICSData(matches: Match[]): EventAttributes[] {
   });
 }
 
-async function main() {
-  const matches = await fetchBookings();
-  const events = toICSData(matches);
+function isIP1(match: Match): boolean {
+  const location = match.location.toLowerCase();
+  return (
+    location.includes("aspuddens ip 1") || 
+    location.includes("aspuddens ip 11") || 
+    location.includes("aspuddens ip 12")
+  );
+}
 
+function isIP2(match: Match): boolean {
+  const location = match.location.toLowerCase();
+  return (
+    location.includes("aspuddens ip 2") || 
+    location.includes("aspuddens ip 25") || 
+    location.includes("aspuddens ip 26")
+  );
+}
+
+async function createCalendar(events: EventAttributes[], filename: string) {
   const { error, value } = createEvents(events);
   if (error) throw error;
   if (!value) throw new Error('No calendar data was generated');
 
-  await writeFile('calendar.ics', value);
-  console.log(`Calendar created with ${events.length} events`);
+  await writeFile(filename, value);
+  console.log(`Calendar ${filename} created with ${events.length} events`);
+}
+
+async function main() {
+  const matches = await fetchBookings();
+  
+  // All matches
+  const allEvents = toICSData(matches);
+  await createCalendar(allEvents, 'all.ics');
+  
+  // IP1 matches
+  const ip1Matches = matches.filter(isIP1);
+  const ip1Events = toICSData(ip1Matches);
+  await createCalendar(ip1Events, 'ip1.ics');
+  
+  // IP2 matches
+  const ip2Matches = matches.filter(isIP2);
+  const ip2Events = toICSData(ip2Matches);
+  await createCalendar(ip2Events, 'ip2.ics');
 }
 
 main().catch(console.error);
