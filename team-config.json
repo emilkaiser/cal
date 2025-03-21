@@ -1,0 +1,26 @@
+{
+  "configs": [
+    {
+      "teams": [
+        {
+          "teamId": 354611,
+          "teamName": "IFK Aspudden-Tellus Blå 1"
+        }
+      ],
+      "outputFile": "team-blå-calendar.ics"
+    },
+    {
+      "teams": [
+        {
+          "teamId": 4567,
+          "teamName": "IFK Aspudden-Tellus Röd 1"
+        },
+        {
+          "teamId": 4566,
+          "teamName": "IFK Aspudden-Tellus Röd 2"
+        }
+      ],
+      "outputFile": "team-röd-calendar.ics"
+    }
+  ]
+}
