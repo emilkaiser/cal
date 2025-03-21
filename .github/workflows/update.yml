@@ -8,8 +8,14 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    # Add permission to push to the repository
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
+        with:
+          # This is important for the action to have write access
+          token: ${{ github.token }}
 
       - name: Setup Node
         uses: actions/setup-node@v3
