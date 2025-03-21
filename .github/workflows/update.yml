@@ -28,12 +28,12 @@ jobs:
         run: npm run build
 
       - name: Run scraper
-        run: node dist/scrape.js
+        run: node dist/scrape-venue.js
 
       - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add calendar.ics
-          git commit -m "Update calendar" || echo "No changes"
+          git add all.ics ip1.ics ip2.ics
+          git commit -m "Update calendars" || echo "No changes"
           git push

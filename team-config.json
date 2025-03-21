@@ -1,26 +1,64 @@
 {
   "configs": [
     {
-      "teams": [
-        {
-          "teamId": 354611,
-          "teamName": "IFK Aspudden-Tellus Blå 1"
-        }
-      ],
-      "outputFile": "team-blå-calendar.ics"
+        "teams": [
+            {
+                "teamId": 354613,
+                "teamName": "IFK Aspudden-Tellus Röd 1"
+            },
+            {
+                "teamId": 354614,
+                "teamName": "IFK Aspudden-Tellus Röd 2"
+            }
+        ],
+        "outputFile": "p2014-rod.ics"
     },
     {
-      "teams": [
-        {
-          "teamId": 4567,
-          "teamName": "IFK Aspudden-Tellus Röd 1"
-        },
-        {
-          "teamId": 4566,
-          "teamName": "IFK Aspudden-Tellus Röd 2"
-        }
-      ],
-      "outputFile": "team-röd-calendar.ics"
+        "teams": [
+            {
+                "teamId": 354611,
+                "teamName": "IFK Aspudden-Tellus Blå 1"
+            },
+            {
+                "teamId": 354616,
+                "teamName": "IFK Aspudden-Tellus Gul 2"
+            },
+            {
+                "teamId": 354612,
+                "teamName": "IFK Aspudden-Tellus Blå 2"
+            }
+        ],
+        "outputFile": "p2014-bla.ics"
+      },
+    {
+        "teams": [
+            {
+                "teamId": 354615,
+                "teamName": "IFK Aspudden-Tellus Gul 1"
+            },
+            {
+                "teamId": 354616,
+                "teamName": "IFK Aspudden-Tellus Gul 2"
+            },
+            {
+                "teamId": 354617,
+                "teamName": "IFK Aspudden-Tellus Gul 3"
+            },
+            {
+                "teamId": 354618,
+                "teamName": "IFK Aspudden-Tellus Gul 4"
+            },
+            {
+                "teamId": 354619,
+                "teamName": "IFK Aspudden-Tellus Gul 5"
+            },
+            {
+                "teamId": 355799,
+                "teamName": "IFK Aspudden-Tellus Gul 6"
+            }
+        ],
+        "outputFile": "p2014-gul.ics"
     }
   ]
 }
+
