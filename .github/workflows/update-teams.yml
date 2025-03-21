@@ -42,6 +42,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git pull --rebase origin main
           git add *.ics
           git commit -m "Update team calendar" || echo "No changes"
           git push
