@@ -7,11 +7,13 @@
     "build": "tsc",
     "start": "ts-node scrape-venue.ts",
     "start-team": "ts-node team-scraper.ts",
+    "start-laget": "ts-node laget-scraper.ts",
     "dev": "ts-node-dev scrape-venue.ts"
   },
   "dependencies": {
     "ics": "^3.5.0",
-    "jsdom": "^21.1.0"
+    "jsdom": "^21.1.0",
+    "node-ical": "^0.20.1"
   },
   "devDependencies": {
     "@types/jsdom": "^21.1.0",
