@@ -1,0 +1,886 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:27245580@laget.se
+SUMMARY:F2011 vs Match Värtans IK Vit 1
+DTSTAMP:20250324T073310Z
+DTSTART:20250201T160000Z
+DTEND:20250201T180000Z
+DESCRIPTION:Samlingstid\n2025-02-01 16:15\n\nLäs mer om matchen\nhttps://ww
+	w.laget.se/IFKAspudden-Tellus-F2011/Division/Game/544962/11377866
+LOCATION:Liljeholmshallen 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27490309@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250203T180000Z
+DTEND:20250203T193000Z
+DESCRIPTION:Samlingstid\n2025-02-03 18:50\nÖvrig info\nTräning utomhus. Klä
+	der efter temperaturen.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27490315@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250205T180000Z
+DTEND:20250205T190000Z
+DESCRIPTION:Samlingstid\n2025-02-05 18:50\nÖvrig info\nTräning inomhus
+LOCATION:Aspuddens Skola (Sal: Mellan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27490303@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250207T190000Z
+DTEND:20250207T200000Z
+DESCRIPTION:Samlingstid\n2025-02-07 19:50\nÖvrig info\nTräning inomhus.\nDe
+	t går bra att komma tidigare. Damlaget möter Ursvik kl 19 i samma hall. De
+	t kan vara spännande att se hur de spelar.
+LOCATION:Vintervikshallen
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27245581@laget.se
+SUMMARY:F2011 vs Spånga IS FK 1
+DTSTAMP:20250324T073310Z
+DTSTART:20250208T170000Z
+DTEND:20250208T190000Z
+DESCRIPTION:Samlingstid\n2025-02-08 17:15\nÖvrig info\nDet är max 9 spelare
+	 till matchen. \n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Te
+	llus-F2011/Division/Game/544962/11377782
+LOCATION:Högdalshallen
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27490310@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250210T180000Z
+DTEND:20250210T193000Z
+DESCRIPTION:Samlingstid\n2025-02-10 18:50\nÖvrig info\nTräning utomhus.\nVi
+	 kommer att ha ett spelarmöte i början av träningen. Då går vi genom upplä
+	gget för våren.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27780272@laget.se
+SUMMARY:F2011 - Spelarmöte
+DTSTAMP:20250324T073310Z
+DTSTART:20250210T180000Z
+DTEND:20250210T183000Z
+LOCATION:ASPUDDENS IP (I samband med träningen)
+CATEGORIES:Övrig aktivitet,Möte,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27780227@laget.se
+SUMMARY:F2011 - Tränarmöte
+DTSTAMP:20250324T073310Z
+DTSTART:20250212T171500Z
+DTEND:20250212T180000Z
+DESCRIPTION:\nÖvrig info\nMöte med Jacob Källman som börjar som ny tränare.
+LOCATION:Klubbhuset
+CATEGORIES:Övrig aktivitet,Möte,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27490316@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250212T180000Z
+DTEND:20250212T190000Z
+DESCRIPTION:Samlingstid\n2025-02-12 18:50\nÖvrig info\nTräning inomhus
+LOCATION:Aspuddens Skola (Sal: Mellan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27490304@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250214T190000Z
+DTEND:20250214T200000Z
+DESCRIPTION:Samlingstid\n2025-02-14 19:50\nÖvrig info\nTräning inomhus
+LOCATION:Hägerstenshamnens skola
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27490311@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250217T180000Z
+DTEND:20250217T193000Z
+DESCRIPTION:Samlingstid\n2025-02-17 18:50\nÖvrig info\nTräning inomhus\nOre
+	ste Pirro är gästtränare. På grund av vädret får vi flytta inomhus.
+LOCATION:Aspuddens Skola (Övre hallen)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27490317@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250219T172500Z
+DTEND:20250219T190000Z
+DESCRIPTION:\nÖvrig info\nOBS! Träningen inleds med ett möte i klubbhuset.\
+	nDet är första träningen med Jacob Källman. Därefter är träningen i meller
+	sta salen i Aspuddens skola.
+LOCATION:Aspuddens Skola (Start i klubbhuset. Sal: Mellan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27809859@laget.se
+SUMMARY:F2011 - Spelarmöte
+DTSTAMP:20250324T073310Z
+DTSTART:20250219T172500Z
+DTEND:20250219T175000Z
+DESCRIPTION:\nÖvrig info\nVi träffas innan träningen som blir inomhus i Asp
+	uddens skola. Första träningen med Jacob Källman. Han presenterar sig och 
+	går genom upplägg.
+LOCATION:ASPUDDENS IP (Klubbhuset)
+CATEGORIES:Övrig aktivitet,Möte,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27859829@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250303T180000Z
+DTEND:20250303T193000Z
+DESCRIPTION:Samlingstid\n2025-03-03 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Halvplan mot parkering DAM/F2011)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27860482@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250305T181500Z
+DTEND:20250305T193000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-03-05 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (Halvplan mot vägen)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27862833@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250306T170000Z
+DTEND:20250306T180000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-03-06 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot hall/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27834672@laget.se
+SUMMARY:F2011 vs Rönninge Salem Fotboll
+DTSTAMP:20250324T073310Z
+DTSTART:20250308T090000Z
+DTEND:20250308T103000Z
+DESCRIPTION:Samlingstid\n2025-03-08 09:00\nÖvrig info\nStor 9v9\nDomare: As
+	sad Jawad\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus-F
+	2011/Division/Game/551313/11524589
+LOCATION:Västberga IP
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27859830@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250310T180000Z
+DTEND:20250310T193000Z
+DESCRIPTION:Samlingstid\n2025-03-10 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Halvplan mot parkering DAM/F2011)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27860483@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250312T181500Z
+DTEND:20250312T193000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-03-12 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (Halvplan mot vägen)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27859831@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250317T180000Z
+DTEND:20250317T193000Z
+DESCRIPTION:Samlingstid\n2025-03-17 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27860484@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250319T180000Z
+DTEND:20250319T193000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-03-19 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot vägen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27862835@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250320T170000Z
+DTEND:20250320T180000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-03-20 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27910898@laget.se
+SUMMARY:F2011 vs FOC Farsta
+DTSTAMP:20250324T073310Z
+DTSTART:20250323T133000Z
+DTEND:20250323T150000Z
+DESCRIPTION:Samlingstid\n2025-03-23 13:30\nÖvrig info\nStor 9v9\n\nLäs mer 
+	om matchen\nhttps://www.laget.se/IFKAspudden-Tellus-F2011/Division/Game/55
+	1313/11584779
+LOCATION:ASPUDDENS IP (Hela planen)
+CATEGORIES:Match,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27859832@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250324T180000Z
+DTEND:20250324T193000Z
+DESCRIPTION:Samlingstid\n2025-03-24 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27860485@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250326T180000Z
+DTEND:20250326T193000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-03-26 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27862836@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250327T170000Z
+DTEND:20250327T180000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-03-27 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27834710@laget.se
+SUMMARY:F2011 vs Tungelsta IF F10-12
+DTSTAMP:20250324T073310Z
+DTSTART:20250329T133000Z
+DTEND:20250329T150000Z
+DESCRIPTION:Samlingstid\n2025-03-29 13:30\nÖvrig info\nStor 9v9\nDomare: Er
+	land Gustavsson\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Te
+	llus-F2011/Division/Game/551313/11524592
+LOCATION:Västberga IP
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27859833@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250331T170000Z
+DTEND:20250331T183000Z
+DESCRIPTION:Samlingstid\n2025-03-31 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959616@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250402T170000Z
+DTEND:20250402T183000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-04-02 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959627@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250403T160000Z
+DTEND:20250403T170000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-04-03 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27870272@laget.se
+SUMMARY:F2011 vs Motståndarlaget
+DTSTAMP:20250324T073310Z
+DTSTART:20250405T080000Z
+DTEND:20250405T100000Z
+DESCRIPTION:Samlingstid\n2025-04-05 09:00\n\nLäs mer om matchen\nhttps://ww
+	w.laget.se/IFKAspudden-Tellus-F2011/Division/Game/551313/11549253
+LOCATION:ASPUDDENS IP (Hela)
+CATEGORIES:Match,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959582@laget.se
+SUMMARY:F2011 vs Match Reymersholms IK 2
+DTSTAMP:20250324T073310Z
+DTSTART:20250405T123000Z
+DTEND:20250405T143000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606625
+LOCATION:Långholmens BP 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959606@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250407T170000Z
+DTEND:20250407T183000Z
+DESCRIPTION:Samlingstid\n2025-04-07 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959617@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250409T170000Z
+DTEND:20250409T183000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-04-09 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959628@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250410T160000Z
+DTEND:20250410T170000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-04-10 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959583@laget.se
+SUMMARY:F2011 vs Mälarhöjden-Hägersten FF 3
+DTSTAMP:20250324T073310Z
+DTSTART:20250412T100000Z
+DTEND:20250412T120000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606623
+LOCATION:Aspuddens IP 1
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27959607@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250414T170000Z
+DTEND:20250414T183000Z
+DESCRIPTION:Samlingstid\n2025-04-14 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959618@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250416T170000Z
+DTEND:20250416T183000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-04-16 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959629@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250417T160000Z
+DTEND:20250417T170000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-04-17 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959608@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250421T170000Z
+DTEND:20250421T183000Z
+DESCRIPTION:Samlingstid\n2025-04-21 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959619@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250423T170000Z
+DTEND:20250423T183000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-04-23 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959630@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250424T160000Z
+DTEND:20250424T170000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-04-24 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959584@laget.se
+SUMMARY:F2011 vs Sickla IF Svart
+DTSTAMP:20250324T073310Z
+DTSTART:20250427T100000Z
+DTEND:20250427T120000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606585
+LOCATION:Västberga IP 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959609@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250428T170000Z
+DTEND:20250428T183000Z
+DESCRIPTION:Samlingstid\n2025-04-28 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959620@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250430T170000Z
+DTEND:20250430T183000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-04-30 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959631@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250501T160000Z
+DTEND:20250501T170000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-05-01 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959585@laget.se
+SUMMARY:F2011 vs Match Bagarmossen Kärrtorp BK
+DTSTAMP:20250324T073310Z
+DTSTART:20250504T070000Z
+DTEND:20250504T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606685
+LOCATION:Kärrtorps IP 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959610@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250505T170000Z
+DTEND:20250505T183000Z
+DESCRIPTION:Samlingstid\n2025-05-05 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959621@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250507T170000Z
+DTEND:20250507T183000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-05-07 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959632@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250508T160000Z
+DTEND:20250508T170000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-05-08 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959586@laget.se
+SUMMARY:F2011 vs Gustavsbergs IF FK 1
+DTSTAMP:20250324T073310Z
+DTSTART:20250511T120000Z
+DTEND:20250511T140000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606684
+LOCATION:Aspuddens IP 1
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27959611@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250512T170000Z
+DTEND:20250512T183000Z
+DESCRIPTION:Samlingstid\n2025-05-12 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959622@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250514T170000Z
+DTEND:20250514T183000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-05-14 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959633@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250515T160000Z
+DTEND:20250515T170000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-05-15 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959587@laget.se
+SUMMARY:F2011 vs Match Älta IF 3
+DTSTAMP:20250324T073310Z
+DTSTART:20250518T131500Z
+DTEND:20250518T151500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606605
+LOCATION:Älta IP 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959612@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250519T170000Z
+DTEND:20250519T183000Z
+DESCRIPTION:Samlingstid\n2025-05-19 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959623@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250521T170000Z
+DTEND:20250521T183000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-05-21 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959634@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250522T160000Z
+DTEND:20250522T170000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-05-22 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959588@laget.se
+SUMMARY:F2011 vs Saltsjöbadens IF Vit
+DTSTAMP:20250324T073310Z
+DTSTART:20250524T101500Z
+DTEND:20250524T121500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606613
+LOCATION:Aspuddens IP 1
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27959613@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250526T170000Z
+DTEND:20250526T183000Z
+DESCRIPTION:Samlingstid\n2025-05-26 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959624@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250528T170000Z
+DTEND:20250528T183000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-05-28 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959635@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250529T160000Z
+DTEND:20250529T170000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-05-29 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959589@laget.se
+SUMMARY:F2011 vs Match Saltsjöbadens IF Vit
+DTSTAMP:20250324T073310Z
+DTSTART:20250531T140000Z
+DTEND:20250531T160000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606612
+LOCATION:Saltsjöbadens IP 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959614@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250602T170000Z
+DTEND:20250602T183000Z
+DESCRIPTION:Samlingstid\n2025-06-02 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959625@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250604T170000Z
+DTEND:20250604T183000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-06-04 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959636@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250605T160000Z
+DTEND:20250605T170000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-06-05 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959590@laget.se
+SUMMARY:F2011 vs Älta IF 3
+DTSTAMP:20250324T073310Z
+DTSTART:20250606T140000Z
+DTEND:20250606T160000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606728
+LOCATION:Aspuddens IP 1
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27959615@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250609T170000Z
+DTEND:20250609T183000Z
+DESCRIPTION:Samlingstid\n2025-06-09 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:ASPUDDENS IP (Konstgräs 7-mannaplan)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27959626@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250611T170000Z
+DTEND:20250611T183000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-06-11 18:50\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/skola)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959637@laget.se
+SUMMARY:F2011 - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250612T160000Z
+DTEND:20250612T170000Z
+DESCRIPTION:Samlingsinfo\nUppvärmningen sker innan plantid.\nSamlingstid\n2
+	025-06-12 17:45\nÖvrig info\nTräning utomhus.
+LOCATION:Västberga IP (1/4-plan mot midsommarkransen/läktare\, delas med F1
+	2)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959639@laget.se
+SUMMARY:F2011 - ArosCupen
+DTSTAMP:20250324T073310Z
+DTSTART:20250614T080000Z
+DTEND:20250617T170000Z
+DESCRIPTION:\nÖvrig info\nMer info om cupen kommer.
+LOCATION:Västerås stad
+CATEGORIES:Övrig aktivitet,Cup,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959591@laget.se
+SUMMARY:F2011 vs Match Gustavsbergs IF FK 1
+DTSTAMP:20250324T073310Z
+DTSTART:20250615T174500Z
+DTEND:20250615T194500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606639
+LOCATION:Ösby BP 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959592@laget.se
+SUMMARY:F2011 vs Bagarmossen Kärrtorp BK
+DTSTAMP:20250324T073310Z
+DTSTART:20250809T140000Z
+DTEND:20250809T160000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606628
+LOCATION:Aspuddens IP 1
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27959593@laget.se
+SUMMARY:F2011 vs Match Sickla IF Svart
+DTSTAMP:20250324T073310Z
+DTSTART:20250817T120000Z
+DTEND:20250817T140000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606668
+LOCATION:Nacka IP 1 (hall)
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959594@laget.se
+SUMMARY:F2011 vs Match Mälarhöjden-Hägersten FF 3
+DTSTAMP:20250324T073310Z
+DTSTART:20250824T160000Z
+DTEND:20250824T180000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606710
+LOCATION:Hägerstensåsens BP 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959595@laget.se
+SUMMARY:F2011 vs Reymersholms IK 2
+DTSTAMP:20250324T073310Z
+DTSTART:20250831T120000Z
+DTEND:20250831T140000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606634
+LOCATION:Aspuddens IP 1
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27959596@laget.se
+SUMMARY:F2011 vs Match Reymersholms IK 2
+DTSTAMP:20250324T073310Z
+DTSTART:20250907T143000Z
+DTEND:20250907T163000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606672
+LOCATION:Långholmens BP 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27959597@laget.se
+SUMMARY:F2011 vs Mälarhöjden-Hägersten FF 3
+DTSTAMP:20250324T073310Z
+DTSTART:20250914T120000Z
+DTEND:20250914T140000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606732
+LOCATION:Aspuddens IP 1
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27959598@laget.se
+SUMMARY:F2011 vs Sickla IF Svart
+DTSTAMP:20250324T073310Z
+DTSTART:20250921T101500Z
+DTEND:20250921T121500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606689
+LOCATION:Aspuddens IP 1
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27959599@laget.se
+SUMMARY:F2011 vs Match Bagarmossen Kärrtorp BK
+DTSTAMP:20250324T073310Z
+DTSTART:20250927T090000Z
+DTEND:20250927T110000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAspudden-Tellus
+	-F2011/Division/Game/553266/11606616
+LOCATION:Kärrtorps IP 1
+CATEGORIES:Match,Away
+END:VEVENT
+END:VCALENDAR

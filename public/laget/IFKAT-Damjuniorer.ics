@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:27590934@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250201T110000Z
+DTEND:20250201T120000Z
+DESCRIPTION:Samlingstid\n2025-02-01 11:45\nÖvrig info\nFotbollsträning på k
+	onstgräs inomhus. Kom i tid till samling då alla ska vara redo när träning
+	stiden börjar.
+LOCATION:Spånga Fotbollshall
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27643692@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250203T183000Z
+DTEND:20250203T193000Z
+DESCRIPTION:Samlingstid\n2025-02-03 19:15\nÖvrig info\nFysträning och tekni
+	k
+LOCATION:Aspuddens Skola (Mellanhallen)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27590558@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250206T200000Z
+DTEND:20250206T210000Z
+DESCRIPTION:Samlingstid\n2025-02-06 20:45\nÖvrig info\nFutsalträning
+LOCATION:Sjövikshallen
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27250951@laget.se
+SUMMARY:Damjuniorer vs Skogås-Trångsunds FF Blå
+DTSTAMP:20250324T073310Z
+DTSTART:20250207T170000Z
+DTEND:20250207T180000Z
+DESCRIPTION:Samlingstid\n2025-02-07 17:00\nÖvrig info\nSäsongens sista Futs
+	almatch! \n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-Damjuniorer/Di
+	vision/Game/544957/11377647
+LOCATION:Skärholmshallen 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27590935@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250208T110000Z
+DTEND:20250208T130000Z
+DESCRIPTION:Samlingstid\n2025-02-08 11:45\nÖvrig info\nFotbollsträning på k
+	onstgräs inomhus. Kom i tid till samling då alla ska vara redo när träning
+	stiden börjar.
+LOCATION:Spånga Fotbollshall
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27643693@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250210T183000Z
+DTEND:20250210T193000Z
+DESCRIPTION:Samlingstid\n2025-02-10 19:15\nÖvrig info\nFysträning och tekni
+	k
+LOCATION:Aspuddens Skola (Mellanhallen)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27590559@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250213T200000Z
+DTEND:20250213T210000Z
+DESCRIPTION:Samlingstid\n2025-02-13 20:45\nÖvrig info\nFutsalträning
+LOCATION:Sjövikshallen
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27590936@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250215T110000Z
+DTEND:20250215T120000Z
+DESCRIPTION:Samlingstid\n2025-02-15 11:45\nÖvrig info\nFotbollsträning på k
+	onstgräs inomhus. Kom i tid till samling då alla ska vara redo när träning
+	stiden börjar.
+LOCATION:Spånga Fotbollshall
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27643694@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250217T183000Z
+DTEND:20250217T193000Z
+DESCRIPTION:Samlingstid\n2025-02-17 19:15\nÖvrig info\nFysträning och tekni
+	k
+LOCATION:Aspuddens Skola (Mellanhallen)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27590560@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250220T200000Z
+DTEND:20250220T210000Z
+DESCRIPTION:Samlingstid\n2025-02-20 20:45\nÖvrig info\nFutsalträning
+LOCATION:Sjövikshallen
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27590937@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250222T110000Z
+DTEND:20250222T120000Z
+DESCRIPTION:Samlingstid\n2025-02-22 11:45\nÖvrig info\nFotbollsträning på k
+	onstgräs inomhus. Kom i tid till samling då alla ska vara redo när träning
+	stiden börjar.
+LOCATION:Spånga Fotbollshall
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27851930@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250303T180000Z
+DTEND:20250303T193000Z
+DESCRIPTION:Samlingstid\n2025-03-03 18:45
+LOCATION:Västberga IP (Halvplan mot hallen)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27851937@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250304T180000Z
+DTEND:20250304T193000Z
+DESCRIPTION:Samlingstid\n2025-03-04 18:45
+LOCATION:ASPUDDENS IP (Halvplan mot parken)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27851944@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250306T180000Z
+DTEND:20250306T193000Z
+DESCRIPTION:Samlingstid\n2025-03-06 18:45
+LOCATION:Västberga IP (Halvplan mot vägen)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27882722@laget.se
+SUMMARY:Damjuniorer - Träningsmatch mot Sickla IF DJ
+DTSTAMP:20250324T073310Z
+DTSTART:20250309T140000Z
+DTEND:20250309T153000Z
+DESCRIPTION:Samlingstid\n2025-03-09 13:45
+LOCATION:Saltsjöbadens IP
+CATEGORIES:Övrig aktivitet,Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27851931@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250310T180000Z
+DTEND:20250310T193000Z
+DESCRIPTION:Samlingstid\n2025-03-10 18:45
+LOCATION:Västberga IP (Halvplan mot hallen)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27851938@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250311T180000Z
+DTEND:20250311T193000Z
+DESCRIPTION:Samlingstid\n2025-03-11 18:45
+LOCATION:ASPUDDENS IP (Halvplan mot parken)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27851945@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250313T180000Z
+DTEND:20250313T193000Z
+DESCRIPTION:Samlingstid\n2025-03-13 18:45
+LOCATION:Västberga IP (Halvplan mot vägen)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27590940@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250315T110000Z
+DTEND:20250315T120000Z
+DESCRIPTION:Samlingstid\n2025-03-15 11:45\nÖvrig info\nFotbollsträning på k
+	onstgräs inomhus. Kom i tid till samling då alla ska vara redo när träning
+	stiden börjar.
+LOCATION:Spånga Fotbollshall
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27851999@laget.se
+SUMMARY:Damjuniorer vs AIK Solna FK
+DTSTAMP:20250324T073310Z
+DTSTART:20250316T090000Z
+DTEND:20250316T110000Z
+DESCRIPTION:Samlingstid\n2025-03-16 09:00\nÖvrig info\nW/o av AIK\n\nLäs me
+	r om matchen\nhttps://www.laget.se/IFKAT-Damjuniorer/Division/Game/551581/
+	11532911
+LOCATION:Mälarhöjdens Idrottsplats
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27851932@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250317T180000Z
+DTEND:20250317T193000Z
+DESCRIPTION:Samlingstid\n2025-03-17 18:45
+LOCATION:Västberga IP (Halvplan mot hallen)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27851939@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250318T173000Z
+DTEND:20250318T190000Z
+DESCRIPTION:Samlingstid\n2025-03-18 18:15
+LOCATION:ASPUDDENS IP (1/4 mot parken omklädningsrum )
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27851994@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250321T120000Z
+DTEND:20250323T160000Z
+DESCRIPTION:\nÖvrig info\nInfo om träningslägret:\nFredag	21 mars	Ankomst	1
+	4.30\n		Träning	15.30-17.00 Eneby\n		Middag	18.00\n			\nLördag	22 mars	Fru
+	kost	07.30\n		Träning	09.00-10.30 Lindö FF B-Plan\n		Lunch	12.00\n		Middag
+		18.00\n			\nSöndag	23 mars	Frukost\nTräning	07.30\n09.00-10.30 Lindö FF B
+	-Plan\n		Avresa	12.00\n\n  \nIncheckning: 15.00 är ni garanterade rummen\n
+	Utcheckning: 11.00 som senast \n\n\nViktigt att ta med: Allt material för 
+	att bedriva träning/match\, ev extra handduk \n\n\nOmklädning: Ni byter om
+	 på hotellet inför/efter alla era pass\n\n\n\nAdresser\n\nMaxivallen / Ene
+	by BK \nDrakengatan 5\n60209 Norrköping\nKontaktperson plan: Siw Einstulen
+	 011-311026\n\nCity Gross Arena / Lindö FF \nSlörgatan 3\, Norrköping\nKon
+	taktperson plan: Lill Hjelm 0768-501173\n \nNorrköping Scandic Nord\nJärng
+	atan 17 \n602 23 Norrköping
+LOCATION:Norrköping
+CATEGORIES:Övrig aktivitet,Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27851940@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250325T173000Z
+DTEND:20250325T190000Z
+DESCRIPTION:Samlingstid\n2025-03-25 18:15
+LOCATION:ASPUDDENS IP (1/4 mot parken omklädningsrum )
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27851947@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250327T180000Z
+DTEND:20250327T193000Z
+DESCRIPTION:Samlingstid\n2025-03-27 18:45
+LOCATION:Västberga IP (Halvplan mot vägen)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27851934@laget.se
+SUMMARY:Damjuniorer - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250331T153000Z
+DTEND:20250331T170000Z
+DESCRIPTION:\nÖvrig info\nPlantid från 17:45. Uppvärming innan på liten yta
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+END:VCALENDAR

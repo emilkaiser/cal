@@ -1,0 +1,654 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:27562420@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250201T120000Z
+DTEND:20250201T130000Z
+DESCRIPTION:Samlingstid\n2025-02-01 12:45\nÖvrig info\nTa med inomhusskor\,
+	 benskydd och vattenflaska
+LOCATION:Aspuddens Skola (Samling mellanhallen)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27562422@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250215T120000Z
+DTEND:20250215T130000Z
+DESCRIPTION:Samlingstid\n2025-02-15 12:45\nÖvrig info\nTa med inomhusskor\,
+	 benskydd och vattenflaska
+LOCATION:Aspuddens Skola (Samling mellanhallen)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27562425@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250308T120000Z
+DTEND:20250308T130000Z
+DESCRIPTION:Samlingstid\n2025-03-08 12:45\nÖvrig info\nTa med inomhusskor\,
+	 benskydd och vattenflaska
+LOCATION:Aspuddens Skola (Samling mellanhallen)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27562426@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250315T120000Z
+DTEND:20250315T133000Z
+DESCRIPTION:Samlingstid\n2025-03-15 12:45\nÖvrig info\nTa med inomhusskor\,
+	 benskydd och vattenflaska
+LOCATION:Tellusborgshallen (Hall 1)
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27923791@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250318T153000Z
+DTEND:20250318T164500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-03-18 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27562427@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250322T120000Z
+DTEND:20250322T130000Z
+DESCRIPTION:Samlingstid\n2025-03-22 12:45\nÖvrig info\nTa med inomhusskor\,
+	 benskydd och vattenflaska
+LOCATION:Aspuddens Skola (Samling mellanhallen)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27923792@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250325T153000Z
+DTEND:20250325T164500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-03-25 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27562428@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250329T120000Z
+DTEND:20250329T130000Z
+DESCRIPTION:Samlingstid\n2025-03-29 12:45\nÖvrig info\nTa med inomhusskor\,
+	 benskydd och vattenflaska
+LOCATION:Aspuddens Skola (Samling mellanhallen)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27908279@laget.se
+SUMMARY:F2017 Röd vs Vakant
+DTSTAMP:20250324T073310Z
+DTSTART:20250330T070000Z
+DTEND:20250330T123000Z
+DESCRIPTION:Samlingstid\n2025-03-30 08:40\nÖvrig info\nSamling 08:40.\nMedt
+	ag utomhusskor\, matchtröja\, benskydd och vattenflaska.\nMer info kommer.
+	\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Game/552725/1
+	1584239
+LOCATION:ASPUDDENS IP
+CATEGORIES:Match,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27923793@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250401T143000Z
+DTEND:20250401T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-04-01 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27562429@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250405T110000Z
+DTEND:20250405T120000Z
+DESCRIPTION:Samlingstid\n2025-04-05 12:45\nÖvrig info\nTa med inomhusskor\,
+	 benskydd och vattenflaska
+LOCATION:Aspuddens Skola (Samling mellanhallen)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27923794@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250408T143000Z
+DTEND:20250408T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-04-08 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27904643@laget.se
+SUMMARY:F2017 Röd vs Vakant
+DTSTAMP:20250324T073310Z
+DTSTART:20250412T070000Z
+DTEND:20250412T090000Z
+DESCRIPTION:Samlingstid\n2025-04-12 08:40\nÖvrig info\nMinicup. Mer info ko
+	mmer.\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Game/552
+	725/11583390
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, nya sjumanna)
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27562430@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250412T110000Z
+DTEND:20250412T120000Z
+DESCRIPTION:Samlingstid\n2025-04-12 12:45\nÖvrig info\nTa med inomhusskor\,
+	 benskydd och vattenflaska
+LOCATION:Aspuddens Skola (Samling mellanhallen)
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27923795@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250415T143000Z
+DTEND:20250415T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-04-15 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27923796@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250422T143000Z
+DTEND:20250422T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-04-22 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951681@laget.se
+SUMMARY:F2017 Röd vs Hägersten SK
+DTSTAMP:20250324T073310Z
+DTSTART:20250426T083000Z
+DTEND:20250426T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11610891
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951694@laget.se
+SUMMARY:F2017 Röd vs Match Mälarhöjdens IK Fotboll Röd
+DTSTAMP:20250324T073310Z
+DTSTART:20250426T110000Z
+DTEND:20250426T130000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11610709
+LOCATION:Mälarhöjdens Skola BP 15
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27951707@laget.se
+SUMMARY:F2017 Röd vs Mälarhöjdens IK Fotboll Vit
+DTSTAMP:20250324T073310Z
+DTSTART:20250427T083000Z
+DTEND:20250427T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11610928
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27923797@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250429T143000Z
+DTEND:20250429T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-04-29 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951695@laget.se
+SUMMARY:F2017 Röd vs Reymersholms IK 2
+DTSTAMP:20250324T073310Z
+DTSTART:20250503T083000Z
+DTEND:20250503T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11610884
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951682@laget.se
+SUMMARY:F2017 Röd vs Match Reymersholms IK 1
+DTSTAMP:20250324T073310Z
+DTSTART:20250504T090000Z
+DTEND:20250504T110000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11610858
+LOCATION:Tantolundens BP 2
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27923798@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250506T143000Z
+DTEND:20250506T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-05-06 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951683@laget.se
+SUMMARY:F2017 Röd vs Mälarhöjdens IK Fotboll Vit
+DTSTAMP:20250324T073310Z
+DTSTART:20250510T073000Z
+DTEND:20250510T093000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611009
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951696@laget.se
+SUMMARY:F2017 Röd vs Match Rönninge Salem Fotboll Gul
+DTSTAMP:20250324T073310Z
+DTSTART:20250510T080000Z
+DTEND:20250510T100000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11610981
+LOCATION:Berga IP 125
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27951708@laget.se
+SUMMARY:F2017 Röd vs Match Sickla IF Grön
+DTSTAMP:20250324T073310Z
+DTSTART:20250510T080000Z
+DTEND:20250510T100000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611028
+LOCATION:Sicklavallen 15
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27923799@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250513T143000Z
+DTEND:20250513T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-05-13 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951709@laget.se
+SUMMARY:F2017 Röd vs Hammarby IF FF 6
+DTSTAMP:20250324T073310Z
+DTSTART:20250517T073000Z
+DTEND:20250517T093000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11610952
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951697@laget.se
+SUMMARY:F2017 Röd vs Hammarby IF FF 5
+DTSTAMP:20250324T073310Z
+DTSTART:20250518T083000Z
+DTEND:20250518T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611363
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951684@laget.se
+SUMMARY:F2017 Röd vs Match Tullinge Triangel Pojkar FK Vit
+DTSTAMP:20250324T073310Z
+DTSTART:20250518T090000Z
+DTEND:20250518T110000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611068
+LOCATION:Brantbrinks IP 225
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27923800@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250520T143000Z
+DTEND:20250520T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-05-20 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951685@laget.se
+SUMMARY:F2017 Röd vs IF Brommapojkarna F17-5
+DTSTAMP:20250324T073310Z
+DTSTART:20250524T073000Z
+DTEND:20250524T093000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611278
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951698@laget.se
+SUMMARY:F2017 Röd vs Match Värtans IK
+DTSTAMP:20250324T073310Z
+DTSTART:20250524T130000Z
+DTEND:20250524T150000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611048
+LOCATION:Hjorthagens IP 3
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27923801@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250527T143000Z
+DTEND:20250527T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-05-27 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951699@laget.se
+SUMMARY:F2017 Röd vs Stuvsta IF 1:1
+DTSTAMP:20250324T073310Z
+DTSTART:20250601T083000Z
+DTEND:20250601T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611109
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951686@laget.se
+SUMMARY:F2017 Röd vs Match IFK Lidingö FK 9
+DTSTAMP:20250324T073310Z
+DTSTART:20250601T100000Z
+DTEND:20250601T120000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611214
+LOCATION:Larsbergs BP 16
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27923802@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250603T143000Z
+DTEND:20250603T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-06-03 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951687@laget.se
+SUMMARY:F2017 Röd vs Stureby SK Vit
+DTSTAMP:20250324T073310Z
+DTSTART:20250607T073000Z
+DTEND:20250607T093000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611300
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951700@laget.se
+SUMMARY:F2017 Röd vs Match Gustavsbergs IF FK 2
+DTSTAMP:20250324T073310Z
+DTSTART:20250608T110000Z
+DTEND:20250608T130000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611367
+LOCATION:Farstaborg 2
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27923803@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250610T143000Z
+DTEND:20250610T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-06-10 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27923804@laget.se
+SUMMARY:F2017 Röd - Träning
+DTSTAMP:20250324T073310Z
+DTSTART:20250617T143000Z
+DTEND:20250617T154500Z
+DESCRIPTION:Samlingsinfo\nTräningen börjar 16:30\nSamlingstid\n2025-06-17 1
+	6:25\nÖvrig info\nTa med det vanliga - utomhusskor\, vattenflaska och bens
+	kydd. Kläder efter väder. \nSe till att tjejerna fått i sig lite mellanmål
+	 innan träning.
+LOCATION:ASPUDDENS IP (Aspuddens IP 2\, 7-manna)
+CATEGORIES:Träning,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951688@laget.se
+SUMMARY:F2017 Röd vs Match Saltsjöbadens IF Blå
+DTSTAMP:20250324T073310Z
+DTSTART:20250823T080000Z
+DTEND:20250823T100000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611362
+LOCATION:Saltsjöbadens IP 22
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27951710@laget.se
+SUMMARY:F2017 Röd vs Match Stuvsta IF 2:1
+DTSTAMP:20250324T073310Z
+DTSTART:20250823T130000Z
+DTEND:20250823T150000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611391
+LOCATION:Stuvsta IP 2
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27951701@laget.se
+SUMMARY:F2017 Röd vs AIK FF 3
+DTSTAMP:20250324T073310Z
+DTSTART:20250824T083000Z
+DTEND:20250824T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611609
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951689@laget.se
+SUMMARY:F2017 Röd vs Rönninge Salem Fotboll Svart
+DTSTAMP:20250324T073310Z
+DTSTART:20250830T073000Z
+DTEND:20250830T093000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611599
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951702@laget.se
+SUMMARY:F2017 Röd vs Match Älvsjö AIK FF 2
+DTSTAMP:20250324T073310Z
+DTSTART:20250830T090000Z
+DTEND:20250830T110000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611357
+LOCATION:Älvsjö IP 52
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27951711@laget.se
+SUMMARY:F2017 Röd vs IF Brommapojkarna F17-4
+DTSTAMP:20250324T073310Z
+DTSTART:20250831T083000Z
+DTEND:20250831T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611509
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951703@laget.se
+SUMMARY:F2017 Röd vs IF Brommapojkarna F17-6
+DTSTAMP:20250324T073310Z
+DTSTART:20250906T073000Z
+DTEND:20250906T093000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611520
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951690@laget.se
+SUMMARY:F2017 Röd vs Match Spånga IS FK 33
+DTSTAMP:20250324T073310Z
+DTSTART:20250906T130000Z
+DTEND:20250906T150000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611420
+LOCATION:Nälsta BP 125
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27951704@laget.se
+SUMMARY:F2017 Röd vs Match Älta IF röd
+DTSTAMP:20250324T073310Z
+DTSTART:20250913T080000Z
+DTEND:20250913T100000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611336
+LOCATION:Älta IP 126
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27951712@laget.se
+SUMMARY:F2017 Röd vs Match Spånga IS FK 2
+DTSTAMP:20250324T073310Z
+DTSTART:20250913T130000Z
+DTEND:20250913T150000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611579
+LOCATION:Nälsta BP 125
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27951691@laget.se
+SUMMARY:F2017 Röd vs Täby FK 41
+DTSTAMP:20250324T073310Z
+DTSTART:20250914T083000Z
+DTEND:20250914T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611670
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951705@laget.se
+SUMMARY:F2017 Röd vs Huddinge IF 1
+DTSTAMP:20250324T073310Z
+DTSTART:20250920T073000Z
+DTEND:20250920T093000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611708
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951692@laget.se
+SUMMARY:F2017 Röd vs Match Hässelby SK FF F17
+DTSTAMP:20250324T073310Z
+DTSTART:20250920T110000Z
+DTEND:20250920T130000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611466
+LOCATION:Hässelby IP 225
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27951693@laget.se
+SUMMARY:F2017 Röd vs Ängby IF Grön 1
+DTSTAMP:20250324T073310Z
+DTSTART:20250928T083000Z
+DTEND:20250928T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611703
+LOCATION:Aspuddens IP 25
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:27951706@laget.se
+SUMMARY:F2017 Röd vs Match Boo FF F17:3
+DTSTAMP:20250324T073310Z
+DTSTART:20250928T103000Z
+DTEND:20250928T123000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/F2017R/Division/Ga
+	me/553305/11611719
+LOCATION:Boovallen 2161
+CATEGORIES:Match,Away
+END:VEVENT
+END:VCALENDAR

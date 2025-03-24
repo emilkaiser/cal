@@ -1,0 +1,1302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:27204085@laget.se
+SUMMARY:P2013 Blå vs Match Ekerö IK Blå
+DTSTAMP:20250324T073311Z
+DTSTART:20250201T150000Z
+DTEND:20250201T170000Z
+DESCRIPTION:Samlingsinfo\nI hallen\nSamlingstid\n2025-02-01 15:30\n\nLäs me
+	r om matchen\nhttps://www.laget.se/P2013bla/Division/Game/544971/11378925
+LOCATION:Stenhamraskolan
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27204052@laget.se
+SUMMARY:P2013 Blå vs Match Hammarby IF FF 5
+DTSTAMP:20250324T073311Z
+DTSTART:20250202T120000Z
+DTEND:20250202T140000Z
+DESCRIPTION:Samlingsinfo\nI hallen\nSamlingstid\n2025-02-02 12:30\n\nLäs me
+	r om matchen\nhttps://www.laget.se/P2013bla/Division/Game/544969/11378831
+LOCATION:Gubbängshallen
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27728444@laget.se
+SUMMARY:P2013 Blå - Genomgång för Domare
+DTSTAMP:20250324T073311Z
+DTSTART:20250202T180000Z
+DTEND:20250202T190000Z
+DESCRIPTION:Samlingsinfo\nI hallen\nSamlingstid\n2025-02-02 18:50\nÖvrig in
+	fo\nVi kallar de spelare som skall delta i sommarens Gothia Cup. Dessa kom
+	mer att engageras som Domare i samband med Cupen som vi anordnar i slutet 
+	på Mars för att samla in pengar. Viktigt att så många av våra Gothiaspelar
+	e som möjligt deltar!\n\nOrdinarie träning denna vecka ställs in\, så övri
+	ga spelare för ledigt denna kväll.
+LOCATION:Hägerstenshamnens skola
+CATEGORIES:Övrig aktivitet,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27516855@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250206T164500Z
+DTEND:20250206T180000Z
+DESCRIPTION:Samlingstid\n2025-02-06 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27204053@laget.se
+SUMMARY:P2013 Blå vs Match Essinge IK Svart
+DTSTAMP:20250324T073311Z
+DTSTART:20250208T080000Z
+DTEND:20250208T100000Z
+DESCRIPTION:Samlingsinfo\nI hallen\nSamlingstid\n2025-02-08 08:30\n\nLäs me
+	r om matchen\nhttps://www.laget.se/P2013bla/Division/Game/544969/11378744
+LOCATION:Skärholmshallen 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27204086@laget.se
+SUMMARY:P2013 Blå vs Örby IS Röd
+DTSTAMP:20250324T073311Z
+DTSTART:20250209T100000Z
+DTEND:20250209T120000Z
+DESCRIPTION:Samlingsinfo\nI hallen\nSamlingstid\n2025-02-09 10:30\n\nLäs me
+	r om matchen\nhttps://www.laget.se/P2013bla/Division/Game/544971/11379048
+LOCATION:Vintervikshallen
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27516824@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250211T163000Z
+DTEND:20250211T180000Z
+DESCRIPTION:Samlingstid\n2025-02-11 17:20\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27516856@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250213T164500Z
+DTEND:20250213T180000Z
+DESCRIPTION:Samlingstid\n2025-02-13 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27356242@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250214T161500Z
+DTEND:20250214T173000Z
+DESCRIPTION:Samlingsinfo\nI hallen\nSamlingstid\n2025-02-14 17:10\nÖvrig in
+	fo\nInomhus\, glöm ej vattenflaska och benskydd.
+LOCATION:Hägerstenshamnens skola
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27204054@laget.se
+SUMMARY:P2013 Blå vs Spånga IS FK 11
+DTSTAMP:20250324T073311Z
+DTSTART:20250215T120000Z
+DTEND:20250215T140000Z
+DESCRIPTION:Samlingsinfo\nI hallen\nSamlingstid\n2025-02-15 12:30\n\nLäs me
+	r om matchen\nhttps://www.laget.se/P2013bla/Division/Game/544969/11378795
+LOCATION:Liljeholmshallen 2
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27204087@laget.se
+SUMMARY:P2013 Blå vs Match Konyaspor Kultur och IF 2013 Blå
+DTSTAMP:20250324T073311Z
+DTSTART:20250216T090000Z
+DTEND:20250216T110000Z
+DESCRIPTION:Samlingsinfo\nI hallen\nSamlingstid\n2025-02-16 09:30\n\nLäs me
+	r om matchen\nhttps://www.laget.se/P2013bla/Division/Game/544971/11378953
+LOCATION:Botkyrkahallen 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27516857@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250220T164500Z
+DTEND:20250220T180000Z
+DESCRIPTION:Samlingstid\n2025-02-20 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27356243@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250221T161500Z
+DTEND:20250221T173000Z
+DESCRIPTION:Samlingsinfo\nI hallen\nSamlingstid\n2025-02-21 17:10\nÖvrig in
+	fo\nInomhus\, glöm ej vattenflaska och benskydd.
+LOCATION:Hägerstenshamnens skola
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27833741@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250224T110000Z
+DTEND:20250224T130000Z
+DESCRIPTION:\nÖvrig info\nLovträning tillsammans med våra kompisar i lag sv
+	art. Deras ledare håller i träningen. Alla p2013 spelare i klubben är välk
+	omna. Tag chansen\, dessa träningar brukar vara väldigt bra.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27833748@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250225T110000Z
+DTEND:20250225T130000Z
+DESCRIPTION:\nÖvrig info\nLovträning tillsammans med våra kompisar i lag sv
+	art. Deras ledare håller i träningen. Alla p2013 spelare i klubben är välk
+	omna. Tag chansen\, dessa träningar brukar vara väldigt bra.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27516826@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250225T163000Z
+DTEND:20250225T180000Z
+DESCRIPTION:Samlingstid\n2025-02-25 17:20\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27833754@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250226T110000Z
+DTEND:20250226T130000Z
+DESCRIPTION:\nÖvrig info\nLovträning tillsammans med våra kompisar i lag sv
+	art. Deras ledare håller i träningen. Alla p2013 spelare i klubben är välk
+	omna. Tag chansen\, dessa träningar brukar vara väldigt bra.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27833758@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250227T110000Z
+DTEND:20250227T130000Z
+DESCRIPTION:\nÖvrig info\nLovträning tillsammans med våra kompisar i lag sv
+	art. Deras ledare håller i träningen. Alla p2013 spelare i klubben är välk
+	omna. Tag chansen\, dessa träningar brukar vara väldigt bra.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27833802@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250228T110000Z
+DTEND:20250228T130000Z
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27516827@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250304T163000Z
+DTEND:20250304T180000Z
+DESCRIPTION:Samlingstid\n2025-03-04 17:20\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27516859@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250306T164500Z
+DTEND:20250306T180000Z
+DESCRIPTION:Samlingstid\n2025-03-06 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27728343@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250307T160000Z
+DTEND:20250307T173000Z
+DESCRIPTION:Samlingstid\n2025-03-07 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå delar också. \n\nKläder efter väder\, glöm inte benskydd och vattenf
+	laska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27808899@laget.se
+SUMMARY:P2013 Blå vs Segeltorps IF
+DTSTAMP:20250324T073311Z
+DTSTART:20250309T093000Z
+DTEND:20250309T110000Z
+DESCRIPTION:Samlingstid\n2025-03-09 10:00\n\nLäs mer om matchen\nhttps://ww
+	w.laget.se/P2013bla/Division/Game/550957/11515726
+LOCATION:ASPUDDENS IP (Stor 7 vs 7\, hörnet mot läktaren och basketplanen)
+CATEGORIES:Match,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27516828@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250311T163000Z
+DTEND:20250311T180000Z
+DESCRIPTION:Samlingstid\n2025-03-11 17:20\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27516860@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250313T164500Z
+DTEND:20250313T180000Z
+DESCRIPTION:Samlingstid\n2025-03-13 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27895179@laget.se
+SUMMARY:P2013 Blå - Tränarmöte
+DTSTAMP:20250324T073311Z
+DTSTART:20250313T180000Z
+DTEND:20250313T193000Z
+DESCRIPTION:\nÖvrig info\nTänkt agenda:\n\n1. Komma överens om hur vi vill 
+	att laget ska spela. \n2. Roller\n3. Samarbete med Svart\n4. Föräldramöte\
+	n5. Övriga punkter
+LOCATION:ASPUDDENS IP (Klubbhuset )
+CATEGORIES:Övrig aktivitet,Möte,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27728344@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250314T160000Z
+DTEND:20250314T173000Z
+DESCRIPTION:Samlingstid\n2025-03-14 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27834126@laget.se
+SUMMARY:P2013 Blå vs Gustavsbergs IF Fotboll
+DTSTAMP:20250324T073311Z
+DTSTART:20250315T090000Z
+DTEND:20250315T110000Z
+DESCRIPTION:Samlingsinfo\nVid Linnea\nSamlingstid\n2025-03-15 09:30\nÖvrig 
+	info\nBokades 23 Feb.\nStor 7-manna\, på avsedd yta\; mot basketplan och l
+	äktaren\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/Game
+	/550957/11524561
+LOCATION:ASPUDDENS IP (Stor 7-manna\, på avsedd yta\; mot basketplan och lä
+	ktaren)
+CATEGORIES:Match,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27834131@laget.se
+SUMMARY:P2013 Blå vs Gröndals IK
+DTSTAMP:20250324T073311Z
+DTSTART:20250316T143000Z
+DTEND:20250316T160000Z
+DESCRIPTION:Samlingsinfo\nVid Linnea\nSamlingstid\n2025-03-16 15:00\nÖvrig 
+	info\nBokades den 23 Feb\n\nLäs mer om matchen\nhttps://www.laget.se/P2013
+	bla/Division/Game/550957/11524563
+LOCATION:ASPUDDENS IP (Stor 7-manna\, på avsedd yta\; mot basketplan och lä
+	ktaren)
+CATEGORIES:Match,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27516829@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250318T164500Z
+DTEND:20250318T181500Z
+DESCRIPTION:Samlingstid\n2025-03-18 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27516861@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250320T164500Z
+DTEND:20250320T180000Z
+DESCRIPTION:Samlingstid\n2025-03-20 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27902407@laget.se
+SUMMARY:P2013 Blå - Ledarmöte P2013
+DTSTAMP:20250324T073311Z
+DTSTART:20250320T180000Z
+DTEND:20250320T193000Z
+LOCATION:ASPUDDENS IP (Klubbhuset )
+CATEGORIES:Övrig aktivitet,Möte,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27728345@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250321T160000Z
+DTEND:20250321T173000Z
+DESCRIPTION:Samlingstid\n2025-03-21 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27892597@laget.se
+SUMMARY:P2013 Blå vs Segeltorps IF
+DTSTAMP:20250324T073311Z
+DTSTART:20250322T080000Z
+DTEND:20250322T093000Z
+DESCRIPTION:Samlingsinfo\nVid spelplatsen\nSamlingstid\n2025-03-22 08:30\n\
+	nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/Game/550957/11
+	570730
+LOCATION:Segeltorps IP
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27516830@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250325T164500Z
+DTEND:20250325T180000Z
+DESCRIPTION:Samlingstid\n2025-03-25 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27516862@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250327T164500Z
+DTEND:20250327T180000Z
+DESCRIPTION:Samlingstid\n2025-03-27 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27728346@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250328T160000Z
+DTEND:20250328T173000Z
+DESCRIPTION:Samlingstid\n2025-03-28 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27892542@laget.se
+SUMMARY:P2013 Blå vs Stureby SK
+DTSTAMP:20250324T073311Z
+DTSTART:20250329T083000Z
+DTEND:20250329T100000Z
+DESCRIPTION:Samlingsinfo\nVid Linnea\nSamlingstid\n2025-03-29 09:00\n\nLäs 
+	mer om matchen\nhttps://www.laget.se/P2013bla/Division/Game/550957/1157072
+	2
+LOCATION:ASPUDDENS IP (Stor 7 vs 7\, hörnet mot läktaren och basketplanen)
+CATEGORIES:Match,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27847444@laget.se
+SUMMARY:P2013 Blå - Bokning av klubbhuset inför cup
+DTSTAMP:20250324T073311Z
+DTSTART:20250329T110000Z
+DTEND:20250329T220000Z
+DESCRIPTION:\nÖvrig info\nVi bokar klubbhuset för att ordna med förberedels
+	er inför cupen som vi arrangerar dagen efter\, söndag 30 mars\, på Aspudde
+	ns IP.
+LOCATION:ASPUDDENS IP (KLUBBHUSET)
+CATEGORIES:Övrig aktivitet,Cup,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27617122@laget.se
+SUMMARY:P2013 Blå - Bokning av klubbhuset under cup
+DTSTAMP:20250324T073311Z
+DTSTART:20250329T230000Z
+DTEND:20250330T230000Z
+DESCRIPTION:\nÖvrig info\nP2013 Blå arrangerar cup hela dagen på 11-mannapl
+	anen och behöver tillgång till klubbhuset hela dagen för att kunna laga ma
+	t\, förvara saker mm.
+LOCATION:ASPUDDENS IP (KLUBBHUSET)
+CATEGORIES:Övrig aktivitet,Cup,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27968725@laget.se
+SUMMARY:P2013 Blå - Domare till vår cup
+DTSTAMP:20250324T073311Z
+DTSTART:20250330T060000Z
+DTEND:20250330T160000Z
+DESCRIPTION:Samlingstid\n2025-03-30 07:30\nÖvrig info\nHej\, vi skickar en 
+	kallelse till alla spelare som ska döma under vår cup. Mer detaljerad info
+	 kommer under veckan\,
+LOCATION:ASPUDDENS IP (Hela IP)
+CATEGORIES:Övrig aktivitet,Cup,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27968901@laget.se
+SUMMARY:P2013 Blå - Assistera under vår Cup
+DTSTAMP:20250324T073311Z
+DTSTART:20250330T060000Z
+DTEND:20250330T160000Z
+DESCRIPTION:Samlingstid\n2025-03-30 07:30\nÖvrig info\nVi kallar spelare fö
+	r att hjälpa till under den cup vi anordnar. Mer info kommer under veckan.
+LOCATION:ASPUDDENS IP (Hela IP)
+CATEGORIES:Övrig aktivitet,Cup,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27483993@laget.se
+SUMMARY:P2013 Blå vs Match Aspudden Cup 2025
+DTSTAMP:20250324T073311Z
+DTSTART:20250330T060000Z
+DTEND:20250330T150000Z
+DESCRIPTION:\nÖvrig info\nP2013 Blå arrangerar 5v5-cup på både 11-mannaplan
+	en och 7-mannaplanen\, planerat är hela dagen.\n\nLäs mer om matchen\nhttp
+	s://www.laget.se/P2013bla/Division/Game/548475/11458288
+LOCATION:ASPUDDENS IP (Båda planerna. 11-mannaplanen och 7-mannaplanen (vi 
+	arrangerar cup hela dagen))
+CATEGORIES:Match,Away,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27907491@laget.se
+SUMMARY:P2013 Blå - Föräldrar som arbetar på vår Cup
+DTSTAMP:20250324T073311Z
+DTSTART:20250330T060000Z
+DTEND:20250330T160000Z
+DESCRIPTION:\nÖvrig info\nHej alla\,\n\nVi gör en kallelse till samtliga fö
+	räldrar i laget\, nu när vi öppnat upp cupen för hela laget och kommer för
+	 fördela intäkterna över hela laget\; enligt tidigare utskick. \n\nDenna k
+	allelse går till alla föräldrar även de som redan är engagerade via WhatsA
+	pp grupper eller svar på det tidigare utskicket. Vi vill be om att alla sv
+	arar igen\, bara så att vi enklare får en tydlig bild av hur många vuxna s
+	om kan delta. OBS - Det är av största vikt att vi blir så många som möjlig
+	t så att arrangemanget flyter så smidigt som möjligt. För bästa resultat r
+	äknar vi med att vi bör vara runt 40 vuxna på plats under dagen. 20 - 25 s
+	om kan engageras i fik\, kansli och loppis. Sedan behöver vi 8 matchvärdar
+	 både för och eftermiddag. När ni svarar\; kommentera då om ni kan vara me
+	d hela dagen eller bara för el. eftermiddag. Vi vill verkligen trycka på b
+	ehovet av att alla verkligen försöker delta. Det är för våra spelares skul
+	l. \n\nStort tack!\n// Arrangörsgruppen.
+LOCATION:ASPUDDENS IP (Hela IP)
+CATEGORIES:Övrig aktivitet,Cup,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932033@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250401T154500Z
+DTEND:20250401T170000Z
+DESCRIPTION:Samlingstid\n2025-04-01 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932049@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250403T154500Z
+DTEND:20250403T170000Z
+DESCRIPTION:Samlingstid\n2025-04-03 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932062@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250404T150000Z
+DTEND:20250404T163000Z
+DESCRIPTION:Samlingstid\n2025-04-04 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932034@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250408T154500Z
+DTEND:20250408T170000Z
+DESCRIPTION:Samlingstid\n2025-04-08 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932050@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250410T154500Z
+DTEND:20250410T170000Z
+DESCRIPTION:Samlingstid\n2025-04-10 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932063@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250411T150000Z
+DTEND:20250411T163000Z
+DESCRIPTION:Samlingstid\n2025-04-11 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932035@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250415T154500Z
+DTEND:20250415T170000Z
+DESCRIPTION:Samlingstid\n2025-04-15 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932051@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250417T154500Z
+DTEND:20250417T170000Z
+DESCRIPTION:Samlingstid\n2025-04-17 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932064@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250418T150000Z
+DTEND:20250418T163000Z
+DESCRIPTION:Samlingstid\n2025-04-18 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932036@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250422T154500Z
+DTEND:20250422T170000Z
+DESCRIPTION:Samlingstid\n2025-04-22 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932052@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250424T154500Z
+DTEND:20250424T170000Z
+DESCRIPTION:Samlingstid\n2025-04-24 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932065@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250425T150000Z
+DTEND:20250425T163000Z
+DESCRIPTION:Samlingstid\n2025-04-25 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27942458@laget.se
+SUMMARY:P2013 Blå vs Karlbergs BK Grön
+DTSTAMP:20250324T073311Z
+DTSTART:20250427T070000Z
+DTEND:20250427T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626338
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27942443@laget.se
+SUMMARY:P2013 Blå vs Match Mälarhöjden-Hägersten FF Grön
+DTSTAMP:20250324T073311Z
+DTSTART:20250427T121500Z
+DTEND:20250427T141500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11624664
+LOCATION:Hägerstensåsens BP 2
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27932037@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250429T154500Z
+DTEND:20250429T170000Z
+DESCRIPTION:Samlingstid\n2025-04-29 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932053@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250501T154500Z
+DTEND:20250501T170000Z
+DESCRIPTION:Samlingstid\n2025-05-01 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932066@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250502T150000Z
+DTEND:20250502T163000Z
+DESCRIPTION:Samlingstid\n2025-05-02 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27942444@laget.se
+SUMMARY:P2013 Blå vs Örby IS Röd
+DTSTAMP:20250324T073311Z
+DTSTART:20250503T083000Z
+DTEND:20250503T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11624697
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27942459@laget.se
+SUMMARY:P2013 Blå vs Match Segeltorps Idrottsförening Fotboll Mörkblå
+DTSTAMP:20250324T073311Z
+DTSTART:20250503T103000Z
+DTEND:20250503T123000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626307
+LOCATION:Segeltorps IP 2
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942475@laget.se
+SUMMARY:P2013 Blå vs Match Vallentuna BK 4
+DTSTAMP:20250324T073311Z
+DTSTART:20250504T083000Z
+DTEND:20250504T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553385/11627287
+LOCATION:Vallentuna IP 32
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27932038@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250506T154500Z
+DTEND:20250506T170000Z
+DESCRIPTION:Samlingstid\n2025-05-06 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932054@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250508T154500Z
+DTEND:20250508T170000Z
+DESCRIPTION:Samlingstid\n2025-05-08 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932067@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250509T150000Z
+DTEND:20250509T163000Z
+DESCRIPTION:Samlingstid\n2025-05-09 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27942445@laget.se
+SUMMARY:P2013 Blå vs Match IF Brommapojkarna 2013-15
+DTSTAMP:20250324T073311Z
+DTSTART:20250511T083000Z
+DTEND:20250511T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11624861
+LOCATION:Stora Mossens IP 3
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942460@laget.se
+SUMMARY:P2013 Blå vs Stuvsta IF 2:3
+DTSTAMP:20250324T073311Z
+DTSTART:20250511T083000Z
+DTEND:20250511T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626473
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27932039@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250513T154500Z
+DTEND:20250513T170000Z
+DESCRIPTION:Samlingstid\n2025-05-13 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932055@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250515T154500Z
+DTEND:20250515T170000Z
+DESCRIPTION:Samlingstid\n2025-05-15 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932068@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250516T150000Z
+DTEND:20250516T163000Z
+DESCRIPTION:Samlingstid\n2025-05-16 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27942461@laget.se
+SUMMARY:P2013 Blå vs Match Fittja IF 1
+DTSTAMP:20250324T073311Z
+DTSTART:20250517T081500Z
+DTEND:20250517T101500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626256
+LOCATION:Fittja BP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942446@laget.se
+SUMMARY:P2013 Blå vs Stureby SK Vit
+DTSTAMP:20250324T073311Z
+DTSTART:20250517T083000Z
+DTEND:20250517T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11625151
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27942476@laget.se
+SUMMARY:P2013 Blå vs Skå IK & Bygdegård Gul
+DTSTAMP:20250324T073311Z
+DTSTART:20250518T070000Z
+DTEND:20250518T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553385/11627314
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27932040@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250520T154500Z
+DTEND:20250520T170000Z
+DESCRIPTION:Samlingstid\n2025-05-20 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932056@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250522T154500Z
+DTEND:20250522T170000Z
+DESCRIPTION:Samlingstid\n2025-05-22 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932069@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250523T150000Z
+DTEND:20250523T163000Z
+DESCRIPTION:Samlingstid\n2025-05-23 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27942447@laget.se
+SUMMARY:P2013 Blå vs Match Sollentuna FK VAX 2
+DTSTAMP:20250324T073311Z
+DTSTART:20250524T093000Z
+DTEND:20250524T113000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11625276
+LOCATION:Kärrdals BP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942462@laget.se
+SUMMARY:P2013 Blå vs Newroz FC
+DTSTAMP:20250324T073311Z
+DTSTART:20250525T070000Z
+DTEND:20250525T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626581
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27932041@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250527T154500Z
+DTEND:20250527T170000Z
+DESCRIPTION:Samlingstid\n2025-05-27 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932057@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250529T154500Z
+DTEND:20250529T170000Z
+DESCRIPTION:Samlingstid\n2025-05-29 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932070@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250530T150000Z
+DTEND:20250530T163000Z
+DESCRIPTION:Samlingstid\n2025-05-30 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27942448@laget.se
+SUMMARY:P2013 Blå vs Arameisk-Syrianska IF 1 Gul
+DTSTAMP:20250324T073311Z
+DTSTART:20250531T070000Z
+DTEND:20250531T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11625396
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27942463@laget.se
+SUMMARY:P2013 Blå vs Match Djurgårdens IF FF 9 Röd
+DTSTAMP:20250324T073311Z
+DTSTART:20250601T064500Z
+DTEND:20250601T084500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626408
+LOCATION:Essinge IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27932042@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250603T154500Z
+DTEND:20250603T170000Z
+DESCRIPTION:Samlingstid\n2025-06-03 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932058@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250605T154500Z
+DTEND:20250605T170000Z
+DESCRIPTION:Samlingstid\n2025-06-05 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932071@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250606T150000Z
+DTEND:20250606T163000Z
+DESCRIPTION:Samlingstid\n2025-06-06 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27942449@laget.se
+SUMMARY:P2013 Blå vs Match Saltsjöbadens IF Blå
+DTSTAMP:20250324T073311Z
+DTSTART:20250607T070000Z
+DTEND:20250607T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11625190
+LOCATION:Saltsjöbadens IP 11
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942477@laget.se
+SUMMARY:P2013 Blå vs Match Sköndals IK FK Vit
+DTSTAMP:20250324T073311Z
+DTSTART:20250607T093000Z
+DTEND:20250607T113000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553385/11627037
+LOCATION:Sandåkra BP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942464@laget.se
+SUMMARY:P2013 Blå vs Hässelby SK FF P13 Röd
+DTSTAMP:20250324T073311Z
+DTSTART:20250608T070000Z
+DTEND:20250608T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626786
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27932043@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250610T154500Z
+DTEND:20250610T170000Z
+DESCRIPTION:Samlingstid\n2025-06-10 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932059@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250612T154500Z
+DTEND:20250612T170000Z
+DESCRIPTION:Samlingstid\n2025-06-12 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932072@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250613T150000Z
+DTEND:20250613T163000Z
+DESCRIPTION:Samlingstid\n2025-06-13 16:45\nÖvrig info\nTräning tillsammans 
+	med Lag Svart. Vi vill föra lagen närmare varandra och hoppas att många ta
+	r chansen att komma på våra gemensamma fredagsträningar framåt. Ledare frå
+	n Blå deltar också. \n\nKläder efter väder\, glöm inte benskydd och vatten
+	flaska
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932044@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250617T154500Z
+DTEND:20250617T170000Z
+DESCRIPTION:Samlingstid\n2025-06-17 17:35\nÖvrig info\nTräning ute - kläder
+	 efter väder. Glöm ej benskydd och vattenflaska.
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27932060@laget.se
+SUMMARY:P2013 Blå - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250619T154500Z
+DTEND:20250619T170000Z
+DESCRIPTION:Samlingstid\n2025-06-19 17:35
+LOCATION:ASPUDDENS IP
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27921300@laget.se
+SUMMARY:P2013 Blå - Gothia Cup
+DTSTAMP:20250324T073311Z
+DTSTART:20250713T140000Z
+DTEND:20250719T160000Z
+DESCRIPTION:\nÖvrig info\nHej alla\, \n\nDet är dags för oss att skicka in 
+	ett slutligt spelarunderlag till arrangören nu\, och jag skickar därför en
+	 kallelse till alla som anmält att ni skall delta. Jag vill be samtliga sv
+	ara på kallelsen och bekräfta ert deltagande\, det är enklaste sätter för 
+	oss att veta att inget har ändrats. För att jag och Jens skall kunna uppda
+	tera våra respektive lag så vill vi be om att ni svarar senast under komma
+	nde vecka. Stort tack för er hjälp med detta!\n\nHar ni några frågor kan a
+	nmälan tveka inte att höra ar er till någon av oss tränare. Vi kommer seda
+	n att återkomma med både information och inför-möten så att allt skall fly
+	ta smidigt när vi väl åker. \n\nMvh\n// Mats
+LOCATION:Göteborg med omnejd
+CATEGORIES:Övrig aktivitet,Cup,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942450@laget.se
+SUMMARY:P2013 Blå vs Stuvsta IF 1:2
+DTSTAMP:20250324T073311Z
+DTSTART:20250823T070000Z
+DTEND:20250823T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11625375
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27942478@laget.se
+SUMMARY:P2013 Blå vs Täby FK 52
+DTSTAMP:20250324T073311Z
+DTSTART:20250824T070000Z
+DTEND:20250824T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553385/11627086
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27942465@laget.se
+SUMMARY:P2013 Blå vs Match Vasalund IF U2
+DTSTAMP:20250324T073311Z
+DTSTART:20250824T083000Z
+DTEND:20250824T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626866
+LOCATION:Råstasjön 12 (T4)
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942479@laget.se
+SUMMARY:P2013 Blå vs Match Sollentuna FK KDL 2
+DTSTAMP:20250324T073311Z
+DTSTART:20250830T093000Z
+DTEND:20250830T113000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553385/11627313
+LOCATION:Kärrdals BP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942466@laget.se
+SUMMARY:P2013 Blå vs Gröndals IK Vit
+DTSTAMP:20250324T073311Z
+DTSTART:20250831T083000Z
+DTEND:20250831T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626887
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27942451@laget.se
+SUMMARY:P2013 Blå vs Match Boo FF 4 2
+DTSTAMP:20250324T073311Z
+DTSTART:20250831T150000Z
+DTEND:20250831T170000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11625841
+LOCATION:Boovallen 21
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942467@laget.se
+SUMMARY:P2013 Blå vs Match FK Bromma Vit
+DTSTAMP:20250324T073311Z
+DTSTART:20250905T153000Z
+DTEND:20250905T173000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626889
+LOCATION:Ängby Södra BP 11
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942452@laget.se
+SUMMARY:P2013 Blå vs Reymersholms IK 10
+DTSTAMP:20250324T073311Z
+DTSTART:20250906T070000Z
+DTEND:20250906T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11625775
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27942480@laget.se
+SUMMARY:P2013 Blå vs Vendelsö IK Grön
+DTSTAMP:20250324T073311Z
+DTSTART:20250907T070000Z
+DTEND:20250907T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553385/11627438
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27942453@laget.se
+SUMMARY:P2013 Blå vs Match IFK Lidingö FK 11
+DTSTAMP:20250324T073311Z
+DTSTART:20250913T104500Z
+DTEND:20250913T124500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11626028
+LOCATION:hersby bp 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942468@laget.se
+SUMMARY:P2013 Blå vs Nockebyhovs IF 2
+DTSTAMP:20250324T073311Z
+DTSTART:20250914T083000Z
+DTEND:20250914T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626844
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27942454@laget.se
+SUMMARY:P2013 Blå vs Segeltorps Idrottsförening Fotboll Blå
+DTSTAMP:20250324T073311Z
+DTSTART:20250920T070000Z
+DTEND:20250920T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11626042
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27942469@laget.se
+SUMMARY:P2013 Blå vs Match Konyaspor Kultur och IF P2013Grö
+DTSTAMP:20250324T073311Z
+DTSTART:20250921T091500Z
+DTEND:20250921T111500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11626907
+LOCATION:Alby BP 11
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942455@laget.se
+SUMMARY:P2013 Blå vs Match Hammarby IF FF 4 vit
+DTSTAMP:20250324T073311Z
+DTSTART:20250928T081500Z
+DTEND:20250928T101500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553383/11626193
+LOCATION:Kärrtorps IP 32
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27942470@laget.se
+SUMMARY:P2013 Blå vs Örby IS Gul
+DTSTAMP:20250324T073311Z
+DTSTART:20250928T083000Z
+DTEND:20250928T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2013bla/Division/
+	Game/553384/11627109
+LOCATION:Aspuddens IP 12
+CATEGORIES:Match,Home,Aspuddens IP,Aspuddens IP 1
+END:VEVENT
+END:VCALENDAR

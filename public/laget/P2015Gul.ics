@@ -1,0 +1,810 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:27320316@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250202T125000Z
+DTEND:20250202T140000Z
+DESCRIPTION:Samlingstid\n2025-02-02 13:50\nÖvrig info\n Samling utanför övr
+	e hallen kl 13.50.\nBarnen behöver ha med sig VATTENFLASKA\, BENSKYDD och 
+	INOMHUSSKOR.\nSISTA ANMÄLAN SENAST FREDAG SAMMA VECKA!
+LOCATION:Aspuddens Skola
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27752074@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250203T160000Z
+DTEND:20250203T170000Z
+LOCATION:Västberga IP
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27759907@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250206T160000Z
+DTEND:20250206T170000Z
+LOCATION:Västberga IP
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27320317@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250209T125000Z
+DTEND:20250209T140000Z
+DESCRIPTION:Samlingstid\n2025-02-09 13:50\nÖvrig info\n Samling utanför övr
+	e hallen kl 13.50.\nBarnen behöver ha med sig VATTENFLASKA\, BENSKYDD och 
+	INOMHUSSKOR.\nSISTA ANMÄLAN SENAST FREDAG SAMMA VECKA!
+LOCATION:Aspuddens Skola
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27761811@laget.se
+SUMMARY:P2015 Gul - Föräldramöte
+DTSTAMP:20250324T073311Z
+DTSTART:20250210T180000Z
+DTEND:20250210T193000Z
+DESCRIPTION:\nÖvrig info\nHej alla föräldrar! \nVi hoppas att ni redan boka
+	t in dagen i era kalendrar men här kommer även tiden. \nVi siktar på att h
+	ålla möte ca 1 timme men säkrar upp ifall det finns behov att prata lite l
+	ängre :)\n\n\nhttps://teams.microsoft.com/l/meetup-join/19%3ameeting_MmE3M
+	GVmODgtMTEwMC00ZDhjLTg3MWQtODkyYzhhMjI2YmIy%40thread.v2/0?context=%7b%22Ti
+	d%22%3a%22e36726e9-4d94-4a77-be61-d4597f4acd02%22%2c%22Oid%22%3a%228769ca8
+	1-ea9f-420e-8c63-599f6d93428c%22%7d\n\n
+LOCATION:Digitalt - länk kommer
+CATEGORIES:Övrig aktivitet,Möte,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27785001@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250213T160000Z
+DTEND:20250213T170000Z
+LOCATION:Västberga IP
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27320318@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250216T125000Z
+DTEND:20250216T140000Z
+DESCRIPTION:Samlingstid\n2025-02-16 13:50\nÖvrig info\n Samling utanför övr
+	e hallen kl 13.50.\nBarnen behöver ha med sig VATTENFLASKA\, BENSKYDD och 
+	INOMHUSSKOR.\nSISTA ANMÄLAN SENAST FREDAG SAMMA VECKA!
+LOCATION:Aspuddens Skola
+CATEGORIES:Träning,Home,Aspuddens IP
+END:VEVENT
+BEGIN:VEVENT
+UID:27812821@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250222T163000Z
+DTEND:20250222T180000Z
+DESCRIPTION:Samlingstid\n2025-02-22 17:30\nÖvrig info\nMatch mot Jaguarerna
+	. \nSpelas inomhus så inomhusskor. \n\nSamling 17.30. Matchstart 17.50.\n\
+	n
+LOCATION:Västertorpshallen
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27831869@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250224T160000Z
+DTEND:20250224T170000Z
+DESCRIPTION:Samlingstid\n2025-02-24 16:55
+LOCATION:Västberga IP
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27859167@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250303T160000Z
+DTEND:20250303T170000Z
+DESCRIPTION:Samlingstid\n2025-03-03 16:50\nÖvrig info\nBenskydd\, vattenfla
+	ska & kläder efter väder!
+LOCATION:Västberga IP (Kvartsplan mot läktare/gula förskolan. )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27859228@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250306T160000Z
+DTEND:20250306T170000Z
+DESCRIPTION:Samlingstid\n2025-03-06 16:50\nÖvrig info\nBenskydd\, vattenfla
+	ska samt kläder efter väder!
+LOCATION:Västberga IP (Kvartsplan mot skola/idrottshall )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27819764@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250308T123000Z
+DTEND:20250308T134500Z
+DESCRIPTION:Samlingstid\n2025-03-08 13:00
+LOCATION:Västberga IP
+CATEGORIES:Övrig aktivitet,Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27859168@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250310T160000Z
+DTEND:20250310T170000Z
+DESCRIPTION:Samlingstid\n2025-03-10 16:50\nÖvrig info\nBenskydd\, vattenfla
+	ska & kläder efter väder!
+LOCATION:Västberga IP (Kvartsplan mot läktare/gula förskolan. )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27859229@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250313T160000Z
+DTEND:20250313T170000Z
+DESCRIPTION:Samlingstid\n2025-03-13 16:50\nÖvrig info\nBenskydd\, vattenfla
+	ska samt kläder efter väder!
+LOCATION:Västberga IP (Kvartsplan mot skola/idrottshall )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27819829@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250315T083000Z
+DTEND:20250315T101500Z
+LOCATION:Västberga IP
+CATEGORIES:Övrig aktivitet,Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906882@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250318T170000Z
+DTEND:20250318T181500Z
+DESCRIPTION:Samlingstid\n2025-03-18 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907365@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250320T153000Z
+DTEND:20250320T164500Z
+DESCRIPTION:Samlingstid\n2025-03-20 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27859304@laget.se
+SUMMARY:P2015 Gul - BURGARE & FOTBOLLSHÄNG
+DTSTAMP:20250324T073311Z
+DTSTART:20250320T171500Z
+DTEND:20250320T191500Z
+DESCRIPTION:\nÖvrig info\nSmarriga hamburgare & dryck till våra fotbollsbar
+	n! Ett tillfälle för våra fotbollsbarn att umgås utanför planen :) \n\nVi 
+	går tillsammans till bulten efter träning! \n\nFöräldrar och syskon är väl
+	komna om de vill.  \n\nFöräldrar och syskon som vill äta swishar 30 kr/per
+	son på plats (förutsätter att ni svarat ja på kallelsen så vi kan planera 
+	inköp).\n\nHämtning på Bulten senast kl. 20:15 \n\nFrågor: hör av er till 
+	Anna Öhr i WhatsApp gruppen eller direkt 076 797 31 52.
+LOCATION:Bulten fritids
+CATEGORIES:Övrig aktivitet,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906883@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250325T170000Z
+DTEND:20250325T181500Z
+DESCRIPTION:Samlingstid\n2025-03-25 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907366@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250327T153000Z
+DTEND:20250327T164500Z
+DESCRIPTION:Samlingstid\n2025-03-27 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27700431@laget.se
+SUMMARY:P2015 Gul - Intresseanmälan Reimers vårcup
+DTSTAMP:20250324T073311Z
+DTSTART:20250328T230000Z
+DTEND:20250329T230000Z
+DESCRIPTION:\nÖvrig info\nHej!\n\nReymers Vårcup spelas på Tantolundens BP 
+	lördagen 29/3- söndagen 30/3.\n\nDetta utskick är en intresseanmälan för a
+	tt vi ska kunna bedöma hur många lag vi ska anmäla - notera att vi inte än
+	nu vet exakt datum\, det blir antingen lördagen den 29e eller söndagen den
+	 30e mars. \n
+LOCATION:Tantolundens BP
+CATEGORIES:Övrig aktivitet,Cup,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27954273@laget.se
+SUMMARY:P2015 Gul - Reimers vårcup
+DTSTAMP:20250324T073311Z
+DTSTART:20250330T063000Z
+DTEND:20250330T113000Z
+DESCRIPTION:Samlingstid\n2025-03-30 08:30\nÖvrig info\nÄntligen dags för Re
+	imers vårcup :)\nOmbytta och klara vid samlingstid. Vattenflaska och kläde
+	r efter väder. \n\nAll info om cupen finns här: \n\nhttps://www.procup.se/
+	cup/38376.htm\n
+LOCATION:Tantolundens BP
+CATEGORIES:Övrig aktivitet,Cup,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27954286@laget.se
+SUMMARY:P2015 Gul - Reimers Vårcup
+DTSTAMP:20250324T073311Z
+DTSTART:20250330T110000Z
+DTEND:20250330T164500Z
+DESCRIPTION:Samlingstid\n2025-03-30 13:00\nÖvrig info\nÄntligen dags för Re
+	imers vårcup :)\nOmbytta och klara vid samlingstid. Vattenflaska och kläde
+	r efter väder. \n\nAll info om cupen finns här: \n\nhttps://www.procup.se/
+	cup/38376.htm\n
+LOCATION:Tantolundens BP
+CATEGORIES:Övrig aktivitet,Cup,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906884@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250401T160000Z
+DTEND:20250401T171500Z
+DESCRIPTION:Samlingstid\n2025-04-01 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907367@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250403T143000Z
+DTEND:20250403T154500Z
+DESCRIPTION:Samlingstid\n2025-04-03 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906885@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250408T160000Z
+DTEND:20250408T171500Z
+DESCRIPTION:Samlingstid\n2025-04-08 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907368@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250410T143000Z
+DTEND:20250410T154500Z
+DESCRIPTION:Samlingstid\n2025-04-10 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906886@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250415T160000Z
+DTEND:20250415T171500Z
+DESCRIPTION:Samlingstid\n2025-04-15 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907369@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250417T143000Z
+DTEND:20250417T154500Z
+DESCRIPTION:Samlingstid\n2025-04-17 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906887@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250422T160000Z
+DTEND:20250422T171500Z
+DESCRIPTION:Samlingstid\n2025-04-22 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907370@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250424T143000Z
+DTEND:20250424T154500Z
+DESCRIPTION:Samlingstid\n2025-04-24 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950821@laget.se
+SUMMARY:P2015 Gul vs Konyaspor Kultur och IF P2015Vit
+DTSTAMP:20250324T073311Z
+DTSTART:20250427T083000Z
+DTEND:20250427T103000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11631390
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950838@laget.se
+SUMMARY:P2015 Gul vs Match Newroz FC
+DTSTAMP:20250324T073311Z
+DTSTART:20250427T130000Z
+DTEND:20250427T150000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11633455
+LOCATION:Bredängs BP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906888@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250429T160000Z
+DTEND:20250429T171500Z
+DESCRIPTION:Samlingstid\n2025-04-29 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907371@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250501T143000Z
+DTEND:20250501T154500Z
+DESCRIPTION:Samlingstid\n2025-05-01 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950822@laget.se
+SUMMARY:P2015 Gul vs Match Rågsveds IF Grön 58
+DTSTAMP:20250324T073311Z
+DTSTART:20250503T093000Z
+DTEND:20250503T113000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11631271
+LOCATION:Hagsätra IP 22
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950839@laget.se
+SUMMARY:P2015 Gul vs Stuvsta IF 5:1
+DTSTAMP:20250324T073311Z
+DTSTART:20250504T093000Z
+DTEND:20250504T113000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11633428
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906889@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250506T160000Z
+DTEND:20250506T171500Z
+DESCRIPTION:Samlingstid\n2025-05-06 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907372@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250508T143000Z
+DTEND:20250508T154500Z
+DESCRIPTION:Samlingstid\n2025-05-08 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950823@laget.se
+SUMMARY:P2015 Gul vs IF Brommapojkarna P15-20
+DTSTAMP:20250324T073311Z
+DTSTART:20250511T104500Z
+DTEND:20250511T124500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11631810
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950840@laget.se
+SUMMARY:P2015 Gul vs Match Ursvik IK Svart
+DTSTAMP:20250324T073311Z
+DTSTART:20250511T104500Z
+DTEND:20250511T124500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11633664
+LOCATION:Örvallen 2
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906890@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250513T160000Z
+DTEND:20250513T171500Z
+DESCRIPTION:Samlingstid\n2025-05-13 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907373@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250515T143000Z
+DTEND:20250515T154500Z
+DESCRIPTION:Samlingstid\n2025-05-15 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950824@laget.se
+SUMMARY:P2015 Gul vs Match FC Kungsholmen Orange 2
+DTSTAMP:20250324T073311Z
+DTSTART:20250516T164500Z
+DTEND:20250516T184500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11631866
+LOCATION:Kristinebergs IP 2
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950841@laget.se
+SUMMARY:P2015 Gul vs IFK Lidingö FK 20
+DTSTAMP:20250324T073311Z
+DTSTART:20250518T081500Z
+DTEND:20250518T101500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11633706
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906891@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250520T160000Z
+DTEND:20250520T171500Z
+DESCRIPTION:Samlingstid\n2025-05-20 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907374@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250522T143000Z
+DTEND:20250522T154500Z
+DESCRIPTION:Samlingstid\n2025-05-22 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950825@laget.se
+SUMMARY:P2015 Gul vs Råsunda IS Vit
+DTSTAMP:20250324T073311Z
+DTSTART:20250524T104500Z
+DTEND:20250524T124500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11632062
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950842@laget.se
+SUMMARY:P2015 Gul vs Match IF Brommapojkarna P15-16
+DTSTAMP:20250324T073311Z
+DTSTART:20250525T144500Z
+DTEND:20250525T164500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11633605
+LOCATION:Stora Mossens IP 3
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906892@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250527T160000Z
+DTEND:20250527T171500Z
+DESCRIPTION:Samlingstid\n2025-05-27 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907375@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250529T143000Z
+DTEND:20250529T154500Z
+DESCRIPTION:Samlingstid\n2025-05-29 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950826@laget.se
+SUMMARY:P2015 Gul vs Match Hammarby IF FF 3 vit
+DTSTAMP:20250324T073311Z
+DTSTART:20250531T070000Z
+DTEND:20250531T090000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11632304
+LOCATION:Bagarmossens BP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950843@laget.se
+SUMMARY:P2015 Gul vs Fisksätra IF Rosa
+DTSTAMP:20250324T073311Z
+DTSTART:20250601T104500Z
+DTEND:20250601T124500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11633783
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906893@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250603T160000Z
+DTEND:20250603T171500Z
+DESCRIPTION:Samlingstid\n2025-06-03 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907376@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250605T143000Z
+DTEND:20250605T154500Z
+DESCRIPTION:Samlingstid\n2025-06-05 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950844@laget.se
+SUMMARY:P2015 Gul vs Match Älta IF blå
+DTSTAMP:20250324T073311Z
+DTSTART:20250607T081500Z
+DTEND:20250607T101500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11633893
+LOCATION:Älta IP 2
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950827@laget.se
+SUMMARY:P2015 Gul vs Stuvsta IF 1:1
+DTSTAMP:20250324T073311Z
+DTSTART:20250608T104500Z
+DTEND:20250608T124500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11632087
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27906894@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250610T160000Z
+DTEND:20250610T171500Z
+DESCRIPTION:Samlingstid\n2025-06-10 17:45\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd.
+LOCATION:Västberga IP (Kvartsplan Grus/skola (mot ICA) )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907377@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250612T143000Z
+DTEND:20250612T154500Z
+DESCRIPTION:Samlingstid\n2025-06-12 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27907378@laget.se
+SUMMARY:P2015 Gul - Träning
+DTSTAMP:20250324T073311Z
+DTSTART:20250619T143000Z
+DTEND:20250619T154500Z
+DESCRIPTION:Samlingstid\n2025-06-19 16:15\nÖvrig info\nKläder efter väder\,
+	 vattenflaska & benskydd!
+LOCATION:Västberga IP (Kvartsplan grus/läktare )
+CATEGORIES:Träning,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950828@laget.se
+SUMMARY:P2015 Gul vs Match Boo FF P15-i R1
+DTSTAMP:20250324T073311Z
+DTSTART:20250823T123000Z
+DTEND:20250823T143000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11632529
+LOCATION:Boovallen 226
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950845@laget.se
+SUMMARY:P2015 Gul vs Boo FF P15:6 3
+DTSTAMP:20250324T073311Z
+DTSTART:20250824T081500Z
+DTEND:20250824T101500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11634438
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950846@laget.se
+SUMMARY:P2015 Gul vs Match Karlbergs BK Svart 41
+DTSTAMP:20250324T073311Z
+DTSTART:20250830T093000Z
+DTEND:20250830T113000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11633773
+LOCATION:Stadshagens IP 3
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950829@laget.se
+SUMMARY:P2015 Gul vs AIK FF 9
+DTSTAMP:20250324T073311Z
+DTSTART:20250831T093000Z
+DTEND:20250831T113000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11632770
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950830@laget.se
+SUMMARY:P2015 Gul vs Match Reymersholms IK 3
+DTSTAMP:20250324T073311Z
+DTSTART:20250906T101500Z
+DTEND:20250906T121500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11632899
+LOCATION:Tantolundens BP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950847@laget.se
+SUMMARY:P2015 Gul vs Ekerö IK 2:Gul
+DTSTAMP:20250324T073311Z
+DTSTART:20250907T104500Z
+DTEND:20250907T124500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11634175
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950848@laget.se
+SUMMARY:P2015 Gul vs Match Älvsjö AIK FF Blå 3
+DTSTAMP:20250324T073311Z
+DTSTART:20250913T141500Z
+DTEND:20250913T161500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11633966
+LOCATION:Älvsjö IP 5
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950831@laget.se
+SUMMARY:P2015 Gul vs IFK Lidingö FK 22
+DTSTAMP:20250324T073311Z
+DTSTART:20250914T104500Z
+DTEND:20250914T124500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11632972
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950832@laget.se
+SUMMARY:P2015 Gul vs Match Rönninge Salem Fotboll Vit
+DTSTAMP:20250324T073311Z
+DTSTART:20250920T120000Z
+DTEND:20250920T140000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11633165
+LOCATION:Prästboda BP 115
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950849@laget.se
+SUMMARY:P2015 Gul vs Ingarö IF Vit
+DTSTAMP:20250324T073311Z
+DTSTART:20250921T093000Z
+DTEND:20250921T113000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11634417
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950850@laget.se
+SUMMARY:P2015 Gul vs Match Norrtulls SK Vit 2 L
+DTSTAMP:20250324T073311Z
+DTSTART:20250927T093000Z
+DTEND:20250927T113000Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553392/11634486
+LOCATION:Johannes BP 1
+CATEGORIES:Match,Away
+END:VEVENT
+BEGIN:VEVENT
+UID:27950833@laget.se
+SUMMARY:P2015 Gul vs Gustavsbergs IF FK 1
+DTSTAMP:20250324T073311Z
+DTSTART:20250928T104500Z
+DTEND:20250928T124500Z
+DESCRIPTION:\n\nLäs mer om matchen\nhttps://www.laget.se/P2015Gul/Division/
+	Game/553391/11633327
+LOCATION:Västberga IP 12
+CATEGORIES:Match,Away
+END:VEVENT
+END:VCALENDAR
