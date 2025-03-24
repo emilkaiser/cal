@@ -1,0 +1,616 @@
+[
+  {
+    "uid": "27929452@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-04-03T15:00:00.000Z",
+    "end": "2025-04-03T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929515@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-04-07T14:45:00.000Z",
+    "end": "2025-04-07T15:45:00.000Z",
+    "location": "ASPUDDENS IP (11-manna - hörn närmast läktaren/parken)",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929453@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-04-10T15:00:00.000Z",
+    "end": "2025-04-10T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929516@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-04-14T14:45:00.000Z",
+    "end": "2025-04-14T15:45:00.000Z",
+    "location": "ASPUDDENS IP (11-manna - hörn närmast läktaren/parken)",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929454@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-04-17T15:00:00.000Z",
+    "end": "2025-04-17T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929517@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-04-21T14:45:00.000Z",
+    "end": "2025-04-21T15:45:00.000Z",
+    "location": "ASPUDDENS IP (11-manna - hörn närmast läktaren/parken)",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929455@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-04-24T15:00:00.000Z",
+    "end": "2025-04-24T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27954888@laget.se",
+    "title": "P2017 Blå vs Match Gröndals IK Blå",
+    "start": "2025-04-27T08:30:00.000Z",
+    "end": "2025-04-27T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11637964",
+    "location": "Gröndals BP 16",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27954875@laget.se",
+    "title": "P2017 Blå vs Årsta FF 1",
+    "start": "2025-04-27T09:30:00.000Z",
+    "end": "2025-04-27T11:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11638295",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27929518@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-04-28T14:45:00.000Z",
+    "end": "2025-04-28T15:45:00.000Z",
+    "location": "ASPUDDENS IP (11-manna - hörn närmast läktaren/parken)",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929456@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-05-01T15:00:00.000Z",
+    "end": "2025-05-01T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27954889@laget.se",
+    "title": "P2017 Blå vs Karlbergs BK Svart 32",
+    "start": "2025-05-04T08:30:00.000Z",
+    "end": "2025-05-04T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11638494",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27954876@laget.se",
+    "title": "P2017 Blå vs Match Reymersholms IK 4",
+    "start": "2025-05-04T10:00:00.000Z",
+    "end": "2025-05-04T12:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11638203",
+    "location": "Tantolundens BP 2",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27929519@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-05-05T14:45:00.000Z",
+    "end": "2025-05-05T15:45:00.000Z",
+    "location": "ASPUDDENS IP (11-manna - hörn närmast läktaren/parken)",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929457@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-05-08T15:00:00.000Z",
+    "end": "2025-05-08T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27954890@laget.se",
+    "title": "P2017 Blå vs Match Älvsjö AIK FF 13",
+    "start": "2025-05-10T07:00:00.000Z",
+    "end": "2025-05-10T09:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11638227",
+    "location": "Älvsjö IP 52",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27954877@laget.se",
+    "title": "P2017 Blå vs Hammarby IF FF 7",
+    "start": "2025-05-11T08:30:00.000Z",
+    "end": "2025-05-11T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11638732",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27929520@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-05-12T14:45:00.000Z",
+    "end": "2025-05-12T15:45:00.000Z",
+    "location": "ASPUDDENS IP (11-manna - hörn närmast läktaren/parken)",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929458@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-05-15T15:00:00.000Z",
+    "end": "2025-05-15T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27954891@laget.se",
+    "title": "P2017 Blå vs IF Brommapojkarna P17-25",
+    "start": "2025-05-17T08:30:00.000Z",
+    "end": "2025-05-17T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11638793",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27954878@laget.se",
+    "title": "P2017 Blå vs Match FC Kungsholmen 1",
+    "start": "2025-05-18T09:00:00.000Z",
+    "end": "2025-05-18T11:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11638907",
+    "location": "Kristinebergs IP 25",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27929521@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-05-19T14:45:00.000Z",
+    "end": "2025-05-19T15:45:00.000Z",
+    "location": "ASPUDDENS IP (11-manna - hörn närmast läktaren/parken)",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929459@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-05-22T15:00:00.000Z",
+    "end": "2025-05-22T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27954879@laget.se",
+    "title": "P2017 Blå vs IF Brommapojkarna P17-20",
+    "start": "2025-05-25T08:30:00.000Z",
+    "end": "2025-05-25T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11638814",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27954892@laget.se",
+    "title": "P2017 Blå vs Match FC Kungsholmen Blå 2",
+    "start": "2025-05-25T09:00:00.000Z",
+    "end": "2025-05-25T11:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11639176",
+    "location": "Kristinebergs IP 26",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27929522@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-05-26T14:45:00.000Z",
+    "end": "2025-05-26T15:45:00.000Z",
+    "location": "ASPUDDENS IP (11-manna - hörn närmast läktaren/parken)",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929460@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-05-29T15:00:00.000Z",
+    "end": "2025-05-29T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27954880@laget.se",
+    "title": "P2017 Blå vs Match Karlbergs BK Blå 32",
+    "start": "2025-05-31T06:00:00.000Z",
+    "end": "2025-05-31T08:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11639205",
+    "location": "Kristinebergs IP 26",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27954893@laget.se",
+    "title": "P2017 Blå vs Norrtulls SK Gul 3B",
+    "start": "2025-05-31T08:30:00.000Z",
+    "end": "2025-05-31T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11639220",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27929523@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-06-02T14:45:00.000Z",
+    "end": "2025-06-02T15:45:00.000Z",
+    "location": "ASPUDDENS IP (11-manna - hörn närmast läktaren/parken)",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929461@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-06-05T15:00:00.000Z",
+    "end": "2025-06-05T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27954881@laget.se",
+    "title": "P2017 Blå vs Hägersten SK Svart",
+    "start": "2025-06-08T08:30:00.000Z",
+    "end": "2025-06-08T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11639594",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27954894@laget.se",
+    "title": "P2017 Blå vs Match Djurgårdens IF FF 13",
+    "start": "2025-06-08T14:30:00.000Z",
+    "end": "2025-06-08T16:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11639313",
+    "location": "Hjorthagens IP 3",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27929524@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-06-09T14:45:00.000Z",
+    "end": "2025-06-09T15:45:00.000Z",
+    "location": "ASPUDDENS IP (11-manna - hörn närmast läktaren/parken)",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929462@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-06-12T15:00:00.000Z",
+    "end": "2025-06-12T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929525@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-06-16T14:45:00.000Z",
+    "end": "2025-06-16T15:45:00.000Z",
+    "location": "ASPUDDENS IP (11-manna - hörn närmast läktaren/parken)",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27929463@laget.se",
+    "title": "P2017 Blå - Träning",
+    "start": "2025-06-19T15:00:00.000Z",
+    "end": "2025-06-19T16:00:00.000Z",
+    "location": "ASPUDDENS IP (7-mannaplan )",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27954895@laget.se",
+    "title": "P2017 Blå vs AIK FF 6",
+    "start": "2025-08-23T08:30:00.000Z",
+    "end": "2025-08-23T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11639697",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27954882@laget.se",
+    "title": "P2017 Blå vs Match Mälarhöjdens IK Fotboll Blå",
+    "start": "2025-08-23T13:00:00.000Z",
+    "end": "2025-08-23T15:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11639826",
+    "location": "Mälarhöjdens Skola BP 15",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27954883@laget.se",
+    "title": "P2017 Blå vs Segeltorps Idrottsförening Fotboll Orange",
+    "start": "2025-08-30T08:30:00.000Z",
+    "end": "2025-08-30T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11639764",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27954896@laget.se",
+    "title": "P2017 Blå vs Match Reymersholms IK 2",
+    "start": "2025-08-30T11:00:00.000Z",
+    "end": "2025-08-30T13:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11640007",
+    "location": "Tantolundens BP 2",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27954884@laget.se",
+    "title": "P2017 Blå vs Match Älta IF grön",
+    "start": "2025-09-06T09:00:00.000Z",
+    "end": "2025-09-06T11:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11640029",
+    "location": "Älta IP 126",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27954897@laget.se",
+    "title": "P2017 Blå vs Årsta FF 3",
+    "start": "2025-09-07T08:30:00.000Z",
+    "end": "2025-09-07T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11640645",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27954885@laget.se",
+    "title": "P2017 Blå vs AIK FF 13",
+    "start": "2025-09-13T08:30:00.000Z",
+    "end": "2025-09-13T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11640292",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27954898@laget.se",
+    "title": "P2017 Blå vs Match IFK Lidingö FK 10",
+    "start": "2025-09-14T09:00:00.000Z",
+    "end": "2025-09-14T11:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11640307",
+    "location": "Larsbergs BP 15",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27954899@laget.se",
+    "title": "P2017 Blå vs IFK Stockholm FK 2",
+    "start": "2025-09-21T08:30:00.000Z",
+    "end": "2025-09-21T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11640629",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27954886@laget.se",
+    "title": "P2017 Blå vs Match Boo FF P17:7 2",
+    "start": "2025-09-21T09:30:00.000Z",
+    "end": "2025-09-21T11:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11640681",
+    "location": "Boovallen 2251",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27954887@laget.se",
+    "title": "P2017 Blå vs Vasalund IF Solna Sv",
+    "start": "2025-09-27T08:30:00.000Z",
+    "end": "2025-09-27T10:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11640550",
+    "location": "Aspuddens IP 25",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ]
+  },
+  {
+    "uid": "27954900@laget.se",
+    "title": "P2017 Blå vs Match Segeltorps Idrottsförening Fotboll Röd",
+    "start": "2025-09-27T11:00:00.000Z",
+    "end": "2025-09-27T13:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT-P2017Bla/Division/Game/553396/11640817",
+    "location": "Segeltorps IP 3",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  }
+]

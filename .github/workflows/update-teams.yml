@@ -1,4 +1,4 @@
-name: Update Team ICS
+name: Update Team Calendars
 
 on:
   schedule:
@@ -33,18 +33,21 @@ jobs:
       - name: Run team scraper
         run: |
           if [ "${{ github.event_name }}" == "workflow_dispatch" ] && [ "${{ github.event.inputs.config_file }}" != "team-config.json" ]; then
-            node dist/team-scraper.js --config="${{ github.event.inputs.config_file }}"
+            node dist/scrapers/team-scraper.js --config="${{ github.event.inputs.config_file }}"
           else
-            node dist/team-scraper.js
+            node dist/scrapers/team-scraper.js
           fi
+
+      - name: Generate ICS files
+        run: node dist/cli/generate-ics.js
 
       - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           
-          # Stage all ics files
-          git add *.ics
+          # Stage the team data and ICS files
+          git add data/team/*.json public/team/*.ics
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then
@@ -52,17 +55,6 @@ jobs:
             exit 0
           fi
           
-          # Fetch latest changes
-          git fetch origin main
-          
-          # Create a temporary commit
-          git commit -m "Temporary commit"
-          
-          # Pull with rebase
+          git commit -m "Update team calendars"
           git pull --rebase origin main
-          
-          # Amend the commit message
-          git commit --amend -m "Update team calendar"
-          
-          # Push the changes
           git push

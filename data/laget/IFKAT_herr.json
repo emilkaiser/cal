@@ -1,0 +1,998 @@
+[
+  {
+    "uid": "27783060@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-02-10T17:45:00.000Z",
+    "end": "2025-02-10T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783085@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-02-11T17:45:00.000Z",
+    "end": "2025-02-11T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783061@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-02-17T17:45:00.000Z",
+    "end": "2025-02-17T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783086@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-02-18T17:45:00.000Z",
+    "end": "2025-02-18T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783062@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-02-24T17:45:00.000Z",
+    "end": "2025-02-24T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783087@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-02-25T17:45:00.000Z",
+    "end": "2025-02-25T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783063@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-03T17:45:00.000Z",
+    "end": "2025-03-03T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783088@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-04T17:45:00.000Z",
+    "end": "2025-03-04T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864957@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-06T17:45:00.000Z",
+    "end": "2025-03-06T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27885413@laget.se",
+    "title": "A-lag Herrar - Match mot ängby",
+    "start": "2025-03-09T17:00:00.000Z",
+    "end": "2025-03-09T19:00:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Övrig aktivitet",
+      "Match",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783064@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-10T17:45:00.000Z",
+    "end": "2025-03-10T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783089@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-11T17:45:00.000Z",
+    "end": "2025-03-11T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864958@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-13T17:45:00.000Z",
+    "end": "2025-03-13T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27905004@laget.se",
+    "title": "A-lag Herrar vs Aspuddens FF",
+    "start": "2025-03-16T18:00:00.000Z",
+    "end": "2025-03-16T20:00:00.000Z",
+    "description": "\nÖvrig info\nMatch mellan AT och AFF\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552741/11583413",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Match",
+      "Away",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783065@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-17T17:45:00.000Z",
+    "end": "2025-03-17T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783090@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-18T17:45:00.000Z",
+    "end": "2025-03-18T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864959@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-20T17:45:00.000Z",
+    "end": "2025-03-20T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783066@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-24T17:45:00.000Z",
+    "end": "2025-03-24T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783091@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-25T17:45:00.000Z",
+    "end": "2025-03-25T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864960@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-27T17:45:00.000Z",
+    "end": "2025-03-27T19:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783067@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-03-31T16:45:00.000Z",
+    "end": "2025-03-31T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783092@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-01T16:45:00.000Z",
+    "end": "2025-04-01T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864961@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-03T16:45:00.000Z",
+    "end": "2025-04-03T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877244@laget.se",
+    "title": "A-lag Herrar vs Västerhaninge IF",
+    "start": "2025-04-06T16:00:00.000Z",
+    "end": "2025-04-06T18:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551088",
+    "location": "Aspuddens IP 1",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ]
+  },
+  {
+    "uid": "27783068@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-07T16:45:00.000Z",
+    "end": "2025-04-07T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783093@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-08T16:45:00.000Z",
+    "end": "2025-04-08T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864962@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-10T16:45:00.000Z",
+    "end": "2025-04-10T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877245@laget.se",
+    "title": "A-lag Herrar vs Match Konyaspor KIF",
+    "start": "2025-04-11T18:00:00.000Z",
+    "end": "2025-04-11T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551092",
+    "location": "Alby BP 1",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27783069@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-14T16:45:00.000Z",
+    "end": "2025-04-14T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783094@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-15T16:45:00.000Z",
+    "end": "2025-04-15T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864963@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-17T16:45:00.000Z",
+    "end": "2025-04-17T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877246@laget.se",
+    "title": "A-lag Herrar vs IFK Tumba FK",
+    "start": "2025-04-21T16:00:00.000Z",
+    "end": "2025-04-21T18:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551107",
+    "location": "Aspuddens IP 1",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ]
+  },
+  {
+    "uid": "27783070@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-21T16:45:00.000Z",
+    "end": "2025-04-21T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783095@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-22T16:45:00.000Z",
+    "end": "2025-04-22T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864964@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-24T16:45:00.000Z",
+    "end": "2025-04-24T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877247@laget.se",
+    "title": "A-lag Herrar vs Match Skogås-Trångsunds FF",
+    "start": "2025-04-25T18:00:00.000Z",
+    "end": "2025-04-25T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551102",
+    "location": "Nytorps Mosse IP 1",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27783071@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-28T16:45:00.000Z",
+    "end": "2025-04-28T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783096@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-04-29T16:45:00.000Z",
+    "end": "2025-04-29T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864965@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-01T16:45:00.000Z",
+    "end": "2025-05-01T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877248@laget.se",
+    "title": "A-lag Herrar vs Stuvsta IF",
+    "start": "2025-05-02T18:00:00.000Z",
+    "end": "2025-05-02T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551103",
+    "location": "Aspuddens IP 1",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ]
+  },
+  {
+    "uid": "27783072@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-05T16:45:00.000Z",
+    "end": "2025-05-05T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783097@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-06T16:45:00.000Z",
+    "end": "2025-05-06T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864966@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-08T16:45:00.000Z",
+    "end": "2025-05-08T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877249@laget.se",
+    "title": "A-lag Herrar vs Match Tyresö FF",
+    "start": "2025-05-10T11:00:00.000Z",
+    "end": "2025-05-10T13:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551132",
+    "location": "Tyresövallen A 1",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27783073@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-12T16:45:00.000Z",
+    "end": "2025-05-12T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783098@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-13T16:45:00.000Z",
+    "end": "2025-05-13T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864967@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-15T16:45:00.000Z",
+    "end": "2025-05-15T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877250@laget.se",
+    "title": "A-lag Herrar vs Enskede FF",
+    "start": "2025-05-16T18:00:00.000Z",
+    "end": "2025-05-16T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551167",
+    "location": "Aspuddens IP 1",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ]
+  },
+  {
+    "uid": "27783074@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-19T16:45:00.000Z",
+    "end": "2025-05-19T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783099@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-20T16:45:00.000Z",
+    "end": "2025-05-20T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864968@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-22T16:45:00.000Z",
+    "end": "2025-05-22T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877251@laget.se",
+    "title": "A-lag Herrar vs Match Älvsjö AIK FF",
+    "start": "2025-05-24T10:00:00.000Z",
+    "end": "2025-05-24T12:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551207",
+    "location": "Älvsjö IP 1",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27783075@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-26T16:45:00.000Z",
+    "end": "2025-05-26T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783100@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-27T16:45:00.000Z",
+    "end": "2025-05-27T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864969@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-05-29T16:45:00.000Z",
+    "end": "2025-05-29T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877252@laget.se",
+    "title": "A-lag Herrar vs Bagarmossen Kärrtorp BK",
+    "start": "2025-05-30T18:00:00.000Z",
+    "end": "2025-05-30T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551206",
+    "location": "Aspuddens IP 1",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ]
+  },
+  {
+    "uid": "27783076@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-02T16:45:00.000Z",
+    "end": "2025-06-02T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783101@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-03T16:45:00.000Z",
+    "end": "2025-06-03T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864970@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-05T16:45:00.000Z",
+    "end": "2025-06-05T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877253@laget.se",
+    "title": "A-lag Herrar vs Match Norsborg FC",
+    "start": "2025-06-07T14:00:00.000Z",
+    "end": "2025-06-07T16:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551125",
+    "location": "Kärsby IP 1",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27783077@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-09T16:45:00.000Z",
+    "end": "2025-06-09T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783102@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-10T16:45:00.000Z",
+    "end": "2025-06-10T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864971@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-12T16:45:00.000Z",
+    "end": "2025-06-12T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877254@laget.se",
+    "title": "A-lag Herrar vs Match IFK Stockholm FK",
+    "start": "2025-06-14T12:00:00.000Z",
+    "end": "2025-06-14T14:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551195",
+    "location": "Vårbergs IP 1",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27783078@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-16T16:45:00.000Z",
+    "end": "2025-06-16T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783103@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-17T16:45:00.000Z",
+    "end": "2025-06-17T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27864972@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-19T16:45:00.000Z",
+    "end": "2025-06-19T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877255@laget.se",
+    "title": "A-lag Herrar vs IFK Stockholm FK",
+    "start": "2025-06-22T16:00:00.000Z",
+    "end": "2025-06-22T18:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551183",
+    "location": "Aspuddens IP 1",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ]
+  },
+  {
+    "uid": "27783079@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-23T16:45:00.000Z",
+    "end": "2025-06-23T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783104@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-24T16:45:00.000Z",
+    "end": "2025-06-24T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783080@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-30T16:45:00.000Z",
+    "end": "2025-06-30T18:30:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27783107@laget.se",
+    "title": "A-lag Herrar - Träning",
+    "start": "2025-06-30T16:45:00.000Z",
+    "end": "2025-06-30T18:45:00.000Z",
+    "location": "ASPUDDENS IP",
+    "categories": [
+      "Träning",
+      "Home",
+      "Aspuddens IP"
+    ]
+  },
+  {
+    "uid": "27877256@laget.se",
+    "title": "A-lag Herrar vs Norsborg FC",
+    "start": "2025-08-08T18:00:00.000Z",
+    "end": "2025-08-08T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551205",
+    "location": "Aspuddens IP 1",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ]
+  },
+  {
+    "uid": "27877257@laget.se",
+    "title": "A-lag Herrar vs Match Bagarmossen Kärrtorp BK",
+    "start": "2025-08-15T18:00:00.000Z",
+    "end": "2025-08-15T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551215",
+    "location": "Kärrtorps IP 1",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27877258@laget.se",
+    "title": "A-lag Herrar vs Älvsjö AIK FF",
+    "start": "2025-08-20T18:00:00.000Z",
+    "end": "2025-08-20T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551181",
+    "location": "Aspuddens IP 1",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ]
+  },
+  {
+    "uid": "27877259@laget.se",
+    "title": "A-lag Herrar vs Match Enskede FF",
+    "start": "2025-08-24T16:00:00.000Z",
+    "end": "2025-08-24T18:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551139",
+    "location": "Enskede IP 2",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27877260@laget.se",
+    "title": "A-lag Herrar vs Tyresö FF",
+    "start": "2025-08-29T18:00:00.000Z",
+    "end": "2025-08-29T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551209",
+    "location": "Aspuddens IP 1",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ]
+  },
+  {
+    "uid": "27877261@laget.se",
+    "title": "A-lag Herrar vs Match Stuvsta IF",
+    "start": "2025-09-06T13:30:00.000Z",
+    "end": "2025-09-06T15:30:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551218",
+    "location": "Stuvsta IP 1",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27877262@laget.se",
+    "title": "A-lag Herrar vs Skogås-Trångsunds FF",
+    "start": "2025-09-12T18:00:00.000Z",
+    "end": "2025-09-12T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551178",
+    "location": "Aspuddens IP 1",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ]
+  },
+  {
+    "uid": "27877263@laget.se",
+    "title": "A-lag Herrar vs Match IFK Tumba FK",
+    "start": "2025-09-19T18:00:00.000Z",
+    "end": "2025-09-19T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551157",
+    "location": "Storvretens IP 1",
+    "categories": [
+      "Match",
+      "Away"
+    ]
+  },
+  {
+    "uid": "27877264@laget.se",
+    "title": "A-lag Herrar vs Konyaspor KIF",
+    "start": "2025-09-26T18:00:00.000Z",
+    "end": "2025-09-26T20:00:00.000Z",
+    "description": "\n\nLäs mer om matchen\nhttps://www.laget.se/IFKAT_herr/Division/Game/552100/11551172",
+    "location": "Aspuddens IP 1",
+    "categories": [
+      "Match",
+      "Home",
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ]
+  }
+]

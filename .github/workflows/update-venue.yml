@@ -1,4 +1,4 @@
-name: Update ICS
+name: Update Venue Calendars
 
 on:
   schedule:
@@ -8,13 +8,11 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    # Add permission to push to the repository
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v3
         with:
-          # This is important for the action to have write access
           token: ${{ github.token }}
 
       - name: Setup Node
@@ -27,16 +25,19 @@ jobs:
       - name: Build TypeScript
         run: npm run build
 
-      - name: Run scraper
-        run: node dist/scrape-venue.js
+      - name: Run venue scraper
+        run: node dist/scrapers/venue-scraper.js
+
+      - name: Generate ICS files
+        run: node dist/cli/generate-ics.js
 
       - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           
-          # Stage the specific ics files we want to commit
-          git add all.ics ip1.ics ip2.ics
+          # Stage changed files
+          git add data/venue/*.json public/venue/*.ics
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then
@@ -44,17 +45,6 @@ jobs:
             exit 0
           fi
           
-          # Fetch latest changes
-          git fetch origin main
-          
-          # Create a temporary commit
-          git commit -m "Temporary commit"
-          
-          # Pull with rebase
+          git commit -m "Update venue calendars"
           git pull --rebase origin main
-          
-          # Amend the commit message
-          git commit --amend -m "Update calendars"
-          
-          # Push the changes
           git push
