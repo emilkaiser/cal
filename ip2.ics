@@ -1,0 +1,2010 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:FGpCZAzkeOgrnRqsD_qkM
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Mälarhöjdens IK Fotboll Gul
+DTSTAMP:20250324T070235Z
+DTSTART:20250426T093000Z
+DTEND:20250426T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-malarhojden
+	s-ik-fotboll-gul-pojkar-2016/6278226/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:gks44DnS4J_6QsVAP3gal
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Mälarhöjdens IK Fotboll Röd
+DTSTAMP:20250324T070235Z
+DTSTART:20250426T093000Z
+DTEND:20250426T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-malarhojden
+	s-ik-fotboll-rod-pojkar-2016/6278228/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:ZNdCEB3IbGlJ6rwrx4jzN
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Hägersten SK
+DTSTAMP:20250324T070235Z
+DTSTART:20250426T103000Z
+DTEND:20250426T120000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-hagersten-s
+	k-flickor-2017/6265480/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:8MkLsib-DVHoaXMqk0yKy
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Hägersten SK Gul
+DTSTAMP:20250324T070235Z
+DTSTART:20250426T103000Z
+DTEND:20250426T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-hagersten-s
+	k-gul-pojkar-2017/6281812/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:fBGh3TuUSXIzcUBhwh9rX
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Stureby SK Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250426T114500Z
+DTEND:20250426T131500Z
+DESCRIPTION:P2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-stureby-sk-
+	bla-pojkar-2014/6270921/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:krdjpTCXctr-13FdcsAz-
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Hägersten SK Gul
+DTSTAMP:20250324T070235Z
+DTSTART:20250426T130000Z
+DTEND:20250426T143000Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-hagersten-s
+	k-gul-pojkar-2015/6274251/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:MZ2H77Jd3AUQxUk1L8wj4
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Hägersten SK Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250426T141500Z
+DTEND:20250426T154500Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-hagersten-s
+	k-vit-pojkar-2015/6276856/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:C55ubQu1eOTfYFuFjizHL
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Mälarhöjdens IK Fotboll Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250427T093000Z
+DTEND:20250427T110000Z
+DESCRIPTION:F2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-malarhojden
+	s-ik-fotboll-vit-flickor-2016/6264053/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:1mFUNaUxgWQYtgAPUgqmB
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Årsta FF 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250427T093000Z
+DTEND:20250427T110000Z
+DESCRIPTION:F2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-arsta-ff-2-
+	flickor-2016/6265241/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:Gf7LnGsPUX2Dt4_4f4vpp
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs KIF Söderort Guld
+DTSTAMP:20250324T070235Z
+DTSTART:20250427T103000Z
+DTEND:20250427T120000Z
+DESCRIPTION:P2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-kif-soderor
+	t-guld-pojkar-2016/6281383/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:5Ou_00FLFZhyzUyeOywyE
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Mälarhöjdens IK Fotboll Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250427T103000Z
+DTEND:20250427T120000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-malarhojden
+	s-ik-fotboll-vit-flickor-2017/6265515/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:qHz2IHnVFM0yBb4NCFc38
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Gröndals IK Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250427T113000Z
+DTEND:20250427T130000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-grondals-ik
+	-vit-pojkar-2017/6281874/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:Q_I_peGpZ4WGTpYQAUef1
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Årsta FF 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250427T113000Z
+DTEND:20250427T130000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-arsta-ff-1-
+	pojkar-2017/6281908/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:r6tz2Xs4kKrP0KH_yOs0s
+SUMMARY:IFK Aspudden-Tellus 1 vs IF Brommapojkarna F15-8
+DTSTAMP:20250324T070235Z
+DTSTART:20250427T130000Z
+DTEND:20250427T143000Z
+DESCRIPTION:F2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-if-brommapojkar
+	na-f15-8-flickor-2015/6262915/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2uagxcQL_O2xot6xu6NV0
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Gröndals IK Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250427T141500Z
+DTEND:20250427T154500Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-grondals-ik
+	-bla-pojkar-2015/6274785/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2sskof_H31pp3RZQJjBnM
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Mälarhöjdens IK Fotboll Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250427T153000Z
+DTEND:20250427T170000Z
+DESCRIPTION:F2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-malarhojden
+	s-ik-fotboll-vit-flickor-2014/6261777/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:M-cl92f2GV7Z7qjRfIJb1
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Mälarhöjdens IK Fotboll Grön
+DTSTAMP:20250324T070235Z
+DTSTART:20250503T103000Z
+DTEND:20250503T120000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-malarhojden
+	s-ik-fotboll-gron-pojkar-2016/6278482/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:OAlLiIEwLIq6DqqTWTz-b
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Reymersholms IK 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250503T103000Z
+DTEND:20250503T120000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-reymersholm
+	s-ik-2-flickor-2017/6265555/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:Oz3r4VbLdrBnSeCulHvGf
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Reymersholms IK 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250503T114500Z
+DTEND:20250503T131500Z
+DESCRIPTION:P2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-reymersholm
+	s-ik-2-pojkar-2014/6272691/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:oP7_ptD_sMXbNhXrS3DVA
+SUMMARY:IFK Aspudden-Tellus 2 vs IF Brommapojkarna F15-15
+DTSTAMP:20250324T070235Z
+DTSTART:20250503T130000Z
+DTEND:20250503T143000Z
+DESCRIPTION:F2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-if-brommapojkar
+	na-f15-15-flickor-2015/6262930/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:cJmKP4U_-e5vxsr6y_zW0
+SUMMARY:IFK Aspudden-Tellus Blå 3 vs AIK FF 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250503T141500Z
+DTEND:20250503T154500Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-3-aik-ff-1-po
+	jkar-2015/6275064/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:dCW3XXBMc4MkNX_9tRAfZ
+SUMMARY:IFK Aspudden-Tellus Blå 4 vs Hägersten SK Svart
+DTSTAMP:20250324T070235Z
+DTSTART:20250503T153000Z
+DTEND:20250503T170000Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-4-hagersten-s
+	k-svart-pojkar-2015/6276963/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:zGla4hFEjyk8kV9UqXEMK
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Reymersholms IK 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250504T093000Z
+DTEND:20250504T110000Z
+DESCRIPTION:F2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-reymersholm
+	s-ik-2-flickor-2016/6264219/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:PeiMUHh09A2HzLunNCS-z
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs KIF Söderort Svart
+DTSTAMP:20250324T070235Z
+DTSTART:20250504T093000Z
+DTEND:20250504T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-kif-soderor
+	t-svart-pojkar-2016/6278346/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:xGP7HCoB8V1gjep9pmFKJ
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Segeltorps Idrottsförening Fotboll Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250504T103000Z
+DTEND:20250504T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-segeltorps-
+	idrottsforening-fotboll-bla-pojkar-2017/6282078/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:7WhLbS1vUSDLXZIDhr_b3
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Karlbergs BK Svart 32
+DTSTAMP:20250324T070235Z
+DTSTART:20250504T103000Z
+DTEND:20250504T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-karlbergs-b
+	k-svart-32-pojkar-2017/6282121/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:BIAhli1la5jWQDZOHCCdP
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Tullinge BK 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250504T114500Z
+DTEND:20250504T131500Z
+DESCRIPTION:F2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-tullinge-bk
+	-1-flickor-2014/6262433/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:pujXPXXv_ZAkLssWro1Eh
+SUMMARY:IFK Aspudden-Tellus 3 vs Älta IF gul
+DTSTAMP:20250324T070235Z
+DTSTART:20250504T130000Z
+DTEND:20250504T143000Z
+DESCRIPTION:F2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-alta-if-gul-fli
+	ckor-2015/6263643/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:JUm815qo8Vc6trZYz1QEP
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Marockanska FC
+DTSTAMP:20250324T070235Z
+DTSTART:20250504T141500Z
+DTEND:20250504T154500Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-marockanska
+	-fc-pojkar-2015/6274296/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:0fTipdp6WGaE3mumD5wDI
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Vasalund IF Järva 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250504T153000Z
+DTEND:20250504T170000Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-vasalund-if
+	-jarva-1-pojkar-2015/6274966/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Tu3a_Yk3bctPsBWjU3OQA
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Reymersholms IK 3
+DTSTAMP:20250324T070235Z
+DTSTART:20250510T093000Z
+DTEND:20250510T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-reymersholm
+	s-ik-3-pojkar-2016/6278697/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:WuC71HQ_dqF5HPjkwVba2
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Mälarhöjdens IK Fotboll Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250510T093000Z
+DTEND:20250510T110000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-malarhojden
+	s-ik-fotboll-vit-flickor-2017/6265631/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:Q_CCHqu5SuIGPEjXWPjxr
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Vasalund IF Solna Rö
+DTSTAMP:20250324T070235Z
+DTSTART:20250510T103000Z
+DTEND:20250510T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-vasalund-if
+	-solna-ro-pojkar-2017/6282205/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:27ojIoWBD45T5Svwmo0sZ
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Mälarhöjdens IK Fotboll Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250510T103000Z
+DTEND:20250510T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-malarhojden
+	s-ik-fotboll-vit-pojkar-2017/6282297/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:p56BPslMEkFsvYOb5Onzh
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Boo FF 9 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250510T114500Z
+DTEND:20250510T131500Z
+DESCRIPTION:P2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-boo-ff-9-2-
+	pojkar-2014/6271266/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:VvR53Ldufg7jWm6924qIa
+SUMMARY:IFK Aspudden-Tellus 1 vs Enskede IK Svart 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250510T130000Z
+DTEND:20250510T143000Z
+DESCRIPTION:F2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-enskede-ik-svar
+	t-2-flickor-2015/6262985/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:bXueMg7xFaKaUh0pobMv3
+SUMMARY:IFK Aspudden-Tellus Blå 3 vs Segeltorps Idrottsförening Fotboll Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250510T141500Z
+DTEND:20250510T154500Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-3-segeltorps-
+	idrottsforening-fotboll-vit-pojkar-2015/6275215/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:nCXF3DzvY9T_1raNvysWe
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Älvsjö AIK FF 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250511T093000Z
+DTEND:20250511T110000Z
+DESCRIPTION:F2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-alvsjo-aik-
+	ff-2-flickor-2016/6264246/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:B2lED4PvwEM5TKbljc_ez
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Segeltorps Idrottsförening Fotboll Röd
+DTSTAMP:20250324T070235Z
+DTSTART:20250511T093000Z
+DTEND:20250511T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-segeltorps-
+	idrottsforening-fotboll-rod-pojkar-2016/6278701/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:Hr4vDPz7qlAS86UVnODpq
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Djurgårdens IF FF 12 Röd
+DTSTAMP:20250324T070235Z
+DTSTART:20250511T103000Z
+DTEND:20250511T120000Z
+DESCRIPTION:P2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-djurgardens
+	-if-ff-12-rod-pojkar-2016/6281429/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:XqP3HB2IfaTVTGY8hIO4x
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Hammarby IF FF 7
+DTSTAMP:20250324T070235Z
+DTSTART:20250511T103000Z
+DTEND:20250511T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-hammarby-if
+	-ff-7-pojkar-2017/6282333/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:F8CpLy3mahwM73ZxRqVoW
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs IFK Stocksund 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250511T114500Z
+DTEND:20250511T131500Z
+DESCRIPTION:F2014- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-ifk-stocksu
+	nd-1-flickor-2014/6261494/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:h3YGoegYt_XV371WSy_jn
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Reymersholms IK 3
+DTSTAMP:20250324T070235Z
+DTSTART:20250511T130000Z
+DTEND:20250511T143000Z
+DESCRIPTION:P2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-reymersholm
+	s-ik-3-pojkar-2014/6272786/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:cPHa6KNovK66sNHMCnmdW
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Apollon Solna FK Vit U
+DTSTAMP:20250324T070235Z
+DTSTART:20250511T141500Z
+DTEND:20250511T154500Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-apollon-sol
+	na-fk-vit-u-pojkar-2015/6274322/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:SHSNXbOoVHU4JMGna4vfb
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Mälarhöjdens IK Fotboll Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250511T153000Z
+DTEND:20250511T170000Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-malarhojden
+	s-ik-fotboll-bla-pojkar-2015/6277138/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:7M4S4SK8OAaIP3DP5f4jH
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Hammarby IF FF 6
+DTSTAMP:20250324T070235Z
+DTSTART:20250517T093000Z
+DTEND:20250517T110000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-hammarby-if
+	-ff-6-flickor-2017/6265699/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:X4xTQltuLIVm9oI1o8TTX
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Apollon Solna FK Röd
+DTSTAMP:20250324T070235Z
+DTSTART:20250517T093000Z
+DTEND:20250517T110000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-apollon-sol
+	na-fk-rod-pojkar-2017/6282407/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:xDrm5YvNbZCuGT3R47_Cs
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs IF Brommapojkarna P17-25
+DTSTAMP:20250324T070235Z
+DTSTART:20250517T103000Z
+DTEND:20250517T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-if-brommapo
+	jkarna-p17-25-pojkar-2017/6282480/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:ZUZfimSEtNefRqM5VGVTm
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Ursvik IK Gul
+DTSTAMP:20250324T070235Z
+DTSTART:20250517T114500Z
+DTEND:20250517T131500Z
+DESCRIPTION:F2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-ursvik-ik-g
+	ul-flickor-2014/6262488/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:VbrkUlPL5aO3FrhqESwI-
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Nacka FC Svart2
+DTSTAMP:20250324T070235Z
+DTSTART:20250517T130000Z
+DTEND:20250517T143000Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-nacka-fc-sv
+	art2-pojkar-2015/6274370/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:g0yF2ql8Oj2n7FsjdRPHL
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs IF Brommapojkarna P16-10
+DTSTAMP:20250324T070235Z
+DTSTART:20250518T093000Z
+DTEND:20250518T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-if-brommapo
+	jkarna-p16-10-pojkar-2016/6278934/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:TVsEHRIHhPfNhe-6bz6kJ
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs IF Brommapojkarna P16-20
+DTSTAMP:20250324T070235Z
+DTSTART:20250518T093000Z
+DTEND:20250518T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-if-brommapo
+	jkarna-p16-20-pojkar-2016/6278936/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:IJv-buUYvBoFQV2uXaSLb
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Hammarby IF FF 5
+DTSTAMP:20250324T070235Z
+DTSTART:20250518T103000Z
+DTEND:20250518T120000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-hammarby-if
+	-ff-5-flickor-2017/6265759/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:jkMZS_3XUg-zZLmOEugG1
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Sköndals IK FK Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250518T114500Z
+DTEND:20250518T131500Z
+DESCRIPTION:F2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-skondals-ik
+	-fk-vit-flickor-2014/6261938/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:QD4euxSU5zxryx6mPUXBd
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Boo FF Blå 3
+DTSTAMP:20250324T070235Z
+DTSTART:20250518T130000Z
+DTEND:20250518T143000Z
+DESCRIPTION:P2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-boo-ff-bla-
+	3-pojkar-2014/6271372/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:8rTXgS4HhEeBDFHOO3qpH
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs IFK Lidingö FK 17 vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250518T141500Z
+DTEND:20250518T154500Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-ifk-lidingo
+	-fk-17-vit-pojkar-2015/6275374/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:p-1U8929GMH60g68JPo3g
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Karlbergs BK Svart
+DTSTAMP:20250324T070235Z
+DTSTART:20250524T093000Z
+DTEND:20250524T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-karlbergs-b
+	k-svart-pojkar-2016/6279010/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:FUpjDXwOFU7AbGQUenTsD
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs IF Brommapojkarna F17-5
+DTSTAMP:20250324T070235Z
+DTSTART:20250524T093000Z
+DTEND:20250524T110000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-if-brommapo
+	jkarna-f17-5-flickor-2017/6265792/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:3A3HmfcBEh1xkQUkTtL49
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs IF Brommapojkarna P17-13
+DTSTAMP:20250324T070235Z
+DTSTART:20250524T103000Z
+DTEND:20250524T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-if-brommapo
+	jkarna-p17-13-pojkar-2017/6282700/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:QXhEzmjg3LLbNi-EfBLwZ
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs AIK FF 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250524T114500Z
+DTEND:20250524T131500Z
+DESCRIPTION:P2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-aik-ff-2-po
+	jkar-2014/6271499/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:0EWtZQY6_kEu0C_OedIej
+SUMMARY:IFK Aspudden-Tellus 3 vs Tyresö Strand FC 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250524T130000Z
+DTEND:20250524T143000Z
+DESCRIPTION:F2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-tyreso-strand-f
+	c-1-flickor-2015/6263763/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:SKceO1NJ1GIPJ-gFW2V8C
+SUMMARY:IFK Aspudden-Tellus Blå 3 vs IF Brommapojkarna F15A
+DTSTAMP:20250324T070235Z
+DTSTART:20250524T141500Z
+DTEND:20250524T154500Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-3-if-brommapo
+	jkarna-f15a-pojkar-2015/6275458/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:19yM18Qq4NWXPk8qpLYWx
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Assyriska Botkyrka SK 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250525T093000Z
+DTEND:20250525T110000Z
+DESCRIPTION:F2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-assyriska-b
+	otkyrka-sk-1-flickor-2016/6264477/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:nbUHydpcmJwToN6DGEvGD
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs FK Bromma 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250525T093000Z
+DTEND:20250525T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-fk-bromma-1
+	-pojkar-2016/6279248/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:T9CDqF1eSfvBsJfq2F40c
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Högdalens AIS Svart
+DTSTAMP:20250324T070235Z
+DTSTART:20250525T103000Z
+DTEND:20250525T120000Z
+DESCRIPTION:P2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-hogdalens-a
+	is-svart-pojkar-2016/6281475/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:L6tzq_dOf61jz1viEkWaP
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs IF Brommapojkarna P17-20
+DTSTAMP:20250324T070235Z
+DTSTART:20250525T103000Z
+DTEND:20250525T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-if-brommapo
+	jkarna-p17-20-pojkar-2017/6282702/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:VGwtgIJqr4yBEli9u96V5
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Stureby SK Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250525T114500Z
+DTEND:20250525T131500Z
+DESCRIPTION:F2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-stureby-sk-
+	bla-flickor-2014/6262497/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:CfBA36CdT7EmcpnKoNjk1
+SUMMARY:IFK Aspudden-Tellus 1 vs Segeltorps Idrottsförening Fotboll Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250525T130000Z
+DTEND:20250525T143000Z
+DESCRIPTION:F2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-segeltorps-idro
+	ttsforening-fotboll-vit-flickor-2015/6263133/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:yzbdXGu8bOfP2qYMck6v1
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs IF Brommapojkarna P15-31
+DTSTAMP:20250324T070235Z
+DTSTART:20250525T141500Z
+DTEND:20250525T154500Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-if-brommapo
+	jkarna-p15-31-pojkar-2015/6274387/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:dDegA_eXIIzjBc10nMdwH
+SUMMARY:IFK Aspudden-Tellus Blå 4 vs Kista SC KFUM Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250525T153000Z
+DTEND:20250525T170000Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-4-kista-sc-kf
+	um-vit-pojkar-2015/6277263/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:90jtCoWZZlrhCmDp4dPzl
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs FC Kungsholmen Svart 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250531T093000Z
+DTEND:20250531T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-fc-kungshol
+	men-svart-1-pojkar-2016/6279257/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:AtOZc1e6ShTpuQkXwnJQ3
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Huddinge IF 2016:2M
+DTSTAMP:20250324T070235Z
+DTSTART:20250531T093000Z
+DTEND:20250531T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-huddinge-if
+	-20162m-pojkar-2016/6279419/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:kb1p80xyoUaSGgcA-L73l
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Norrtulls SK Gul 3B
+DTSTAMP:20250324T070235Z
+DTSTART:20250531T103000Z
+DTEND:20250531T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-norrtulls-s
+	k-gul-3b-pojkar-2017/6282971/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:YP7l2W76oq-vqn5MH20r9
+SUMMARY:IFK Aspudden-Tellus 2 vs Rönninge Salem Fotboll Gul
+DTSTAMP:20250324T070235Z
+DTSTART:20250531T114500Z
+DTEND:20250531T131500Z
+DESCRIPTION:F2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-ronninge-salem-
+	fotboll-gul-flickor-2015/6263195/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:AFM6Xx_LevfBCh6Hvs75H
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs IFK Lidingö FK 22
+DTSTAMP:20250324T070235Z
+DTSTART:20250531T130000Z
+DTEND:20250531T143000Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-ifk-lidingo
+	-fk-22-pojkar-2015/6275675/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:xJYGbykBbv2iBoHfn9av6
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Djurgårdens IF FF 5
+DTSTAMP:20250324T070235Z
+DTSTART:20250601T093000Z
+DTEND:20250601T110000Z
+DESCRIPTION:F2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-djurgardens
+	-if-ff-5-flickor-2016/6264562/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:A-fAEUq0JrSQ35l-ZtTgJ
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Konyaspor Kultur och IF F2016Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250601T093000Z
+DTEND:20250601T110000Z
+DESCRIPTION:F2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-konyaspor-k
+	ultur-och-if-f2016vit-flickor-2016/6265301/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:AarRAWalLef4jPUubBFbO
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Stuvsta IF 1:1
+DTSTAMP:20250324T070235Z
+DTSTART:20250601T103000Z
+DTEND:20250601T120000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-stuvsta-if-
+	11-flickor-2017/6265866/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:ZWN2JqgCkvNT654rDJRcG
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Essinge IK Gul
+DTSTAMP:20250324T070235Z
+DTSTART:20250601T103000Z
+DTEND:20250601T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-essinge-ik-
+	gul-pojkar-2017/6282852/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:PXDxvWr0aWH-UQx2Pzcyy
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Assyriska Botkyrka SK 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250601T114500Z
+DTEND:20250601T131500Z
+DESCRIPTION:F2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-assyriska-b
+	otkyrka-sk-1-flickor-2014/6262030/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:mxstFQ7E_p-F8mTo5MiYE
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs IFK Tumba FK Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250601T130000Z
+DTEND:20250601T143000Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-ifk-tumba-f
+	k-bla-pojkar-2015/6274434/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:z9qlLWoluML3rPZd74ios
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Älvsjö AIK FF Grön 4
+DTSTAMP:20250324T070235Z
+DTSTART:20250601T141500Z
+DTEND:20250601T154500Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-alvsjo-aik-
+	ff-gron-4-pojkar-2015/6277364/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:oeTt3m35MftUy8LjRaGUF
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Hägersten SK Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250607T093000Z
+DTEND:20250607T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-hagersten-s
+	k-vit-pojkar-2016/6279539/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:iX3dh2kCibZxROE8bs2y9
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Stureby SK Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250607T093000Z
+DTEND:20250607T110000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-stureby-sk-
+	vit-flickor-2017/6265946/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:tU7WFw5h7-HhjDaJ6ZVv2
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs IFK Lidingö FK 7
+DTSTAMP:20250324T070235Z
+DTSTART:20250607T103000Z
+DTEND:20250607T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-ifk-lidingo
+	-fk-7-pojkar-2017/6283182/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:E2wFu1th2f5m8iSjqA-oI
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Hammarby IF FF 9 vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250607T114500Z
+DTEND:20250607T131500Z
+DESCRIPTION:P2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-hammarby-if
+	-ff-9-vit-pojkar-2014/6271724/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Q01pik8JHTVH9VQj3sBe8
+SUMMARY:IFK Aspudden-Tellus 3 vs Skogås-Trångsunds FF Röd
+DTSTAMP:20250324T070235Z
+DTSTART:20250607T130000Z
+DTEND:20250607T143000Z
+DESCRIPTION:F2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-skogas-trangsun
+	ds-ff-rod-flickor-2015/6263833/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ibI3Tvs-gLkzdvoyft3QK
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs AIK FF 6
+DTSTAMP:20250324T070235Z
+DTSTART:20250607T141500Z
+DTEND:20250607T154500Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-aik-ff-6-po
+	jkar-2015/6275809/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:-owyq8MDCBEQ4dhS3L96d
+SUMMARY:IFK Aspudden-Tellus Blå 4 vs IF Brommapojkarna P15-5
+DTSTAMP:20250324T070235Z
+DTSTART:20250607T153000Z
+DTEND:20250607T170000Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-4-if-brommapo
+	jkarna-p15-5-pojkar-2015/6277481/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Sh7OgDtYEg5Dg1SVqfuPc
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Enebybergs IF 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250608T093000Z
+DTEND:20250608T110000Z
+DESCRIPTION:F2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-enebybergs-
+	if-2-flickor-2016/6264627/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:2YM7TF9Nw0cHOKKn1BCAe
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs FC Kungsholmen Svart 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250608T093000Z
+DTEND:20250608T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-fc-kungshol
+	men-svart-2-pojkar-2016/6279524/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:tKXaHA9oxuWdhVudy6CJy
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Dalarö SK
+DTSTAMP:20250324T070235Z
+DTSTART:20250608T103000Z
+DTEND:20250608T120000Z
+DESCRIPTION:P2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-dalaro-sk-p
+	ojkar-2016/6281544/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:Zj3WhimLSYifi-UaV-o3m
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Hägersten SK Svart
+DTSTAMP:20250324T070235Z
+DTSTART:20250608T103000Z
+DTEND:20250608T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-hagersten-s
+	k-svart-pojkar-2017/6283012/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:rEYKdKygsAP4s-bFkKDxo
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs IF Brommapojkarna 2014-10
+DTSTAMP:20250324T070235Z
+DTSTART:20250608T114500Z
+DTEND:20250608T131500Z
+DESCRIPTION:F2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-if-brommapo
+	jkarna-2014-10-flickor-2014/6262562/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:uDyUc6sLWq6ErjAklGVMw
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Apollon Solna FK
+DTSTAMP:20250324T070235Z
+DTSTART:20250608T130000Z
+DTEND:20250608T143000Z
+DESCRIPTION:P2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-apollon-sol
+	na-fk-pojkar-2014/6273077/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:_n-r6okmYNEXKSET6w6MU
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Hammarby IF FF 4 grön
+DTSTAMP:20250324T070235Z
+DTSTART:20250608T141500Z
+DTEND:20250608T154500Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-hammarby-if
+	-ff-4-gron-pojkar-2015/6274475/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:GUxa8suESDy6wW2GyjUPG
+SUMMARY:IFK Aspudden-Tellus Blå 3 vs IFK Lidingö FK 6 vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250608T153000Z
+DTEND:20250608T170000Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-3-ifk-lidingo
+	-fk-6-vit-pojkar-2015/6275813/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:6wOcjSCYnte5r3cAqoyQM
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Essinge IK 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250823T093000Z
+DTEND:20250823T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-essinge-ik-
+	1-pojkar-2016/6279836/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:H0kvthwlyrxDBXibCHKQQ
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Hammarby IF FF 11
+DTSTAMP:20250324T070235Z
+DTSTART:20250823T093000Z
+DTEND:20250823T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-hammarby-if
+	-ff-11-pojkar-2016/6279887/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:9aTfdgr1RAja1SefflkrT
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs AIK FF 6
+DTSTAMP:20250324T070235Z
+DTSTART:20250823T103000Z
+DTEND:20250823T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-aik-ff-6-po
+	jkar-2017/6283327/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:LmfGcYgBzwAKY97IZvSSI
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs IFK Lidingö FK 6
+DTSTAMP:20250324T070235Z
+DTSTART:20250823T114500Z
+DTEND:20250823T131500Z
+DESCRIPTION:P2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-ifk-lidingo
+	-fk-6-pojkar-2014/6271904/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:BZvSI9hFqgOPQeNMO_ojU
+SUMMARY:IFK Aspudden-Tellus 1 vs Assyriska Botkyrka SK 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250823T130000Z
+DTEND:20250823T143000Z
+DESCRIPTION:F2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-assyriska-botky
+	rka-sk-1-flickor-2015/6263318/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:BrUMCs_t0OTA1JncXkRb8
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Hammarby IF FF 21
+DTSTAMP:20250324T070235Z
+DTSTART:20250823T141500Z
+DTEND:20250823T154500Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-hammarby-if
+	-ff-21-pojkar-2015/6275981/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:_PWqQTb_Bg4N49Q3wxjZQ
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Boo FF F16:3 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250824T093000Z
+DTEND:20250824T110000Z
+DESCRIPTION:F2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-boo-ff-f163
+	-2-flickor-2016/6264771/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:MzTTbkkFjPUrJbbeo6R62
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Kälvesta IoF 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250824T093000Z
+DTEND:20250824T110000Z
+DESCRIPTION:F2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-kalvesta-io
+	f-1-flickor-2016/6265325/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:ZXHyku28D0l1p4oMQfIxd
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs AIK FF 3
+DTSTAMP:20250324T070235Z
+DTSTART:20250824T103000Z
+DTEND:20250824T120000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-aik-ff-3-fl
+	ickor-2017/6266026/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:8irAkPS6uiNLv9bGFqICK
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs AIK FF 8
+DTSTAMP:20250324T070235Z
+DTSTART:20250824T103000Z
+DTEND:20250824T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-aik-ff-8-po
+	jkar-2017/6283331/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:cQknZmcqR1ebKNF0BIDLt
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Tullinge Triangel Pojkar FK Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250824T114500Z
+DTEND:20250824T131500Z
+DESCRIPTION:F2014- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-tullinge-tr
+	iangel-pojkar-fk-vit-flickor-2014/6261579/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:W0vbREM8owWvBVec-qnbE
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Hägersten SK Gul
+DTSTAMP:20250324T070235Z
+DTSTART:20250824T130000Z
+DTEND:20250824T143000Z
+DESCRIPTION:P2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-hagersten-s
+	k-gul-pojkar-2014/6273127/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:WWUnl8Ff6q57gHgO14y72
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Råsunda IS Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250824T141500Z
+DTEND:20250824T154500Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-rasunda-is-
+	bla-pojkar-2015/6274504/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:GBLc9dC7rgJuydflpDIkQ
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Segeltorps Idrottsförening Fotboll Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250824T153000Z
+DTEND:20250824T170000Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-segeltorps-
+	idrottsforening-fotboll-bla-pojkar-2015/6277509/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:YstyEQ_Tlv0qk5ZMl1AEs
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Ängby IF Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250830T093000Z
+DTEND:20250830T110000Z
+DESCRIPTION:P2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-angby-if-vi
+	t-pojkar-2016/6281583/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:HOB8KmjD5diiWZHwVm1eA
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Rönninge Salem Fotboll Svart
+DTSTAMP:20250324T070235Z
+DTSTART:20250830T093000Z
+DTEND:20250830T110000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-ronninge-sa
+	lem-fotboll-svart-flickor-2017/6266158/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:CpecPrHs2sDU1_KS0DSWi
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Segeltorps Idrottsförening Fotboll Ora
+	nge
+DTSTAMP:20250324T070235Z
+DTSTART:20250830T103000Z
+DTEND:20250830T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-segeltorps-
+	idrottsforening-fotboll-orange-pojkar-2017/6283606/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:zXks2X78J0lbRLuLgFNjD
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs IFK Lidingö FK 9
+DTSTAMP:20250324T070235Z
+DTSTART:20250830T114500Z
+DTEND:20250830T131500Z
+DESCRIPTION:F2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-ifk-lidingo
+	-fk-9-flickor-2014/6262170/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Hf62mFAGg7x7wsWSj86Sx
+SUMMARY:IFK Aspudden-Tellus 2 vs Sollentuna FK Vallen 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250830T130000Z
+DTEND:20250830T143000Z
+DESCRIPTION:F2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-sollentuna-fk-v
+	allen-1-flickor-2015/6263368/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Vfy9UpP_YxhAqw9Oa-_S0
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs IFK Lidingö FK 18 vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250830T141500Z
+DTEND:20250830T154500Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-ifk-lidingo
+	-fk-18-vit-pojkar-2015/6274542/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:lQ_fu96_-9NCaDRLQ15OS
+SUMMARY:IFK Aspudden-Tellus Blå 3 vs Spånga IS FK 7
+DTSTAMP:20250324T070235Z
+DTSTART:20250830T153000Z
+DTEND:20250830T170000Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-3-spanga-is-f
+	k-7-pojkar-2015/6276154/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:RvyX5s9FsGJ2edgTa3KAB
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs IFK Stockholm FK 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250831T093000Z
+DTEND:20250831T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-ifk-stockho
+	lm-fk-1-pojkar-2016/6280038/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:i06FLoERyUQjyIl1CEvVV
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Huddinge IF P2016:2M
+DTSTAMP:20250324T070235Z
+DTSTART:20250831T093000Z
+DTEND:20250831T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-huddinge-if
+	-p20162m-pojkar-2016/6280214/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:Oz9t7mC_lm-4KidPFPrls
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs IF Brommapojkarna F17-4
+DTSTAMP:20250324T070235Z
+DTSTART:20250831T103000Z
+DTEND:20250831T120000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-if-brommapo
+	jkarna-f17-4-flickor-2017/6266112/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:sK3hwlLr_b_AHD6ObUs34
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Reymersholms IK 4
+DTSTAMP:20250324T070235Z
+DTSTART:20250831T103000Z
+DTEND:20250831T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-reymersholm
+	s-ik-4-pojkar-2017/6283569/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:HbFeO8kOt-de_pchf6hOd
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Älvsjö AIK FF 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250831T114500Z
+DTEND:20250831T131500Z
+DESCRIPTION:F2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-alvsjo-aik-
+	ff-2-flickor-2014/6262628/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:LhDk-G4-d7wKZMeXuCw-7
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Nacka FC Svart1
+DTSTAMP:20250324T070235Z
+DTSTART:20250831T130000Z
+DTEND:20250831T143000Z
+DESCRIPTION:P2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-nacka-fc-sv
+	art1-pojkar-2014/6271932/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:NtMpqCiyVcsAtaJOVX-3v
+SUMMARY:IFK Aspudden-Tellus 3 vs Skå IK & Bygdegård Gul
+DTSTAMP:20250324T070235Z
+DTSTART:20250831T141500Z
+DTEND:20250831T154500Z
+DESCRIPTION:F2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-ska-ik--bygdega
+	rd-gul-flickor-2015/6263901/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:VmcCV6n6SuxTXhgrPnD3X
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Älvsjö AIK FF Blå 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250831T153000Z
+DTEND:20250831T170000Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-alvsjo-aik-
+	ff-bla-2-pojkar-2015/6276096/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:yPw46ospHhRvbEh6fvity
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Ursvik IK Svart
+DTSTAMP:20250324T070235Z
+DTSTART:20250906T093000Z
+DTEND:20250906T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-ursvik-ik-s
+	vart-pojkar-2016/6280380/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:CZO9D6myKuZgR1i-f5xfz
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs IF Brommapojkarna F17-6
+DTSTAMP:20250324T070235Z
+DTSTART:20250906T093000Z
+DTEND:20250906T110000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-if-brommapo
+	jkarna-f17-6-flickor-2017/6266206/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:fkV5OCtdu4RNp_vzFHSfS
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Hammarby IF FF 10
+DTSTAMP:20250324T070235Z
+DTSTART:20250906T103000Z
+DTEND:20250906T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-hammarby-if
+	-ff-10-pojkar-2017/6283774/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:LEHP4QcVteX-G04cAanrB
+SUMMARY:IFK Aspudden-Tellus 1 vs Hammarby IF FF 5 grön
+DTSTAMP:20250324T070235Z
+DTSTART:20250906T114500Z
+DTEND:20250906T131500Z
+DESCRIPTION:F2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-hammarby-if-ff-
+	5-gron-flickor-2015/6263388/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:QdGeE5Mb8kjAxGIsRekEJ
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Boo FF P15:28 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250906T130000Z
+DTEND:20250906T143000Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-boo-ff-p152
+	8-2-pojkar-2015/6276295/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:pTqS1_VyruE3B-Su4lEZs
+SUMMARY:IFK Aspudden-Tellus Blå 4 vs Värtans IK Röd 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250906T141500Z
+DTEND:20250906T154500Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-4-vartans-ik-
+	rod-2-pojkar-2015/6277673/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:k7-ZCQ4ISFgX3_8TqpUNB
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Spånga IS FK 44
+DTSTAMP:20250324T070235Z
+DTSTART:20250907T093000Z
+DTEND:20250907T110000Z
+DESCRIPTION:F2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-spanga-is-f
+	k-44-flickor-2016/6264952/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:PfJ_d7iURsz1D7dtnHqh_
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Mörtnäs IF Svart
+DTSTAMP:20250324T070235Z
+DTSTART:20250907T093000Z
+DTEND:20250907T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-mortnas-if-
+	svart-pojkar-2016/6280485/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:DL2i8PkyeL0VjhRgjqZhH
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Årsta FF 3
+DTSTAMP:20250324T070235Z
+DTSTART:20250907T103000Z
+DTEND:20250907T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-arsta-ff-3-
+	pojkar-2017/6283714/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:opEQ1X0-i9AKOGRr_idEc
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Stuvsta IF 4:3
+DTSTAMP:20250324T070235Z
+DTSTART:20250907T103000Z
+DTEND:20250907T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-stuvsta-if-
+	43-pojkar-2017/6283810/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:DwM90FOD-KzyQgheyk5a-
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Spånga IS FK 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250907T114500Z
+DTEND:20250907T131500Z
+DESCRIPTION:F2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-spanga-is-f
+	k-1-flickor-2014/6262231/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:0rG58SSRjIv92ItxbLZF9
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Hammarby IF FF 5 grön
+DTSTAMP:20250324T070235Z
+DTSTART:20250907T130000Z
+DTEND:20250907T143000Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-hammarby-if
+	-ff-5-gron-pojkar-2015/6274579/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:iSE30vbQJSu-sY4Tw3j43
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Reymersholms IK 7
+DTSTAMP:20250324T070235Z
+DTSTART:20250907T141500Z
+DTEND:20250907T154500Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-reymersholm
+	s-ik-7-pojkar-2015/6277718/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:SlPhdGJk9cWkaxNaPUR0y
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Högalids IF P16
+DTSTAMP:20250324T070235Z
+DTSTART:20250913T093000Z
+DTEND:20250913T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-hogalids-if
+	-p16-pojkar-2016/6280518/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:7Oq3sDvMf8JAQayw2fvId
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Segeltorps Idrottsförening Fotboll Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250913T093000Z
+DTEND:20250913T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-segeltorps-
+	idrottsforening-fotboll-bla-pojkar-2016/6280616/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:sA7-sMPnVs2AK5Ag96eep
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Apollon Solna FK Svart
+DTSTAMP:20250324T070235Z
+DTSTART:20250913T103000Z
+DTEND:20250913T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-apollon-sol
+	na-fk-svart-pojkar-2017/6283942/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:PQmgW-keTzhl3KM1acpTJ
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs AIK FF 13
+DTSTAMP:20250324T070235Z
+DTSTART:20250913T103000Z
+DTEND:20250913T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-aik-ff-13-p
+	ojkar-2017/6284012/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:72nH528hdkbFe0-_PYHMm
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs IFK Lidingö FK 21 blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250913T114500Z
+DTEND:20250913T131500Z
+DESCRIPTION:P2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-ifk-lidingo
+	-fk-21-bla-pojkar-2014/6272266/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:c-XMRZkvPWszgrKm9mSGv
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Arameisk-Syrianska IF 2 Röd
+DTSTAMP:20250324T070235Z
+DTSTART:20250913T130000Z
+DTEND:20250913T143000Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-arameisk-sy
+	rianska-if-2-rod-pojkar-2015/6274627/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:GPrj7qx9kgujRt_-FfKBQ
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Boo FF P15-i B3
+DTSTAMP:20250324T070235Z
+DTSTART:20250913T141500Z
+DTEND:20250913T154500Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-boo-ff-p15-
+	i-b3-pojkar-2015/6276466/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:bf5HCgB3cq1L9RvVD5G6W
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Huddinge IF 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250914T093000Z
+DTEND:20250914T110000Z
+DESCRIPTION:F2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-huddinge-if
+	-1-flickor-2016/6265029/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:wvjx8ZQZyhJKoURxsQ7z9
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Runby IF Vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250914T093000Z
+DTEND:20250914T110000Z
+DESCRIPTION:F2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-runby-if-vi
+	t-flickor-2016/6265360/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:UPN-xIDrjg55D5ck39OYF
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Boo FF P16:8
+DTSTAMP:20250324T070235Z
+DTSTART:20250914T103000Z
+DTEND:20250914T120000Z
+DESCRIPTION:P2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-boo-ff-p168
+	-pojkar-2016/6281651/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:ZNS69K3Ko1OCK99GGABt1
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Täby FK 41
+DTSTAMP:20250324T070235Z
+DTSTART:20250914T103000Z
+DTEND:20250914T120000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-taby-fk-41-
+	flickor-2017/6266284/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:DXsQ2zNmWyjPZ_O-Vq4gG
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Norrtulls SK L
+DTSTAMP:20250324T070235Z
+DTSTART:20250914T114500Z
+DTEND:20250914T131500Z
+DESCRIPTION:F2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-norrtulls-s
+	k-l-flickor-2014/6262675/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:OPKpJy53k4x7vZhzj_pJu
+SUMMARY:IFK Aspudden-Tellus 3 vs Boo FF F15:6 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250914T130000Z
+DTEND:20250914T143000Z
+DESCRIPTION:F2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-boo-ff-f156-2-f
+	lickor-2015/6263952/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:5lO4JfWfGDFwkMDXhdkFf
+SUMMARY:IFK Aspudden-Tellus Blå 3 vs Apollon Solna FK Röd 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250914T141500Z
+DTEND:20250914T154500Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-3-apollon-sol
+	na-fk-rod-1-pojkar-2015/6276377/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:9YVORZ3BTqy_W-qy_R_mf
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs AIK FF 8
+DTSTAMP:20250324T070235Z
+DTSTART:20250920T093000Z
+DTEND:20250920T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-aik-ff-8-po
+	jkar-2016/6280895/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:zrVsMfyybSUoVIhdt9p8T
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Huddinge IF 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250920T093000Z
+DTEND:20250920T110000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-huddinge-if
+	-1-flickor-2017/6266348/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:nRkOCNNVdnzmp8_Z4PJ5n
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Hammarby IF FF 5 vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250920T114500Z
+DTEND:20250920T131500Z
+DESCRIPTION:P2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-hammarby-if
+	-ff-5-vit-pojkar-2014/6272401/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:LPWTg4afT0SF7Zj3a0opO
+SUMMARY:IFK Aspudden-Tellus 1 vs IFK Lidingö FK 10
+DTSTAMP:20250324T070235Z
+DTSTART:20250920T130000Z
+DTEND:20250920T143000Z
+DESCRIPTION:F2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-ifk-lidingo-fk-
+	10-flickor-2015/6263543/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:9bDcjI7bY1a5Sf4Pt6ZNn
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs IF Brommapojkarna P15-33
+DTSTAMP:20250324T070235Z
+DTSTART:20250920T141500Z
+DTEND:20250920T154500Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-if-brommapo
+	jkarna-p15-33-pojkar-2015/6276637/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:vRS_VzJCB-2FRyty1gDyd
+SUMMARY:IFK Aspudden-Tellus Blå 4 vs Reymersholms IK 9
+DTSTAMP:20250324T070235Z
+DTSTART:20250920T153000Z
+DTEND:20250920T170000Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-4-reymersholm
+	s-ik-9-pojkar-2015/6277845/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:uuKnmqETioRrmgannq_oo
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Segeltorps Idrottsförening Fotboll Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250921T093000Z
+DTEND:20250921T110000Z
+DESCRIPTION:F2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-segeltorps-
+	idrottsforening-fotboll-bla-flickor-2016/6265096/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:1U0uK8T6TQgsDNYu2KtQP
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Djurgårdens IF FF 9 Gul
+DTSTAMP:20250324T070235Z
+DTSTART:20250921T093000Z
+DTEND:20250921T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-djurgardens
+	-if-ff-9-gul-pojkar-2016/6280923/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:szTBojcMCxWzlxMtq17b7
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs IFK Stockholm FK 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250921T103000Z
+DTEND:20250921T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-ifk-stockho
+	lm-fk-2-pojkar-2017/6284150/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:gZ7b6avd60puXEAD10yud
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Hammarby IF FF 5
+DTSTAMP:20250324T070235Z
+DTSTART:20250921T103000Z
+DTEND:20250921T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-hammarby-if
+	-ff-5-pojkar-2017/6284169/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:wJWc0HaJfTL3gdpMzbP7y
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Täby FK 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250921T114500Z
+DTEND:20250921T131500Z
+DESCRIPTION:F2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-taby-fk-2-f
+	lickor-2014/6262323/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:DAsDIyuqBCBNS_mHtekeE
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs IF Brommapojkarna 2014-14
+DTSTAMP:20250324T070235Z
+DTSTART:20250921T130000Z
+DTEND:20250921T143000Z
+DESCRIPTION:P2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-if-brommapo
+	jkarna-2014-14-pojkar-2014/6273493/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:7jH9goX3-jA5AgwGLIW8f
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs IFK Lidingö FK 11 vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250921T141500Z
+DTEND:20250921T154500Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-ifk-lidingo
+	-fk-11-vit-pojkar-2015/6274671/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:-DC0rZQknRKR-N2Ch8ym4
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Norrtulls SK Blå 1 L
+DTSTAMP:20250324T070235Z
+DTSTART:20250921T153000Z
+DTEND:20250921T170000Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-norrtulls-s
+	k-bla-1-l-pojkar-2015/6277841/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:aYu5VAmAJLZ4ncAGP7x3u
+SUMMARY:IFK Aspudden-Tellus Röd 2 vs Jarlabergs IF 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250927T093000Z
+DTEND:20250927T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-jarlabergs-
+	if-2-pojkar-2016/6281210/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:SieOqP4OiFGpZpg6RohBF
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs IFK Lidingö FK 24 vit
+DTSTAMP:20250324T070235Z
+DTSTART:20250927T093000Z
+DTEND:20250927T110000Z
+DESCRIPTION:P2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-ifk-lidingo
+	-fk-24-vit-pojkar-2016/6281231/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:cciH5Zu_PvWh3muZgLe4u
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Vasalund IF Solna Sv
+DTSTAMP:20250324T070235Z
+DTSTART:20250927T103000Z
+DTEND:20250927T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-vasalund-if
+	-solna-sv-pojkar-2017/6284341/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:SnnkK_mEy1X1BN9gau4KZ
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Svensk-Palestinska FF 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250927T103000Z
+DTEND:20250927T120000Z
+DESCRIPTION:P2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-svensk-pale
+	stinska-ff-1-pojkar-2017/6284434/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:uQUjnl2v-2H1z5eDrOtIQ
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs Årsta FF 2
+DTSTAMP:20250324T070235Z
+DTSTART:20250927T114500Z
+DTEND:20250927T131500Z
+DESCRIPTION:F2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-arsta-ff-2-
+	flickor-2014/6262734/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:_kU4T6BUfmc7wAWjfulIE
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Järla IF FK Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250927T130000Z
+DTEND:20250927T143000Z
+DESCRIPTION:P2014- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-jarla-if-fk
+	-bla-pojkar-2014/6273606/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:JtxGcrp_oD_nUsyn46VDg
+SUMMARY:IFK Aspudden-Tellus Blå 3 vs Boo FF P15-i B3
+DTSTAMP:20250324T070235Z
+DTSTART:20250927T141500Z
+DTEND:20250927T154500Z
+DESCRIPTION:P2015- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-3-boo-ff-p15-
+	i-b3-pojkar-2015/6276756/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:izwvNMMxE4VDiUDEUIXdb
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Boo FF F16:6 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250928T093000Z
+DTEND:20250928T110000Z
+DESCRIPTION:F2016- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-boo-ff-f166
+	-1-flickor-2016/6265229/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:_krbLSRHv6cz2gEANhWvK
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs IF Söderkamraterna 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250928T093000Z
+DTEND:20250928T110000Z
+DESCRIPTION:F2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-if-soderkam
+	raterna-1-flickor-2016/6265380/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:mo849qwZMQvTxWYtEhm3J
+SUMMARY:IFK Aspudden-Tellus Blå 2 vs Österåker United FK 6 Rosa
+DTSTAMP:20250324T070235Z
+DTSTART:20250928T103000Z
+DTEND:20250928T120000Z
+DESCRIPTION:P2016- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-osteraker-u
+	nited-fk-6-rosa-pojkar-2016/6281696/
+LOCATION:Aspuddens IP 26
+END:VEVENT
+BEGIN:VEVENT
+UID:XwBG-4XALj-DKkvIoijl3
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Ängby IF Grön 1
+DTSTAMP:20250324T070235Z
+DTSTART:20250928T103000Z
+DTEND:20250928T120000Z
+DESCRIPTION:F2017- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-angby-if-gr
+	on-1-flickor-2017/6266442/
+LOCATION:Aspuddens IP 25
+END:VEVENT
+BEGIN:VEVENT
+UID:-L0IRQ5cTdwyOxPXPErHV
+SUMMARY:IFK Aspudden-Tellus Röd 1 vs Viggbyholms IK FF Svart
+DTSTAMP:20250324T070235Z
+DTSTART:20250928T114500Z
+DTEND:20250928T131500Z
+DESCRIPTION:F2014- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-viggbyholms
+	-ik-ff-svart-flickor-2014/6261655/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:gHJn6XVeBuT0VDCIW55m7
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Huddinge IF Vit M2
+DTSTAMP:20250324T070235Z
+DTSTART:20250928T130000Z
+DTEND:20250928T143000Z
+DESCRIPTION:P2014- 2
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-huddinge-if
+	-vit-m2-pojkar-2014/6272535/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:NF7kyKJdYznvbuDK9VMuU
+SUMMARY:IFK Aspudden-Tellus Blå 1 vs Saltsjöbadens IF Blå
+DTSTAMP:20250324T070235Z
+DTSTART:20250928T141500Z
+DTEND:20250928T154500Z
+DESCRIPTION:P2015- 1
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-saltsjobade
+	ns-if-bla-pojkar-2015/6274715/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+BEGIN:VEVENT
+UID:A-f5QbD7c-8notDpXklTh
+SUMMARY:IFK Aspudden-Tellus Röd 3 vs KIF Söderort Guld
+DTSTAMP:20250324T070235Z
+DTSTART:20250928T153000Z
+DTEND:20250928T170000Z
+DESCRIPTION:P2015- 3
+URL:https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-kif-soderor
+	t-guld-pojkar-2015/6277974/
+LOCATION:Aspuddens IP 2
+END:VEVENT
+END:VCALENDAR
