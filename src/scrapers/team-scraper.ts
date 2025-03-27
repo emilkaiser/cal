@@ -1,314 +1,345 @@
-import { readFile } from 'fs/promises';
-import { JSDOM } from 'jsdom';
-import * as path from 'path';
-import * as fs from 'fs/promises';
-import { CalendarEvent, saveEventsToJson } from '../utils/ics-converter';
-import { getHomeAwayCategory } from '../utils/categorize-events';
-import { getLocationCategories } from '../utils/location-utils';
+// import { readFile } from 'fs/promises';
+// import { JSDOM } from 'jsdom';
+// import * as path from 'path';
+// import * as fs from 'fs/promises';
+// import { CalendarEvent, saveEventsToJson } from '../utils/ics-converter';
+// import { getHomeAwayCategory } from '../utils/categorize-events';
+// import { getVenues } from '../utils/location-utils';
+// import { EventSourceData, normalizeEvents } from '../utils/event-normalizer';
 
-// STFF API types
-interface TeamConfig {
-  teamId: number;
-  teamName: string;
-}
+// // STFF API types
+// interface TeamConfig {
+//   teamId: number;
+//   teamName: string;
+// }
 
-interface ConfigGroup {
-  teams: TeamConfig[];
-  outputFile: string;
-}
+// interface ConfigGroup {
+//   teams: TeamConfig[];
+//   outputFile: string;
+// }
 
-interface ConfigRoot {
-  configs: ConfigGroup[];
-}
+// interface ConfigRoot {
+//   configs: ConfigGroup[];
+// }
 
-interface TeamResponse {
-  data: string;
-  nextUrl: string | null;
-}
+// interface TeamResponse {
+//   data: string;
+//   nextUrl: string | null;
+// }
 
-interface GameData {
-  id: string;
-  dateTime: string;
-  homeTeam: string;
-  awayTeam: string;
-  category: string;
-  location: string;
-  url: string;
-}
+// interface GameData {
+//   id: string;
+//   dateTime: string;
+//   homeTeam: string;
+//   awayTeam: string;
+//   category: string;
+//   location: string;
+//   url: string;
+// }
 
-// Default config
-const DEFAULT_CONFIG: ConfigRoot = {
-  configs: [],
-};
+// // Default config
+// const DEFAULT_CONFIG: ConfigRoot = {
+//   configs: [],
+// };
 
-// 1. Load configuration
-async function loadConfig(configPath: string = './team-config.json'): Promise<ConfigRoot> {
-  console.log(`Loading team configuration from ${configPath}`);
+// // 1. Load configuration
+// async function loadConfig(configPath: string = './team-config.json'): Promise<ConfigRoot> {
+//   console.log(`Loading team configuration from ${configPath}`);
 
-  try {
-    const configData = await readFile(configPath, 'utf8');
-    const jsonData = JSON.parse(configData);
+//   try {
+//     const configData = await readFile(configPath, 'utf8');
+//     const jsonData = JSON.parse(configData);
 
-    // Handle both formats: array of configs or object with configs array
-    if (Array.isArray(jsonData)) {
-      return { configs: jsonData };
-    } else if (jsonData.configs && Array.isArray(jsonData.configs)) {
-      return jsonData as ConfigRoot;
-    } else {
-      // Handle legacy format (single config)
-      return {
-        configs: [jsonData as ConfigGroup],
-      };
-    }
-  } catch (error) {
-    console.warn(`Could not load config from ${configPath}`, error);
-    return DEFAULT_CONFIG;
-  }
-}
+//     // Handle both formats: array of configs or object with configs array
+//     if (Array.isArray(jsonData)) {
+//       return { configs: jsonData };
+//     } else if (jsonData.configs && Array.isArray(jsonData.configs)) {
+//       return jsonData as ConfigRoot;
+//     } else {
+//       // Handle legacy format (single config)
+//       return {
+//         configs: [jsonData as ConfigGroup],
+//       };
+//     }
+//   } catch (error) {
+//     console.warn(`Could not load config from ${configPath}`, error);
+//     return DEFAULT_CONFIG;
+//   }
+// }
 
-// Fetch data from external source
-async function fetchGamesPage(teamId: number, from: number = 0): Promise<TeamResponse> {
-  const requestUrl = `https://www.stff.se/api/team/upcoming-games/?teamId=${teamId}${from ? `&from=${from}` : ''}`;
-  console.log(`Fetching ${requestUrl}`);
+// // Fetch data from external source
+// async function fetchGamesPage(teamId: number, from: number = 0): Promise<TeamResponse> {
+//   const requestUrl = `https://www.stff.se/api/team/upcoming-games/?teamId=${teamId}${
+//     from ? `&from=${from}` : ''
+//   }`;
+//   console.log(`Fetching ${requestUrl}`);
 
-  const response = await fetch(requestUrl);
-  if (!response.ok) {
-    throw new Error(`Failed to fetch: ${response.status} ${response.statusText}`);
-  }
+//   const response = await fetch(requestUrl);
+//   if (!response.ok) {
+//     throw new Error(`Failed to fetch: ${response.status} ${response.statusText}`);
+//   }
 
-  return await response.json();
-}
+//   return await response.json();
+// }
 
-// Extract games from HTML
-function parseGamesFromHTML(html: string): GameData[] {
-  const dom = new JSDOM(html);
-  const document = dom.window.document;
-  const matchItems = document.querySelectorAll('.match-board__item');
+// // Extract games from HTML
+// function parseGamesFromHTML(html: string): GameData[] {
+//   const dom = new JSDOM(html);
+//   const document = dom.window.document;
+//   const matchItems = document.querySelectorAll('.match-board__item');
 
-  const games: GameData[] = [];
+//   const games: GameData[] = [];
 
-  matchItems.forEach((item: Element) => {
-    const link = item.querySelector('.match-link__match');
-    if (!link) return;
+//   matchItems.forEach((item: Element) => {
+//     const link = item.querySelector('.match-link__match');
+//     if (!link) return;
 
-    const url = link.getAttribute('href') || '';
-    const id = url.split('=')[1] || '';
+//     const url = link.getAttribute('href') || '';
+//     const id = url.split('=')[1] || '';
 
-    const dateTimeElement = item.querySelector('time.match-link__date');
-    const dateTime = dateTimeElement?.getAttribute('datetime') || '';
+//     const dateTimeElement = item.querySelector('time.match-link__date');
+//     const dateTime = dateTimeElement?.getAttribute('datetime') || '';
 
-    const homeTeamElement = item.querySelector(
-      '.match-link__column--flags .team-logo:first-child img'
-    );
-    const homeTeam = homeTeamElement?.getAttribute('alt')?.replace(' emblem', '') || '';
+//     const homeTeamElement = item.querySelector(
+//       '.match-link__column--flags .team-logo:first-child img'
+//     );
+//     const homeTeam = homeTeamElement?.getAttribute('alt')?.replace(' emblem', '') || '';
 
-    const awayTeamElement = item.querySelector(
-      '.match-link__column--flags .team-logo:last-child img'
-    );
-    const awayTeam = awayTeamElement?.getAttribute('alt')?.replace(' emblem', '') || '';
+//     const awayTeamElement = item.querySelector(
+//       '.match-link__column--flags .team-logo:last-child img'
+//     );
+//     const awayTeam = awayTeamElement?.getAttribute('alt')?.replace(' emblem', '') || '';
 
-    const categoryElement = item.querySelector('.match-link__tag');
-    const category = categoryElement?.textContent?.trim() || '';
+//     const categoryElement = item.querySelector('.match-link__tag');
+//     const category = categoryElement?.textContent?.trim() || '';
 
-    const eventElement = item.querySelector('.match-link__event');
-    const location = eventElement
-      ? eventElement.textContent
-          ?.trim()
-          ?.replace(/\d{2}:\d{2}/, '')
-          ?.trim() || ''
-      : '';
+//     const eventElement = item.querySelector('.match-link__event');
+//     const location = eventElement
+//       ? eventElement.textContent
+//           ?.trim()
+//           ?.replace(/\d{2}:\d{2}/, '')
+//           ?.trim() || ''
+//       : '';
 
-    games.push({
-      id,
-      dateTime,
-      homeTeam,
-      awayTeam,
-      category,
-      location,
-      url: `https://www.stff.se${url}`,
-    });
-  });
+//     games.push({
+//       id,
+//       dateTime,
+//       homeTeam,
+//       awayTeam,
+//       category,
+//       location,
+//       url: `https://www.stff.se${url}`,
+//     });
+//   });
 
-  return games;
-}
+//   return games;
+// }
 
-// 2. Transform data to common format
-function transformToCalendarEvents(games: GameData[]): CalendarEvent[] {
-  console.log(`Transforming ${games.length} games to calendar events`);
+// // 2. Transform data to source-specific format
+// function transformToSourceData(games: GameData[]): EventSourceData[] {
+//   console.log(`Transforming ${games.length} games to source data events`);
 
-  return games.map(game => {
-    const startDate = new Date(game.dateTime);
-    const endDate = new Date(startDate.getTime() + 90 * 60000); // 90 minutes games
+//   return games.map(game => {
+//     const startDate = new Date(game.dateTime);
+//     const endDate = new Date(startDate.getTime() + 90 * 60000); // 90 minutes games
 
-    return {
-      uid: `team-game-${game.id}`,
-      start: startDate,
-      end: endDate,
-      title: `${game.homeTeam} vs ${game.awayTeam}`,
-      description: game.category,
-      location: game.location,
-      url: game.url,
-      categories: [game.category],
-    };
-  });
-}
+//     return {
+//       uid: `team-game-${game.id}`,
+//       start: startDate,
+//       end: endDate,
+//       title: `${game.homeTeam} vs ${game.awayTeam}`,
+//       description: game.category,
+//       location: game.location,
+//       url: game.url,
+//       categories: [game.category],
+//       sourceType: 'team',
+//       rawData: game,
+//     };
+//   });
+// }
 
-// 3. Enhance events with utilities
-function enhanceEvents(events: CalendarEvent[]): CalendarEvent[] {
-  console.log('Enhancing events with categories and metadata');
+// // Source-specific enhancement
+// function enhanceSourceEvents(events: EventSourceData[]): EventSourceData[] {
+//   console.log('Applying team-specific enhancements to events');
 
-  return events.map(event => {
-    // Deep clone to avoid mutating the original object
-    const enhancedEvent = JSON.parse(JSON.stringify(event)) as CalendarEvent;
+//   return events.map(event => {
+//     // Deep clone to avoid mutating the original object
+//     const enhancedEvent = { ...event };
 
-    // Initialize categories array if it doesn't exist
-    enhancedEvent.categories = enhancedEvent.categories || [];
+//     // Team-specific enhancements could go here
+//     // For example, extracting specific data patterns from descriptions
 
-    // Add Home/Away category
-    const homeAway = getHomeAwayCategory(enhancedEvent);
-    if (homeAway && !enhancedEvent.categories.includes(homeAway)) {
-      enhancedEvent.categories.push(homeAway);
-    }
+//     return enhancedEvent;
+//   });
+// }
 
-    // Add location-based categories
-    if (enhancedEvent.location) {
-      const locationCategories = getLocationCategories(enhancedEvent.location);
-      if (locationCategories.length > 0) {
-        for (const category of locationCategories) {
-          if (!enhancedEvent.categories.includes(category)) {
-            enhancedEvent.categories.push(category);
-          }
-        }
-      }
-    }
+// // 3. Enhance events with utilities
+// function enhanceEvents(events: CalendarEvent[]): CalendarEvent[] {
+//   console.log('Enhancing events with categories and metadata');
 
-    return enhancedEvent;
-  });
-}
+//   return events.map(event => {
+//     // Deep clone to avoid mutating the original object
+//     const enhancedEvent = JSON.parse(JSON.stringify(event)) as CalendarEvent;
 
-// Fetch all games for a team
-async function fetchAllGamesForTeam(team: TeamConfig): Promise<GameData[]> {
-  let allGames: GameData[] = [];
-  let nextUrl: string | null = null;
-  let from = 0;
+//     // Initialize categories array if it doesn't exist
+//     enhancedEvent.categories = enhancedEvent.categories || [];
 
-  console.log(`Fetching games for team: ${team.teamName} (ID: ${team.teamId})`);
+//     // Add Home/Away category
+//     const homeAway = getHomeAwayCategory(enhancedEvent);
+//     if (homeAway && !enhancedEvent.categories.includes(homeAway)) {
+//       enhancedEvent.categories.push(homeAway);
+//     }
 
-  do {
-    const response = await fetchGamesPage(team.teamId, from);
-    const games = parseGamesFromHTML(response.data);
-    allGames = [...allGames, ...games];
+//     // Add location-based categories
+//     if (enhancedEvent.location) {
+//       const locationCategories = getVenues(enhancedEvent.location);
+//       if (locationCategories.length > 0) {
+//         for (const category of locationCategories) {
+//           if (!enhancedEvent.categories.includes(category)) {
+//             enhancedEvent.categories.push(category);
+//           }
+//         }
+//       }
+//     }
 
-    nextUrl = response.nextUrl;
-    if (nextUrl) {
-      const match = nextUrl.match(/from=(\d+)/);
-      from = match ? parseInt(match[1]) : 0;
-    }
-  } while (nextUrl);
+//     return enhancedEvent;
+//   });
+// }
 
-  console.log(`Found ${allGames.length} games for team: ${team.teamName}`);
-  return allGames;
-}
+// // Fetch all games for a team
+// async function fetchAllGamesForTeam(team: TeamConfig): Promise<GameData[]> {
+//   let allGames: GameData[] = [];
+//   let nextUrl: string | null = null;
+//   let from = 0;
 
-// 4. Process a team group config
-async function processTeamGroup(config: ConfigGroup): Promise<CalendarEvent[]> {
-  console.log(`Processing team group for ${config.outputFile}`);
+//   console.log(`Fetching games for team: ${team.teamName} (ID: ${team.teamId})`);
 
-  let allGames: GameData[] = [];
+//   do {
+//     const response = await fetchGamesPage(team.teamId, from);
+//     const games = parseGamesFromHTML(response.data);
+//     allGames = [...allGames, ...games];
 
-  for (const team of config.teams) {
-    console.log(`Processing team: ${team.teamName} (ID: ${team.teamId})`);
-    const games = await fetchAllGamesForTeam(team);
-    console.log(`Found ${games.length} upcoming games for ${team.teamName}`);
-    allGames = [...allGames, ...games];
-  }
+//     nextUrl = response.nextUrl;
+//     if (nextUrl) {
+//       const match = nextUrl.match(/from=(\d+)/);
+//       from = match ? parseInt(match[1]) : 0;
+//     }
+//   } while (nextUrl);
 
-  // Transform and enhance events
-  const basicEvents = transformToCalendarEvents(allGames);
-  const enhancedEvents = enhanceEvents(basicEvents);
+//   console.log(`Found ${allGames.length} games for team: ${team.teamName}`);
+//   return allGames;
+// }
 
-  // Extract the filename without extension to use as JSON filename
-  const baseFilename = path.basename(config.outputFile, '.ics');
-  const jsonFilePath = path.join('data', 'team', `${baseFilename}.json`);
+// // 4. Process a team group config
+// async function processTeamGroup(config: ConfigGroup): Promise<CalendarEvent[]> {
+//   console.log(`Processing team group for ${config.outputFile}`);
 
-  // Save the events
-  await saveEventsToJson(enhancedEvents, jsonFilePath);
-  console.log(`Team data saved to ${jsonFilePath} with ${enhancedEvents.length} events`);
+//   let allGames: GameData[] = [];
 
-  return enhancedEvents;
-}
+//   for (const team of config.teams) {
+//     console.log(`Processing team: ${team.teamName} (ID: ${team.teamId})`);
+//     const games = await fetchAllGamesForTeam(team);
+//     console.log(`Found ${games.length} upcoming games for ${team.teamName}`);
+//     allGames = [...allGames, ...games];
+//   }
 
-// 5. Main process
-async function main(): Promise<void> {
-  try {
-    const args = process.argv.slice(2);
+//   // Transform to source format
+//   const sourceEvents = transformToSourceData(allGames);
 
-    // Get config file path if provided
-    const configPathArg = args.find(arg => arg.startsWith('--config='));
-    const configPath = configPathArg
-      ? configPathArg.split('=')[1]
-      : path.join(process.cwd(), 'team-config.json');
+//   // Team-specific enhancement
+//   const enhancedSourceEvents = enhanceSourceEvents(sourceEvents);
 
-    // Check if we're in API fetch mode or combine mode
-    const fetchMode = args.includes('--fetch');
-    const combineMode = args.includes('--combine');
+//   // Common normalization
+//   const normalizedEvents = normalizeEvents(enhancedSourceEvents);
 
-    // Default to both modes if none specified
-    const doFetch = fetchMode || (!fetchMode && !combineMode);
-    const doCombine = combineMode || (!fetchMode && !combineMode);
+//   // Extract the filename without extension to use as JSON filename
+//   const baseFilename = path.basename(config.outputFile, '.ics');
+//   const jsonFilePath = path.join('data', 'team', `${baseFilename}.json`);
 
-    // Create output directory if it doesn't exist
-    const outputDir = path.join('data', 'team');
-    await fs.mkdir(outputDir, { recursive: true });
+//   // Save the events
+//   await saveEventsToJson(normalizedEvents, jsonFilePath);
+//   console.log(`Team data saved to ${jsonFilePath} with ${normalizedEvents.length} events`);
 
-    // Load configuration
-    const configRoot = await loadConfig(configPath);
+//   return normalizedEvents;
+// }
 
-    let allEvents: CalendarEvent[] = [];
+// // 5. Main process
+// async function main(): Promise<void> {
+//   try {
+//     const args = process.argv.slice(2);
 
-    // Process each config
-    if (doFetch) {
-      for (const config of configRoot.configs) {
-        const events = await processTeamGroup(config);
-        allEvents = [...allEvents, ...events];
-      }
-    } else {
-      // Load events from existing files
-      for (const config of configRoot.configs) {
-        const baseFilename = path.basename(config.outputFile, '.ics');
-        const jsonFilePath = path.join('data', 'team', `${baseFilename}.json`);
+//     // Get config file path if provided
+//     const configPathArg = args.find(arg => arg.startsWith('--config='));
+//     const configPath = configPathArg
+//       ? configPathArg.split('=')[1]
+//       : path.join(process.cwd(), 'team-config.json');
 
-        try {
-          const fileContent = await fs.readFile(jsonFilePath, 'utf8');
-          const events = JSON.parse(fileContent) as CalendarEvent[];
+//     // Check if we're in API fetch mode or combine mode
+//     const fetchMode = args.includes('--fetch');
+//     const combineMode = args.includes('--combine');
 
-          // Convert string dates to Date objects
-          events.forEach(event => {
-            event.start = new Date(event.start);
-            event.end = new Date(event.end);
-          });
+//     // Default to both modes if none specified
+//     const doFetch = fetchMode || (!fetchMode && !combineMode);
+//     const doCombine = combineMode || (!fetchMode && !combineMode);
 
-          allEvents = [...allEvents, ...events];
-          console.log(`Loaded ${events.length} events from ${jsonFilePath}`);
-        } catch (error) {
-          console.error(`Error loading events from ${jsonFilePath}:`, error);
-        }
-      }
-    }
+//     // Create output directory if it doesn't exist
+//     const outputDir = path.join('data', 'team');
+//     await fs.mkdir(outputDir, { recursive: true });
 
-    // Combine all events if needed
-    if (doCombine && allEvents.length > 0) {
-      const allTeamsPath = path.join(outputDir, 'all-teams.json');
-      await saveEventsToJson(allEvents, allTeamsPath);
-      console.log(`Saved ${allEvents.length} events from all teams to ${allTeamsPath}`);
-    }
-  } catch (error) {
-    console.error('Error processing team data:', error);
-  }
-}
+//     // Load configuration
+//     const configRoot = await loadConfig(configPath);
 
-if (require.main === module) {
-  main().catch(console.error);
-}
+//     let allEvents: CalendarEvent[] = [];
 
-export { fetchAllGamesForTeam, parseGamesFromHTML, transformToCalendarEvents, enhanceEvents };
+//     // Process each config
+//     if (doFetch) {
+//       for (const config of configRoot.configs) {
+//         const events = await processTeamGroup(config);
+//         allEvents = [...allEvents, ...events];
+//       }
+//     } else {
+//       // Load events from existing files
+//       for (const config of configRoot.configs) {
+//         const baseFilename = path.basename(config.outputFile, '.ics');
+//         const jsonFilePath = path.join('data', 'team', `${baseFilename}.json`);
+
+//         try {
+//           const fileContent = await fs.readFile(jsonFilePath, 'utf8');
+//           const events = JSON.parse(fileContent) as CalendarEvent[];
+//           console.log(events);
+//           // Convert string dates to Date objects
+//           events.forEach(event => {
+//             event.start = new Date(event.start);
+//             event.end = new Date(event.end);
+//           });
+
+//           allEvents = [...allEvents, ...events];
+//           console.log(`Loaded ${events.length} events from ${jsonFilePath}`);
+//         } catch (error) {
+//           console.error(`Error loading events from ${jsonFilePath}:`, error);
+//         }
+//       }
+//     }
+
+//     // Combine all events if needed
+//     if (doCombine && allEvents.length > 0) {
+//       const allTeamsPath = path.join(outputDir, 'all-teams.json');
+//       await saveEventsToJson(allEvents, allTeamsPath);
+//       console.log(`Saved ${allEvents.length} events from all teams to ${allTeamsPath}`);
+//     }
+//   } catch (error) {
+//     console.error('Error processing team data:', error);
+//   }
+// }
+
+// if (require.main === module) {
+//   main().catch(console.error);
+// }
+
+// export {
+//   fetchAllGamesForTeam,
+//   parseGamesFromHTML,
+//   transformToSourceData,
+//   enhanceSourceEvents,
+//   type GameData,
+// };

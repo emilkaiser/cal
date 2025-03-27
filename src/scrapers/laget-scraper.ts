@@ -1,40 +1,27 @@
-// Add type declaration for node-ical
-declare module 'node-ical' {
-  export function parseICS(icsData: string): Promise<Record<string, ICalEvent>>;
-}
-
 import { JSDOM } from 'jsdom';
 import * as ical from 'node-ical';
 import * as path from 'path';
 import * as fs from 'fs/promises';
-import { CalendarEvent, saveEventsToJson } from '../utils/ics-converter';
-import { getHomeAwayCategory, getEventType, formatEventTitle } from '../utils/categorize-events';
-import { getLocationCategories } from '../utils/location-utils';
+import { saveEventsToJson } from '../utils/ics-converter';
+import { EventSourceData } from '../utils/event-normalizer';
+import {
+  getColorFromTeamName,
+  getGenderFromTeamName,
+  getAgeGroupFromTeamName,
+} from '../utils/team-utils';
+import { extractVenues } from '../utils/location-utils';
+import { getActivityTypeFromCategories } from '../utils/activity-utils';
+import { getHomeAwayCategory, getOpponent } from '../utils/match-utils';
+import { formatEventTitle } from '../utils/title-utils';
+import { CalendarEvent } from '../types/types';
+// Import ICalEvent from our type declaration
+import { ICalEvent } from 'node-ical';
 
 interface TeamInfo {
   name: string;
   slug: string;
 }
 
-interface ICalEvent {
-  type: string;
-  uid: string;
-  summary: string;
-  description?: string;
-  start: Date;
-  end: Date;
-  location?: string;
-  url?: string;
-  categories?: string | string[];
-  geo?: {
-    lat: number;
-    lon: number;
-  };
-  status?: string;
-  dtstamp?: Date;
-}
-
-// 1. Fetch data from external source
 async function fetchTeamSlugs(): Promise<TeamInfo[]> {
   console.log('Fetching team slugs from IFK Aspudden-Tellus website...');
   const url = 'https://www.ifkaspudden-tellus.se/';
@@ -85,7 +72,7 @@ function generateIcsUrl(slug: string): string {
   return `https://cal.laget.se/${slug}.ics`;
 }
 
-async function fetchIcsCalendar(url: string): Promise<Record<string, any>> {
+async function fetchIcsCalendar(url: string): Promise<Record<string, ICalEvent>> {
   console.log(`Fetching calendar from ${url}`);
 
   try {
@@ -103,83 +90,113 @@ async function fetchIcsCalendar(url: string): Promise<Record<string, any>> {
   }
 }
 
-// 2. Transform to common format
-function transformToCalendarEvent(event: ICalEvent, teamName: string): CalendarEvent | null {
-  if (event.type !== 'VEVENT' || !event.start || !event.end) {
-    return null;
+function transformLagetEvents(events: Record<string, ICalEvent>): CalendarEvent[] {
+  const sourceEvents: EventSourceData[] = [];
+
+  for (const eventId in events) {
+    // Skip non-VEVENT entries (like VTIMEZONE)
+    const event = events[eventId];
+    if (event.type !== 'VEVENT') {
+      continue;
+    }
+
+    const sourceEvent: CalendarEvent = {
+      uid: event.uid,
+      title: event.summary || 'Unnamed event',
+      start: event.start,
+      end: event.end,
+      description: event.description,
+      location: event.location,
+      categories: Array.isArray(event.categories)
+        ? event.categories
+        : event.categories
+        ? [event.categories]
+        : undefined,
+      sourceType: 'laget',
+      rawData: event,
+    };
+
+    sourceEvents.push(sourceEvent);
   }
 
-  // Extract categories from the event
-  let categories: string[] = [];
-
-  // Use the event categories if available
-  if (event.categories) {
-    const eventCategories = Array.isArray(event.categories) ? event.categories : [event.categories];
-    categories = eventCategories.filter(Boolean);
-  }
-
-  // Get the title
-  let title = event.summary || 'Unnamed event';
-
-  // Create basic event
-  const calEvent: CalendarEvent = {
-    uid: event.uid || `laget-${Math.random().toString(36).substring(2)}`,
-    title,
-    start: event.start,
-    end: event.end,
-    description:
-      event.description !== '[[[]]]' && event.description !== '' ? event.description : undefined,
-    location: event.location,
-    url: event.url,
-    categories: categories.length > 0 ? categories : undefined,
-  };
-
-  return calEvent;
+  return sourceEvents;
 }
 
-// 3. Enhance events with utilities
-function enhanceEvents(events: CalendarEvent[], teamName: string): CalendarEvent[] {
+function enhanceLagetEvents(events: CalendarEvent[]): CalendarEvent[] {
   return events.map(event => {
-    // Deep clone to avoid mutating the original object
-    const enhancedEvent = JSON.parse(JSON.stringify(event)) as CalendarEvent;
+    const activity = getActivityTypeFromCategories(event.categories);
+    const match = getHomeAwayCategory(event);
+    const opponent = getOpponent(event);
+    const venues = extractVenues(event.location);
 
-    // Determine event type and add as category if not present
-    const eventType = getEventType(enhancedEvent);
-    if (eventType && (!enhancedEvent.categories || !enhancedEvent.categories.includes(eventType))) {
-      enhancedEvent.categories = enhancedEvent.categories || [];
-      enhancedEvent.categories.push(eventType);
-    }
-
-    // Format the title based on event type
-    enhancedEvent.title = formatEventTitle(enhancedEvent.title, eventType, teamName);
-
-    // Add Home/Away category
-    const homeAway = getHomeAwayCategory(enhancedEvent);
-    if (homeAway) {
-      enhancedEvent.categories = enhancedEvent.categories || [];
-      if (!enhancedEvent.categories.includes(homeAway)) {
-        enhancedEvent.categories.push(homeAway);
-      }
-    }
-
-    // Add location-based categories
-    if (enhancedEvent.location) {
-      const locationCategories = getLocationCategories(enhancedEvent.location);
-      if (locationCategories.length > 0) {
-        enhancedEvent.categories = enhancedEvent.categories || [];
-        for (const category of locationCategories) {
-          if (!enhancedEvent.categories.includes(category)) {
-            enhancedEvent.categories.push(category);
-          }
-        }
-      }
-    }
-
-    return enhancedEvent;
+    return {
+      ...event,
+      activity,
+      venues,
+      match,
+      opponent,
+    };
   });
 }
 
-// 4. Main process
+function getTeamMeta(teamName: string) {
+  const color = getColorFromTeamName(teamName);
+  const meta = {
+    team: teamName,
+    color,
+    gender: getGenderFromTeamName(teamName),
+    ageGroup: getAgeGroupFromTeamName(teamName),
+  };
+  return meta;
+}
+
+/**
+ * Generate filter tags based on event properties
+ */
+function buildFilterTags(event: CalendarEvent): string[] {
+  const filterTags: string[] = [];
+
+  // Team tag
+  if (event.team) {
+    filterTags.push(`team:${event.team}`);
+  }
+
+  // Match type tag
+  if (event.match) {
+    filterTags.push(`match:${event.match}`);
+  }
+
+  // Location tags
+  if (event.venues && event.venues.length > 0) {
+    event.venues.forEach(venue => filterTags.push(`location:${venue}`));
+  }
+
+  // Activity/Category tag
+  if (event.activity) {
+    filterTags.push(`category:${event.activity}`);
+  } else if (event.categories && event.categories.length > 0) {
+    // Use the first category if activity is not available
+    filterTags.push(`category:${event.categories[0]}`);
+  }
+
+  // Gender tag
+  if (event.gender) {
+    filterTags.push(`gender:${event.gender}`);
+  }
+
+  // Age group tag
+  if (event.ageGroup) {
+    filterTags.push(`ageGroup:${event.ageGroup}`);
+  }
+
+  // Color tag
+  if (event.color) {
+    filterTags.push(`color:${event.color}`);
+  }
+
+  return filterTags;
+}
+
 async function main() {
   try {
     // Create output directory if it doesn't exist
@@ -187,6 +204,7 @@ async function main() {
     await fs.mkdir(dataDir, { recursive: true });
 
     // Step 1: Fetch team slugs
+    //const teams = [{ slug: 'P2014B', name: 'P2014 Blå' }];
     const teams = await fetchTeamSlugs();
 
     const allEvents: CalendarEvent[] = [];
@@ -197,30 +215,37 @@ async function main() {
       const icsUrl = generateIcsUrl(team.slug);
       const calendar = await fetchIcsCalendar(icsUrl);
 
-      // Step 2: Transform to calendar events
-      const teamEvents: CalendarEvent[] = [];
-      for (const eventId in calendar) {
-        const calendarEvent = transformToCalendarEvent(calendar[eventId], team.name);
-        if (calendarEvent) {
-          teamEvents.push(calendarEvent);
-        }
-      }
+      // Step 2: Get team metadata
+      const meta = getTeamMeta(team.name);
 
-      console.log(`Found ${teamEvents.length} events for team ${team.name}`);
+      // Step 3: Transform events
+      const sourceEvents = transformLagetEvents(calendar);
 
-      // Step 3: Enhance events
-      const enhancedEvents = enhanceEvents(teamEvents, team.name);
+      console.log(`Found ${sourceEvents.length} events for team ${team.name}`);
 
-      // Add to collection
-      allEvents.push(...enhancedEvents);
+      // Step 4: Enhance each event
+      const enhancedSourceEvents = enhanceLagetEvents(sourceEvents);
 
-      // Save individual team calendar
-      const teamFilePath = path.join(dataDir, `${team.slug}.json`);
-      await saveEventsToJson(enhancedEvents, teamFilePath);
-      console.log(`Saved ${enhancedEvents.length} events for ${team.name} to ${teamFilePath}`);
+      // Step 5: Add to collection with metadata and filter tags
+      allEvents.push(
+        ...enhancedSourceEvents.map(e => {
+          const eventWithMeta = {
+            ...e,
+            ...meta,
+            url: icsUrl,
+            // Format the title with appropriate icons
+            formattedTitle: formatEventTitle(team.name, e.title, e.activity, e.match, e.opponent),
+          };
+          // Add filter tags to each event
+          return {
+            ...eventWithMeta,
+            filterTags: buildFilterTags(eventWithMeta),
+          };
+        })
+      );
     }
 
-    // Step 4: Save all events
+    // Step 6: Save all events
     if (allEvents.length > 0) {
       const jsonFilePath = path.join(dataDir, 'calendar.json');
       await saveEventsToJson(allEvents, jsonFilePath);
@@ -237,4 +262,10 @@ if (require.main === module) {
   main().catch(console.error);
 }
 
-export { fetchTeamSlugs, fetchIcsCalendar, transformToCalendarEvent, enhanceEvents };
+export {
+  fetchTeamSlugs,
+  fetchIcsCalendar,
+  transformLagetEvents,
+  enhanceLagetEvents,
+  buildFilterTags,
+};

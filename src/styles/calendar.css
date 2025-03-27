@@ -1,0 +1,91 @@
+@import 'react-big-calendar/lib/css/react-big-calendar.css';
+
+/* Custom styles for react-big-calendar using Tailwind @apply */
+.rbc-calendar {
+  @apply bg-card text-card-foreground rounded-md shadow-sm border border-border;
+}
+
+.rbc-toolbar {
+  @apply bg-muted p-2 rounded-t-md flex justify-between items-center flex-wrap gap-2;
+}
+
+.rbc-toolbar button {
+  @apply text-sm border border-input bg-background shadow-xs hover:bg-accent hover:text-accent-foreground rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2;
+}
+
+.rbc-toolbar button.rbc-active {
+  @apply bg-primary text-primary-foreground;
+}
+
+.rbc-month-view, .rbc-time-view {
+  @apply border border-border rounded-b-md bg-card;
+}
+
+.rbc-header {
+  @apply bg-muted font-semibold py-2 border-b border-border;
+}
+
+.rbc-day-bg:hover {
+  @apply bg-accent/20;
+}
+
+.rbc-today {
+  @apply bg-accent/30;
+}
+
+.rbc-off-range {
+  @apply opacity-50;
+}
+
+.rbc-event {
+  @apply rounded-md shadow-sm;
+}
+
+.home-game {
+  @apply border-l-4 border-green-500;
+}
+
+.away-game {
+  @apply border-l-4 border-red-500;
+}
+
+/* Custom filter button styles */
+.filters {
+  @apply flex flex-wrap gap-2 mb-4 p-2 bg-card rounded-md border border-border;
+}
+
+.filter-button {
+  @apply py-1.5 px-3 rounded-md text-sm font-medium bg-background border border-input shadow-sm;
+}
+
+.filter-button:hover {
+  @apply bg-accent;
+}
+
+.filter-button.active {
+  @apply bg-primary text-primary-foreground;
+}
+
+.calendar-container {
+  @apply rounded-md overflow-hidden;
+}
+
+/* Calendar day cell styles */
+.calendar-day-cell {
+  @apply bg-white border border-gray-200 min-h-[100px] p-2;
+}
+
+.calendar-day-cell.different-month {
+  @apply bg-gray-50 text-gray-400;
+}
+
+/* Calendar-specific styling */
+
+/* Toggle group styling */
+.toggle-group-item {
+  @apply border border-input px-3 py-2 rounded-md hover:bg-accent hover:text-accent-foreground;
+}
+
+.toggle-group-item[data-state="on"] {
+  @apply bg-primary text-primary-foreground;
+}
