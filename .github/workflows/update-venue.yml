@@ -28,23 +28,20 @@ jobs:
       - name: Run venue scraper
         run: node dist/scrapers/venue-scraper.js
 
-      - name: Generate ICS files
-        run: node dist/cli/generate-ics.js
-
       - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          
+
           # Stage changed files
-          git add data/venue/*.json public/venue/*.ics
-          
+          git add data/venue/*.json
+
           # Check if there are changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          
-          git commit -m "Update venue calendars"
+
+          git commit -m "Update venue calendar data"
           git pull --rebase origin main
           git push

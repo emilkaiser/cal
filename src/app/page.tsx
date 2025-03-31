@@ -1,24 +1,49 @@
 'use client';
 
-import { getAllCalendarEvents, getDataSources } from '@/lib/data';
-import CalendarClient from '@/components/CalendarClient';
-import { ThemeProvider } from "@/components/theme-provider";
-import { ModeToggle } from "@/components/mode-toggle";
+import { useState, useEffect } from 'react';
+import TeamCalendar from '@/components/TeamCalendar';
+import { getAllEvents } from '@/lib/data';
+import { CalendarEvent } from '@/types/types';
+import { DataSource } from '@/lib/data-sources';
+import { normalizeCalendarEvents } from '@/utils/calendar-utils';
 
 export default function Home() {
-  // Load data on the server
-  const events = getAllCalendarEvents();
-  const dataSources = getDataSources();
+  const [data, setData] = useState<{ events: CalendarEvent[]; dataSources: DataSource[] }>({
+    events: [],
+    dataSources: [],
+  });
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    // Get all events
+    const { events, dataSources } = getAllEvents();
+
+    // Parse date strings to Date objects
+    const parsedEvents = events.map(event => ({
+      ...event,
+      start: new Date(event.start),
+      end: new Date(event.end),
+    }));
+
+    // Normalize events to ensure all properties are in filterTags
+    const normalizedEvents = normalizeCalendarEvents(parsedEvents);
+
+    setData({
+      events: normalizedEvents,
+      dataSources,
+    });
+    setLoading(false);
+  }, []);
 
   return (
-    <ThemeProvider defaultTheme="system" storageKey="ui-theme">
-      <main className="container py-6 space-y-4">
-        <div className="flex justify-between items-center">
-          <h1 className="text-3xl font-bold">Team Games Calendar</h1>
-          <ModeToggle />
+    <main>
+      {loading ? (
+        <div style={{ textAlign: 'center', marginTop: '50px' }}>
+          <h2>Loading calendar data...</h2>
         </div>
-        <CalendarClient initialEvents={events} dataSources={dataSources} />
-      </main>
-    </ThemeProvider>
+      ) : (
+        <TeamCalendar events={data.events} dataSources={data.dataSources} />
+      )}
+    </main>
   );
 }

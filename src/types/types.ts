@@ -1,4 +1,4 @@
-export type Match = 'Home' | 'Away' | 'External' | undefined;
+export type Match = 'Home' | 'Away' | 'External';
 export type Activity =
   | 'Match'
   | 'Träning'
@@ -9,33 +9,29 @@ export type Activity =
   | 'Övrigt'
   | 'unknown';
 export type SourceType = 'laget' | 'team' | 'venue' | 'other';
-export type Gender = 'Pojkar' | 'Flickor' | 'unknown';
+export type Gender = 'Pojkar' | 'Flickor' | 'Dam' | 'Herr' | 'unknown' | string;
 
 export interface CalendarEvent {
-  uid?: string;
+  uid: string;
   title: string;
-  formattedTitle?: string;
   start: Date;
   end: Date;
   description?: string;
   location?: string;
-  url?: string;
   categories?: string[];
-  homeTeam?: string;
-  awayTeam?: string;
-  ageGroup?: string;
-  gender?: Gender;
+  sourceType: string;
+  rawData: any;
+  activity?: Activity;
   venues?: string[];
   match?: Match;
   opponent?: string;
-  activity?: Activity;
-  color?: string;
-  team?: string;
-  rawTeam?: string;
   formattedTeam?: string;
-  //rawTeam?: string;
-  hex?: string;
+  color?: string;
+  gender?: Gender;
+  ageGroup?: string;
+  team?: string;
+  url?: string;
+  formattedTitle?: string;
   filterTags?: string[];
-  sourceType: SourceType;
-  rawData?: unknown; // Original data for reference
+  rawTeam?: string;
 }

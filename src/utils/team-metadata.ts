@@ -55,32 +55,48 @@ function capitalizeFirstLetter(val: string): string {
 /**
  * Determines the gender from the team name
  * @param teamName Team name like "P2014 Blå" or "F2016 Röd"
- * @returns "Flickor", "Pojkar", or "unknown"
+ * @returns "Flickor", "Pojkar", "Dam", "Herr" or "unknown"
  */
-export function getGenderFromTeamName(teamName: string): 'unknown' | 'Flickor' | 'Pojkar' {
+export function getGenderFromTeamName(
+  teamName: string
+): 'unknown' | 'Flickor' | 'Pojkar' | 'Dam' | 'Herr' {
+  if (!teamName) return 'unknown';
+
   // Handle case insensitivity by converting to lowercase
   const lowerCaseTeam = teamName.toLowerCase();
 
+  // Check for "Dam" or "Herr" in team name
+  if (lowerCaseTeam.includes('dam')) return 'Dam';
+  if (lowerCaseTeam.includes('herr') || lowerCaseTeam.includes('herrjunior')) return 'Herr';
+
   // Make sure we match standalone P/F followed by digits, not partial matches like PF2014
-  if (/\bp\d{4}/i.test(lowerCaseTeam)) return 'Pojkar';
-  if (/\bf\d{4}/i.test(lowerCaseTeam)) return 'Flickor';
+  if (/\bp\d{2,4}\b/i.test(lowerCaseTeam)) return 'Pojkar';
+  if (/\bf\d{2,4}\b/i.test(lowerCaseTeam)) return 'Flickor';
 
   // Also match team formats like "Team P-2014"
-  if (/\bp[-]?\d{4}/i.test(lowerCaseTeam)) return 'Pojkar';
-  if (/\bf[-]?\d{4}/i.test(lowerCaseTeam)) return 'Flickor';
+  if (/\bp[-]?\d{2,4}/i.test(lowerCaseTeam)) return 'Pojkar';
+  if (/\bf[-]?\d{2,4}/i.test(lowerCaseTeam)) return 'Flickor';
 
   return 'unknown';
 }
 
 /**
  * Extracts the age group from the team name
- * @param teamName Team name like "P2014 Blå" or "F2016 Röd"
- * @returns The year as a string or "unknown"
+ * @param teamName Team name like "P2014 Blå" or "F2016 Röd" or "P15"
+ * @returns The year or age as a string or "unknown"
  */
 export function getAgeGroupFromTeamName(teamName: string): string {
+  if (!teamName) return 'unknown';
+
   // Look for 4-digit year after P or F, with possible dash
-  const match = teamName.match(/[PF][-]?(\d{4})/i);
-  return match ? match[1] : 'unknown';
+  const yearMatch = teamName.match(/[PF][-]?(\d{4})\b/i);
+  if (yearMatch) return yearMatch[1];
+
+  // Look for 2-digit age after P or F
+  const ageMatch = teamName.match(/[PF](\d{1,2})\b/i);
+  if (ageMatch) return ageMatch[1];
+
+  return 'unknown';
 }
 
 /**

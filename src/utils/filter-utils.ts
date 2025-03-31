@@ -1,52 +1,127 @@
-import { CalendarEvent } from '../types/types';
+import type { CalendarEvent as BaseCalendarEvent } from '../types/types';
+import { getPropertyFromFilterTags, hasFilterTag } from './calendar-utils';
+
+// Extend the CalendarEvent type to include the source property
+interface CalendarEvent extends BaseCalendarEvent {
+  source?: string;
+}
+
+type SourceFilters = {
+  [sourceId: string]: string[];
+};
 
 /**
- * Generate filter tags based on event properties
- * @param event Calendar event
- * @returns Array of filter tags
+ * Checks if an event matches the given filters
  */
-export function buildFilterTags(event: CalendarEvent): string[] {
-  const filterTags: string[] = [];
+export function eventMatchesFilters(
+  event: CalendarEvent,
+  sourceFilters: SourceFilters,
+  globalFilters: { [filterType: string]: string[] }
+): boolean {
+  // Check source-specific filters first
+  if (event.source && sourceFilters[event.source]?.length > 0) {
+    // The event must match at least one filter for each filter type
+    const matchesAllSourceFilters = sourceFilters[event.source].every(filter => {
+      // Only check filters that have a type and value
+      if (!filter.includes(':')) return true;
 
-  // Team tag - use formattedTeam if available, otherwise fall back to team
-  if (event.formattedTeam) {
-    filterTags.push(`team:${event.formattedTeam}`);
-  } else if (event.team) {
-    filterTags.push(`team:${event.team}`);
+      const [type, value] = filter.split(':');
+
+      // Check if the event has this filter tag
+      return hasFilterTag(event.filterTags, type, value);
+    });
+
+    if (!matchesAllSourceFilters) return false;
   }
 
-  // Match type tag
-  if (event.match) {
-    filterTags.push(`match:${event.match}`);
+  // Check global filters
+  for (const filterType in globalFilters) {
+    if (globalFilters[filterType].length === 0) continue;
+
+    // The event must match at least one value for this filter type
+    const matchesAnyValue = globalFilters[filterType].some(filter => {
+      // Handle both formats (with or without prefix)
+      if (filter.includes(':')) {
+        const [type, value] = filter.split(':');
+        return hasFilterTag(event.filterTags, type, value);
+      } else {
+        // Legacy format (should be phased out)
+        return hasFilterTag(event.filterTags, filterType, filter);
+      }
+    });
+
+    if (!matchesAnyValue) return false;
   }
 
-  // Location tags
-  if (event.venues && event.venues.length > 0) {
-    event.venues.forEach(venue => filterTags.push(`location:${venue}`));
-  }
+  return true;
+}
 
-  // Activity/Category tag
-  if (event.activity) {
-    filterTags.push(`category:${event.activity}`);
-  } else if (event.categories && event.categories.length > 0) {
-    // Use the first category if activity is not available
-    filterTags.push(`category:${event.categories[0]}`);
-  }
+/**
+ * Gets a human-readable display name for a filter
+ */
+export function getFilterDisplayName(filterType: string): string {
+  const displayNames: Record<string, string> = {
+    activity: 'Activity',
+    team: 'Team',
+    venue: 'Venue',
+    match: 'Match Type',
+    opponent: 'Opponent',
+    gender: 'Gender',
+    ageGroup: 'Age Group',
+    color: 'Color',
+    category: 'Category',
+    location: 'Location',
+  };
 
-  // Gender tag
-  if (event.gender) {
-    filterTags.push(`gender:${event.gender}`);
-  }
+  return displayNames[filterType] || filterType.charAt(0).toUpperCase() + filterType.slice(1);
+}
 
-  // Age group tag
-  if (event.ageGroup) {
-    filterTags.push(`ageGroup:${event.ageGroup}`);
-  }
+/**
+ * Extracts all possible filter values from events
+ */
+export function extractAvailableFilters(events: CalendarEvent[]) {
+  const globalFilterSet: { [filterType: string]: Set<string> } = {};
 
-  // Color tag
-  if (event.color && event.color !== 'unknown') {
-    filterTags.push(`color:${event.color}`);
-  }
+  events.forEach(event => {
+    if (!event.filterTags) return;
 
-  return filterTags;
+    event.filterTags.forEach(tag => {
+      if (!tag.includes(':')) return;
+
+      const [type, value] = tag.split(':');
+
+      if (!globalFilterSet[type]) {
+        globalFilterSet[type] = new Set<string>();
+      }
+
+      globalFilterSet[type].add(value);
+    });
+  });
+
+  return globalFilterSet;
+}
+
+/**
+ * Extracts all unique filter tags from a list of events
+ */
+export function extractUniqueFilterTags(events: CalendarEvent[]) {
+  const filterSet: { [filterType: string]: Set<string> } = {};
+
+  events.forEach(event => {
+    if (!event.filterTags) return;
+
+    event.filterTags.forEach(tag => {
+      if (!tag.includes(':')) return;
+
+      const [type, value] = tag.split(':');
+
+      if (!filterSet[type]) {
+        filterSet[type] = new Set<string>();
+      }
+
+      filterSet[type].add(value);
+    });
+  });
+
+  return filterSet;
 }

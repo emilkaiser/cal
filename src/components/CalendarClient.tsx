@@ -3,7 +3,8 @@
 import { useState, useEffect } from 'react';
 import TeamCalendar from './TeamCalendar';
 import type { CalendarEvent as BaseCalendarEvent } from '../types/types';
-import type { DataSource } from '@/lib/dataSources';
+import { DataSource } from '@/lib/data-sources';
+import { normalizeCalendarEvents } from '@/utils/calendar-utils';
 
 interface CalendarEvent extends Omit<BaseCalendarEvent, 'start' | 'end'> {
   start: Date;
@@ -27,7 +28,9 @@ export default function CalendarClient({ initialEvents, dataSources }: CalendarC
       end: new Date(event.end),
     }));
 
-    setEvents(parsedEvents);
+    // Normalize events to ensure all properties are represented in filterTags
+    const normalizedEvents = normalizeCalendarEvents(parsedEvents);
+    setEvents(normalizedEvents);
   }, [initialEvents]);
 
   return (

@@ -131,7 +131,17 @@ function enhanceLagetEvents(events: CalendarEvent[]): CalendarEvent[] {
     const venues = extractVenues(event.location);
 
     // Extract team info using the utility
-    const { rawTeam } = extractTeamInfo(event.title || '');
+    const { rawTeam, formattedTeam } = extractTeamInfo(event.title || '');
+
+    // Extract team from the title if possible
+    let teamName = '';
+    if (event.title) {
+      // Look for team name in format "Title - Team Name"
+      const teamMatch = event.title.match(/\s+-\s+(.+)$/);
+      if (teamMatch && teamMatch[1]) {
+        teamName = teamMatch[1].trim();
+      }
+    }
 
     return {
       ...event,
@@ -139,7 +149,7 @@ function enhanceLagetEvents(events: CalendarEvent[]): CalendarEvent[] {
       venues,
       match,
       opponent,
-      rawTeam, // Store raw team name if extracted
+      rawTeam: rawTeam || teamName, // Store raw team name if extracted
     };
   });
 }
@@ -150,7 +160,7 @@ function getTeamMeta(teamName: string) {
   const ageGroup = getAgeGroupFromTeamName(teamName);
 
   // Use utility to create formatted team name
-  const formattedTeam = createFormattedTeamName(gender, ageGroup, color) || teamName;
+  const formattedTeam = createFormattedTeamName(gender, ageGroup, color) || 'Unknown';
 
   return {
     formattedTeam,

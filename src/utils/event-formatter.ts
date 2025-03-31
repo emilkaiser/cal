@@ -23,7 +23,7 @@ export function formatEventTitle(
 
   // Handle training events
   if (activity === 'Träning') {
-    return `⚽ ${formattedTeam}`;
+    return `${formattedTeam}`;
   }
 
   // Don't show match formatting for "Övrigt" activities
@@ -49,28 +49,28 @@ export function formatEventTitle(
     // Handle special cases for empty string or unknown (cast as Match by the test)
     // Using type assertion for empty string since TypeScript doesn't allow direct comparison
     if ((match as unknown) === '' || match === ('unknown' as unknown as Match)) {
-      return cleanOpponent ? `🆚 ${formattedTeam} (vs ${cleanOpponent})` : `🆚 ${formattedTeam}`;
+      return cleanOpponent ? `⚽ ${formattedTeam} (vs ${cleanOpponent})` : `⚽ ${formattedTeam}`;
     }
 
     // Handle standard match types
     if (match === 'Home') {
       return cleanOpponent
-        ? `🆚🏠 ${formattedTeam} (vs ${cleanOpponent})`
-        : `🆚🏠 ${formattedTeam}`;
+        ? `⚽🏠 ${formattedTeam} (vs ${cleanOpponent})`
+        : `⚽🏠 ${formattedTeam}`;
     } else if (match === 'Away') {
       return cleanOpponent
-        ? `🆚🚍 ${formattedTeam} (vs ${cleanOpponent})`
-        : `🆚🚍 ${formattedTeam}`;
+        ? `⚽🚍 ${formattedTeam} (vs ${cleanOpponent})`
+        : `⚽🚍 ${formattedTeam}`;
     } else if (match === 'External') {
       // For external matches, show both teams if available
       if (homeTeam && awayTeam) {
-        return `🆚 External (${homeTeam} vs ${awayTeam})`;
+        return `⚽ External (${homeTeam} vs ${awayTeam})`;
       }
       // Fallback to original title if team names aren't available
-      return `🆚 External (${originalTitle})`;
+      return `⚽ External (${originalTitle})`;
     } else {
       // Generic match with no home/away distinction
-      return cleanOpponent ? `🆚 ${formattedTeam} (vs ${cleanOpponent})` : `🆚 ${formattedTeam}`;
+      return cleanOpponent ? `⚽ ${formattedTeam} (vs ${cleanOpponent})` : `⚽ ${formattedTeam}`;
     }
   }
 
