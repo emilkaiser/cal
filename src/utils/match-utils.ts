@@ -1,8 +1,17 @@
-import { act } from 'react';
 import { CalendarEvent } from '../types/types';
-import { isHomeVenue } from './location-utils';
+import { isHomeVenue } from './venue-utils';
 
+// Our team names for pattern matching
 const TEAM_NAMES = ['IFK Aspudden-Tellus', 'IFK AT', 'AT', 'Aspudden', 'Tellus'];
+
+// Aspudden-affiliated teams
+const ASPUDDEN_TEAMS = [
+  /IFK Aspudden-Tellus/i,
+  /Aspuddens FF/i,
+  /Kransen United/i,
+  /BK Buffalo/i,
+  /Gröndals IK/i,
+];
 
 /**
  * Extract team names from event title
@@ -64,6 +73,7 @@ function escapeRegExp(str: string): string {
  */
 function isOurTeam(teamName: string): boolean {
   const teamNameLower = teamName.toLowerCase();
+
   // Use word-boundary regex for each team name
   for (const team of TEAM_NAMES) {
     const regex = new RegExp('\\b' + escapeRegExp(team.toLowerCase()) + '\\b', 'i');
@@ -71,30 +81,119 @@ function isOurTeam(teamName: string): boolean {
       return true;
     }
   }
+
   // Handle special cases like "AT F2014 Gul"
-  for (const segment of teamNameLower.split(' ')) {
-    if ((segment === 'at' || segment === 'if') && teamNameLower.includes('f20')) {
-      return true;
-    }
+  if (
+    teamNameLower.includes('at ') ||
+    teamNameLower.includes('tellus ') ||
+    teamNameLower.startsWith('at ') ||
+    teamNameLower.startsWith('tellus ')
+  ) {
+    return true;
   }
+
   return false;
 }
 
+/**
+ * Determine if a team is an Aspudden team
+ * @param teamName Team name to check
+ * @returns true if the team is from Aspudden
+ */
+export function isAspuddenTeam(teamName: string): boolean {
+  return ASPUDDEN_TEAMS.some(pattern => pattern.test(teamName)) || isOurTeam(teamName);
+}
+
+/**
+ * Determine if the match is home, away or external based on team names
+ * @param homeTeam Home team name
+ * @param awayTeam Away team name
+ * @returns 'Home', 'Away' or 'External'
+ */
+export function determineMatchStatus(
+  homeTeam: string,
+  awayTeam: string
+): 'Home' | 'Away' | 'External' {
+  const isHomeTeamAspudden = isAspuddenTeam(homeTeam);
+  const isAwayTeamAspudden = isAspuddenTeam(awayTeam);
+
+  if (isHomeTeamAspudden && !isAwayTeamAspudden) {
+    return 'Home';
+  } else if (!isHomeTeamAspudden && isAwayTeamAspudden) {
+    return 'Away';
+  } else {
+    // Either both teams are Aspudden (internal match) or neither (completely external match)
+    return 'External';
+  }
+}
+
+/**
+ * Extract team from a match with home and away teams
+ * @param homeTeam Home team name
+ * @param awayTeam Away team name
+ * @returns Aspudden team name or undefined if no Aspudden team is found
+ */
+export function extractTeamFromMatch(homeTeam: string, awayTeam: string): string | undefined {
+  if (isAspuddenTeam(homeTeam)) {
+    return homeTeam;
+  } else if (isAspuddenTeam(awayTeam)) {
+    return awayTeam;
+  }
+  return undefined;
+}
+
+/**
+ * Extract opponent from match based on match status
+ * @param homeTeam Home team name
+ * @param awayTeam Away team name
+ * @param matchStatus Whether Aspudden is playing at home or away
+ * @returns Opponent team name or undefined
+ */
+export function extractOpponentFromMatch(
+  homeTeam: string,
+  awayTeam: string,
+  matchStatus: 'Home' | 'Away' | 'External'
+): string | undefined {
+  if (matchStatus === 'Home') {
+    return awayTeam;
+  } else if (matchStatus === 'Away') {
+    return homeTeam;
+  }
+  return undefined;
+}
+
+/**
+ * Get home/away category for an event
+ * @param event Calendar event
+ * @returns 'Home' or 'Away' or undefined
+ */
 export function getHomeAwayCategory(event: CalendarEvent): 'Home' | 'Away' | undefined {
   // Skip if not a sport event or already categorized
-  if (!event.title || event.categories?.includes('Home') || event.categories?.includes('Away')) {
+  if (!event.title) {
+    return undefined;
+  }
+
+  // Skip if event has categories with Home or Away
+  if (event.categories && Array.isArray(event.categories)) {
+    if (event.categories.includes('Home') || event.categories.includes('Away')) {
+      return undefined;
+    }
+  }
+
+  // Skip if event already has match property set
+  if (event.match === 'Home' || event.match === 'Away') {
     return undefined;
   }
 
   const teams = extractTeamsFromTitle(event.title);
 
   if (teams) {
-    const isHome = isOurTeam(teams.homeTeam);
-    const isAway = isOurTeam(teams.awayTeam);
+    const isHomeTeamOurs = isOurTeam(teams.homeTeam);
+    const isAwayTeamOurs = isOurTeam(teams.awayTeam);
 
-    if (isHome && !isAway) {
+    if (isHomeTeamOurs && !isAwayTeamOurs) {
       return 'Home';
-    } else if (isAway && !isHome) {
+    } else if (!isHomeTeamOurs && isAwayTeamOurs) {
       return 'Away';
     }
   }
@@ -124,8 +223,6 @@ export function getOpponent(event: CalendarEvent): string | undefined {
     return undefined;
   }
 
-  // Use original title for extraction - don't remove "Match" prefix here
-  // This ensures that when "Match" is part of a team name, it's preserved
   const teams = extractTeamsFromTitle(event.title);
 
   if (!teams) {
@@ -133,20 +230,20 @@ export function getOpponent(event: CalendarEvent): string | undefined {
   }
 
   // Check if our team is the home team
-  const isOurTeamHome = isOurTeam(teams.homeTeam);
+  const isHomeTeamOurs = isOurTeam(teams.homeTeam);
 
   // Check if our team is the away team
-  const isOurTeamAway = isOurTeam(teams.awayTeam);
+  const isAwayTeamOurs = isOurTeam(teams.awayTeam);
 
   // If it's our team vs our team (internal match), return undefined
-  if (isOurTeamHome && isOurTeamAway) {
+  if (isHomeTeamOurs && isAwayTeamOurs) {
     return undefined;
   }
 
   // Return the opponent team name
-  if (isOurTeamHome) {
+  if (isHomeTeamOurs) {
     return teams.awayTeam;
-  } else if (isOurTeamAway) {
+  } else if (isAwayTeamOurs) {
     return teams.homeTeam;
   }
 

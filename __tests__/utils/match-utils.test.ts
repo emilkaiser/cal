@@ -1,4 +1,11 @@
-import { getHomeAwayCategory, getOpponent } from '../../src/utils/match-utils';
+import {
+  getHomeAwayCategory,
+  getOpponent,
+  isAspuddenTeam,
+  determineMatchStatus,
+  extractTeamFromMatch,
+  extractOpponentFromMatch,
+} from '../../src/utils/match-utils';
 import { CalendarEvent } from '../../src/types/types';
 
 describe('getHomeAwayCategory', () => {
@@ -179,5 +186,82 @@ describe('getOpponent', () => {
         title: 'IFK Aspudden-Tellus vs Tellus',
       })
     ).toBeUndefined();
+  });
+});
+
+describe('isAspuddenTeam', () => {
+  it('identifies IFK Aspudden-Tellus as an Aspudden team', () => {
+    expect(isAspuddenTeam('IFK Aspudden-Tellus')).toBe(true);
+  });
+
+  it('identifies shortened versions of team names', () => {
+    expect(isAspuddenTeam('IFK AT')).toBe(true);
+    expect(isAspuddenTeam('AT P2015')).toBe(true);
+    expect(isAspuddenTeam('Tellus F2014')).toBe(true);
+  });
+
+  it('identifies affiliated teams', () => {
+    expect(isAspuddenTeam('Aspuddens FF')).toBe(true);
+    expect(isAspuddenTeam('Kransen United FF')).toBe(true);
+    expect(isAspuddenTeam('BK Buffalo')).toBe(true);
+    expect(isAspuddenTeam('Gröndals IK')).toBe(true);
+  });
+
+  it('returns false for other teams', () => {
+    expect(isAspuddenTeam('Hammarby IF')).toBe(false);
+    expect(isAspuddenTeam('AIK')).toBe(false);
+    expect(isAspuddenTeam('Djurgårdens IF')).toBe(false);
+  });
+});
+
+describe('determineMatchStatus', () => {
+  it('returns Home when home team is from Aspudden', () => {
+    expect(determineMatchStatus('IFK Aspudden-Tellus', 'Other Team')).toBe('Home');
+    expect(determineMatchStatus('Aspuddens FF', 'Other Team')).toBe('Home');
+  });
+
+  it('returns Away when away team is from Aspudden', () => {
+    expect(determineMatchStatus('Other Team', 'IFK AT')).toBe('Away');
+    expect(determineMatchStatus('Other Team', 'Kransen United FF')).toBe('Away');
+  });
+
+  it('returns External for matches between two non-Aspudden teams', () => {
+    expect(determineMatchStatus('AIK', 'Hammarby IF')).toBe('External');
+  });
+
+  it('returns External for internal matches between two Aspudden teams', () => {
+    expect(determineMatchStatus('IFK Aspudden-Tellus', 'Aspuddens FF')).toBe('External');
+  });
+});
+
+describe('extractTeamFromMatch', () => {
+  it('returns the Aspudden team when it is the home team', () => {
+    expect(extractTeamFromMatch('IFK Aspudden-Tellus', 'Other Team')).toBe('IFK Aspudden-Tellus');
+  });
+
+  it('returns the Aspudden team when it is the away team', () => {
+    expect(extractTeamFromMatch('Other Team', 'IFK AT')).toBe('IFK AT');
+  });
+
+  it('returns undefined when neither team is from Aspudden', () => {
+    expect(extractTeamFromMatch('AIK', 'Hammarby IF')).toBeUndefined();
+  });
+
+  it('returns the first Aspudden team when both teams are from Aspudden', () => {
+    expect(extractTeamFromMatch('IFK AT', 'Aspuddens FF')).toBe('IFK AT');
+  });
+});
+
+describe('extractOpponentFromMatch', () => {
+  it('returns the away team when match status is Home', () => {
+    expect(extractOpponentFromMatch('IFK AT', 'Other Team', 'Home')).toBe('Other Team');
+  });
+
+  it('returns the home team when match status is Away', () => {
+    expect(extractOpponentFromMatch('Other Team', 'IFK AT', 'Away')).toBe('Other Team');
+  });
+
+  it('returns undefined when match status is External', () => {
+    expect(extractOpponentFromMatch('AIK', 'Hammarby IF', 'External')).toBeUndefined();
   });
 });

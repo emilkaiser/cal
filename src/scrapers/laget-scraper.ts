@@ -2,18 +2,19 @@ import { JSDOM } from 'jsdom';
 import * as ical from 'node-ical';
 import * as path from 'path';
 import * as fs from 'fs/promises';
-import { saveEventsToJson } from '../utils/ics-converter';
-import { EventSourceData } from '../utils/event-normalizer';
+import { saveEventsToJson } from '../utils/calendar-io';
 import {
   getColorFromTeamName,
   getGenderFromTeamName,
   getAgeGroupFromTeamName,
-} from '../utils/team-utils';
-import { extractVenues } from '../utils/location-utils';
+} from '../utils/team-metadata';
+import { extractVenues } from '../utils/venue-utils';
 import { getActivityTypeFromCategories } from '../utils/activity-utils';
 import { getHomeAwayCategory, getOpponent } from '../utils/match-utils';
-import { formatEventTitle } from '../utils/title-utils';
+import { formatEventTitle } from '../utils/event-formatter';
 import { CalendarEvent } from '../types/types';
+import { extractTeamInfo, createFormattedTeamName } from '../utils/team-parser';
+import { buildFilterTags } from '../utils/filter-utils';
 // Import ICalEvent from our type declaration
 import { ICalEvent } from 'node-ical';
 
@@ -91,7 +92,7 @@ async function fetchIcsCalendar(url: string): Promise<Record<string, ICalEvent>>
 }
 
 function transformLagetEvents(events: Record<string, ICalEvent>): CalendarEvent[] {
-  const sourceEvents: EventSourceData[] = [];
+  const sourceEvents: CalendarEvent[] = [];
 
   for (const eventId in events) {
     // Skip non-VEVENT entries (like VTIMEZONE)
@@ -129,72 +130,34 @@ function enhanceLagetEvents(events: CalendarEvent[]): CalendarEvent[] {
     const opponent = getOpponent(event);
     const venues = extractVenues(event.location);
 
+    // Extract team info using the utility
+    const { rawTeam } = extractTeamInfo(event.title || '');
+
     return {
       ...event,
       activity,
       venues,
       match,
       opponent,
+      rawTeam, // Store raw team name if extracted
     };
   });
 }
 
 function getTeamMeta(teamName: string) {
   const color = getColorFromTeamName(teamName);
-  const meta = {
-    team: teamName,
+  const gender = getGenderFromTeamName(teamName);
+  const ageGroup = getAgeGroupFromTeamName(teamName);
+
+  // Use utility to create formatted team name
+  const formattedTeam = createFormattedTeamName(gender, ageGroup, color) || teamName;
+
+  return {
+    formattedTeam,
     color,
-    gender: getGenderFromTeamName(teamName),
-    ageGroup: getAgeGroupFromTeamName(teamName),
+    gender,
+    ageGroup,
   };
-  return meta;
-}
-
-/**
- * Generate filter tags based on event properties
- */
-function buildFilterTags(event: CalendarEvent): string[] {
-  const filterTags: string[] = [];
-
-  // Team tag
-  if (event.team) {
-    filterTags.push(`team:${event.team}`);
-  }
-
-  // Match type tag
-  if (event.match) {
-    filterTags.push(`match:${event.match}`);
-  }
-
-  // Location tags
-  if (event.venues && event.venues.length > 0) {
-    event.venues.forEach(venue => filterTags.push(`location:${venue}`));
-  }
-
-  // Activity/Category tag
-  if (event.activity) {
-    filterTags.push(`category:${event.activity}`);
-  } else if (event.categories && event.categories.length > 0) {
-    // Use the first category if activity is not available
-    filterTags.push(`category:${event.categories[0]}`);
-  }
-
-  // Gender tag
-  if (event.gender) {
-    filterTags.push(`gender:${event.gender}`);
-  }
-
-  // Age group tag
-  if (event.ageGroup) {
-    filterTags.push(`ageGroup:${event.ageGroup}`);
-  }
-
-  // Color tag
-  if (event.color) {
-    filterTags.push(`color:${event.color}`);
-  }
-
-  return filterTags;
 }
 
 async function main() {
@@ -204,7 +167,6 @@ async function main() {
     await fs.mkdir(dataDir, { recursive: true });
 
     // Step 1: Fetch team slugs
-    //const teams = [{ slug: 'P2014B', name: 'P2014 Blå' }];
     const teams = await fetchTeamSlugs();
 
     const allEvents: CalendarEvent[] = [];
@@ -229,18 +191,35 @@ async function main() {
       // Step 5: Add to collection with metadata and filter tags
       allEvents.push(
         ...enhancedSourceEvents.map(e => {
+          // Use the raw team name from the event if available, otherwise use the team name
+          const teamName = e.rawTeam || team.name;
+
           const eventWithMeta = {
             ...e,
             ...meta,
+            // Use raw team name if available, otherwise use the team name from metadata
+            team: teamName,
             url: icsUrl,
             // Format the title with appropriate icons
-            formattedTitle: formatEventTitle(team.name, e.title, e.activity, e.match, e.opponent),
+            formattedTitle: formatEventTitle(
+              meta.formattedTeam,
+              e.title,
+              e.activity,
+              e.match,
+              e.opponent
+            ),
           };
+
           // Add filter tags to each event
-          return {
+          const eventWithTags = {
             ...eventWithMeta,
             filterTags: buildFilterTags(eventWithMeta),
           };
+
+          // Remove the temporary rawTeam property
+          delete eventWithTags.rawTeam;
+
+          return eventWithTags;
         })
       );
     }
@@ -262,10 +241,4 @@ if (require.main === module) {
   main().catch(console.error);
 }
 
-export {
-  fetchTeamSlugs,
-  fetchIcsCalendar,
-  transformLagetEvents,
-  enhanceLagetEvents,
-  buildFilterTags,
-};
+export { fetchTeamSlugs, fetchIcsCalendar, transformLagetEvents, enhanceLagetEvents };

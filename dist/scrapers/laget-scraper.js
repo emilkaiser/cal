@@ -46,17 +46,18 @@ exports.fetchTeamSlugs = fetchTeamSlugs;
 exports.fetchIcsCalendar = fetchIcsCalendar;
 exports.transformLagetEvents = transformLagetEvents;
 exports.enhanceLagetEvents = enhanceLagetEvents;
-exports.buildFilterTags = buildFilterTags;
 const jsdom_1 = require("jsdom");
 const ical = __importStar(require("node-ical"));
 const path = __importStar(require("path"));
 const fs = __importStar(require("fs/promises"));
-const ics_converter_1 = require("../utils/ics-converter");
-const team_utils_1 = require("../utils/team-utils");
-const location_utils_1 = require("../utils/location-utils");
+const calendar_io_1 = require("../utils/calendar-io");
+const team_metadata_1 = require("../utils/team-metadata");
+const venue_utils_1 = require("../utils/venue-utils");
 const activity_utils_1 = require("../utils/activity-utils");
 const match_utils_1 = require("../utils/match-utils");
-const title_utils_1 = require("../utils/title-utils");
+const event_formatter_1 = require("../utils/event-formatter");
+const team_parser_1 = require("../utils/team-parser");
+const filter_utils_1 = require("../utils/filter-utils");
 function fetchTeamSlugs() {
     return __awaiter(this, void 0, void 0, function* () {
         console.log('Fetching team slugs from IFK Aspudden-Tellus website...');
@@ -149,62 +150,28 @@ function enhanceLagetEvents(events) {
         const activity = (0, activity_utils_1.getActivityTypeFromCategories)(event.categories);
         const match = (0, match_utils_1.getHomeAwayCategory)(event);
         const opponent = (0, match_utils_1.getOpponent)(event);
-        const venues = (0, location_utils_1.extractVenues)(event.location);
+        const venues = (0, venue_utils_1.extractVenues)(event.location);
+        // Extract team info using the utility
+        const { rawTeam } = (0, team_parser_1.extractTeamInfo)(event.title || '');
         return Object.assign(Object.assign({}, event), { activity,
             venues,
             match,
-            opponent });
+            opponent,
+            rawTeam });
     });
 }
 function getTeamMeta(teamName) {
-    const color = (0, team_utils_1.getColorFromTeamName)(teamName);
-    const meta = {
-        team: teamName,
+    const color = (0, team_metadata_1.getColorFromTeamName)(teamName);
+    const gender = (0, team_metadata_1.getGenderFromTeamName)(teamName);
+    const ageGroup = (0, team_metadata_1.getAgeGroupFromTeamName)(teamName);
+    // Use utility to create formatted team name
+    const formattedTeam = (0, team_parser_1.createFormattedTeamName)(gender, ageGroup, color) || teamName;
+    return {
+        formattedTeam,
         color,
-        hex: (0, team_utils_1.getHexColor)(color),
-        gender: (0, team_utils_1.getGenderFromTeamName)(teamName),
-        ageGroup: (0, team_utils_1.getAgeGroupFromTeamName)(teamName),
+        gender,
+        ageGroup,
     };
-    return meta;
-}
-/**
- * Generate filter tags based on event properties
- */
-function buildFilterTags(event) {
-    const filterTags = [];
-    // Team tag
-    if (event.team) {
-        filterTags.push(`team:${event.team}`);
-    }
-    // Match type tag
-    if (event.match) {
-        filterTags.push(`match:${event.match}`);
-    }
-    // Location tags
-    if (event.venues && event.venues.length > 0) {
-        event.venues.forEach(venue => filterTags.push(`location:${venue}`));
-    }
-    // Activity/Category tag
-    if (event.activity) {
-        filterTags.push(`category:${event.activity}`);
-    }
-    else if (event.categories && event.categories.length > 0) {
-        // Use the first category if activity is not available
-        filterTags.push(`category:${event.categories[0]}`);
-    }
-    // Gender tag
-    if (event.gender) {
-        filterTags.push(`gender:${event.gender}`);
-    }
-    // Age group tag
-    if (event.ageGroup) {
-        filterTags.push(`ageGroup:${event.ageGroup}`);
-    }
-    // Color tag
-    if (event.color) {
-        filterTags.push(`color:${event.color}`);
-    }
-    return filterTags;
 }
 function main() {
     return __awaiter(this, void 0, void 0, function* () {
@@ -213,7 +180,6 @@ function main() {
             const dataDir = path.join('data', 'laget');
             yield fs.mkdir(dataDir, { recursive: true });
             // Step 1: Fetch team slugs
-            //const teams = [{ slug: 'P2014B', name: 'P2014 Blå' }];
             const teams = yield fetchTeamSlugs();
             const allEvents = [];
             // Process each team
@@ -230,17 +196,24 @@ function main() {
                 const enhancedSourceEvents = enhanceLagetEvents(sourceEvents);
                 // Step 5: Add to collection with metadata and filter tags
                 allEvents.push(...enhancedSourceEvents.map(e => {
-                    const eventWithMeta = Object.assign(Object.assign(Object.assign({}, e), meta), { url: icsUrl, 
+                    // Use the raw team name from the event if available, otherwise use the team name
+                    const teamName = e.rawTeam || team.name;
+                    const eventWithMeta = Object.assign(Object.assign(Object.assign({}, e), meta), { 
+                        // Use raw team name if available, otherwise use the team name from metadata
+                        team: teamName, url: icsUrl, 
                         // Format the title with appropriate icons
-                        formattedTitle: (0, title_utils_1.formatEventTitle)(team.name, e.title, e.activity, e.match, e.opponent) });
+                        formattedTitle: (0, event_formatter_1.formatEventTitle)(meta.formattedTeam, e.title, e.activity, e.match, e.opponent) });
                     // Add filter tags to each event
-                    return Object.assign(Object.assign({}, eventWithMeta), { filterTags: buildFilterTags(eventWithMeta) });
+                    const eventWithTags = Object.assign(Object.assign({}, eventWithMeta), { filterTags: (0, filter_utils_1.buildFilterTags)(eventWithMeta) });
+                    // Remove the temporary rawTeam property
+                    delete eventWithTags.rawTeam;
+                    return eventWithTags;
                 }));
             }
             // Step 6: Save all events
             if (allEvents.length > 0) {
                 const jsonFilePath = path.join(dataDir, 'calendar.json');
-                yield (0, ics_converter_1.saveEventsToJson)(allEvents, jsonFilePath);
+                yield (0, calendar_io_1.saveEventsToJson)(allEvents, jsonFilePath);
                 console.log(`Laget data saved to ${jsonFilePath} with ${allEvents.length} total events`);
             }
             else {

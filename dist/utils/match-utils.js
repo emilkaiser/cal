@@ -1,9 +1,22 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.isAspuddenTeam = isAspuddenTeam;
+exports.determineMatchStatus = determineMatchStatus;
+exports.extractTeamFromMatch = extractTeamFromMatch;
+exports.extractOpponentFromMatch = extractOpponentFromMatch;
 exports.getHomeAwayCategory = getHomeAwayCategory;
 exports.getOpponent = getOpponent;
-const location_utils_1 = require("./location-utils");
+const venue_utils_1 = require("./venue-utils");
+// Our team names for pattern matching
 const TEAM_NAMES = ['IFK Aspudden-Tellus', 'IFK AT', 'AT', 'Aspudden', 'Tellus'];
+// Aspudden-affiliated teams
+const ASPUDDEN_TEAMS = [
+    /IFK Aspudden-Tellus/i,
+    /Aspuddens FF/i,
+    /Kransen United/i,
+    /BK Buffalo/i,
+    /Gröndals IK/i,
+];
 /**
  * Extract team names from event title
  * @param title Event title to parse
@@ -65,32 +78,106 @@ function isOurTeam(teamName) {
         }
     }
     // Handle special cases like "AT F2014 Gul"
-    for (const segment of teamNameLower.split(' ')) {
-        if ((segment === 'at' || segment === 'if') && teamNameLower.includes('f20')) {
-            return true;
-        }
+    if (teamNameLower.includes('at ') ||
+        teamNameLower.includes('tellus ') ||
+        teamNameLower.startsWith('at ') ||
+        teamNameLower.startsWith('tellus ')) {
+        return true;
     }
     return false;
 }
+/**
+ * Determine if a team is an Aspudden team
+ * @param teamName Team name to check
+ * @returns true if the team is from Aspudden
+ */
+function isAspuddenTeam(teamName) {
+    return ASPUDDEN_TEAMS.some(pattern => pattern.test(teamName)) || isOurTeam(teamName);
+}
+/**
+ * Determine if the match is home, away or external based on team names
+ * @param homeTeam Home team name
+ * @param awayTeam Away team name
+ * @returns 'Home', 'Away' or 'External'
+ */
+function determineMatchStatus(homeTeam, awayTeam) {
+    const isHomeTeamAspudden = isAspuddenTeam(homeTeam);
+    const isAwayTeamAspudden = isAspuddenTeam(awayTeam);
+    if (isHomeTeamAspudden && !isAwayTeamAspudden) {
+        return 'Home';
+    }
+    else if (!isHomeTeamAspudden && isAwayTeamAspudden) {
+        return 'Away';
+    }
+    else {
+        // Either both teams are Aspudden (internal match) or neither (completely external match)
+        return 'External';
+    }
+}
+/**
+ * Extract team from a match with home and away teams
+ * @param homeTeam Home team name
+ * @param awayTeam Away team name
+ * @returns Aspudden team name or undefined if no Aspudden team is found
+ */
+function extractTeamFromMatch(homeTeam, awayTeam) {
+    if (isAspuddenTeam(homeTeam)) {
+        return homeTeam;
+    }
+    else if (isAspuddenTeam(awayTeam)) {
+        return awayTeam;
+    }
+    return undefined;
+}
+/**
+ * Extract opponent from match based on match status
+ * @param homeTeam Home team name
+ * @param awayTeam Away team name
+ * @param matchStatus Whether Aspudden is playing at home or away
+ * @returns Opponent team name or undefined
+ */
+function extractOpponentFromMatch(homeTeam, awayTeam, matchStatus) {
+    if (matchStatus === 'Home') {
+        return awayTeam;
+    }
+    else if (matchStatus === 'Away') {
+        return homeTeam;
+    }
+    return undefined;
+}
+/**
+ * Get home/away category for an event
+ * @param event Calendar event
+ * @returns 'Home' or 'Away' or undefined
+ */
 function getHomeAwayCategory(event) {
-    var _a, _b;
     // Skip if not a sport event or already categorized
-    if (!event.title || ((_a = event.categories) === null || _a === void 0 ? void 0 : _a.includes('Home')) || ((_b = event.categories) === null || _b === void 0 ? void 0 : _b.includes('Away'))) {
+    if (!event.title) {
+        return undefined;
+    }
+    // Skip if event has categories with Home or Away
+    if (event.categories && Array.isArray(event.categories)) {
+        if (event.categories.includes('Home') || event.categories.includes('Away')) {
+            return undefined;
+        }
+    }
+    // Skip if event already has match property set
+    if (event.match === 'Home' || event.match === 'Away') {
         return undefined;
     }
     const teams = extractTeamsFromTitle(event.title);
     if (teams) {
-        const isHome = isOurTeam(teams.homeTeam);
-        const isAway = isOurTeam(teams.awayTeam);
-        if (isHome && !isAway) {
+        const isHomeTeamOurs = isOurTeam(teams.homeTeam);
+        const isAwayTeamOurs = isOurTeam(teams.awayTeam);
+        if (isHomeTeamOurs && !isAwayTeamOurs) {
             return 'Home';
         }
-        else if (isAway && !isHome) {
+        else if (!isHomeTeamOurs && isAwayTeamOurs) {
             return 'Away';
         }
     }
     // If location contains our venue, it's likely a home game
-    if (event.location && (0, location_utils_1.isHomeVenue)(event.location)) {
+    if (event.location && (0, venue_utils_1.isHomeVenue)(event.location)) {
         return 'Home';
     }
     else if (event.location && event.location.trim() !== '') {
@@ -111,25 +198,23 @@ function getOpponent(event) {
     if (event.activity === 'Träning') {
         return undefined;
     }
-    // Use original title for extraction - don't remove "Match" prefix here
-    // This ensures that when "Match" is part of a team name, it's preserved
     const teams = extractTeamsFromTitle(event.title);
     if (!teams) {
         return undefined;
     }
     // Check if our team is the home team
-    const isOurTeamHome = isOurTeam(teams.homeTeam);
+    const isHomeTeamOurs = isOurTeam(teams.homeTeam);
     // Check if our team is the away team
-    const isOurTeamAway = isOurTeam(teams.awayTeam);
+    const isAwayTeamOurs = isOurTeam(teams.awayTeam);
     // If it's our team vs our team (internal match), return undefined
-    if (isOurTeamHome && isOurTeamAway) {
+    if (isHomeTeamOurs && isAwayTeamOurs) {
         return undefined;
     }
     // Return the opponent team name
-    if (isOurTeamHome) {
+    if (isHomeTeamOurs) {
         return teams.awayTeam;
     }
-    else if (isOurTeamAway) {
+    else if (isAwayTeamOurs) {
         return teams.homeTeam;
     }
     return undefined;

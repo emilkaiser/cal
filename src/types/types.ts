@@ -1,4 +1,4 @@
-export type Match = 'Home' | 'Away' | undefined;
+export type Match = 'Home' | 'Away' | 'External' | undefined;
 export type Activity =
   | 'Match'
   | 'Träning'
@@ -31,6 +31,9 @@ export interface CalendarEvent {
   activity?: Activity;
   color?: string;
   team?: string;
+  rawTeam?: string;
+  formattedTeam?: string;
+  //rawTeam?: string;
   hex?: string;
   filterTags?: string[];
   sourceType: SourceType;

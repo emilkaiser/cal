@@ -147,14 +147,40 @@ function extractTeamInfo(title) {
         baseTeamName: title,
     };
 }
-function extractAgeGroup(title) {
-    // Look for P or F followed by 2 digits
-    const ageMatch = title.match(/\b([PF])(\d{2})\b/i);
-    if (ageMatch) {
-        return `${ageMatch[1].toUpperCase()}${ageMatch[2]}`;
+/**
+ * Extract age group from a string (e.g., title, category)
+ * Handles formats like "P2012", "F2011-", "P12", etc.
+ * Returns only the year part without P/F prefix
+ */
+function extractAgeGroup(text) {
+    if (!text)
+        return undefined;
+    // Match Swedish football age group patterns:
+    // P2012, F2010, P12, F09, P2012-, P2012- 3K, etc.
+    const patterns = [
+        // Pattern for "P2012-", "P2012- 3K", etc.
+        /\b([PF])(\d{4})(-|\s*-\s*)/i,
+        // Pattern for "P2012", "F2010", etc.
+        /\b([PF])(\d{4})\b/i,
+        // Pattern for "P12", "F09", etc.
+        /\b([PF])(\d{2})\b/i,
+    ];
+    for (const pattern of patterns) {
+        const match = text.match(pattern);
+        if (match) {
+            const [_, gender, year] = match;
+            // Return only the year part
+            if (year.length === 4) {
+                return year;
+            }
+            else if (year.length === 2) {
+                // For two-digit years, assume 20xx
+                return `20${year}`;
+            }
+        }
     }
-    // Try to find year groups (birth years)
-    const yearMatch = title.match(/\b(20\d{2})\b/);
+    // Match just numbers for more generic cases
+    const yearMatch = text.match(/\b(20\d{2})\b/);
     if (yearMatch) {
         return yearMatch[1];
     }

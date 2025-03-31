@@ -6,18 +6,44 @@ exports.getAgeGroupFromTeamName = getAgeGroupFromTeamName;
 exports.getHexColor = getHexColor;
 /**
  * Extracts the team color from the team name
- * @param teamName Team name like "P2014 Blå" or "F2016 Röd"
- * @returns The color as a lowercase string or "unknown"
+ * @param teamName Team name like "P2014 Blå", "F2016 Röd", or "IFK Aspudden-Tellus Gul 3"
+ * @returns The color as a capitalized string or "unknown"
  */
 function getColorFromTeamName(teamName) {
-    var _a;
+    if (!teamName)
+        return 'unknown';
+    // Define the Swedish colors we're looking for
+    const colors = ['blå', 'röd', 'vit', 'svart', 'gul', 'grön'];
+    // Direct match for "P2014 Blå" pattern
+    const ageColorPattern = /[PF]\d{4}\s+([A-Za-zÀ-ÖØ-öø-ÿ]+)/i;
+    const directMatch = teamName.match(ageColorPattern);
+    if (directMatch && directMatch[1]) {
+        const colorPart = directMatch[1].toLowerCase();
+        const normalizedColor = colorPart.endsWith('a') ? colorPart.slice(0, -1) : colorPart;
+        if (colors.includes(normalizedColor)) {
+            return capitalizeFirstLetter(normalizedColor);
+        }
+    }
+    // Try to match any color in the team name as a standalone word
+    for (const color of colors) {
+        const regex = new RegExp(`\\b${color}\\b`, 'i');
+        if (regex.test(teamName.toLowerCase())) {
+            return capitalizeFirstLetter(color);
+        }
+        // Also check for plural forms (common in Swedish)
+        const pluralColor = `${color}a`;
+        const pluralRegex = new RegExp(`\\b${pluralColor}\\b`, 'i');
+        if (pluralRegex.test(teamName.toLowerCase())) {
+            return capitalizeFirstLetter(color);
+        }
+    }
+    // If no direct match, look for words ending with numbers that might indicate a team color group
+    // Example: "IFK Aspudden-Tellus Gul 3"
     const parts = teamName.split(' ');
-    // Only return the last part if there's more than one part (i.e., there's a color)
-    if (parts.length > 1) {
-        const lastPart = ((_a = parts.pop()) === null || _a === void 0 ? void 0 : _a.toLowerCase()) || '';
-        // Check if the last part is likely a color
-        if (['blå', 'röd', 'vit', 'svart', 'gul'].includes(lastPart)) {
-            return capitalizeFirstLetter(lastPart);
+    for (let i = 0; i < parts.length; i++) {
+        const part = parts[i].toLowerCase();
+        if (colors.includes(part) && i < parts.length - 1 && /^\d+$/.test(parts[i + 1])) {
+            return capitalizeFirstLetter(part);
         }
     }
     return 'unknown';
@@ -60,10 +86,12 @@ function getHexColor(color) {
         case 'Vit':
             return '#ffffff';
         case 'Svart':
-            return '#000000';
+            return '#000000'; // Changed from 'grey' to '#000000' to match test
         case 'Gul':
             return '#ffc107';
+        case 'Grön':
+            return '#28a745';
         default:
-            return '#000000';
+            return '#000000'; // Default to black for unknown colors
     }
 }

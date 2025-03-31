@@ -4,7 +4,7 @@ exports.formatEventTitle = formatEventTitle;
 /**
  * Formats event title with appropriate icons based on event type
  */
-function formatEventTitle(team, originalTitle, activity, match, opponent) {
+function formatEventTitle(team, originalTitle, activity, match, opponent, homeTeam, awayTeam) {
     // Handle training events
     if (activity === 'Träning') {
         return `⚽ ${team}`;
@@ -28,6 +28,14 @@ function formatEventTitle(team, originalTitle, activity, match, opponent) {
         }
         else if (match === 'Away') {
             return cleanOpponent ? `🆚🚍 ${team} (vs ${cleanOpponent})` : `🆚🚍 ${team}`;
+        }
+        else if (match === 'External') {
+            // For external matches, show both teams if available
+            if (homeTeam && awayTeam) {
+                return `🆚 External (${homeTeam} vs ${awayTeam})`;
+            }
+            // Fallback to original title if team names aren't available
+            return `🆚 External (${originalTitle})`;
         }
         else {
             // Generic match with no home/away distinction
