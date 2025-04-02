@@ -1,15 +1,13 @@
 'use client';
 
-import { useMemo } from 'react';
+import { useMemo, useState, useEffect } from 'react';
 import TeamCalendar from './TeamCalendar';
 import type { CalendarEvent as BaseCalendarEvent } from '../types/types';
 import { DataSource } from '@/lib/data-sources';
-
-interface CalendarEvent extends Omit<BaseCalendarEvent, 'start' | 'end'> {
-  start: Date;
-  end: Date;
-  source?: string;
-}
+import { Skeleton } from '@/components/ui/skeleton';
+import { Card, CardContent } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
+import { CalendarIcon, RefreshCcw } from 'lucide-react';
 
 interface CalendarClientProps {
   initialEvents: BaseCalendarEvent[];
@@ -39,15 +37,5 @@ export default function CalendarClient({ initialEvents, dataSources }: CalendarC
     return parsedEvents;
   }, [initialEvents]);
 
-  return (
-    <>
-      {processedEvents.length > 0 ? (
-        <TeamCalendar events={processedEvents} dataSources={dataSources} />
-      ) : (
-        <div style={{ textAlign: 'center', marginTop: '50px' }}>
-          <h2>Loading calendar data...</h2>
-        </div>
-      )}
-    </>
-  );
+  return <TeamCalendar events={processedEvents} dataSources={dataSources} />;
 }

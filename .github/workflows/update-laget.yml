@@ -23,7 +23,7 @@ jobs:
       - run: npm install
 
       - name: Build TypeScript
-        run: npm run build
+        run: npm run build:node
 
       - name: Run laget scraper
         run: node dist/scrapers/laget-scraper.js

@@ -19,7 +19,8 @@
     "test:watch": "jest --watch",
     "debug:calendar": "ts-node --project tsconfig.node.json src/cli/debug-calendar.ts",
     "debug:venue": "ts-node --project tsconfig.node.json src/cli/debug-venue.ts",
-    "clean": "rm -rf dist"
+    "clean": "rm -rf dist",
+    "export:static": "next build && next export && rm -rf docs && mv out docs"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.3",
