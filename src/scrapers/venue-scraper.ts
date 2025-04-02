@@ -10,7 +10,11 @@ import {
   extractTeamFromMatch,
   extractOpponentFromMatch,
 } from './utils/match-utils';
-import { getColorFromTeamName } from './utils/team-metadata';
+import {
+  getColorFromTeamName,
+  getGenderFromStructuredData,
+  getGenderFromTeamName,
+} from './utils/team-metadata';
 import { createFormattedTeamName } from './utils/team-parser';
 
 // Define resource IDs for the venues we want to fetch
@@ -41,9 +45,9 @@ interface Match {
   };
   note?: string;
   url: string;
-  ageCategoryName?: string;
+  ageCategoryName: string;
   ageCategoryId?: number;
-  genderName?: string;
+  genderName: string;
   genderId?: number;
 }
 
@@ -124,14 +128,9 @@ function enhanceSourceEvents(events: CalendarEvent[]): CalendarEvent[] {
     if (event.rawData) {
       const match = event.rawData as Match;
 
-      // Extract gender information
-      if (match.genderName) {
-        enhancedEvent.gender =
-          match.genderName === 'Man'
-            ? 'Pojkar'
-            : match.genderName === 'Kvinna'
-            ? 'Flickor'
-            : undefined;
+      enhancedEvent.gender = getGenderFromStructuredData(match.genderName, match.ageCategoryName);
+      if (!enhancedEvent.gender) {
+        enhancedEvent.gender = getGenderFromTeamName(match.category);
       }
 
       // Extract age group from category - only the year part

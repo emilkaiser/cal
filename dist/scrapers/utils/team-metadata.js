@@ -2,8 +2,10 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getColorFromTeamName = getColorFromTeamName;
 exports.getGenderFromTeamName = getGenderFromTeamName;
+exports.getGenderFromStructuredData = getGenderFromStructuredData;
 exports.getAgeGroupFromTeamName = getAgeGroupFromTeamName;
 exports.getHexColor = getHexColor;
+const types_1 = require("../../types/types");
 function getColorFromTeamName(teamName) {
     if (!teamName)
         return undefined;
@@ -52,23 +54,55 @@ function getGenderFromTeamName(teamName) {
     // Handle case insensitivity by converting to lowercase
     const lowerCaseTeam = teamName.toLowerCase();
     // Check for "Dam" or "Herr" in team name
+    if (lowerCaseTeam.includes('veteran dam'))
+        return types_1.WOMEN_VETERAN;
+    if (lowerCaseTeam.includes('veteran herr'))
+        return types_1.MEN_VETERAN;
+    if (lowerCaseTeam.includes('damjunior'))
+        return types_1.WOMEN_JUNIOR;
+    if (lowerCaseTeam.includes('herrjunior'))
+        return types_1.MEN_JUNIOR;
+    // Check for "Dam" or "Herr" in team name
     if (lowerCaseTeam.includes('dam'))
-        return 'Dam';
-    if (lowerCaseTeam.includes('herr') || lowerCaseTeam.includes('herrjunior'))
-        return 'Herr';
+        return types_1.WOMEN;
+    if (lowerCaseTeam.includes('herr'))
+        return types_1.MEN;
     // Check for mixed gender teams (PF pattern)
     if (/\bpf\d{2,4}\b/i.test(lowerCaseTeam))
-        return 'Pojkar+Flickor';
+        return types_1.BOYS_GIRLS;
     // Make sure we match standalone P/F followed by digits, not partial matches like PF2014
     if (/\bp\d{2,4}\b/i.test(lowerCaseTeam))
-        return 'Pojkar';
+        return types_1.BOYS;
     if (/\bf\d{2,4}\b/i.test(lowerCaseTeam))
-        return 'Flickor';
+        return types_1.GIRLS;
     // Also match team formats like "Team P-2014"
     if (/\bp[-]?\d{2,4}/i.test(lowerCaseTeam))
-        return 'Pojkar';
+        return types_1.BOYS;
     if (/\bf[-]?\d{2,4}/i.test(lowerCaseTeam))
-        return 'Flickor';
+        return types_1.GIRLS;
+    return undefined;
+}
+function getGenderFromStructuredData(genderName, ageCategoryName) {
+    if (!ageCategoryName || !genderName)
+        return undefined;
+    const lowerCaseAgeCategory = ageCategoryName.toLowerCase();
+    const lowerCaseGender = genderName.toLowerCase();
+    if (lowerCaseGender.includes('man') && lowerCaseAgeCategory.includes('veteran'))
+        return types_1.MEN_VETERAN;
+    if (lowerCaseGender.includes('kvinna') && lowerCaseAgeCategory.includes('veteran'))
+        return types_1.WOMEN_VETERAN;
+    if (lowerCaseGender.includes('man') && lowerCaseAgeCategory.includes('ungdom'))
+        return types_1.MEN_JUNIOR;
+    if (lowerCaseGender.includes('kvinna') && lowerCaseAgeCategory.includes('ungdom'))
+        return types_1.WOMEN_JUNIOR;
+    if (lowerCaseGender.includes('man') && lowerCaseAgeCategory.includes('barn'))
+        return types_1.BOYS;
+    if (lowerCaseGender.includes('kvinna') && lowerCaseAgeCategory.includes('barn'))
+        return types_1.GIRLS;
+    if (lowerCaseGender.includes('man') && lowerCaseAgeCategory.includes('senior'))
+        return types_1.MEN;
+    if (lowerCaseGender.includes('kvinna') && lowerCaseAgeCategory.includes('senior'))
+        return types_1.WOMEN;
     return undefined;
 }
 function getAgeGroupFromTeamName(teamName) {

@@ -49,10 +49,10 @@ activity, match, opponent, homeTeam, awayTeam) {
         else if (match === types_1.MATCH_EXTERNAL) {
             // For external matches, show both teams if available
             if (homeTeam && awayTeam) {
-                return `⚽ External (${homeTeam} vs ${awayTeam})`;
+                return `🏟️ External (${homeTeam} vs ${awayTeam})`;
             }
             // Fallback to original title if team names aren't available
-            return `⚽ External (${originalTitle})`;
+            return `🏟️ External (${originalTitle})`;
         }
         else {
             // Generic match with no home/away distinction

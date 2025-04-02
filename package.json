@@ -18,7 +18,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "debug:calendar": "ts-node --project tsconfig.node.json src/cli/debug-calendar.ts",
-    "debug:calendar:simple": "ts-node --project tsconfig.node.json src/cli/debug-calendar-simple.ts",
+    "debug:venue": "ts-node --project tsconfig.node.json src/cli/debug-venue.ts",
     "clean": "rm -rf dist"
   },
   "dependencies": {

@@ -1,4 +1,15 @@
-import { Gender } from '../../types/types';
+import {
+  BOYS,
+  BOYS_GIRLS,
+  Gender,
+  GIRLS,
+  MEN,
+  MEN_JUNIOR,
+  MEN_VETERAN,
+  WOMEN,
+  WOMEN_JUNIOR,
+  WOMEN_VETERAN,
+} from '../../types/types';
 
 export function getColorFromTeamName(teamName: string): string | undefined {
   if (!teamName) return undefined;
@@ -56,19 +67,52 @@ export function getGenderFromTeamName(teamName: string): undefined | Gender {
   const lowerCaseTeam = teamName.toLowerCase();
 
   // Check for "Dam" or "Herr" in team name
-  if (lowerCaseTeam.includes('dam')) return 'Dam';
-  if (lowerCaseTeam.includes('herr') || lowerCaseTeam.includes('herrjunior')) return 'Herr';
+  if (lowerCaseTeam.includes('veteran dam')) return WOMEN_VETERAN;
+  if (lowerCaseTeam.includes('veteran herr')) return MEN_VETERAN;
+
+  if (lowerCaseTeam.includes('damjunior')) return WOMEN_JUNIOR;
+  if (lowerCaseTeam.includes('herrjunior')) return MEN_JUNIOR;
+
+  // Check for "Dam" or "Herr" in team name
+  if (lowerCaseTeam.includes('dam')) return WOMEN;
+  if (lowerCaseTeam.includes('herr')) return MEN;
 
   // Check for mixed gender teams (PF pattern)
-  if (/\bpf\d{2,4}\b/i.test(lowerCaseTeam)) return 'Pojkar+Flickor';
+  if (/\bpf\d{2,4}\b/i.test(lowerCaseTeam)) return BOYS_GIRLS;
 
   // Make sure we match standalone P/F followed by digits, not partial matches like PF2014
-  if (/\bp\d{2,4}\b/i.test(lowerCaseTeam)) return 'Pojkar';
-  if (/\bf\d{2,4}\b/i.test(lowerCaseTeam)) return 'Flickor';
+  if (/\bp\d{2,4}\b/i.test(lowerCaseTeam)) return BOYS;
+  if (/\bf\d{2,4}\b/i.test(lowerCaseTeam)) return GIRLS;
 
   // Also match team formats like "Team P-2014"
-  if (/\bp[-]?\d{2,4}/i.test(lowerCaseTeam)) return 'Pojkar';
-  if (/\bf[-]?\d{2,4}/i.test(lowerCaseTeam)) return 'Flickor';
+  if (/\bp[-]?\d{2,4}/i.test(lowerCaseTeam)) return BOYS;
+  if (/\bf[-]?\d{2,4}/i.test(lowerCaseTeam)) return GIRLS;
+
+  return undefined;
+}
+
+export function getGenderFromStructuredData(
+  genderName: string,
+  ageCategoryName: string
+): Gender | undefined {
+  if (!ageCategoryName || !genderName) return undefined;
+  const lowerCaseAgeCategory = ageCategoryName.toLowerCase();
+  const lowerCaseGender = genderName.toLowerCase();
+
+  if (lowerCaseGender.includes('man') && lowerCaseAgeCategory.includes('veteran'))
+    return MEN_VETERAN;
+  if (lowerCaseGender.includes('kvinna') && lowerCaseAgeCategory.includes('veteran'))
+    return WOMEN_VETERAN;
+
+  if (lowerCaseGender.includes('man') && lowerCaseAgeCategory.includes('ungdom')) return MEN_JUNIOR;
+  if (lowerCaseGender.includes('kvinna') && lowerCaseAgeCategory.includes('ungdom'))
+    return WOMEN_JUNIOR;
+
+  if (lowerCaseGender.includes('man') && lowerCaseAgeCategory.includes('barn')) return BOYS;
+  if (lowerCaseGender.includes('kvinna') && lowerCaseAgeCategory.includes('barn')) return GIRLS;
+
+  if (lowerCaseGender.includes('man') && lowerCaseAgeCategory.includes('senior')) return MEN;
+  if (lowerCaseGender.includes('kvinna') && lowerCaseAgeCategory.includes('senior')) return WOMEN;
 
   return undefined;
 }

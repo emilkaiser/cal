@@ -133,6 +133,9 @@ describe('Event Categorizer Utilities', () => {
     it('extracts age group from "P2012- 3K" format', () => {
       expect(extractAgeGroup('P2012- 3K')).toBe('2012');
     });
+    it('extracts age group from "P2010- 3C" format', () => {
+      expect(extractAgeGroup('P2010- 3C')).toBe('2010');
+    });
 
     it('extracts age group from "P2012" format', () => {
       expect(extractAgeGroup('P2012')).toBe('2012');
@@ -143,16 +146,20 @@ describe('Event Categorizer Utilities', () => {
     });
 
     it('extracts age group from two-digit format', () => {
-      expect(extractAgeGroup('P12')).toBe('2012');
-      expect(extractAgeGroup('F09')).toBe('2009');
+      expect(extractAgeGroup('P12')).toBeUndefined();
+      expect(extractAgeGroup('F09')).toBeUndefined();
     });
 
     it('extracts standalone year', () => {
-      expect(extractAgeGroup('Division 2015')).toBe('2015');
+      expect(extractAgeGroup('Division 2015')).toBeUndefined();
     });
 
     it('returns undefined when no age group is found', () => {
       expect(extractAgeGroup('No age group here')).toBeUndefined();
+    });
+
+    it('returns undefined for non age group categories "P19 Div.1 2025 - Region 4"', () => {
+      expect(extractAgeGroup('P19 Div.1 2025 - Region 4')).toBeUndefined();
     });
 
     it('returns undefined for empty or undefined input', () => {

@@ -26,7 +26,20 @@ export const GIRLS = 'Flickor' as const;
 export const WOMEN = 'Dam' as const;
 export const MEN = 'Herr' as const;
 export const BOYS_GIRLS = 'Pojkar+Flickor' as const;
-export type Gender = typeof BOYS | typeof GIRLS | typeof WOMEN | typeof MEN | typeof BOYS_GIRLS;
+export const MEN_VETERAN = 'Herrveteran' as const;
+export const WOMEN_VETERAN = 'Damveteran' as const;
+export const MEN_JUNIOR = 'Herrjunior' as const;
+export const WOMEN_JUNIOR = 'Damjunior' as const;
+export type Gender =
+  | typeof BOYS
+  | typeof GIRLS
+  | typeof WOMEN
+  | typeof MEN
+  | typeof BOYS_GIRLS
+  | typeof MEN_VETERAN
+  | typeof WOMEN_VETERAN
+  | typeof MEN_JUNIOR
+  | typeof WOMEN_JUNIOR;
 
 export interface CalendarEvent {
   uid: string;

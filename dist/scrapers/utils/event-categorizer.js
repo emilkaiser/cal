@@ -62,11 +62,6 @@ function getEventType(event) {
 function extractAgeGroup(text) {
     if (!text)
         return undefined;
-    // First check for full 4-digit years (highest priority)
-    const yearMatch = text.match(/\b(20\d{2})\b/);
-    if (yearMatch) {
-        return yearMatch[1];
-    }
     // Match Swedish football age group patterns:
     // P2012, F2010, P12, F09, P2012-, P2012- 3K, etc.
     const patterns = [
@@ -74,21 +69,20 @@ function extractAgeGroup(text) {
         /\b([PF])(\d{4})(-|\s*-\s*)/i,
         // Pattern for "P2012", "F2010", etc.
         /\b([PF])(\d{4})\b/i,
-        // Pattern for "P12", "F09", etc.
-        /\b([PF])(\d{2})\b/i,
     ];
+    // Check for explicit age groups with 4 digits (highest priority)
     for (const pattern of patterns) {
         const match = text.match(pattern);
         if (match) {
-            const [_, gender, year] = match;
-            // Return only the year part
-            if (year.length === 4) {
-                return year;
-            }
-            else if (year.length === 2) {
-                // For two-digit years, assume 20xx
-                return `20${year}`;
-            }
+            // We have a direct match for a four-digit age group
+            return match[2];
+        }
+    }
+    // Only extract standalone years if they aren't part of division/league names
+    if (!/Div\.|Division|Region|League|Series|Cup|Season|[-–—]\s*Region \d/.test(text)) {
+        const yearMatch = text.match(/\b(20\d{2})\b/);
+        if (yearMatch) {
+            return yearMatch[1];
         }
     }
     return undefined;

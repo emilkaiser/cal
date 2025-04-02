@@ -116,14 +116,9 @@ function enhanceSourceEvents(events) {
         const enhancedEvent = Object.assign({}, event);
         if (event.rawData) {
             const match = event.rawData;
-            // Extract gender information
-            if (match.genderName) {
-                enhancedEvent.gender =
-                    match.genderName === 'Man'
-                        ? 'Pojkar'
-                        : match.genderName === 'Kvinna'
-                            ? 'Flickor'
-                            : undefined;
+            enhancedEvent.gender = (0, team_metadata_1.getGenderFromStructuredData)(match.genderName, match.ageCategoryName);
+            if (!enhancedEvent.gender) {
+                enhancedEvent.gender = (0, team_metadata_1.getGenderFromTeamName)(match.category);
             }
             // Extract age group from category - only the year part
             if (match.category) {

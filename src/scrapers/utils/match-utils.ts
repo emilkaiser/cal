@@ -1,17 +1,19 @@
-import { CalendarEvent, MATCH, Match, MATCH_AWAY, MATCH_HOME, TRAINING } from '../../types/types';
+import {
+  CalendarEvent,
+  MATCH,
+  Match,
+  MATCH_AWAY,
+  MATCH_EXTERNAL,
+  MATCH_HOME,
+  TRAINING,
+} from '../../types/types';
 import { isHomeVenue } from './venue-utils';
 
 // Our team names for pattern matching
 const TEAM_NAMES = ['IFK Aspudden-Tellus', 'IFK AT', 'AT', 'Aspudden', 'Tellus'];
 
 // Aspudden-affiliated teams
-const ASPUDDEN_TEAMS = [
-  /IFK Aspudden-Tellus/i,
-  /Aspuddens FF/i,
-  /Kransen United/i,
-  /BK Buffalo/i,
-  /Gröndals IK/i,
-];
+const ASPUDDEN_TEAMS = [/IFK Aspudden-Tellus/i, /Aspuddens FF/i];
 
 /**
  * Extract team names from event title
@@ -101,6 +103,11 @@ function isOurTeam(teamName: string): boolean {
  * @returns true if the team is from Aspudden
  */
 export function isAspuddenTeam(teamName: string): boolean {
+  // Skip empty team names and generic teams like "Ospecificerat lag"
+  if (!teamName || teamName.includes('Ospecificerat lag')) {
+    return false;
+  }
+
   return ASPUDDEN_TEAMS.some(pattern => pattern.test(teamName)) || isOurTeam(teamName);
 }
 
@@ -108,22 +115,22 @@ export function isAspuddenTeam(teamName: string): boolean {
  * Determine if the match is home, away or external based on team names
  * @param homeTeam Home team name
  * @param awayTeam Away team name
- * @returns 'Home', 'Away' or 'External'
+ * @returns MATCH_HOME, MATCH_AWAY or 'External'
  */
-export function determineMatchStatus(
-  homeTeam: string,
-  awayTeam: string
-): 'Home' | 'Away' | 'External' {
+export function determineMatchStatus(homeTeam: string, awayTeam: string): Match {
   const isHomeTeamAspudden = isAspuddenTeam(homeTeam);
   const isAwayTeamAspudden = isAspuddenTeam(awayTeam);
 
   if (isHomeTeamAspudden && !isAwayTeamAspudden) {
-    return 'Home';
+    return MATCH_HOME;
   } else if (!isHomeTeamAspudden && isAwayTeamAspudden) {
-    return 'Away';
+    return MATCH_AWAY;
+  } else if (isHomeTeamAspudden && isAwayTeamAspudden) {
+    // For internal matches between two Aspudden teams, return Home
+    return MATCH_HOME;
   } else {
-    // Either both teams are Aspudden (internal match) or neither (completely external match)
-    return 'External';
+    // Neither team is an Aspudden team (completely external match)
+    return MATCH_EXTERNAL;
   }
 }
 
@@ -152,11 +159,11 @@ export function extractTeamFromMatch(homeTeam: string, awayTeam: string): string
 export function extractOpponentFromMatch(
   homeTeam: string,
   awayTeam: string,
-  matchStatus: 'Home' | 'Away' | 'External'
+  matchStatus: Match
 ): string | undefined {
-  if (matchStatus === 'Home') {
+  if (matchStatus === MATCH_HOME) {
     return awayTeam;
-  } else if (matchStatus === 'Away') {
+  } else if (matchStatus === MATCH_AWAY) {
     return homeTeam;
   }
   return undefined;

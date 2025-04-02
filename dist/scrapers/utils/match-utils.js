@@ -11,13 +11,7 @@ const venue_utils_1 = require("./venue-utils");
 // Our team names for pattern matching
 const TEAM_NAMES = ['IFK Aspudden-Tellus', 'IFK AT', 'AT', 'Aspudden', 'Tellus'];
 // Aspudden-affiliated teams
-const ASPUDDEN_TEAMS = [
-    /IFK Aspudden-Tellus/i,
-    /Aspuddens FF/i,
-    /Kransen United/i,
-    /BK Buffalo/i,
-    /Gröndals IK/i,
-];
+const ASPUDDEN_TEAMS = [/IFK Aspudden-Tellus/i, /Aspuddens FF/i];
 /**
  * Extract team names from event title
  * @param title Event title to parse
@@ -93,26 +87,34 @@ function isOurTeam(teamName) {
  * @returns true if the team is from Aspudden
  */
 function isAspuddenTeam(teamName) {
+    // Skip empty team names and generic teams like "Ospecificerat lag"
+    if (!teamName || teamName.includes('Ospecificerat lag')) {
+        return false;
+    }
     return ASPUDDEN_TEAMS.some(pattern => pattern.test(teamName)) || isOurTeam(teamName);
 }
 /**
  * Determine if the match is home, away or external based on team names
  * @param homeTeam Home team name
  * @param awayTeam Away team name
- * @returns 'Home', 'Away' or 'External'
+ * @returns MATCH_HOME, MATCH_AWAY or 'External'
  */
 function determineMatchStatus(homeTeam, awayTeam) {
     const isHomeTeamAspudden = isAspuddenTeam(homeTeam);
     const isAwayTeamAspudden = isAspuddenTeam(awayTeam);
     if (isHomeTeamAspudden && !isAwayTeamAspudden) {
-        return 'Home';
+        return types_1.MATCH_HOME;
     }
     else if (!isHomeTeamAspudden && isAwayTeamAspudden) {
-        return 'Away';
+        return types_1.MATCH_AWAY;
+    }
+    else if (isHomeTeamAspudden && isAwayTeamAspudden) {
+        // For internal matches between two Aspudden teams, return Home
+        return types_1.MATCH_HOME;
     }
     else {
-        // Either both teams are Aspudden (internal match) or neither (completely external match)
-        return 'External';
+        // Neither team is an Aspudden team (completely external match)
+        return types_1.MATCH_EXTERNAL;
     }
 }
 /**
@@ -138,10 +140,10 @@ function extractTeamFromMatch(homeTeam, awayTeam) {
  * @returns Opponent team name or undefined
  */
 function extractOpponentFromMatch(homeTeam, awayTeam, matchStatus) {
-    if (matchStatus === 'Home') {
+    if (matchStatus === types_1.MATCH_HOME) {
         return awayTeam;
     }
-    else if (matchStatus === 'Away') {
+    else if (matchStatus === types_1.MATCH_AWAY) {
         return homeTeam;
     }
     return undefined;

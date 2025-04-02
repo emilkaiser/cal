@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.BOYS_GIRLS = exports.MEN = exports.WOMEN = exports.GIRLS = exports.BOYS = exports.OTHER = exports.EVENT = exports.MEETING = exports.TURNERING = exports.CUP = exports.MATCH = exports.TRAINING = exports.MATCH_EXTERNAL = exports.MATCH_AWAY = exports.MATCH_HOME = void 0;
+exports.WOMEN_JUNIOR = exports.MEN_JUNIOR = exports.WOMEN_VETERAN = exports.MEN_VETERAN = exports.BOYS_GIRLS = exports.MEN = exports.WOMEN = exports.GIRLS = exports.BOYS = exports.OTHER = exports.EVENT = exports.MEETING = exports.TURNERING = exports.CUP = exports.MATCH = exports.TRAINING = exports.MATCH_EXTERNAL = exports.MATCH_AWAY = exports.MATCH_HOME = void 0;
 exports.MATCH_HOME = 'Home';
 exports.MATCH_AWAY = 'Away';
 exports.MATCH_EXTERNAL = 'External';
@@ -16,3 +16,7 @@ exports.GIRLS = 'Flickor';
 exports.WOMEN = 'Dam';
 exports.MEN = 'Herr';
 exports.BOYS_GIRLS = 'Pojkar+Flickor';
+exports.MEN_VETERAN = 'Herrveteran';
+exports.WOMEN_VETERAN = 'Damveteran';
+exports.MEN_JUNIOR = 'Herrjunior';
+exports.WOMEN_JUNIOR = 'Damjunior';
