@@ -6,7 +6,7 @@ import {
   isAspuddensSkola,
   isHomeVenue,
   extractVenues,
-} from '../../src/utils/venue-utils';
+} from '../../src/scrapers/utils/venue-utils';
 
 describe('isAspuddensIP', () => {
   it('returns true for strings containing "aspudden"', () => {

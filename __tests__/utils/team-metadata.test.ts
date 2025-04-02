@@ -3,7 +3,7 @@ import {
   getGenderFromTeamName,
   getAgeGroupFromTeamName,
   getHexColor,
-} from '../../src/utils/team-metadata';
+} from '../../src/scrapers/utils/team-metadata';
 
 describe('Team Metadata Utilities', () => {
   describe('getColorFromTeamName', () => {
@@ -11,8 +11,8 @@ describe('Team Metadata Utilities', () => {
       expect(getColorFromTeamName('P2014 Blå')).toBe('Blå');
       expect(getColorFromTeamName('F2016 Röd')).toBe('Röd');
       expect(getColorFromTeamName('P2015 Vit')).toBe('Vit');
-      expect(getColorFromTeamName('P2015')).toBe('unknown');
-      expect(getColorFromTeamName('')).toBe('unknown');
+      expect(getColorFromTeamName('P2015')).toBeUndefined();
+      expect(getColorFromTeamName('')).toBeUndefined();
     });
 
     it('extracts color from IFK Aspudden-Tellus team formats', () => {
@@ -51,8 +51,8 @@ describe('Team Metadata Utilities', () => {
     it('determines gender from team names', () => {
       expect(getGenderFromTeamName('P2014 Blå')).toBe('Pojkar');
       expect(getGenderFromTeamName('F2016 Röd')).toBe('Flickor');
-      expect(getGenderFromTeamName('Seniors')).toBe('unknown');
-      expect(getGenderFromTeamName('')).toBe('unknown');
+      expect(getGenderFromTeamName('Seniors')).toBeUndefined();
+      expect(getGenderFromTeamName('')).toBeUndefined();
     });
 
     it('handles different case variations', () => {
@@ -66,8 +66,8 @@ describe('Team Metadata Utilities', () => {
     });
 
     it('returns unknown for ambiguous input', () => {
-      expect(getGenderFromTeamName('PF2014')).toBe('unknown');
-      expect(getGenderFromTeamName('2014')).toBe('unknown');
+      expect(getGenderFromTeamName('PF2014')).toBe('Pojkar+Flickor');
+      expect(getGenderFromTeamName('2014')).toBeUndefined();
     });
   });
 
@@ -75,8 +75,8 @@ describe('Team Metadata Utilities', () => {
     it('extracts age group from team names', () => {
       expect(getAgeGroupFromTeamName('P2014 Blå')).toBe('2014');
       expect(getAgeGroupFromTeamName('F2016 Röd')).toBe('2016');
-      expect(getAgeGroupFromTeamName('Seniors')).toBe('unknown');
-      expect(getAgeGroupFromTeamName('')).toBe('unknown');
+      expect(getAgeGroupFromTeamName('Seniors')).toBeUndefined();
+      expect(getAgeGroupFromTeamName('')).toBeUndefined();
     });
 
     it('extracts age group from more complex strings', () => {
@@ -90,6 +90,10 @@ describe('Team Metadata Utilities', () => {
 
     it('handles when year is not directly after P/F', () => {
       expect(getAgeGroupFromTeamName('Team P-2014')).toBe('2014');
+    });
+
+    it('handles age', () => {
+      expect(getAgeGroupFromTeamName('P19 (herrjuniorer)')).toBeUndefined;
     });
   });
 

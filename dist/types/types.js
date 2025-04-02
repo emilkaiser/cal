@@ -1,2 +1,18 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.BOYS_GIRLS = exports.MEN = exports.WOMEN = exports.GIRLS = exports.BOYS = exports.OTHER = exports.EVENT = exports.MEETING = exports.TURNERING = exports.CUP = exports.MATCH = exports.TRAINING = exports.MATCH_EXTERNAL = exports.MATCH_AWAY = exports.MATCH_HOME = void 0;
+exports.MATCH_HOME = 'Home';
+exports.MATCH_AWAY = 'Away';
+exports.MATCH_EXTERNAL = 'External';
+exports.TRAINING = 'Träning';
+exports.MATCH = 'Match';
+exports.CUP = 'Cup';
+exports.TURNERING = 'Turnering';
+exports.MEETING = 'Möte';
+exports.EVENT = 'Event';
+exports.OTHER = 'Övrigt';
+exports.BOYS = 'Pojkar';
+exports.GIRLS = 'Flickor';
+exports.WOMEN = 'Dam';
+exports.MEN = 'Herr';
+exports.BOYS_GIRLS = 'Pojkar+Flickor';

@@ -59,8 +59,8 @@ function extractTeamInfo(title, gender, ageGroup) {
 }
 /**
  * Create a formatted team name (like P2015 Blå) from components
- * @param gender 'Pojkar' or 'Flickor'
- * @param ageGroup Year like "2015"
+ * @param gender 'Pojkar', 'Flickor', 'Dam', 'Herr', etc.
+ * @param ageGroup Year like "2015" or age like "15"
  * @param color Team color like "Blå"
  * @returns Formatted team name
  */
@@ -75,6 +75,12 @@ function createFormattedTeamName(gender, ageGroup, color) {
     }
     else if (normalizedGender === 'flickor' || normalizedGender === 'f') {
         prefix = 'F';
+    }
+    else if (normalizedGender === 'dam') {
+        return `Dam${color && color !== 'unknown' ? ` ${color}` : ''}`;
+    }
+    else if (normalizedGender === 'herr') {
+        return `Herr${color && color !== 'unknown' ? ` ${color}` : ''}`;
     }
     else {
         // If we can't determine the prefix, use the first letter

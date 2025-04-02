@@ -1,15 +1,32 @@
-export type Match = 'Home' | 'Away' | 'External';
+export const MATCH_HOME = 'Home' as const;
+export const MATCH_AWAY = 'Away' as const;
+export const MATCH_EXTERNAL = 'External' as const;
+export type Match = typeof MATCH_HOME | typeof MATCH_AWAY | typeof MATCH_EXTERNAL;
+
+export const TRAINING = 'Träning' as const;
+export const MATCH = 'Match' as const;
+export const CUP = 'Cup' as const;
+export const TURNERING = 'Turnering' as const;
+export const MEETING = 'Möte' as const;
+export const EVENT = 'Event' as const;
+export const OTHER = 'Övrigt' as const;
 export type Activity =
-  | 'Match'
-  | 'Träning'
-  | 'Cup'
-  | 'Turnering'
-  | 'Möte'
-  | 'Event'
-  | 'Övrigt'
-  | 'unknown';
+  | typeof MATCH
+  | typeof TRAINING
+  | typeof CUP
+  | typeof TURNERING
+  | typeof MEETING
+  | typeof EVENT
+  | typeof OTHER;
+
 export type SourceType = 'laget' | 'team' | 'venue' | 'other';
-export type Gender = 'Pojkar' | 'Flickor' | 'Dam' | 'Herr' | 'unknown' | string;
+
+export const BOYS = 'Pojkar' as const;
+export const GIRLS = 'Flickor' as const;
+export const WOMEN = 'Dam' as const;
+export const MEN = 'Herr' as const;
+export const BOYS_GIRLS = 'Pojkar+Flickor' as const;
+export type Gender = typeof BOYS | typeof GIRLS | typeof WOMEN | typeof MEN | typeof BOYS_GIRLS;
 
 export interface CalendarEvent {
   uid: string;

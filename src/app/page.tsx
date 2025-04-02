@@ -5,7 +5,6 @@ import TeamCalendar from '@/components/TeamCalendar';
 import { getAllEvents } from '@/lib/data';
 import { CalendarEvent } from '@/types/types';
 import { DataSource } from '@/lib/data-sources';
-import { normalizeCalendarEvents } from '@/utils/calendar-utils';
 
 export default function Home() {
   const [data, setData] = useState<{ events: CalendarEvent[]; dataSources: DataSource[] }>({
@@ -25,11 +24,8 @@ export default function Home() {
       end: new Date(event.end),
     }));
 
-    // Normalize events to ensure all properties are in filterTags
-    const normalizedEvents = normalizeCalendarEvents(parsedEvents);
-
     setData({
-      events: normalizedEvents,
+      events: parsedEvents,
       dataSources,
     });
     setLoading(false);

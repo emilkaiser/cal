@@ -54,16 +54,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Mälarhöjdens IK Fotboll Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Mälarhöjdens IK Fotboll Gul)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Mälarhöjdens IK Fotboll Gul)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -121,16 +122,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "Mälarhöjdens IK Fotboll Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs Mälarhöjdens IK Fotboll Röd)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs Mälarhöjdens IK Fotboll Röd)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -188,16 +190,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Hägersten SK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Hägersten SK)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Hägersten SK)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -255,16 +258,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "Hägersten SK Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs Hägersten SK Gul)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs Hägersten SK Gul)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -322,16 +326,17 @@
     "formattedTeam": "P2014 Blå",
     "opponent": "Stureby SK Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Blå (vs Stureby SK Blå)",
+    "formattedTitle": "⚽🏠 P2014 Blå (vs Stureby SK Blå)",
     "filterTags": [
       "team:P2014 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2014",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -389,16 +394,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Hägersten SK Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Hägersten SK Gul)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Hägersten SK Gul)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -456,16 +462,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "Hägersten SK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs Hägersten SK Vit)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs Hägersten SK Vit)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -523,16 +530,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Mälarhöjdens IK Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Mälarhöjdens IK Fotboll Vit)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Mälarhöjdens IK Fotboll Vit)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -590,16 +598,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Årsta FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Årsta FF 2)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Årsta FF 2)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -657,16 +666,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "KIF Söderort Guld",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs KIF Söderort Guld)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs KIF Söderort Guld)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -724,16 +734,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Mälarhöjdens IK Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Mälarhöjdens IK Fotboll Vit)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Mälarhöjdens IK Fotboll Vit)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -790,16 +801,17 @@
     "color": "Röd",
     "formattedTeam": "P2017 Röd",
     "activity": "Match",
-    "formattedTitle": "🆚 External (IFK Aspudden-Tellus Röd 1 vs Gröndals IK Vit)",
+    "formattedTitle": "⚽ External (IFK Aspudden-Tellus Röd 1 vs Gröndals IK Vit)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:External",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -857,16 +869,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "Årsta FF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs Årsta FF 1)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs Årsta FF 1)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -924,15 +937,16 @@
     "formattedTeam": "F2015",
     "opponent": "IF Brommapojkarna F15-8",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs IF Brommapojkarna F15-8)",
+    "formattedTitle": "⚽🏠 F2015 (vs IF Brommapojkarna F15-8)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -989,16 +1003,17 @@
     "color": "Röd",
     "formattedTeam": "P2015 Röd",
     "activity": "Match",
-    "formattedTitle": "🆚 External (IFK Aspudden-Tellus Röd 1 vs Gröndals IK Blå)",
+    "formattedTitle": "⚽ External (IFK Aspudden-Tellus Röd 1 vs Gröndals IK Blå)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:External",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -1056,16 +1071,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Mälarhöjdens IK Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Mälarhöjdens IK Fotboll Vit)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Mälarhöjdens IK Fotboll Vit)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -1123,16 +1139,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "Mälarhöjdens IK Fotboll Grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs Mälarhöjdens IK Fotboll Grön)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs Mälarhöjdens IK Fotboll Grön)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1190,16 +1207,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Reymersholms IK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Reymersholms IK 2)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Reymersholms IK 2)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -1257,16 +1275,17 @@
     "formattedTeam": "P2014 Röd",
     "opponent": "Reymersholms IK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Röd (vs Reymersholms IK 2)",
+    "formattedTitle": "⚽🏠 P2014 Röd (vs Reymersholms IK 2)",
     "filterTags": [
       "team:P2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1324,15 +1343,16 @@
     "formattedTeam": "F2015",
     "opponent": "IF Brommapojkarna F15-15",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs IF Brommapojkarna F15-15)",
+    "formattedTitle": "⚽🏠 F2015 (vs IF Brommapojkarna F15-15)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -1390,16 +1410,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "AIK FF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs AIK FF 1)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs AIK FF 1)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1457,16 +1478,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Hägersten SK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Hägersten SK Svart)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Hägersten SK Svart)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1524,16 +1546,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Reymersholms IK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Reymersholms IK 2)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Reymersholms IK 2)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -1591,16 +1614,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "KIF Söderort Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs KIF Söderort Svart)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs KIF Söderort Svart)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1658,16 +1682,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "Karlbergs BK Svart 32",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs Karlbergs BK Svart 32)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs Karlbergs BK Svart 32)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1725,16 +1750,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Tullinge BK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Tullinge BK 1)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Tullinge BK 1)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -1792,15 +1818,16 @@
     "formattedTeam": "F2015",
     "opponent": "Älta IF gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs Älta IF gul)",
+    "formattedTitle": "⚽🏠 F2015 (vs Älta IF gul)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -1858,16 +1885,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Marockanska FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Marockanska FC)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Marockanska FC)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1925,16 +1953,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "Vasalund IF Järva 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs Vasalund IF Järva 1)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs Vasalund IF Järva 1)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1992,16 +2021,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Reymersholms IK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Reymersholms IK 3)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Reymersholms IK 3)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2059,16 +2089,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Mälarhöjdens IK Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Mälarhöjdens IK Fotboll Vit)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Mälarhöjdens IK Fotboll Vit)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -2126,16 +2157,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "Vasalund IF Solna Rö",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs Vasalund IF Solna Rö)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs Vasalund IF Solna Rö)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2193,83 +2225,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "Mälarhöjdens IK Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs Mälarhöjdens IK Fotboll Vit)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs Mälarhöjdens IK Fotboll Vit)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
-    ]
-  },
-  {
-    "uid": "venue-match-6271266",
-    "start": "2025-05-10T09:45:00.000Z",
-    "end": "2025-05-10T11:15:00.000Z",
-    "title": "IFK Aspudden-Tellus Blå 1 vs Boo FF 9 2",
-    "description": "P2014- 2",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-boo-ff-9-2-pojkar-2014/6271266/",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6271266,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-boo-ff-9-2-pojkar-2014/6271266/",
-      "date": {
-        "iso8601": "2025-05-10 11:45",
-        "formatted": "11:45, 10 maj 2025"
-      },
-      "location": "Aspuddens IP 2",
-      "category": "P2014- 2",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Blå 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Blå 1"
-        }
-      },
-      "away": {
-        "team": "Boo FF 9 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
-          "alt": "Boo FF 9 2"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2014",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Blå 1",
-    "color": "Blå",
-    "formattedTeam": "P2014 Blå",
-    "opponent": "Boo FF 9 2",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Blå (vs Boo FF 9 2)",
-    "filterTags": [
-      "team:P2014 Blå",
-      "match:Home",
-      "location:Aspuddens IP",
-      "location:Aspuddens IP 2",
-      "category:Match",
       "gender:Pojkar",
-      "ageGroup:2014",
-      "color:Blå"
+      "match:Home"
     ]
   },
   {
@@ -2327,15 +2293,16 @@
     "formattedTeam": "F2015",
     "opponent": "Enskede IK Svart 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs Enskede IK Svart 2)",
+    "formattedTitle": "⚽🏠 F2015 (vs Enskede IK Svart 2)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -2393,16 +2360,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Segeltorps Idrottsförening Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Segeltorps Idrottsförening Fotboll Vit)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Segeltorps Idrottsförening Fotboll Vit)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2460,16 +2428,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Älvsjö AIK FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Älvsjö AIK FF 2)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Älvsjö AIK FF 2)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -2527,16 +2496,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "Segeltorps Idrottsförening Fotboll Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs Segeltorps Idrottsförening Fotboll Röd)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs Segeltorps Idrottsförening Fotboll Röd)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2594,16 +2564,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Djurgårdens IF FF 12 Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Djurgårdens IF FF 12 Röd)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Djurgårdens IF FF 12 Röd)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2661,16 +2632,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "Hammarby IF FF 7",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs Hammarby IF FF 7)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs Hammarby IF FF 7)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2728,16 +2700,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "IFK Stocksund 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs IFK Stocksund 1)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs IFK Stocksund 1)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -2795,16 +2768,17 @@
     "formattedTeam": "P2014 Blå",
     "opponent": "Reymersholms IK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Blå (vs Reymersholms IK 3)",
+    "formattedTitle": "⚽🏠 P2014 Blå (vs Reymersholms IK 3)",
     "filterTags": [
       "team:P2014 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2014",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2862,16 +2836,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Apollon Solna FK Vit U",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Apollon Solna FK Vit U)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Apollon Solna FK Vit U)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2929,16 +2904,85 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "Mälarhöjdens IK Fotboll Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs Mälarhöjdens IK Fotboll Blå)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs Mälarhöjdens IK Fotboll Blå)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
+    ]
+  },
+  {
+    "uid": "venue-match-6271266",
+    "start": "2025-05-11T15:00:00.000Z",
+    "end": "2025-05-11T16:30:00.000Z",
+    "title": "IFK Aspudden-Tellus Blå 1 vs Boo FF 9 2",
+    "description": "P2014- 2",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-boo-ff-9-2-pojkar-2014/6271266/",
+    "categories": [
+      "P2014- 2"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6271266,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-boo-ff-9-2-pojkar-2014/6271266/",
+      "date": {
+        "iso8601": "2025-05-11 17:00",
+        "formatted": "17:00, 11 maj 2025"
+      },
+      "location": "Aspuddens IP 2",
+      "category": "P2014- 2",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Blå 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Blå 1"
+        }
+      },
+      "away": {
+        "team": "Boo FF 9 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
+          "alt": "Boo FF 9 2"
+        }
+      }
+    },
+    "gender": "Pojkar",
+    "ageGroup": "2014",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Blå 1",
+    "color": "Blå",
+    "formattedTeam": "P2014 Blå",
+    "opponent": "Boo FF 9 2",
+    "activity": "Match",
+    "formattedTitle": "⚽🏠 P2014 Blå (vs Boo FF 9 2)",
+    "filterTags": [
+      "team:P2014 Blå",
+      "activity:Match",
+      "category:Match",
+      "location:Aspuddens IP",
+      "location:Aspuddens IP 2",
+      "color:Blå",
+      "ageGroup:2014",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2996,16 +3040,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Hammarby IF FF 6",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Hammarby IF FF 6)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Hammarby IF FF 6)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -3063,16 +3108,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "Apollon Solna FK Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs Apollon Solna FK Röd)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs Apollon Solna FK Röd)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3130,16 +3176,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "IF Brommapojkarna P17-25",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs IF Brommapojkarna P17-25)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs IF Brommapojkarna P17-25)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3197,16 +3244,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Ursvik IK Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Ursvik IK Gul)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Ursvik IK Gul)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -3264,16 +3312,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Nacka FC Svart2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Nacka FC Svart2)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Nacka FC Svart2)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3331,16 +3380,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "IF Brommapojkarna P16-10",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs IF Brommapojkarna P16-10)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs IF Brommapojkarna P16-10)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3398,16 +3448,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "IF Brommapojkarna P16-20",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs IF Brommapojkarna P16-20)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs IF Brommapojkarna P16-20)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3465,16 +3516,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Hammarby IF FF 5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Hammarby IF FF 5)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Hammarby IF FF 5)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -3532,16 +3584,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Sköndals IK FK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Sköndals IK FK Vit)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Sköndals IK FK Vit)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -3599,16 +3652,17 @@
     "formattedTeam": "P2014 Röd",
     "opponent": "Boo FF Blå 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Röd (vs Boo FF Blå 3)",
+    "formattedTitle": "⚽🏠 P2014 Röd (vs Boo FF Blå 3)",
     "filterTags": [
       "team:P2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3666,16 +3720,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "IFK Lidingö FK 17 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs IFK Lidingö FK 17 vit)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs IFK Lidingö FK 17 vit)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3733,16 +3788,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Karlbergs BK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Karlbergs BK Svart)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Karlbergs BK Svart)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3800,16 +3856,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "IF Brommapojkarna F17-5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs IF Brommapojkarna F17-5)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs IF Brommapojkarna F17-5)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -3867,83 +3924,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "IF Brommapojkarna P17-13",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs IF Brommapojkarna P17-13)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs IF Brommapojkarna P17-13)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
-    ]
-  },
-  {
-    "uid": "venue-match-6271499",
-    "start": "2025-05-24T09:45:00.000Z",
-    "end": "2025-05-24T11:15:00.000Z",
-    "title": "IFK Aspudden-Tellus Blå 1 vs AIK FF 2",
-    "description": "P2014- 2",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-aik-ff-2-pojkar-2014/6271499/",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6271499,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-aik-ff-2-pojkar-2014/6271499/",
-      "date": {
-        "iso8601": "2025-05-24 11:45",
-        "formatted": "11:45, 24 maj 2025"
-      },
-      "location": "Aspuddens IP 2",
-      "category": "P2014- 2",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Blå 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Blå 1"
-        }
-      },
-      "away": {
-        "team": "AIK FF 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6864.png",
-          "alt": "AIK FF 2"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2014",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Blå 1",
-    "color": "Blå",
-    "formattedTeam": "P2014 Blå",
-    "opponent": "AIK FF 2",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Blå (vs AIK FF 2)",
-    "filterTags": [
-      "team:P2014 Blå",
-      "match:Home",
-      "location:Aspuddens IP",
-      "location:Aspuddens IP 2",
-      "category:Match",
       "gender:Pojkar",
-      "ageGroup:2014",
-      "color:Blå"
+      "match:Home"
     ]
   },
   {
@@ -4001,15 +3992,16 @@
     "formattedTeam": "F2015",
     "opponent": "Tyresö Strand FC 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs Tyresö Strand FC 1)",
+    "formattedTitle": "⚽🏠 F2015 (vs Tyresö Strand FC 1)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -4067,16 +4059,85 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "IF Brommapojkarna F15A",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs IF Brommapojkarna F15A)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs IF Brommapojkarna F15A)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
+    ]
+  },
+  {
+    "uid": "venue-match-6271499",
+    "start": "2025-05-24T14:00:00.000Z",
+    "end": "2025-05-24T15:30:00.000Z",
+    "title": "IFK Aspudden-Tellus Blå 1 vs AIK FF 2",
+    "description": "P2014- 2",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-aik-ff-2-pojkar-2014/6271499/",
+    "categories": [
+      "P2014- 2"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6271499,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-aik-ff-2-pojkar-2014/6271499/",
+      "date": {
+        "iso8601": "2025-05-24 16:00",
+        "formatted": "16:00, 24 maj 2025"
+      },
+      "location": "Aspuddens IP 2",
+      "category": "P2014- 2",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Blå 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Blå 1"
+        }
+      },
+      "away": {
+        "team": "AIK FF 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6864.png",
+          "alt": "AIK FF 2"
+        }
+      }
+    },
+    "gender": "Pojkar",
+    "ageGroup": "2014",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Blå 1",
+    "color": "Blå",
+    "formattedTeam": "P2014 Blå",
+    "opponent": "AIK FF 2",
+    "activity": "Match",
+    "formattedTitle": "⚽🏠 P2014 Blå (vs AIK FF 2)",
+    "filterTags": [
+      "team:P2014 Blå",
+      "activity:Match",
+      "category:Match",
+      "location:Aspuddens IP",
+      "location:Aspuddens IP 2",
+      "color:Blå",
+      "ageGroup:2014",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4134,16 +4195,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Assyriska Botkyrka SK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Assyriska Botkyrka SK 1)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Assyriska Botkyrka SK 1)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -4201,16 +4263,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "FK Bromma 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs FK Bromma 1)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs FK Bromma 1)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4268,16 +4331,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Högdalens AIS Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Högdalens AIS Svart)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Högdalens AIS Svart)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4335,16 +4399,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "IF Brommapojkarna P17-20",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs IF Brommapojkarna P17-20)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs IF Brommapojkarna P17-20)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4402,16 +4467,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Stureby SK Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Stureby SK Blå)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Stureby SK Blå)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -4469,15 +4535,16 @@
     "formattedTeam": "F2015",
     "opponent": "Segeltorps Idrottsförening Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs Segeltorps Idrottsförening Fotboll Vit)",
+    "formattedTitle": "⚽🏠 F2015 (vs Segeltorps Idrottsförening Fotboll Vit)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -4535,16 +4602,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "IF Brommapojkarna P15-31",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs IF Brommapojkarna P15-31)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs IF Brommapojkarna P15-31)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4602,16 +4670,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Kista SC KFUM Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Kista SC KFUM Vit)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Kista SC KFUM Vit)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4669,16 +4738,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "FC Kungsholmen Svart 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs FC Kungsholmen Svart 1)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs FC Kungsholmen Svart 1)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4736,16 +4806,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "Huddinge IF 2016:2M",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs Huddinge IF 2016:2M)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs Huddinge IF 2016:2M)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4803,16 +4874,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "Norrtulls SK Gul 3B",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs Norrtulls SK Gul 3B)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs Norrtulls SK Gul 3B)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4870,15 +4942,16 @@
     "formattedTeam": "F2015",
     "opponent": "Rönninge Salem Fotboll Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs Rönninge Salem Fotboll Gul)",
+    "formattedTitle": "⚽🏠 F2015 (vs Rönninge Salem Fotboll Gul)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -4936,16 +5009,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "IFK Lidingö FK 22",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs IFK Lidingö FK 22)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs IFK Lidingö FK 22)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5003,16 +5077,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Djurgårdens IF FF 5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Djurgårdens IF FF 5)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Djurgårdens IF FF 5)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -5070,16 +5145,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Konyaspor Kultur och IF F2016Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Konyaspor Kultur och IF F2016Vit)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Konyaspor Kultur och IF F2016Vit)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -5137,16 +5213,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Stuvsta IF 1:1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Stuvsta IF 1:1)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Stuvsta IF 1:1)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -5204,16 +5281,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Assyriska Botkyrka SK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Assyriska Botkyrka SK 1)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Assyriska Botkyrka SK 1)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -5271,16 +5349,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "IFK Tumba FK Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs IFK Tumba FK Blå)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs IFK Tumba FK Blå)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5338,16 +5417,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "Älvsjö AIK FF Grön 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs Älvsjö AIK FF Grön 4)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs Älvsjö AIK FF Grön 4)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5405,16 +5485,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Hägersten SK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Hägersten SK Vit)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Hägersten SK Vit)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5472,16 +5553,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Stureby SK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Stureby SK Vit)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Stureby SK Vit)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -5539,16 +5621,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "IFK Lidingö FK 7",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs IFK Lidingö FK 7)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs IFK Lidingö FK 7)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5606,16 +5689,17 @@
     "formattedTeam": "P2014 Blå",
     "opponent": "Hammarby IF FF 9 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Blå (vs Hammarby IF FF 9 vit)",
+    "formattedTitle": "⚽🏠 P2014 Blå (vs Hammarby IF FF 9 vit)",
     "filterTags": [
       "team:P2014 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2014",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5673,15 +5757,16 @@
     "formattedTeam": "F2015",
     "opponent": "Skogås-Trångsunds FF Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs Skogås-Trångsunds FF Röd)",
+    "formattedTitle": "⚽🏠 F2015 (vs Skogås-Trångsunds FF Röd)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -5739,16 +5824,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "AIK FF 6",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs AIK FF 6)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs AIK FF 6)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5806,16 +5892,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "IF Brommapojkarna P15-5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs IF Brommapojkarna P15-5)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs IF Brommapojkarna P15-5)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5873,16 +5960,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Enebybergs IF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Enebybergs IF 2)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Enebybergs IF 2)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -5940,16 +6028,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "FC Kungsholmen Svart 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs FC Kungsholmen Svart 2)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs FC Kungsholmen Svart 2)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6007,16 +6096,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Dalarö SK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Dalarö SK)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Dalarö SK)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6074,16 +6164,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "Hägersten SK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs Hägersten SK Svart)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs Hägersten SK Svart)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6141,16 +6232,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "IF Brommapojkarna 2014-10",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs IF Brommapojkarna 2014-10)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs IF Brommapojkarna 2014-10)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -6208,16 +6300,17 @@
     "formattedTeam": "P2014 Blå",
     "opponent": "Apollon Solna FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Blå (vs Apollon Solna FK)",
+    "formattedTitle": "⚽🏠 P2014 Blå (vs Apollon Solna FK)",
     "filterTags": [
       "team:P2014 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2014",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6275,16 +6368,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Hammarby IF FF 4 grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Hammarby IF FF 4 grön)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Hammarby IF FF 4 grön)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6342,16 +6436,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "IFK Lidingö FK 6 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs IFK Lidingö FK 6 vit)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs IFK Lidingö FK 6 vit)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6409,16 +6504,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "Essinge IK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs Essinge IK 1)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs Essinge IK 1)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6476,16 +6572,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "Hammarby IF FF 11",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs Hammarby IF FF 11)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs Hammarby IF FF 11)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6543,16 +6640,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "AIK FF 6",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs AIK FF 6)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs AIK FF 6)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6610,16 +6708,17 @@
     "formattedTeam": "P2014 Röd",
     "opponent": "IFK Lidingö FK 6",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Röd (vs IFK Lidingö FK 6)",
+    "formattedTitle": "⚽🏠 P2014 Röd (vs IFK Lidingö FK 6)",
     "filterTags": [
       "team:P2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6677,15 +6776,16 @@
     "formattedTeam": "F2015",
     "opponent": "Assyriska Botkyrka SK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs Assyriska Botkyrka SK 1)",
+    "formattedTitle": "⚽🏠 F2015 (vs Assyriska Botkyrka SK 1)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -6743,16 +6843,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "Hammarby IF FF 21",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs Hammarby IF FF 21)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs Hammarby IF FF 21)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6810,16 +6911,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Boo FF F16:3 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Boo FF F16:3 2)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Boo FF F16:3 2)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -6877,16 +6979,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Kälvesta IoF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Kälvesta IoF 1)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Kälvesta IoF 1)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -6944,16 +7047,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "AIK FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs AIK FF 3)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs AIK FF 3)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -7011,16 +7115,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "AIK FF 8",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs AIK FF 8)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs AIK FF 8)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7078,16 +7183,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Tullinge Triangel Pojkar FK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Tullinge Triangel Pojkar FK Vit)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Tullinge Triangel Pojkar FK Vit)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -7145,16 +7251,17 @@
     "formattedTeam": "P2014 Röd",
     "opponent": "Hägersten SK Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Röd (vs Hägersten SK Gul)",
+    "formattedTitle": "⚽🏠 P2014 Röd (vs Hägersten SK Gul)",
     "filterTags": [
       "team:P2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7212,16 +7319,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Råsunda IS Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Råsunda IS Blå)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Råsunda IS Blå)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7279,16 +7387,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "Segeltorps Idrottsförening Fotboll Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs Segeltorps Idrottsförening Fotboll Blå)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs Segeltorps Idrottsförening Fotboll Blå)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7346,16 +7455,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Ängby IF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Ängby IF Vit)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Ängby IF Vit)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7413,16 +7523,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Rönninge Salem Fotboll Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Rönninge Salem Fotboll Svart)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Rönninge Salem Fotboll Svart)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -7480,16 +7591,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "Segeltorps Idrottsförening Fotboll Orange",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs Segeltorps Idrottsförening Fotboll Orange)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs Segeltorps Idrottsförening Fotboll Orange)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7547,16 +7659,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "IFK Lidingö FK 9",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs IFK Lidingö FK 9)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs IFK Lidingö FK 9)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -7614,15 +7727,16 @@
     "formattedTeam": "F2015",
     "opponent": "Sollentuna FK Vallen 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs Sollentuna FK Vallen 1)",
+    "formattedTitle": "⚽🏠 F2015 (vs Sollentuna FK Vallen 1)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -7680,16 +7794,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "IFK Lidingö FK 18 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs IFK Lidingö FK 18 vit)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs IFK Lidingö FK 18 vit)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7747,16 +7862,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Spånga IS FK 7",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Spånga IS FK 7)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Spånga IS FK 7)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7814,16 +7930,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "IFK Stockholm FK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs IFK Stockholm FK 1)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs IFK Stockholm FK 1)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7881,16 +7998,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Huddinge IF P2016:2M",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Huddinge IF P2016:2M)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Huddinge IF P2016:2M)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7948,16 +8066,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "IF Brommapojkarna F17-4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs IF Brommapojkarna F17-4)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs IF Brommapojkarna F17-4)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -8015,16 +8134,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "Reymersholms IK 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs Reymersholms IK 4)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs Reymersholms IK 4)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8082,16 +8202,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Älvsjö AIK FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Älvsjö AIK FF 2)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Älvsjö AIK FF 2)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -8149,16 +8270,17 @@
     "formattedTeam": "P2014 Blå",
     "opponent": "Nacka FC Svart1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Blå (vs Nacka FC Svart1)",
+    "formattedTitle": "⚽🏠 P2014 Blå (vs Nacka FC Svart1)",
     "filterTags": [
       "team:P2014 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2014",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8216,15 +8338,16 @@
     "formattedTeam": "F2015",
     "opponent": "Skå IK & Bygdegård Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs Skå IK & Bygdegård Gul)",
+    "formattedTitle": "⚽🏠 F2015 (vs Skå IK & Bygdegård Gul)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -8282,16 +8405,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "Älvsjö AIK FF Blå 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs Älvsjö AIK FF Blå 2)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs Älvsjö AIK FF Blå 2)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8349,16 +8473,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "Ursvik IK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs Ursvik IK Svart)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs Ursvik IK Svart)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8416,16 +8541,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "IF Brommapojkarna F17-6",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs IF Brommapojkarna F17-6)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs IF Brommapojkarna F17-6)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -8483,15 +8609,16 @@
     "formattedTeam": "F2015",
     "opponent": "Hammarby IF FF 5 grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs Hammarby IF FF 5 grön)",
+    "formattedTitle": "⚽🏠 F2015 (vs Hammarby IF FF 5 grön)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -8549,16 +8676,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "Boo FF P15:28 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs Boo FF P15:28 2)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs Boo FF P15:28 2)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8616,16 +8744,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Värtans IK Röd 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Värtans IK Röd 2)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Värtans IK Röd 2)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8683,16 +8812,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Spånga IS FK 44",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Spånga IS FK 44)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Spånga IS FK 44)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -8750,16 +8880,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "Mörtnäs IF Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs Mörtnäs IF Svart)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs Mörtnäs IF Svart)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8817,16 +8948,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "Årsta FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs Årsta FF 3)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs Årsta FF 3)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8884,16 +9016,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "Stuvsta IF 4:3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs Stuvsta IF 4:3)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs Stuvsta IF 4:3)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8951,16 +9084,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Spånga IS FK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Spånga IS FK 1)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Spånga IS FK 1)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -9018,16 +9152,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Hammarby IF FF 5 grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Hammarby IF FF 5 grön)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Hammarby IF FF 5 grön)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9085,16 +9220,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "Reymersholms IK 7",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs Reymersholms IK 7)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs Reymersholms IK 7)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9152,16 +9288,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "Högalids IF P16",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs Högalids IF P16)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs Högalids IF P16)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9219,16 +9356,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Segeltorps Idrottsförening Fotboll Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Segeltorps Idrottsförening Fotboll Blå)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Segeltorps Idrottsförening Fotboll Blå)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9286,16 +9424,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "Apollon Solna FK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs Apollon Solna FK Svart)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs Apollon Solna FK Svart)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9353,83 +9492,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "AIK FF 13",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs AIK FF 13)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs AIK FF 13)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
-    ]
-  },
-  {
-    "uid": "venue-match-6272266",
-    "start": "2025-09-13T09:45:00.000Z",
-    "end": "2025-09-13T11:15:00.000Z",
-    "title": "IFK Aspudden-Tellus Blå 1 vs IFK Lidingö FK 21 blå",
-    "description": "P2014- 2",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-ifk-lidingo-fk-21-bla-pojkar-2014/6272266/",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6272266,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-ifk-lidingo-fk-21-bla-pojkar-2014/6272266/",
-      "date": {
-        "iso8601": "2025-09-13 11:45",
-        "formatted": "11:45, 13 sep. 2025"
-      },
-      "location": "Aspuddens IP 2",
-      "category": "P2014- 2",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Blå 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Blå 1"
-        }
-      },
-      "away": {
-        "team": "IFK Lidingö FK 21 blå",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8255.png",
-          "alt": "IFK Lidingö FK 21 blå"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2014",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Blå 1",
-    "color": "Blå",
-    "formattedTeam": "P2014 Blå",
-    "opponent": "IFK Lidingö FK 21 blå",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Blå (vs IFK Lidingö FK 21 blå)",
-    "filterTags": [
-      "team:P2014 Blå",
-      "match:Home",
-      "location:Aspuddens IP",
-      "location:Aspuddens IP 2",
-      "category:Match",
       "gender:Pojkar",
-      "ageGroup:2014",
-      "color:Blå"
+      "match:Home"
     ]
   },
   {
@@ -9487,16 +9560,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Arameisk-Syrianska IF 2 Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Arameisk-Syrianska IF 2 Röd)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Arameisk-Syrianska IF 2 Röd)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9554,16 +9628,85 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "Boo FF P15-i B3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs Boo FF P15-i B3)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs Boo FF P15-i B3)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
+    ]
+  },
+  {
+    "uid": "venue-match-6272266",
+    "start": "2025-09-13T14:00:00.000Z",
+    "end": "2025-09-13T15:30:00.000Z",
+    "title": "IFK Aspudden-Tellus Blå 1 vs IFK Lidingö FK 21 blå",
+    "description": "P2014- 2",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-ifk-lidingo-fk-21-bla-pojkar-2014/6272266/",
+    "categories": [
+      "P2014- 2"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6272266,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-ifk-lidingo-fk-21-bla-pojkar-2014/6272266/",
+      "date": {
+        "iso8601": "2025-09-13 16:00",
+        "formatted": "16:00, 13 sep. 2025"
+      },
+      "location": "Aspuddens IP 2",
+      "category": "P2014- 2",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Blå 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Blå 1"
+        }
+      },
+      "away": {
+        "team": "IFK Lidingö FK 21 blå",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8255.png",
+          "alt": "IFK Lidingö FK 21 blå"
+        }
+      }
+    },
+    "gender": "Pojkar",
+    "ageGroup": "2014",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Blå 1",
+    "color": "Blå",
+    "formattedTeam": "P2014 Blå",
+    "opponent": "IFK Lidingö FK 21 blå",
+    "activity": "Match",
+    "formattedTitle": "⚽🏠 P2014 Blå (vs IFK Lidingö FK 21 blå)",
+    "filterTags": [
+      "team:P2014 Blå",
+      "activity:Match",
+      "category:Match",
+      "location:Aspuddens IP",
+      "location:Aspuddens IP 2",
+      "color:Blå",
+      "ageGroup:2014",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9621,16 +9764,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Huddinge IF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Huddinge IF 1)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Huddinge IF 1)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -9688,16 +9832,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Runby IF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Runby IF Vit)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Runby IF Vit)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -9755,16 +9900,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Boo FF P16:8",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Boo FF P16:8)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Boo FF P16:8)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9822,16 +9968,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Täby FK 41",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Täby FK 41)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Täby FK 41)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -9889,16 +10036,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Norrtulls SK L",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Norrtulls SK L)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Norrtulls SK L)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -9956,15 +10104,16 @@
     "formattedTeam": "F2015",
     "opponent": "Boo FF F15:6 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs Boo FF F15:6 2)",
+    "formattedTitle": "⚽🏠 F2015 (vs Boo FF F15:6 2)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -10022,16 +10171,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Apollon Solna FK Röd 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Apollon Solna FK Röd 1)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Apollon Solna FK Röd 1)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10089,16 +10239,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "AIK FF 8",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs AIK FF 8)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs AIK FF 8)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10156,16 +10307,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Huddinge IF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Huddinge IF 1)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Huddinge IF 1)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -10223,16 +10375,17 @@
     "formattedTeam": "P2014 Röd",
     "opponent": "Hammarby IF FF 5 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Röd (vs Hammarby IF FF 5 vit)",
+    "formattedTitle": "⚽🏠 P2014 Röd (vs Hammarby IF FF 5 vit)",
     "filterTags": [
       "team:P2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10290,15 +10443,16 @@
     "formattedTeam": "F2015",
     "opponent": "IFK Lidingö FK 10",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2015 (vs IFK Lidingö FK 10)",
+    "formattedTitle": "⚽🏠 F2015 (vs IFK Lidingö FK 10)",
     "filterTags": [
       "team:F2015",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
+      "ageGroup:2015",
       "gender:Flickor",
-      "ageGroup:2015"
+      "match:Home"
     ]
   },
   {
@@ -10356,16 +10510,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "IF Brommapojkarna P15-33",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs IF Brommapojkarna P15-33)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs IF Brommapojkarna P15-33)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10423,16 +10578,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Reymersholms IK 9",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Reymersholms IK 9)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Reymersholms IK 9)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10490,16 +10646,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Segeltorps Idrottsförening Fotboll Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Segeltorps Idrottsförening Fotboll Blå)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Segeltorps Idrottsförening Fotboll Blå)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -10557,16 +10714,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "Djurgårdens IF FF 9 Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs Djurgårdens IF FF 9 Gul)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs Djurgårdens IF FF 9 Gul)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10624,16 +10782,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "IFK Stockholm FK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs IFK Stockholm FK 2)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs IFK Stockholm FK 2)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10691,16 +10850,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "Hammarby IF FF 5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs Hammarby IF FF 5)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs Hammarby IF FF 5)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10758,16 +10918,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Täby FK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Täby FK 2)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Täby FK 2)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -10825,16 +10986,17 @@
     "formattedTeam": "P2014 Röd",
     "opponent": "IF Brommapojkarna 2014-14",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Röd (vs IF Brommapojkarna 2014-14)",
+    "formattedTitle": "⚽🏠 P2014 Röd (vs IF Brommapojkarna 2014-14)",
     "filterTags": [
       "team:P2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10892,16 +11054,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "IFK Lidingö FK 11 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs IFK Lidingö FK 11 vit)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs IFK Lidingö FK 11 vit)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10959,16 +11122,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "Norrtulls SK Blå 1 L",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs Norrtulls SK Blå 1 L)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs Norrtulls SK Blå 1 L)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11026,16 +11190,17 @@
     "formattedTeam": "P2016 Röd",
     "opponent": "Jarlabergs IF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Röd (vs Jarlabergs IF 2)",
+    "formattedTitle": "⚽🏠 P2016 Röd (vs Jarlabergs IF 2)",
     "filterTags": [
       "team:P2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11093,16 +11258,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "IFK Lidingö FK 24 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs IFK Lidingö FK 24 vit)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs IFK Lidingö FK 24 vit)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11160,16 +11326,17 @@
     "formattedTeam": "P2017 Blå",
     "opponent": "Vasalund IF Solna Sv",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Blå (vs Vasalund IF Solna Sv)",
+    "formattedTitle": "⚽🏠 P2017 Blå (vs Vasalund IF Solna Sv)",
     "filterTags": [
       "team:P2017 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2017",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11227,16 +11394,17 @@
     "formattedTeam": "P2017 Röd",
     "opponent": "Svensk-Palestinska FF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Röd (vs Svensk-Palestinska FF 1)",
+    "formattedTitle": "⚽🏠 P2017 Röd (vs Svensk-Palestinska FF 1)",
     "filterTags": [
       "team:P2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11294,16 +11462,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Årsta FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Årsta FF 2)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Årsta FF 2)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -11361,16 +11530,17 @@
     "formattedTeam": "P2014 Blå",
     "opponent": "Järla IF FK Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Blå (vs Järla IF FK Blå)",
+    "formattedTitle": "⚽🏠 P2014 Blå (vs Järla IF FK Blå)",
     "filterTags": [
       "team:P2014 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2014",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11428,16 +11598,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Boo FF P15-i B3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Boo FF P15-i B3)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Boo FF P15-i B3)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11495,16 +11666,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "Boo FF F16:6 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs Boo FF F16:6 1)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs Boo FF F16:6 1)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -11562,16 +11734,17 @@
     "formattedTeam": "F2016 Röd",
     "opponent": "IF Söderkamraterna 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Röd (vs IF Söderkamraterna 1)",
+    "formattedTitle": "⚽🏠 F2016 Röd (vs IF Söderkamraterna 1)",
     "filterTags": [
       "team:F2016 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2016",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -11629,16 +11802,17 @@
     "formattedTeam": "P2016 Blå",
     "opponent": "Österåker United FK 6 Rosa",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Blå (vs Österåker United FK 6 Rosa)",
+    "formattedTitle": "⚽🏠 P2016 Blå (vs Österåker United FK 6 Rosa)",
     "filterTags": [
       "team:P2016 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2016",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11696,16 +11870,17 @@
     "formattedTeam": "F2017 Röd",
     "opponent": "Ängby IF Grön 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Röd (vs Ängby IF Grön 1)",
+    "formattedTitle": "⚽🏠 F2017 Röd (vs Ängby IF Grön 1)",
     "filterTags": [
       "team:F2017 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2017",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -11763,16 +11938,17 @@
     "formattedTeam": "F2014 Röd",
     "opponent": "Viggbyholms IK FF Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Röd (vs Viggbyholms IK FF Svart)",
+    "formattedTitle": "⚽🏠 F2014 Röd (vs Viggbyholms IK FF Svart)",
     "filterTags": [
       "team:F2014 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Flickor",
+      "color:Röd",
       "ageGroup:2014",
-      "color:Röd"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -11830,16 +12006,17 @@
     "formattedTeam": "P2014 Blå",
     "opponent": "Huddinge IF Vit M2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Blå (vs Huddinge IF Vit M2)",
+    "formattedTitle": "⚽🏠 P2014 Blå (vs Huddinge IF Vit M2)",
     "filterTags": [
       "team:P2014 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2014",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11897,16 +12074,17 @@
     "formattedTeam": "P2015 Blå",
     "opponent": "Saltsjöbadens IF Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Blå (vs Saltsjöbadens IF Blå)",
+    "formattedTitle": "⚽🏠 P2015 Blå (vs Saltsjöbadens IF Blå)",
     "filterTags": [
       "team:P2015 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2015",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11964,16 +12142,17 @@
     "formattedTeam": "P2015 Röd",
     "opponent": "KIF Söderort Guld",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Röd (vs KIF Söderort Guld)",
+    "formattedTitle": "⚽🏠 P2015 Röd (vs KIF Söderort Guld)",
     "filterTags": [
       "team:P2015 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 2",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2015",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   }
 ]

@@ -26,7 +26,7 @@ activity, match, opponent, homeTeam, awayTeam) {
     }
     // Handle match events
     // Use type guard to check for specific cases first
-    if (match) {
+    if (match !== undefined && match !== null) {
         // Clean up opponent name if it exists
         let cleanOpponent = opponent;
         if (cleanOpponent && cleanOpponent.startsWith('Match ')) {
@@ -35,33 +35,32 @@ activity, match, opponent, homeTeam, awayTeam) {
         if (cleanOpponent) {
             cleanOpponent = cleanOpponent.trim();
         }
-        // Handle special cases for empty string or unknown (cast as Match by the test)
-        // Using type assertion for empty string since TypeScript doesn't allow direct comparison
+        // Handle special cases for empty string or unknown match types
         if (match === '' || match === 'unknown') {
-            return cleanOpponent ? `🆚 ${formattedTeam} (vs ${cleanOpponent})` : `🆚 ${formattedTeam}`;
+            return cleanOpponent ? `⚽ ${formattedTeam} (vs ${cleanOpponent})` : `⚽ ${formattedTeam}`;
         }
         // Handle standard match types
         if (match === 'Home') {
             return cleanOpponent
-                ? `🆚🏠 ${formattedTeam} (vs ${cleanOpponent})`
-                : `🆚🏠 ${formattedTeam}`;
+                ? `⚽🏠 ${formattedTeam} (vs ${cleanOpponent})`
+                : `⚽🏠 ${formattedTeam}`;
         }
         else if (match === 'Away') {
             return cleanOpponent
-                ? `🆚🚍 ${formattedTeam} (vs ${cleanOpponent})`
-                : `🆚🚍 ${formattedTeam}`;
+                ? `⚽🚍 ${formattedTeam} (vs ${cleanOpponent})`
+                : `⚽🚍 ${formattedTeam}`;
         }
         else if (match === 'External') {
             // For external matches, show both teams if available
             if (homeTeam && awayTeam) {
-                return `🆚 External (${homeTeam} vs ${awayTeam})`;
+                return `⚽ External (${homeTeam} vs ${awayTeam})`;
             }
             // Fallback to original title if team names aren't available
-            return `🆚 External (${originalTitle})`;
+            return `⚽ External (${originalTitle})`;
         }
         else {
             // Generic match with no home/away distinction
-            return cleanOpponent ? `🆚 ${formattedTeam} (vs ${cleanOpponent})` : `🆚 ${formattedTeam}`;
+            return cleanOpponent ? `⚽ ${formattedTeam} (vs ${cleanOpponent})` : `⚽ ${formattedTeam}`;
         }
     }
     // Default: Use team name and original title if it adds information

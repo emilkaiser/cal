@@ -17,6 +17,8 @@
     "lint": "next lint",
     "test": "jest",
     "test:watch": "jest --watch",
+    "debug:calendar": "ts-node --project tsconfig.node.json src/cli/debug-calendar.ts",
+    "debug:calendar:simple": "ts-node --project tsconfig.node.json src/cli/debug-calendar-simple.ts",
     "clean": "rm -rf dist"
   },
   "dependencies": {

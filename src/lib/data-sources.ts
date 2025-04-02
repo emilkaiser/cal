@@ -1,9 +1,5 @@
 import lagetData from '@/data/laget/calendar.json';
 
-import p2014bData from '@/data/team/p2014-bla.json';
-import p2014gData from '@/data/team/p2014-gul.json';
-import p2014rData from '@/data/team/p2014-rod.json';
-
 import aspuddensIp1 from '@/data/venue/aspuddens-ip-1.json';
 import aspuddensIp2 from '@/data/venue/aspuddens-ip-2.json';
 import vastbergaIp from '@/data/venue/vastberga-ip.json';
@@ -15,43 +11,6 @@ export interface DataSource {
   events: CalendarEvent[];
   color: string;
 }
-
-// Create data sources from the team JSON files
-export const getTeamDataSources = (): DataSource[] => {
-  const sources: DataSource[] = [];
-
-  // Add the team data we know about
-  sources.push({
-    id: 'team-p2014-bla',
-    name: 'Team: p2014-bla',
-    events: normalize(p2014bData),
-    color: 'hsl(120, 70%, 50%)', // Green color
-  });
-
-  sources.push({
-    id: 'team-p2014-gul',
-    name: 'Team: p2014-gul',
-    events: normalize(p2014gData),
-    color: 'hsl(60, 70%, 50%)', // Yellow color
-  });
-
-  sources.push({
-    id: 'team-p2014-rod',
-    name: 'Team: p2014-rod',
-    events: normalize(p2014rData),
-    color: 'hsl(0, 70%, 50%)', // Red color
-  });
-
-  // Add more team data sources as needed
-  // sources.push({
-  //   id: 'team-another-team',
-  //   name: 'Team: Another Team',
-  //   events: anotherTeamData,
-  //   color: 'hsl(180, 70%, 50%)'
-  // });
-
-  return sources;
-};
 
 // Create data sources from the venue JSON files
 export const getVenueDataSources = (): DataSource[] => {
@@ -96,23 +55,35 @@ export const getLagetDataSource = (): DataSource => {
 };
 
 // Helper function to ensure all events have a URL property and dates are converted to Date objects
+// Add a cache to avoid repeated normalization of the same events
+const normalizeCache = new WeakMap();
 function normalize(events: any[]): CalendarEvent[] {
-  return events.map(event => ({
+  // Check if we've already normalized these exact events
+  if (normalizeCache.has(events)) {
+    return normalizeCache.get(events);
+  }
+
+  const normalized = events.map(event => ({
     ...event,
     url: event.url || '#', // Add a default URL if missing
     start: event.start instanceof Date ? event.start : new Date(event.start),
     end: event.end instanceof Date ? event.end : new Date(event.end),
     sourceType: event.sourceType || 'other',
   }));
+
+  // Cache the results
+  normalizeCache.set(events, normalized);
+  return normalized;
 }
 
 // Get all available data sources
 export const getAllDataSources = (): DataSource[] => {
-  return [getLagetDataSource() /*, ...getTeamDataSources()*/, ...getVenueDataSources()];
+  return [getLagetDataSource(), ...getVenueDataSources()];
 };
 
-// Export all data sources for use in other files
-export const allDataSources = getAllDataSources();
+// Export all data sources for use in other files - memoize this to avoid recreating on every import
+const cachedAllDataSources = getAllDataSources();
+export const allDataSources = cachedAllDataSources;
 
 // Export helper functions for use in other files
 export function normalizeEvents(events: any[]): CalendarEvent[] {

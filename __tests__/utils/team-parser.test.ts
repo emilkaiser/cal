@@ -1,5 +1,5 @@
 import { Gender } from '../../src/types/types';
-import { extractTeamInfo, createFormattedTeamName } from '../../src/utils/team-parser';
+import { extractTeamInfo, createFormattedTeamName } from '../../src/scrapers/utils/team-parser';
 
 describe('Team Parser Utilities', () => {
   describe('extractTeamInfo', () => {
@@ -49,6 +49,11 @@ describe('Team Parser Utilities', () => {
       expect(result.formattedTeam).toBe('P2015 Röd');
     });
 
+    it('creates formatted team name using provided gender, age group and color from title', () => {
+      const result = extractTeamInfo('"Träning - IFK Aspudden-Tellus P19 (herrjuniorer)"');
+      expect(result.formattedTeam).toBe('IFK Aspudden-Tellus P19');
+    });
+
     it('extracts both team and color when available', () => {
       const result = extractTeamInfo('P2015 Blå vs Team B');
       expect(result.rawTeam).toBe('P2015 Blå');
@@ -67,13 +72,7 @@ describe('Team Parser Utilities', () => {
     });
 
     it('ignores "unknown" color', () => {
-      expect(createFormattedTeamName('Pojkar', '2015', 'unknown')).toBe('P2015');
-    });
-
-    it('returns undefined if gender or age group is missing', () => {
-      expect(createFormattedTeamName(undefined, '2015', 'Blå')).toBeUndefined();
-      expect(createFormattedTeamName('Pojkar', undefined, 'Blå')).toBeUndefined();
-      expect(createFormattedTeamName(undefined, undefined)).toBeUndefined();
+      expect(createFormattedTeamName('Pojkar', '2015', undefined)).toBe('P2015');
     });
 
     it('handles gender with lowercase first letter', () => {

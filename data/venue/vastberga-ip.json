@@ -53,15 +53,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Enskede IK Vit 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Enskede IK Vit 4)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Enskede IK Vit 4)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -118,15 +119,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Vistaberg IF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Vistaberg IF 1)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Vistaberg IF 1)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -183,14 +185,15 @@
     "formattedTeam": "P2009",
     "opponent": "IFK Lidingö FK C",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs IFK Lidingö FK C)",
+    "formattedTitle": "⚽🏠 P2009 (vs IFK Lidingö FK C)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -247,14 +250,15 @@
     "formattedTeam": "P2010",
     "opponent": "IF Brommapojkarna 10-11",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs IF Brommapojkarna 10-11)",
+    "formattedTitle": "⚽🏠 P2010 (vs IF Brommapojkarna 10-11)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -311,15 +315,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "IFK Stockholm FK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs IFK Stockholm FK 2)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs IFK Stockholm FK 2)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -373,10 +378,11 @@
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs Råsunda FC)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -433,14 +439,15 @@
     "formattedTeam": "F2012",
     "opponent": "Saltsjöbadens IF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Saltsjöbadens IF Vit)",
+    "formattedTitle": "⚽🏠 F2012 (vs Saltsjöbadens IF Vit)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -497,14 +504,15 @@
     "formattedTeam": "F2012",
     "opponent": "Gustavsbergs IF FK Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Gustavsbergs IF FK Röd)",
+    "formattedTitle": "⚽🏠 F2012 (vs Gustavsbergs IF FK Röd)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -561,15 +569,74 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Sickla IF Vit 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Sickla IF Vit 3)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Sickla IF Vit 3)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
+    ]
+  },
+  {
+    "uid": "venue-match-6348909",
+    "start": "2025-04-12T14:00:00.000Z",
+    "end": "2025-04-12T15:30:00.000Z",
+    "title": "Karlbergs BK Röd vs Boo FF DJ svart",
+    "description": "DJ- 2B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/karlbergs-bk-rod-boo-ff-dj-svart-damjuniorer-0906/6348909/",
+    "categories": [
+      "DJ- 2B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6348909,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/karlbergs-bk-rod-boo-ff-dj-svart-damjuniorer-0906/6348909/",
+      "date": {
+        "iso8601": "2025-04-12 16:00",
+        "formatted": "16:00, 12 apr. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "DJ- 2B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Karlbergs BK Röd",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10871.png",
+          "alt": "Karlbergs BK Röd"
+        }
+      },
+      "away": {
+        "team": "Boo FF DJ svart",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
+          "alt": "Boo FF DJ svart"
+        }
+      }
+    },
+    "gender": "Flickor",
+    "venues": [
+      "Västberga IP"
+    ],
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Karlbergs BK Röd vs Boo FF DJ svart)",
+    "filterTags": [
+      "activity:Match",
+      "category:Match",
+      "location:Västberga IP",
+      "gender:Flickor",
+      "match:External"
     ]
   },
   {
@@ -626,80 +693,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Tyresö FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Tyresö FF 3)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Tyresö FF 3)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
-    ]
-  },
-  {
-    "uid": "venue-match-6247226",
-    "start": "2025-04-13T10:15:00.000Z",
-    "end": "2025-04-13T11:45:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 2 vs IF Brommapojkarna 11-15",
-    "description": "P2011- 2D",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-2-if-brommapojkarna-11-15-pojkar-2011/6247226/",
-    "categories": [
-      "P2011- 2D"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6247226,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-if-brommapojkarna-11-15-pojkar-2011/6247226/",
-      "date": {
-        "iso8601": "2025-04-13 12:15",
-        "formatted": "12:15, 13 apr. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2011- 2D",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 2"
-        }
-      },
-      "away": {
-        "team": "IF Brommapojkarna 11-15",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
-          "alt": "IF Brommapojkarna 11-15"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2011",
-    "venues": [
-      "Västberga IP"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 2",
-    "color": "Gul",
-    "formattedTeam": "P2011 Gul",
-    "opponent": "IF Brommapojkarna 11-15",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs IF Brommapojkarna 11-15)",
-    "filterTags": [
-      "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
-      "category:Match",
       "gender:Pojkar",
-      "ageGroup:2011",
-      "color:Gul"
+      "match:Home"
     ]
   },
   {
@@ -756,15 +759,16 @@
     "formattedTeam": "P2011 Svart",
     "opponent": "Reymersholms IK 7",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Svart (vs Reymersholms IK 7)",
+    "formattedTitle": "⚽🏠 P2011 Svart (vs Reymersholms IK 7)",
     "filterTags": [
       "team:P2011 Svart",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Svart",
       "ageGroup:2011",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -818,10 +822,11 @@
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs AIK Framtid FK)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -875,10 +880,11 @@
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Gröndals FF)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -935,15 +941,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Rönninge Salem Fotboll Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Rönninge Salem Fotboll Svart)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Rönninge Salem Fotboll Svart)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1000,15 +1007,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Svensk-Palestinska FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Svensk-Palestinska FF 2)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Svensk-Palestinska FF 2)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1065,15 +1073,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Norsborgs IF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Norsborgs IF 1)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Norsborgs IF 1)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1129,13 +1138,14 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Enskede FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Enskede FF)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Enskede FF)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor"
+      "location:Västberga IP",
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -1192,15 +1202,16 @@
     "formattedTeam": "P2013 Gul",
     "opponent": "Enskede IK Grå 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Gul (vs Enskede IK Grå 1)",
+    "formattedTitle": "⚽🏠 P2013 Gul (vs Enskede IK Grå 1)",
     "filterTags": [
       "team:P2013 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2013",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1257,15 +1268,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Mälarhöjdens IK Fotboll Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Mälarhöjdens IK Fotboll Svart)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Mälarhöjdens IK Fotboll Svart)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1322,15 +1334,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Årsta FF 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Årsta FF 4)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Årsta FF 4)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1387,15 +1400,16 @@
     "formattedTeam": "F2016 Gul",
     "opponent": "Karlbergs BK Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Gul (vs Karlbergs BK Gul)",
+    "formattedTitle": "⚽🏠 F2016 Gul (vs Karlbergs BK Gul)",
     "filterTags": [
       "team:F2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -1452,15 +1466,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "Karlbergs BK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs Karlbergs BK Svart)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs Karlbergs BK Svart)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1517,15 +1532,16 @@
     "formattedTeam": "F2014 Gul",
     "opponent": "Boo FF F14-i 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Gul (vs Boo FF F14-i 1)",
+    "formattedTitle": "⚽🏠 F2014 Gul (vs Boo FF F14-i 1)",
     "filterTags": [
       "team:F2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -1582,14 +1598,15 @@
     "formattedTeam": "F2012",
     "opponent": "Hammarby IF FF 3 gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Hammarby IF FF 3 gul)",
+    "formattedTitle": "⚽🏠 F2012 (vs Hammarby IF FF 3 gul)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -1646,15 +1663,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "IFK Lidingö FK 20 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs IFK Lidingö FK 20 vit)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs IFK Lidingö FK 20 vit)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1711,15 +1729,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Enskede IK Rödlila",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Enskede IK Rödlila)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Enskede IK Rödlila)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1776,15 +1795,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Stureby SK Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Stureby SK Gul)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Stureby SK Gul)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1841,14 +1861,15 @@
     "formattedTeam": "P2010",
     "opponent": "AIK Framtid FK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs AIK Framtid FK 2)",
+    "formattedTitle": "⚽🏠 P2010 (vs AIK Framtid FK 2)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -1904,13 +1925,14 @@
     "formattedTeam": "Gröndals IK",
     "opponent": "Colo-Colo International FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Gröndals IK (vs Colo-Colo International FK)",
+    "formattedTitle": "⚽🏠 Gröndals IK (vs Colo-Colo International FK)",
     "filterTags": [
       "team:Gröndals IK",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1967,15 +1989,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Sickla IF Röd 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Sickla IF Röd 3)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Sickla IF Röd 3)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2032,15 +2055,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "Essinge IK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Essinge IK Svart)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs Essinge IK Svart)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2097,15 +2121,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Årsta FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Årsta FF 3)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Årsta FF 3)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2162,15 +2187,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Nockebyhovs IF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Nockebyhovs IF 1)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Nockebyhovs IF 1)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2227,15 +2253,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "Konyaspor Kultur och IF P2015Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs Konyaspor Kultur och IF P2015Vit)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs Konyaspor Kultur och IF P2015Vit)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2292,15 +2319,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "Årsta FF 5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs Årsta FF 5)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs Årsta FF 5)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2357,14 +2385,15 @@
     "formattedTeam": "F2011",
     "opponent": "Sickla IF Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Sickla IF Svart)",
+    "formattedTitle": "⚽🏠 F2011 (vs Sickla IF Svart)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -2421,14 +2450,15 @@
     "formattedTeam": "P2010",
     "opponent": "Reymersholms IK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Reymersholms IK 1)",
+    "formattedTitle": "⚽🏠 P2010 (vs Reymersholms IK 1)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -2482,10 +2512,11 @@
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Essinge IK)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -2539,10 +2570,11 @@
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Essinge Rovers IK)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -2598,13 +2630,14 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Lado Sur FC",
     "activity": "Match",
-    "formattedTitle": "🆚🚍 Kransen United FF (vs Lado Sur FC)",
+    "formattedTitle": "⚽🚍 Kransen United FF (vs Lado Sur FC)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Away",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Away"
     ]
   },
   {
@@ -2661,15 +2694,16 @@
     "formattedTeam": "P2013 Gul",
     "opponent": "Karlbergs BK Svart 41",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Gul (vs Karlbergs BK Svart 41)",
+    "formattedTitle": "⚽🏠 P2013 Gul (vs Karlbergs BK Svart 41)",
     "filterTags": [
       "team:P2013 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2013",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2726,15 +2760,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "IFK Stockholm FK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs IFK Stockholm FK 2)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs IFK Stockholm FK 2)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2791,15 +2826,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "Mälarhöjdens IK Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs Mälarhöjdens IK Fotboll Vit)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs Mälarhöjdens IK Fotboll Vit)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2856,15 +2892,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "Hammarby IF FF 11",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Hammarby IF FF 11)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs Hammarby IF FF 11)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2921,15 +2958,16 @@
     "formattedTeam": "F2014 Gul",
     "opponent": "IF Brommapojkarna 2014-4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Gul (vs IF Brommapojkarna 2014-4)",
+    "formattedTitle": "⚽🏠 F2014 Gul (vs IF Brommapojkarna 2014-4)",
     "filterTags": [
       "team:F2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -2986,14 +3024,15 @@
     "formattedTeam": "F2012",
     "opponent": "Värtans IK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Värtans IK 2)",
+    "formattedTitle": "⚽🏠 F2012 (vs Värtans IK 2)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -3050,15 +3089,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Huddinge IF 12-7div3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Huddinge IF 12-7div3)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Huddinge IF 12-7div3)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3115,15 +3155,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Hammarby IF FF 2 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Hammarby IF FF 2 vit)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Hammarby IF FF 2 vit)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3180,15 +3221,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Reymersholms IK 8",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Reymersholms IK 8)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Reymersholms IK 8)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3245,80 +3287,16 @@
     "formattedTeam": "F2017 Gul",
     "opponent": "Ängby IF Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Gul (vs Ängby IF Gul)",
+    "formattedTitle": "⚽🏠 F2017 Gul (vs Ängby IF Gul)",
     "filterTags": [
       "team:F2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "color:Gul",
+      "ageGroup:2017",
       "gender:Flickor",
-      "ageGroup:2017",
-      "color:Gul"
-    ]
-  },
-  {
-    "uid": "venue-match-6282114",
-    "start": "2025-05-04T07:00:00.000Z",
-    "end": "2025-05-04T08:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Vit 3 vs AIK FF 12",
-    "description": "P2017- 1",
-    "location": "Västberga IP 116",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vit-3-aik-ff-12-pojkar-2017/6282114/",
-    "categories": [
-      "P2017- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6282114,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-3-aik-ff-12-pojkar-2017/6282114/",
-      "date": {
-        "iso8601": "2025-05-04 09:00",
-        "formatted": "09:00, 4 maj 2025"
-      },
-      "location": "Västberga IP 116",
-      "category": "P2017- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Vit 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Vit 3"
-        }
-      },
-      "away": {
-        "team": "AIK FF 12",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6864.png",
-          "alt": "AIK FF 12"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2017",
-    "venues": [
-      "Västberga IP"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Vit 3",
-    "color": "Vit",
-    "formattedTeam": "P2017 Vit",
-    "opponent": "AIK FF 12",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs AIK FF 12)",
-    "filterTags": [
-      "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
-      "category:Match",
-      "gender:Pojkar",
-      "ageGroup:2017",
-      "color:Vit"
+      "match:Home"
     ]
   },
   {
@@ -3375,14 +3353,15 @@
     "formattedTeam": "F2013",
     "opponent": "IFK Lidingö FK 11 blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs IFK Lidingö FK 11 blå)",
+    "formattedTitle": "⚽🏠 F2013 (vs IFK Lidingö FK 11 blå)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -3439,14 +3418,15 @@
     "formattedTeam": "F2013",
     "opponent": "FoC Farsta FF Svart 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs FoC Farsta FF Svart 1)",
+    "formattedTitle": "⚽🏠 F2013 (vs FoC Farsta FF Svart 1)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -3503,15 +3483,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "Stuvsta IF 5:1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs Stuvsta IF 5:1)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs Stuvsta IF 5:1)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3568,15 +3549,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "IFK Stockholm FK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs IFK Stockholm FK 3)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs IFK Stockholm FK 3)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3633,15 +3615,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "Högalids IF P15-blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs Högalids IF P15-blå)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs Högalids IF P15-blå)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3698,14 +3681,15 @@
     "formattedTeam": "P2009",
     "opponent": "Reymersholms IK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Reymersholms IK 3)",
+    "formattedTitle": "⚽🏠 P2009 (vs Reymersholms IK 3)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -3759,10 +3743,11 @@
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs IFK Bergshamra)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -3818,13 +3803,14 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Nynäshamns IF FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Nynäshamns IF FK)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Nynäshamns IF FK)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor"
+      "location:Västberga IP",
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -3881,15 +3867,16 @@
     "formattedTeam": "F2014 Gul",
     "opponent": "Älvsjö AIK FF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Gul (vs Älvsjö AIK FF 1)",
+    "formattedTitle": "⚽🏠 F2014 Gul (vs Älvsjö AIK FF 1)",
     "filterTags": [
       "team:F2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -3946,15 +3933,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Hammarby IF FF 10",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Hammarby IF FF 10)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Hammarby IF FF 10)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4011,15 +3999,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "IF Brommapojkarna P17-21",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs IF Brommapojkarna P17-21)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs IF Brommapojkarna P17-21)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4076,15 +4065,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "IFK Stockholm FK 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs IFK Stockholm FK 4)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs IFK Stockholm FK 4)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4141,15 +4131,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "Mälarhöjdens IK Fotboll Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs Mälarhöjdens IK Fotboll Svart)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs Mälarhöjdens IK Fotboll Svart)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4206,15 +4197,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Norrtulls SK Svart 2S",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Norrtulls SK Svart 2S)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Norrtulls SK Svart 2S)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4271,14 +4263,15 @@
     "formattedTeam": "F2012",
     "opponent": "Norrtulls SK 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Norrtulls SK 4)",
+    "formattedTitle": "⚽🏠 F2012 (vs Norrtulls SK 4)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -4335,15 +4328,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Hammarby IF FF 8 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Hammarby IF FF 8 vit)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Hammarby IF FF 8 vit)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4400,15 +4394,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Hammarby IF FF 16 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Hammarby IF FF 16 vit)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Hammarby IF FF 16 vit)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4465,15 +4460,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Reymersholms IK 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Reymersholms IK 4)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Reymersholms IK 4)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4530,15 +4526,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Djurgårdens IF FF 6 Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Djurgårdens IF FF 6 Röd)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Djurgårdens IF FF 6 Röd)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4594,13 +4591,14 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Uruguayanska FF Veteran",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Uruguayanska FF Veteran)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Uruguayanska FF Veteran)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4657,15 +4655,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "Reymersholms IK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Reymersholms IK 3)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs Reymersholms IK 3)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4722,15 +4721,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "AS Solna FF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs AS Solna FF 1)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs AS Solna FF 1)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4787,15 +4787,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Norrtulls SK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Norrtulls SK Vit)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Norrtulls SK Vit)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4852,15 +4853,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "Tallkrogens IF Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs Tallkrogens IF Röd)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs Tallkrogens IF Röd)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4917,15 +4919,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "IF Brommapojkarna P15-20",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs IF Brommapojkarna P15-20)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs IF Brommapojkarna P15-20)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4982,15 +4985,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Djurgårdens IF FF 9 Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Djurgårdens IF FF 9 Gul)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Djurgårdens IF FF 9 Gul)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5047,14 +5051,15 @@
     "formattedTeam": "P2010",
     "opponent": "Karlbergs BK 21",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Karlbergs BK 21)",
+    "formattedTitle": "⚽🏠 P2010 (vs Karlbergs BK 21)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -5108,10 +5113,11 @@
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Hallunda IF)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -5167,13 +5173,14 @@
     "formattedTeam": "Gröndals IK",
     "opponent": "Stockholm United FC",
     "activity": "Match",
-    "formattedTitle": "🆚🚍 Gröndals IK (vs Stockholm United FC)",
+    "formattedTitle": "⚽🚍 Gröndals IK (vs Stockholm United FC)",
     "filterTags": [
       "team:Gröndals IK",
-      "match:Away",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Away"
     ]
   },
   {
@@ -5229,13 +5236,14 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Långholmen FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Långholmen FC)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Långholmen FC)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor"
+      "location:Västberga IP",
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -5292,15 +5300,16 @@
     "formattedTeam": "P2013 Gul",
     "opponent": "Espanyol Academy IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Gul (vs Espanyol Academy IF)",
+    "formattedTitle": "⚽🏠 P2013 Gul (vs Espanyol Academy IF)",
     "filterTags": [
       "team:P2013 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2013",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5357,15 +5366,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Solberga BK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Solberga BK 1)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Solberga BK 1)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5422,15 +5432,16 @@
     "formattedTeam": "F2016 Gul",
     "opponent": "Ängby IF Gul 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Gul (vs Ängby IF Gul 2)",
+    "formattedTitle": "⚽🏠 F2016 Gul (vs Ängby IF Gul 2)",
     "filterTags": [
       "team:F2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -5487,15 +5498,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "Sörskogens IF 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Sörskogens IF 4)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs Sörskogens IF 4)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5552,15 +5564,16 @@
     "formattedTeam": "P2013 Gul",
     "opponent": "Reymersholms IK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Gul (vs Reymersholms IK 1)",
+    "formattedTitle": "⚽🏠 P2013 Gul (vs Reymersholms IK 1)",
     "filterTags": [
       "team:P2013 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2013",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5617,14 +5630,15 @@
     "formattedTeam": "F2012",
     "opponent": "Sickla IF Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Sickla IF Röd)",
+    "formattedTitle": "⚽🏠 F2012 (vs Sickla IF Röd)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -5681,15 +5695,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Rotebro IS FF Röd 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Rotebro IS FF Röd 4)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Rotebro IS FF Röd 4)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5746,15 +5761,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Hammarby IF FF 23",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Hammarby IF FF 23)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Hammarby IF FF 23)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5811,15 +5827,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Gustavsbergs IF FK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Gustavsbergs IF FK 3)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Gustavsbergs IF FK 3)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5876,15 +5893,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Enskede IK Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Enskede IK Gul)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Enskede IK Gul)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5940,13 +5958,14 @@
     "formattedTeam": "Gröndals IK",
     "opponent": "Polonia Falcons FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Gröndals IK (vs Polonia Falcons FF)",
+    "formattedTitle": "⚽🏠 Gröndals IK (vs Polonia Falcons FF)",
     "filterTags": [
       "team:Gröndals IK",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6003,15 +6022,16 @@
     "formattedTeam": "F2017 Gul",
     "opponent": "Norrtulls SK Gul 2B",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Gul (vs Norrtulls SK Gul 2B)",
+    "formattedTitle": "⚽🏠 F2017 Gul (vs Norrtulls SK Gul 2B)",
     "filterTags": [
       "team:F2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -6068,15 +6088,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "Espanyol Academy IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs Espanyol Academy IF)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs Espanyol Academy IF)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6133,14 +6154,15 @@
     "formattedTeam": "F2013",
     "opponent": "Saltsjöbadens IF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs Saltsjöbadens IF Vit)",
+    "formattedTitle": "⚽🏠 F2013 (vs Saltsjöbadens IF Vit)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -6197,15 +6219,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "IFK Lidingö FK 20",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs IFK Lidingö FK 20)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs IFK Lidingö FK 20)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6262,15 +6285,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "IF Brommapojkarna P15-21",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs IF Brommapojkarna P15-21)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs IF Brommapojkarna P15-21)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6327,14 +6351,15 @@
     "formattedTeam": "F2013",
     "opponent": "Värmdö IF Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs Värmdö IF Blå)",
+    "formattedTitle": "⚽🏠 F2013 (vs Värmdö IF Blå)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -6391,15 +6416,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Hammarby IF FF 13 gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Hammarby IF FF 13 gul)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Hammarby IF FF 13 gul)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6456,14 +6482,15 @@
     "formattedTeam": "P2010",
     "opponent": "Djurgårdens IF FF 12",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Djurgårdens IF FF 12)",
+    "formattedTitle": "⚽🏠 P2010 (vs Djurgårdens IF FF 12)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -6520,14 +6547,15 @@
     "formattedTeam": "P2009",
     "opponent": "Bagarmossen Kärrtorp BK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Bagarmossen Kärrtorp BK)",
+    "formattedTitle": "⚽🏠 P2009 (vs Bagarmossen Kärrtorp BK)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -6581,10 +6609,11 @@
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Handelskamraternas IS)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -6638,10 +6667,11 @@
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Långholmen FC)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -6695,10 +6725,11 @@
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs Westermalms IF FK)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -6755,15 +6786,16 @@
     "formattedTeam": "F2014 Gul",
     "opponent": "FoC Farsta FF Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Gul (vs FoC Farsta FF Röd)",
+    "formattedTitle": "⚽🏠 F2014 Gul (vs FoC Farsta FF Röd)",
     "filterTags": [
       "team:F2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -6820,80 +6852,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Assyriska Botkyrka SK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Assyriska Botkyrka SK 1)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Assyriska Botkyrka SK 1)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
-    ]
-  },
-  {
-    "uid": "venue-match-6282696",
-    "start": "2025-05-24T07:00:00.000Z",
-    "end": "2025-05-24T08:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Vit 3 vs IF Brommapojkarna P17-12",
-    "description": "P2017- 1",
-    "location": "Västberga IP 116",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vit-3-if-brommapojkarna-p17-12-pojkar-2017/6282696/",
-    "categories": [
-      "P2017- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6282696,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-3-if-brommapojkarna-p17-12-pojkar-2017/6282696/",
-      "date": {
-        "iso8601": "2025-05-24 09:00",
-        "formatted": "09:00, 24 maj 2025"
-      },
-      "location": "Västberga IP 116",
-      "category": "P2017- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Vit 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Vit 3"
-        }
-      },
-      "away": {
-        "team": "IF Brommapojkarna P17-12",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
-          "alt": "IF Brommapojkarna P17-12"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2017",
-    "venues": [
-      "Västberga IP"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Vit 3",
-    "color": "Vit",
-    "formattedTeam": "P2017 Vit",
-    "opponent": "IF Brommapojkarna P17-12",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs IF Brommapojkarna P17-12)",
-    "filterTags": [
-      "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
-      "category:Match",
       "gender:Pojkar",
-      "ageGroup:2017",
-      "color:Vit"
+      "match:Home"
     ]
   },
   {
@@ -6950,15 +6918,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "IFK Lidingö FK 24 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs IFK Lidingö FK 24 vit)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs IFK Lidingö FK 24 vit)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7015,15 +6984,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "IFK Lidingö FK 7",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs IFK Lidingö FK 7)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs IFK Lidingö FK 7)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7080,15 +7050,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "FC Balingsnäs 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs FC Balingsnäs 2)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs FC Balingsnäs 2)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7145,15 +7116,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "IFK Haninge H Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs IFK Haninge H Vit)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs IFK Haninge H Vit)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7210,15 +7182,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Sörskogens IF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Sörskogens IF 1)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Sörskogens IF 1)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7275,15 +7248,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Bagarmossen Kärrtorp BK Svart 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Bagarmossen Kärrtorp BK Svart 3)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Bagarmossen Kärrtorp BK Svart 3)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7340,15 +7314,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "Råsunda IS Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs Råsunda IS Vit)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs Råsunda IS Vit)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7405,15 +7380,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "IFK Lidingö FK 9",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs IFK Lidingö FK 9)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs IFK Lidingö FK 9)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7469,13 +7445,14 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Ängby IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Ängby IF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Ängby IF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7532,15 +7509,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Rönninge Salem Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Rönninge Salem Fotboll Vit)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Rönninge Salem Fotboll Vit)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7597,15 +7575,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Gustavsbergs IF FK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Gustavsbergs IF FK 3)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Gustavsbergs IF FK 3)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7662,15 +7641,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Örby IS Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Örby IS Vit)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Örby IS Vit)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7727,15 +7707,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "Vasalund IF Solna 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs Vasalund IF Solna 2)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs Vasalund IF Solna 2)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7791,14 +7772,15 @@
     "color": "unknown",
     "formattedTeam": "P2011",
     "activity": "Match",
-    "formattedTitle": "🆚 External (IFK Aspudden-Tellus 4 vs Gröndals IK Svart)",
+    "formattedTitle": "⚽ External (IFK Aspudden-Tellus 4 vs Gröndals IK Svart)",
     "filterTags": [
       "team:P2011",
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:External"
     ]
   },
   {
@@ -7855,15 +7837,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Sollentuna FK Syd 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Sollentuna FK Syd 1)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Sollentuna FK Syd 1)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7920,14 +7903,15 @@
     "formattedTeam": "P2010",
     "opponent": "Mälarhöjden-Hägersten FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Mälarhöjden-Hägersten FF 2)",
+    "formattedTitle": "⚽🏠 P2010 (vs Mälarhöjden-Hägersten FF 2)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -7982,11 +7966,12 @@
     "activity": "Match",
     "formattedTitle": " (Reymersholms IK 1 vs Spånga IS FK 1)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2007",
       "gender:Pojkar",
-      "ageGroup:2007"
+      "match:External"
     ]
   },
   {
@@ -8040,10 +8025,11 @@
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Colo-Colo International FK)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -8099,13 +8085,14 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Vendelsö IK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Vendelsö IK)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Vendelsö IK)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor"
+      "location:Västberga IP",
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -8162,15 +8149,16 @@
     "formattedTeam": "P2013 Gul",
     "opponent": "IFK Lidingö FK 5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Gul (vs IFK Lidingö FK 5)",
+    "formattedTitle": "⚽🏠 P2013 Gul (vs IFK Lidingö FK 5)",
     "filterTags": [
       "team:P2013 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2013",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8227,15 +8215,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "Djurgårdens IF FF 9 Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs Djurgårdens IF FF 9 Röd)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs Djurgårdens IF FF 9 Röd)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8292,15 +8281,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Arameisk-Syrianska IF 2 - Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Arameisk-Syrianska IF 2 - Röd)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Arameisk-Syrianska IF 2 - Röd)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8357,15 +8347,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "IF Brommapojkarna F17A",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs IF Brommapojkarna F17A)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs IF Brommapojkarna F17A)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8422,15 +8413,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Tullinge Triangel Pojkar FK Grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Tullinge Triangel Pojkar FK Grön)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Tullinge Triangel Pojkar FK Grön)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8487,14 +8479,15 @@
     "formattedTeam": "F2012",
     "opponent": "Hammarby IF FF 3 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Hammarby IF FF 3 vit)",
+    "formattedTitle": "⚽🏠 F2012 (vs Hammarby IF FF 3 vit)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -8551,15 +8544,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "IF Brommapojkarna 2014-39",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs IF Brommapojkarna 2014-39)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs IF Brommapojkarna 2014-39)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8616,14 +8610,15 @@
     "formattedTeam": "F2012",
     "opponent": "IF Brommapojkarna 12-10",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs IF Brommapojkarna 12-10)",
+    "formattedTitle": "⚽🏠 F2012 (vs IF Brommapojkarna 12-10)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -8680,15 +8675,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "Stuvsta IF 3:2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs Stuvsta IF 3:2)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs Stuvsta IF 3:2)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8745,15 +8741,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Allstars FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Allstars FC)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Allstars FC)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8807,10 +8804,11 @@
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Gröndals FF)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -8867,15 +8865,16 @@
     "formattedTeam": "F2017 Gul",
     "opponent": "Spånga IS FK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Gul (vs Spånga IS FK 1)",
+    "formattedTitle": "⚽🏠 F2017 Gul (vs Spånga IS FK 1)",
     "filterTags": [
       "team:F2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -8932,15 +8931,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "Enskede IK Lila 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Enskede IK Lila 1)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs Enskede IK Lila 1)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8997,14 +8997,15 @@
     "formattedTeam": "F2013",
     "opponent": "Skogås-Trångsunds FF Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs Skogås-Trångsunds FF Blå)",
+    "formattedTitle": "⚽🏠 F2013 (vs Skogås-Trångsunds FF Blå)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -9061,14 +9062,15 @@
     "formattedTeam": "F2013",
     "opponent": "Hanvikens SK Guld",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs Hanvikens SK Guld)",
+    "formattedTitle": "⚽🏠 F2013 (vs Hanvikens SK Guld)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -9125,15 +9127,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Espanyol Academy IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Espanyol Academy IF)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Espanyol Academy IF)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9190,15 +9193,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "Fisksätra IF Rosa",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs Fisksätra IF Rosa)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs Fisksätra IF Rosa)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9255,14 +9259,15 @@
     "formattedTeam": "P2010",
     "opponent": "Älvsjö AIK FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Älvsjö AIK FF 2)",
+    "formattedTitle": "⚽🏠 P2010 (vs Älvsjö AIK FF 2)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -9319,14 +9324,15 @@
     "formattedTeam": "P2009",
     "opponent": "Enskede IK BRL",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Enskede IK BRL)",
+    "formattedTitle": "⚽🏠 P2009 (vs Enskede IK BRL)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -9380,10 +9386,11 @@
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Dardania Stockholm FF)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -9439,13 +9446,14 @@
     "formattedTeam": "Gröndals IK",
     "opponent": "Långholmen FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Gröndals IK (vs Långholmen FC)",
+    "formattedTitle": "⚽🏠 Gröndals IK (vs Långholmen FC)",
     "filterTags": [
       "team:Gröndals IK",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9499,10 +9507,11 @@
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs Tudor Arms FC)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -9559,15 +9568,16 @@
     "formattedTeam": "F2014 Gul",
     "opponent": "IF Brommapojkarna 2014-2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Gul (vs IF Brommapojkarna 2014-2)",
+    "formattedTitle": "⚽🏠 F2014 Gul (vs IF Brommapojkarna 2014-2)",
     "filterTags": [
       "team:F2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -9624,15 +9634,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Stuvsta IF 2:2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Stuvsta IF 2:2)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Stuvsta IF 2:2)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9689,15 +9700,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Järla IF FK Orange",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Järla IF FK Orange)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Järla IF FK Orange)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9754,15 +9766,16 @@
     "formattedTeam": "F2016 Gul",
     "opponent": "IFK Lidingö FK 8",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Gul (vs IFK Lidingö FK 8)",
+    "formattedTitle": "⚽🏠 F2016 Gul (vs IFK Lidingö FK 8)",
     "filterTags": [
       "team:F2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -9819,15 +9832,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "IF Brommapojkarna F16A",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs IF Brommapojkarna F16A)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs IF Brommapojkarna F16A)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9884,15 +9898,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Espanyol Academy IF Blanco",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Espanyol Academy IF Blanco)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Espanyol Academy IF Blanco)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9949,15 +9964,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Skogås-Trångsunds FF Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Skogås-Trångsunds FF Röd)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Skogås-Trångsunds FF Röd)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10014,15 +10030,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Värmdö IF Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Värmdö IF Blå)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Värmdö IF Blå)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10079,15 +10096,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Örby IS Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Örby IS Blå)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Örby IS Blå)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10144,15 +10162,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Norrtulls SK Svart 2L",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Norrtulls SK Svart 2L)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Norrtulls SK Svart 2L)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10209,15 +10228,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Hammarby IF FF 30 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Hammarby IF FF 30 vit)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Hammarby IF FF 30 vit)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10274,80 +10294,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Boo FF P16:5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Boo FF P16:5)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Boo FF P16:5)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
-    ]
-  },
-  {
-    "uid": "venue-match-6283075",
-    "start": "2025-06-08T06:00:00.000Z",
-    "end": "2025-06-08T07:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Vit 3 vs Mälarhöjdens IK Fotboll Vit",
-    "description": "P2017- 1",
-    "location": "Västberga IP 116",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vit-3-malarhojdens-ik-fotboll-vit-pojkar-2017/6283075/",
-    "categories": [
-      "P2017- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6283075,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-3-malarhojdens-ik-fotboll-vit-pojkar-2017/6283075/",
-      "date": {
-        "iso8601": "2025-06-08 08:00",
-        "formatted": "08:00, 8 juni 2025"
-      },
-      "location": "Västberga IP 116",
-      "category": "P2017- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Vit 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Vit 3"
-        }
-      },
-      "away": {
-        "team": "Mälarhöjdens IK Fotboll Vit",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12911.png",
-          "alt": "Mälarhöjdens IK Fotboll Vit"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2017",
-    "venues": [
-      "Västberga IP"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Vit 3",
-    "color": "Vit",
-    "formattedTeam": "P2017 Vit",
-    "opponent": "Mälarhöjdens IK Fotboll Vit",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Mälarhöjdens IK Fotboll Vit)",
-    "filterTags": [
-      "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
-      "category:Match",
       "gender:Pojkar",
-      "ageGroup:2017",
-      "color:Vit"
+      "match:Home"
     ]
   },
   {
@@ -10404,15 +10360,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Svensk-Palestinska FF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Svensk-Palestinska FF 1)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Svensk-Palestinska FF 1)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10469,15 +10426,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "IFK Lidingö FK 5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs IFK Lidingö FK 5)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs IFK Lidingö FK 5)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10534,15 +10492,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "IFK Lidingö FK 6 blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs IFK Lidingö FK 6 blå)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs IFK Lidingö FK 6 blå)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10599,15 +10558,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "Stuvsta IF 1:1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs Stuvsta IF 1:1)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs Stuvsta IF 1:1)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10664,15 +10624,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Essinge IK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Essinge IK Svart)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Essinge IK Svart)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10726,10 +10687,11 @@
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Essinge Rovers IK)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -10785,13 +10747,14 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Solberga BK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Solberga BK)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Solberga BK)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor"
+      "location:Västberga IP",
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -10848,14 +10811,15 @@
     "formattedTeam": "F2012",
     "opponent": "Karlbergs BK 41",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Karlbergs BK 41)",
+    "formattedTitle": "⚽🏠 F2012 (vs Karlbergs BK 41)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -10912,14 +10876,15 @@
     "formattedTeam": "P2010",
     "opponent": "Enskede IK U",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Enskede IK U)",
+    "formattedTitle": "⚽🏠 P2010 (vs Enskede IK U)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -10976,15 +10941,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Segeltorps Idrottsförening Fotboll Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Segeltorps Idrottsförening Fotboll Röd)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Segeltorps Idrottsförening Fotboll Röd)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11040,13 +11006,14 @@
     "formattedTeam": "Gröndals IK",
     "opponent": "Hallunda IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Gröndals IK (vs Hallunda IF)",
+    "formattedTitle": "⚽🏠 Gröndals IK (vs Hallunda IF)",
     "filterTags": [
       "team:Gröndals IK",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11103,15 +11070,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Stuvsta IF 2:2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Stuvsta IF 2:2)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Stuvsta IF 2:2)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11168,14 +11136,15 @@
     "formattedTeam": "F2012",
     "opponent": "Karlbergs BK 31",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Karlbergs BK 31)",
+    "formattedTitle": "⚽🏠 F2012 (vs Karlbergs BK 31)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -11232,14 +11201,15 @@
     "formattedTeam": "P2010",
     "opponent": "Hammarby IF FF 5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Hammarby IF FF 5)",
+    "formattedTitle": "⚽🏠 P2010 (vs Hammarby IF FF 5)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -11296,14 +11266,15 @@
     "formattedTeam": "P2009",
     "opponent": "Sköndals IK FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Sköndals IK FK)",
+    "formattedTitle": "⚽🏠 P2009 (vs Sköndals IK FK)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -11357,10 +11328,11 @@
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Råsunda IS)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -11414,10 +11386,11 @@
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs IF Lokomotiv Blackeberg)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -11474,15 +11447,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Boo FF 41",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Boo FF 41)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Boo FF 41)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11539,15 +11513,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Stuvsta IF 2:3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Stuvsta IF 2:3)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Stuvsta IF 2:3)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11601,10 +11576,11 @@
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Polonia Falcons FF)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -11661,14 +11637,15 @@
     "formattedTeam": "P2010",
     "opponent": "Hammarby IF FF 8",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Hammarby IF FF 8)",
+    "formattedTitle": "⚽🏠 P2010 (vs Hammarby IF FF 8)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -11725,15 +11702,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Boo FF Utv.",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Boo FF Utv.)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Boo FF Utv.)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11787,10 +11765,11 @@
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Stockholm StreetSoccer FF)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -11846,13 +11825,14 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Ospecificerat",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Ospecificerat)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Ospecificerat)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor"
+      "location:Västberga IP",
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -11909,14 +11889,15 @@
     "formattedTeam": "F2012",
     "opponent": "Årsta FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Årsta FF 2)",
+    "formattedTitle": "⚽🏠 F2012 (vs Årsta FF 2)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -11973,15 +11954,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Älvsjö AIK FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Älvsjö AIK FF 3)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Älvsjö AIK FF 3)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12035,10 +12017,11 @@
     "activity": "Match",
     "formattedTitle": " (Högalids IF vs Konglig Samhällsbyggnadssektion FC)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -12095,15 +12078,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Värtans IK Röd 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Värtans IK Röd 2)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Värtans IK Röd 2)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12160,15 +12144,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Älvsjö AIK FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Älvsjö AIK FF 3)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Älvsjö AIK FF 3)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12222,10 +12207,11 @@
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs BK Karlbergare)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -12279,10 +12265,11 @@
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs FC Plavi Team)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -12339,15 +12326,16 @@
     "formattedTeam": "P2013 Gul",
     "opponent": "Hammarby IF FF 7 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Gul (vs Hammarby IF FF 7 vit)",
+    "formattedTitle": "⚽🏠 P2013 Gul (vs Hammarby IF FF 7 vit)",
     "filterTags": [
       "team:P2013 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2013",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12404,15 +12392,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "AIK FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs AIK FF 3)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs AIK FF 3)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12469,15 +12458,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "Hammarby IF FF 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs Hammarby IF FF 4)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs Hammarby IF FF 4)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12534,15 +12524,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "AIK FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs AIK FF 2)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs AIK FF 2)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12599,15 +12590,16 @@
     "formattedTeam": "F2014 Gul",
     "opponent": "Boo FF F14:2 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Gul (vs Boo FF F14:2 1)",
+    "formattedTitle": "⚽🏠 F2014 Gul (vs Boo FF F14:2 1)",
     "filterTags": [
       "team:F2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -12664,14 +12656,15 @@
     "formattedTeam": "F2012",
     "opponent": "Reymersholms IK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Reymersholms IK 1)",
+    "formattedTitle": "⚽🏠 F2012 (vs Reymersholms IK 1)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -12728,15 +12721,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Vega FC P2014 S3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Vega FC P2014 S3)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Vega FC P2014 S3)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12793,15 +12787,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Mälarhöjden-Hägersten FF Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Mälarhöjden-Hägersten FF Svart)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Mälarhöjden-Hägersten FF Svart)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12858,15 +12853,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Stuvsta IF 2.2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Stuvsta IF 2.2)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Stuvsta IF 2.2)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12923,15 +12919,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "IF Brommapojkarna 11-30",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs IF Brommapojkarna 11-30)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs IF Brommapojkarna 11-30)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12988,14 +12985,15 @@
     "formattedTeam": "F2013",
     "opponent": "Skå IK & Bygdegård Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs Skå IK & Bygdegård Gul)",
+    "formattedTitle": "⚽🏠 F2013 (vs Skå IK & Bygdegård Gul)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -13052,15 +13050,16 @@
     "formattedTeam": "F2017 Gul",
     "opponent": "Boo FF F17:10",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Gul (vs Boo FF F17:10)",
+    "formattedTitle": "⚽🏠 F2017 Gul (vs Boo FF F17:10)",
     "filterTags": [
       "team:F2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -13117,15 +13116,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "Tyresö FF C Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Tyresö FF C Gul)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs Tyresö FF C Gul)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13182,14 +13182,15 @@
     "formattedTeam": "F2013",
     "opponent": "Ösmo GIF FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs Ösmo GIF FK)",
+    "formattedTitle": "⚽🏠 F2013 (vs Ösmo GIF FK)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -13246,15 +13247,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "Boo FF P15:6 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs Boo FF P15:6 3)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs Boo FF P15:6 3)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13311,15 +13313,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Stuvsta IF 1:1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Stuvsta IF 1:1)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Stuvsta IF 1:1)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13376,15 +13379,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "Gustavsbergs IF FK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs Gustavsbergs IF FK 3)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs Gustavsbergs IF FK 3)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13441,14 +13445,15 @@
     "formattedTeam": "P2010",
     "opponent": "Reymersholms FF RFF VIT",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Reymersholms FF RFF VIT)",
+    "formattedTitle": "⚽🏠 P2010 (vs Reymersholms FF RFF VIT)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -13505,14 +13510,15 @@
     "formattedTeam": "P2010",
     "opponent": "Norrtulls SK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Norrtulls SK 2)",
+    "formattedTitle": "⚽🏠 P2010 (vs Norrtulls SK 2)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -13569,14 +13575,15 @@
     "formattedTeam": "P2009",
     "opponent": "Djurgårdens IF FF 10",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Djurgårdens IF FF 10)",
+    "formattedTitle": "⚽🏠 P2009 (vs Djurgårdens IF FF 10)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -13632,13 +13639,14 @@
     "formattedTeam": "Gröndals IK",
     "opponent": "Långholmen FC",
     "activity": "Match",
-    "formattedTitle": "🆚🚍 Gröndals IK (vs Långholmen FC)",
+    "formattedTitle": "⚽🚍 Gröndals IK (vs Långholmen FC)",
     "filterTags": [
       "team:Gröndals IK",
-      "match:Away",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Away"
     ]
   },
   {
@@ -13694,13 +13702,14 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Sköndals IK FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Sköndals IK FK)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Sköndals IK FK)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor"
+      "location:Västberga IP",
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -13757,15 +13766,16 @@
     "formattedTeam": "P2013 Gul",
     "opponent": "Ekerö IK 3:Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Gul (vs Ekerö IK 3:Blå)",
+    "formattedTitle": "⚽🏠 P2013 Gul (vs Ekerö IK 3:Blå)",
     "filterTags": [
       "team:P2013 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2013",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13822,15 +13832,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Ekerö IK 2:Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Ekerö IK 2:Gul)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Ekerö IK 2:Gul)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13887,15 +13898,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Enskede IK Grå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Enskede IK Grå)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Enskede IK Grå)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13952,15 +13964,16 @@
     "formattedTeam": "F2016 Gul",
     "opponent": "Ekerö IK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Gul (vs Ekerö IK Svart)",
+    "formattedTitle": "⚽🏠 F2016 Gul (vs Ekerö IK Svart)",
     "filterTags": [
       "team:F2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -14017,15 +14030,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "Ekerö IK 2:Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs Ekerö IK 2:Blå)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs Ekerö IK 2:Blå)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14082,15 +14096,16 @@
     "formattedTeam": "F2014 Gul",
     "opponent": "Segeltorps Idrottsförening Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Gul (vs Segeltorps Idrottsförening Fotboll Vit)",
+    "formattedTitle": "⚽🏠 F2014 Gul (vs Segeltorps Idrottsförening Fotboll Vit)",
     "filterTags": [
       "team:F2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -14147,14 +14162,15 @@
     "formattedTeam": "F2012",
     "opponent": "Värtans IK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Värtans IK 1)",
+    "formattedTitle": "⚽🏠 F2012 (vs Värtans IK 1)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -14211,15 +14227,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Sollentuna FK VAX 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Sollentuna FK VAX 1)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Sollentuna FK VAX 1)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14276,15 +14293,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Stureby SK Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Stureby SK Blå)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Stureby SK Blå)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14341,15 +14359,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Huddinge IF Svart M",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Huddinge IF Svart M)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Huddinge IF Svart M)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14405,15 +14424,16 @@
     "color": "Gul",
     "formattedTeam": "P2011 Gul",
     "activity": "Match",
-    "formattedTitle": "🆚 External (IFK Aspudden-Tellus Gul 3 vs Gröndals IK Blå)",
+    "formattedTitle": "⚽ External (IFK Aspudden-Tellus Gul 3 vs Gröndals IK Blå)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -14467,10 +14487,11 @@
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Polonia Falcons FF)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -14527,15 +14548,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Solberga BK Orange",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Solberga BK Orange)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Solberga BK Orange)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14592,15 +14614,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Boo FF P17:11",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Boo FF P17:11)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Boo FF P17:11)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14657,80 +14680,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Bagarmossen Kärrtorp BK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Bagarmossen Kärrtorp BK Vit)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Bagarmossen Kärrtorp BK Vit)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
-    ]
-  },
-  {
-    "uid": "venue-match-6283609",
-    "start": "2025-08-31T07:00:00.000Z",
-    "end": "2025-08-31T08:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Vit 3 vs Boo FF P17:3",
-    "description": "P2017- 1",
-    "location": "Västberga IP 116",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vit-3-boo-ff-p173-pojkar-2017/6283609/",
-    "categories": [
-      "P2017- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6283609,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-3-boo-ff-p173-pojkar-2017/6283609/",
-      "date": {
-        "iso8601": "2025-08-31 09:00",
-        "formatted": "09:00, 31 aug. 2025"
-      },
-      "location": "Västberga IP 116",
-      "category": "P2017- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Vit 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Vit 3"
-        }
-      },
-      "away": {
-        "team": "Boo FF P17:3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
-          "alt": "Boo FF P17:3"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2017",
-    "venues": [
-      "Västberga IP"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Vit 3",
-    "color": "Vit",
-    "formattedTeam": "P2017 Vit",
-    "opponent": "Boo FF P17:3",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Boo FF P17:3)",
-    "filterTags": [
-      "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
-      "category:Match",
       "gender:Pojkar",
-      "ageGroup:2017",
-      "color:Vit"
+      "match:Home"
     ]
   },
   {
@@ -14787,15 +14746,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "Ingarö IF Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs Ingarö IF Röd)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs Ingarö IF Röd)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14852,15 +14812,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "AIK FF 9",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs AIK FF 9)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs AIK FF 9)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14917,14 +14878,15 @@
     "formattedTeam": "F2013",
     "opponent": "Grödinge SK Grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs Grödinge SK Grön)",
+    "formattedTitle": "⚽🏠 F2013 (vs Grödinge SK Grön)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -14981,15 +14943,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Ängby IF Svart 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Ängby IF Svart 1)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Ängby IF Svart 1)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15046,15 +15009,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Ekerö IK Orange",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Ekerö IK Orange)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Ekerö IK Orange)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15108,10 +15072,11 @@
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Ljungbackens IF)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -15167,13 +15132,14 @@
     "formattedTeam": "Gröndals IK",
     "opponent": "Gröndals FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Gröndals IK (vs Gröndals FF)",
+    "formattedTitle": "⚽🏠 Gröndals IK (vs Gröndals FF)",
     "filterTags": [
       "team:Gröndals IK",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15227,10 +15193,11 @@
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs Preben BoIS)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -15287,15 +15254,16 @@
     "formattedTeam": "P2013 Gul",
     "opponent": "Boo FF 5 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Gul (vs Boo FF 5 3)",
+    "formattedTitle": "⚽🏠 P2013 Gul (vs Boo FF 5 3)",
     "filterTags": [
       "team:P2013 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2013",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15352,15 +15320,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "AIK FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs AIK FF 2)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs AIK FF 2)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15417,15 +15386,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "IFK Lidingö FK 13 blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs IFK Lidingö FK 13 blå)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs IFK Lidingö FK 13 blå)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15482,15 +15452,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "Djurgårdens IF FF 6",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Djurgårdens IF FF 6)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs Djurgårdens IF FF 6)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15547,15 +15518,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "IFK Tumba FK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs IFK Tumba FK Svart)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs IFK Tumba FK Svart)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15612,14 +15584,15 @@
     "formattedTeam": "F2012",
     "opponent": "Sollentuna FK Syd 5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Sollentuna FK Syd 5)",
+    "formattedTitle": "⚽🏠 F2012 (vs Sollentuna FK Syd 5)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -15676,15 +15649,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Djurgårdens IF FF 6",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Djurgårdens IF FF 6)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Djurgårdens IF FF 6)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15741,15 +15715,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Hammarby IF FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Hammarby IF FF 3)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Hammarby IF FF 3)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15806,15 +15781,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "Reymersholms IK 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs Reymersholms IK 4)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs Reymersholms IK 4)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15870,13 +15846,14 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Iberoamericana IF ",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Iberoamericana IF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Iberoamericana IF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15933,14 +15910,15 @@
     "formattedTeam": "P2010",
     "opponent": "IF Brommapojkarna 10-11",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs IF Brommapojkarna 10-11)",
+    "formattedTitle": "⚽🏠 P2010 (vs IF Brommapojkarna 10-11)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -15997,15 +15975,16 @@
     "formattedTeam": "F2017 Gul",
     "opponent": "IFK Lidingö FK 14",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Gul (vs IFK Lidingö FK 14)",
+    "formattedTitle": "⚽🏠 F2017 Gul (vs IFK Lidingö FK 14)",
     "filterTags": [
       "team:F2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -16062,15 +16041,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "IF Brommapojkarna P17-17",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs IF Brommapojkarna P17-17)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs IF Brommapojkarna P17-17)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16127,14 +16107,15 @@
     "formattedTeam": "F2013",
     "opponent": "Grödinge SK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs Grödinge SK Vit)",
+    "formattedTitle": "⚽🏠 F2013 (vs Grödinge SK Vit)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -16191,15 +16172,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Högdalens AIS 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Högdalens AIS 1)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Högdalens AIS 1)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16256,15 +16238,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "Ekerö IK 2:Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs Ekerö IK 2:Gul)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs Ekerö IK 2:Gul)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16321,15 +16304,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Hammarby IF FF 24",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Hammarby IF FF 24)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Hammarby IF FF 24)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16386,14 +16370,15 @@
     "formattedTeam": "P2009",
     "opponent": "Boo FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Boo FF 3)",
+    "formattedTitle": "⚽🏠 P2009 (vs Boo FF 3)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -16447,10 +16432,11 @@
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Stockholm United FC)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -16504,10 +16490,11 @@
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs Sundbyberg FC)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -16564,15 +16551,16 @@
     "formattedTeam": "F2014 Gul",
     "opponent": "Rönninge Salem Fotboll Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Gul (vs Rönninge Salem Fotboll Svart)",
+    "formattedTitle": "⚽🏠 F2014 Gul (vs Rönninge Salem Fotboll Svart)",
     "filterTags": [
       "team:F2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -16629,15 +16617,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Norrtulls SK Gul 3A",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Norrtulls SK Gul 3A)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Norrtulls SK Gul 3A)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16694,15 +16683,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Boo FF P17:6",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Boo FF P17:6)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Boo FF P17:6)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16759,15 +16749,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "Sörskogens IF Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs Sörskogens IF Röd)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs Sörskogens IF Röd)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16824,15 +16815,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Hanvikens SK Guld",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Hanvikens SK Guld)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Hanvikens SK Guld)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16889,15 +16881,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Konyaspor Kultur och IF P2014Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Konyaspor Kultur och IF P2014Vit)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Konyaspor Kultur och IF P2014Vit)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16954,15 +16947,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Tullinge Triangel Pojkar FK Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Tullinge Triangel Pojkar FK Blå)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Tullinge Triangel Pojkar FK Blå)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17019,15 +17013,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Vällingby AIK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Vällingby AIK 1)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Vällingby AIK 1)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17084,14 +17079,15 @@
     "formattedTeam": "F2013",
     "opponent": "Boo FF F13:8 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs Boo FF F13:8 1)",
+    "formattedTitle": "⚽🏠 F2013 (vs Boo FF F13:8 1)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -17148,15 +17144,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Saltsjöbadens IF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Saltsjöbadens IF Vit)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Saltsjöbadens IF Vit)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17213,15 +17210,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "IFK Lidingö FK C vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs IFK Lidingö FK C vit)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs IFK Lidingö FK C vit)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17278,15 +17276,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Boo FF P16:13 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Boo FF P16:13 2)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Boo FF P16:13 2)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17343,15 +17342,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "IFK Lidingö FK 8",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs IFK Lidingö FK 8)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs IFK Lidingö FK 8)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17408,15 +17408,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "Stuvsta IF 4:2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs Stuvsta IF 4:2)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs Stuvsta IF 4:2)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17473,15 +17474,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "IFK Lidingö FK 22",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs IFK Lidingö FK 22)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs IFK Lidingö FK 22)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17538,15 +17540,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Stuvsta IF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Stuvsta IF 3)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Stuvsta IF 3)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17603,14 +17606,15 @@
     "formattedTeam": "P2010",
     "opponent": "Enskede IK Rödlila2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Enskede IK Rödlila2)",
+    "formattedTitle": "⚽🏠 P2010 (vs Enskede IK Rödlila2)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -17666,13 +17670,14 @@
     "formattedTeam": "Gröndals IK",
     "opponent": "Stockholm United FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Gröndals IK (vs Stockholm United FC)",
+    "formattedTitle": "⚽🏠 Gröndals IK (vs Stockholm United FC)",
     "filterTags": [
       "team:Gröndals IK",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17728,13 +17733,14 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Grödinge SK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Grödinge SK)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Grödinge SK)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor"
+      "location:Västberga IP",
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -17791,15 +17797,16 @@
     "formattedTeam": "P2013 Gul",
     "opponent": "Konyaspor Kultur och IF P2013Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Gul (vs Konyaspor Kultur och IF P2013Blå)",
+    "formattedTitle": "⚽🏠 P2013 Gul (vs Konyaspor Kultur och IF P2013Blå)",
     "filterTags": [
       "team:P2013 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2013",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17856,15 +17863,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Boo FF P17:13 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Boo FF P17:13 1)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Boo FF P17:13 1)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -17921,80 +17929,16 @@
     "formattedTeam": "F2016 Gul",
     "opponent": "IF Brommapojkarna F16-13",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2016 Gul (vs IF Brommapojkarna F16-13)",
+    "formattedTitle": "⚽🏠 F2016 Gul (vs IF Brommapojkarna F16-13)",
     "filterTags": [
       "team:F2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
-    ]
-  },
-  {
-    "uid": "venue-match-6284213",
-    "start": "2025-09-20T08:00:00.000Z",
-    "end": "2025-09-20T09:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Vit 3 vs Stuvsta IF 2:2",
-    "description": "P2017- 1",
-    "location": "Västberga IP 116",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vit-3-stuvsta-if-22-pojkar-2017/6284213/",
-    "categories": [
-      "P2017- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6284213,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-3-stuvsta-if-22-pojkar-2017/6284213/",
-      "date": {
-        "iso8601": "2025-09-20 10:00",
-        "formatted": "10:00, 20 sep. 2025"
-      },
-      "location": "Västberga IP 116",
-      "category": "P2017- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Vit 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Vit 3"
-        }
-      },
-      "away": {
-        "team": "Stuvsta IF 2:2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8931.png",
-          "alt": "Stuvsta IF 2:2"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2017",
-    "venues": [
-      "Västberga IP"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Vit 3",
-    "color": "Vit",
-    "formattedTeam": "P2017 Vit",
-    "opponent": "Stuvsta IF 2:2",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Stuvsta IF 2:2)",
-    "filterTags": [
-      "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
-      "category:Match",
-      "gender:Pojkar",
-      "ageGroup:2017",
-      "color:Vit"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -18051,15 +17995,16 @@
     "formattedTeam": "F2014 Gul",
     "opponent": "Rönninge Salem Fotboll Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Gul (vs Rönninge Salem Fotboll Gul)",
+    "formattedTitle": "⚽🏠 F2014 Gul (vs Rönninge Salem Fotboll Gul)",
     "filterTags": [
       "team:F2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -18116,14 +18061,15 @@
     "formattedTeam": "F2012",
     "opponent": "IFK Lidingö FK C blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs IFK Lidingö FK C blå)",
+    "formattedTitle": "⚽🏠 F2012 (vs IFK Lidingö FK C blå)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -18180,15 +18126,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Värmdö IF Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Värmdö IF Svart)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Värmdö IF Svart)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -18245,14 +18192,15 @@
     "formattedTeam": "F2012",
     "opponent": "Mälarhöjden-Hägersten FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Mälarhöjden-Hägersten FF)",
+    "formattedTitle": "⚽🏠 F2012 (vs Mälarhöjden-Hägersten FF)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -18309,15 +18257,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Fisksätra IF Orange",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Fisksätra IF Orange)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Fisksätra IF Orange)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -18374,15 +18323,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Reymersholms IK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Reymersholms IK 3)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Reymersholms IK 3)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -18436,10 +18386,11 @@
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Colo-Colo International FK)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -18496,15 +18447,16 @@
     "formattedTeam": "F2017 Gul",
     "opponent": "Vega FC F2017 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2017 Gul (vs Vega FC F2017 2)",
+    "formattedTitle": "⚽🏠 F2017 Gul (vs Vega FC F2017 2)",
     "filterTags": [
       "team:F2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -18561,15 +18513,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "Hanvikens SK Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Hanvikens SK Blå)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs Hanvikens SK Blå)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -18626,15 +18579,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "IF Brommapojkarna P16-25",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs IF Brommapojkarna P16-25)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs IF Brommapojkarna P16-25)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -18691,15 +18645,16 @@
     "formattedTeam": "P2017 Vit",
     "opponent": "Segeltorps Idrottsförening Fotboll Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Vit (vs Segeltorps Idrottsförening Fotboll Röd)",
+    "formattedTitle": "⚽🏠 P2017 Vit (vs Segeltorps Idrottsförening Fotboll Röd)",
     "filterTags": [
       "team:P2017 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2017",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -18756,14 +18711,15 @@
     "formattedTeam": "F2013",
     "opponent": "Tullinge Triangel Pojkar FK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs Tullinge Triangel Pojkar FK 3)",
+    "formattedTitle": "⚽🏠 F2013 (vs Tullinge Triangel Pojkar FK 3)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -18820,15 +18776,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "Ingarö IF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs Ingarö IF Vit)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs Ingarö IF Vit)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -18885,15 +18842,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Skarpnäck FF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Skarpnäck FF Vit)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Skarpnäck FF Vit)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -18950,15 +18908,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "Djurgårdens IF FF 11 Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs Djurgårdens IF FF 11 Röd)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs Djurgårdens IF FF 11 Röd)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -19015,14 +18974,15 @@
     "formattedTeam": "P2010",
     "opponent": "AIK Framtid FK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs AIK Framtid FK 2)",
+    "formattedTitle": "⚽🏠 P2010 (vs AIK Framtid FK 2)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -19079,14 +19039,15 @@
     "formattedTeam": "P2009",
     "opponent": "Gustavsbergs IF FK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Gustavsbergs IF FK Vit)",
+    "formattedTitle": "⚽🏠 P2009 (vs Gustavsbergs IF FK Vit)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -19140,10 +19101,11 @@
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Järla IF FK)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -19197,10 +19159,11 @@
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs AC Azzurri)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -19257,15 +19220,16 @@
     "formattedTeam": "F2014 Gul",
     "opponent": "Vendelsö IK Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2014 Gul (vs Vendelsö IK Blå)",
+    "formattedTitle": "⚽🏠 F2014 Gul (vs Vendelsö IK Blå)",
     "filterTags": [
       "team:F2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -19322,15 +19286,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Huddinge IF Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Huddinge IF Röd)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Huddinge IF Röd)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -19387,15 +19352,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Rönninge Salem Fotboll Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Rönninge Salem Fotboll Gul)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Rönninge Salem Fotboll Gul)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -19452,15 +19418,16 @@
     "formattedTeam": "P2016 Vit",
     "opponent": "Täby FK 71",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Vit (vs Täby FK 71)",
+    "formattedTitle": "⚽🏠 P2016 Vit (vs Täby FK 71)",
     "filterTags": [
       "team:P2016 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2016",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -19517,15 +19484,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "IFK Lidingö FK 18",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs IFK Lidingö FK 18)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs IFK Lidingö FK 18)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -19582,15 +19550,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Grödinge SK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Grödinge SK Svart)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Grödinge SK Svart)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -19647,15 +19616,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Mälarhöjden-Hägersten FF Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Mälarhöjden-Hägersten FF Röd)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Mälarhöjden-Hägersten FF Röd)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -19712,15 +19682,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Fisksätra IF Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Fisksätra IF Gul)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Fisksätra IF Gul)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -19777,15 +19748,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "KIF Söderort 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs KIF Söderort 2)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs KIF Söderort 2)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -19842,15 +19814,16 @@
     "formattedTeam": "P2014 Gul",
     "opponent": "Boo FF 7 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2014 Gul (vs Boo FF 7 2)",
+    "formattedTitle": "⚽🏠 P2014 Gul (vs Boo FF 7 2)",
     "filterTags": [
       "team:P2014 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2014",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -19907,15 +19880,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Mälarhöjden-Hägersten FF Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Mälarhöjden-Hägersten FF Blå)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Mälarhöjden-Hägersten FF Blå)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -19972,15 +19946,16 @@
     "formattedTeam": "P2016 Gul",
     "opponent": "Stuvsta IF 1:1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2016 Gul (vs Stuvsta IF 1:1)",
+    "formattedTitle": "⚽🏠 P2016 Gul (vs Stuvsta IF 1:1)",
     "filterTags": [
       "team:P2016 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2016",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -20037,15 +20012,16 @@
     "formattedTeam": "P2017 Gul",
     "opponent": "Hanvikens SK Guld",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2017 Gul (vs Hanvikens SK Guld)",
+    "formattedTitle": "⚽🏠 P2017 Gul (vs Hanvikens SK Guld)",
     "filterTags": [
       "team:P2017 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2017",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -20102,15 +20078,16 @@
     "formattedTeam": "P2015 Vit",
     "opponent": "Värmdö IF Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Vit (vs Värmdö IF Blå)",
+    "formattedTitle": "⚽🏠 P2015 Vit (vs Värmdö IF Blå)",
     "filterTags": [
       "team:P2015 Vit",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Vit",
       "ageGroup:2015",
-      "color:Vit"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -20167,14 +20144,15 @@
     "formattedTeam": "F2013",
     "opponent": "Fisksätra IF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2013 (vs Fisksätra IF Vit)",
+    "formattedTitle": "⚽🏠 F2013 (vs Fisksätra IF Vit)",
     "filterTags": [
       "team:F2013",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2013",
       "gender:Flickor",
-      "ageGroup:2013"
+      "match:Home"
     ]
   },
   {
@@ -20231,15 +20209,16 @@
     "formattedTeam": "P2015 Gul",
     "opponent": "Gustavsbergs IF FK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2015 Gul (vs Gustavsbergs IF FK 1)",
+    "formattedTitle": "⚽🏠 P2015 Gul (vs Gustavsbergs IF FK 1)",
     "filterTags": [
       "team:P2015 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2015",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -20296,15 +20275,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Norrtulls SK Svart 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Norrtulls SK Svart 2)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Norrtulls SK Svart 2)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -20361,14 +20341,15 @@
     "formattedTeam": "P2010",
     "opponent": "IF Brommapojkarna 10-31",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs IF Brommapojkarna 10-31)",
+    "formattedTitle": "⚽🏠 P2010 (vs IF Brommapojkarna 10-31)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -20424,13 +20405,14 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "IFK Stockholm FK Dam",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs IFK Stockholm FK Dam)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs IFK Stockholm FK Dam)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Flickor"
+      "location:Västberga IP",
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -20487,14 +20469,15 @@
     "formattedTeam": "F2012",
     "opponent": "Djurgårdens IF FF 11",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Djurgårdens IF FF 11)",
+    "formattedTitle": "⚽🏠 F2012 (vs Djurgårdens IF FF 11)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -20551,14 +20534,15 @@
     "formattedTeam": "F2012",
     "opponent": "Sickla IF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Sickla IF Vit)",
+    "formattedTitle": "⚽🏠 F2012 (vs Sickla IF Vit)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -20612,10 +20596,11 @@
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs IK Makkabi)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -20672,15 +20657,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Hanvikens SK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Hanvikens SK Svart)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Hanvikens SK Svart)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -20737,15 +20723,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Enskede IK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Enskede IK 3)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Enskede IK 3)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -20802,15 +20789,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Reymersholms IK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Reymersholms IK 2)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Reymersholms IK 2)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -20866,13 +20854,14 @@
     "formattedTeam": "Gröndals IK",
     "opponent": "Essinge Rovers IK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Gröndals IK (vs Essinge Rovers IK)",
+    "formattedTitle": "⚽🏠 Gröndals IK (vs Essinge Rovers IK)",
     "filterTags": [
       "team:Gröndals IK",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -20926,10 +20915,11 @@
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Hallunda IF)",
     "filterTags": [
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar"
+      "location:Västberga IP",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -20986,15 +20976,16 @@
     "formattedTeam": "P2012 Gul",
     "opponent": "Älvsjö AIK FF 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Gul (vs Älvsjö AIK FF 4)",
+    "formattedTitle": "⚽🏠 P2012 Gul (vs Älvsjö AIK FF 4)",
     "filterTags": [
       "team:P2012 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -21051,15 +21042,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Hammarby IF FF 6 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Hammarby IF FF 6 vit)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Hammarby IF FF 6 vit)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -21116,14 +21108,15 @@
     "formattedTeam": "P2010",
     "opponent": "Djurgårdens IF FF 12",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Djurgårdens IF FF 12)",
+    "formattedTitle": "⚽🏠 P2010 (vs Djurgårdens IF FF 12)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -21179,15 +21172,16 @@
     "color": "Gul",
     "formattedTeam": "P2012 Gul",
     "activity": "Match",
-    "formattedTitle": "🆚 External (IFK Aspudden-Tellus Gul 2 vs Ospecificerat lag (11))",
+    "formattedTitle": "⚽ External (IFK Aspudden-Tellus Gul 2 vs Ospecificerat lag (11))",
     "filterTags": [
       "team:P2012 Gul",
-      "match:External",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2012",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -21244,14 +21238,15 @@
     "formattedTeam": "P2010",
     "opponent": "Djurgårdens IF FF 10",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Djurgårdens IF FF 10)",
+    "formattedTitle": "⚽🏠 P2010 (vs Djurgårdens IF FF 10)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -21308,14 +21303,15 @@
     "formattedTeam": "P2009",
     "opponent": "Karlbergs BK Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Karlbergs BK Röd)",
+    "formattedTitle": "⚽🏠 P2009 (vs Karlbergs BK Röd)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -21372,14 +21368,15 @@
     "formattedTeam": "F2012",
     "opponent": "Djurgårdens IF FF 10",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2012 (vs Djurgårdens IF FF 10)",
+    "formattedTitle": "⚽🏠 F2012 (vs Djurgårdens IF FF 10)",
     "filterTags": [
       "team:F2012",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
+      "location:Västberga IP",
+      "ageGroup:2012",
       "gender:Flickor",
-      "ageGroup:2012"
+      "match:Home"
     ]
   },
   {
@@ -21436,15 +21433,16 @@
     "formattedTeam": "P2011 Gul",
     "opponent": "Värmdö IF Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Gul (vs Värmdö IF Svart)",
+    "formattedTitle": "⚽🏠 P2011 Gul (vs Värmdö IF Svart)",
     "filterTags": [
       "team:P2011 Gul",
-      "match:Home",
-      "location:Västberga IP",
+      "activity:Match",
       "category:Match",
-      "gender:Pojkar",
+      "location:Västberga IP",
+      "color:Gul",
       "ageGroup:2011",
-      "color:Gul"
+      "gender:Pojkar",
+      "match:Home"
     ]
   }
 ]

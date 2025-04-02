@@ -53,14 +53,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Hagalunds IS",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Hagalunds IS)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Hagalunds IS)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -118,15 +119,16 @@
     "formattedTeam": "P2025",
     "opponent": "Djurgårdens TFF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2025 (vs Djurgårdens TFF)",
+    "formattedTitle": "⚽🏠 P2025 (vs Djurgårdens TFF)",
     "filterTags": [
       "team:P2025",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2025",
       "gender:Pojkar",
-      "ageGroup:2025"
+      "match:Home"
     ]
   },
   {
@@ -181,11 +183,12 @@
     "activity": "Match",
     "formattedTitle": " (Stockholm StreetSoccer FF vs Handelskamraternas IS)",
     "filterTags": [
-      "match:External",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -243,16 +246,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "IFK Haninge H Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs IFK Haninge H Blå)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs IFK Haninge H Blå)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -310,15 +314,16 @@
     "formattedTeam": "P2010",
     "opponent": "Älvsjö AIK FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Älvsjö AIK FF 3)",
+    "formattedTitle": "⚽🏠 P2010 (vs Älvsjö AIK FF 3)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -376,15 +381,16 @@
     "formattedTeam": "P2010",
     "opponent": "IF Brommapojkarna 10-5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs IF Brommapojkarna 10-5)",
+    "formattedTitle": "⚽🏠 P2010 (vs IF Brommapojkarna 10-5)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -441,14 +447,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Västerhaninge IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Västerhaninge IF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Västerhaninge IF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -505,14 +512,15 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Tullinge Triangel Pojkar FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Tullinge Triangel Pojkar FK)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Tullinge Triangel Pojkar FK)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -570,15 +578,16 @@
     "formattedTeam": "F2011",
     "opponent": "Skogås-Trångsunds FF Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Skogås-Trångsunds FF Blå)",
+    "formattedTitle": "⚽🏠 F2011 (vs Skogås-Trångsunds FF Blå)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -636,16 +645,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Boo FF 31",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Boo FF 31)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Boo FF 31)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -703,15 +713,16 @@
     "formattedTeam": "P2011",
     "opponent": "Djurgårdens IF FF 11",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Djurgårdens IF FF 11)",
+    "formattedTitle": "⚽🏠 P2011 (vs Djurgårdens IF FF 11)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -769,15 +780,78 @@
     "formattedTeam": "F2011",
     "opponent": "Mälarhöjden-Hägersten FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Mälarhöjden-Hägersten FF 3)",
+    "formattedTitle": "⚽🏠 F2011 (vs Mälarhöjden-Hägersten FF 3)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
+    ]
+  },
+  {
+    "uid": "venue-match-6254224",
+    "start": "2025-04-12T12:00:00.000Z",
+    "end": "2025-04-12T13:30:00.000Z",
+    "title": "FC Stockholm Internazionale vs Älvsjö AIK FF",
+    "description": "P2007-kval till P19- B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/fc-stockholm-internazionale-alvsjo-aik-ff-pojkar-2007-kval-till-p19/6254224/",
+    "categories": [
+      "P2007-kval till P19- B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6254224,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/fc-stockholm-internazionale-alvsjo-aik-ff-pojkar-2007-kval-till-p19/6254224/",
+      "date": {
+        "iso8601": "2025-04-12 14:00",
+        "formatted": "14:00, 12 apr. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P2007-kval till P19- B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "FC Stockholm Internazionale",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12338.png",
+          "alt": "FC Stockholm Internazionale"
+        }
+      },
+      "away": {
+        "team": "Älvsjö AIK FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7708.png",
+          "alt": "Älvsjö AIK FF"
+        }
+      }
+    },
+    "gender": "Pojkar",
+    "ageGroup": "2007",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (FC Stockholm Internazionale vs Älvsjö AIK FF)",
+    "filterTags": [
+      "activity:Match",
+      "category:Match",
+      "location:Aspuddens IP",
+      "location:Aspuddens IP 1",
+      "ageGroup:2007",
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -834,14 +908,15 @@
     "formattedTeam": "BK Buffalo",
     "opponent": "Spårvägens FF ",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 BK Buffalo (vs Spårvägens FF)",
+    "formattedTitle": "⚽🏠 BK Buffalo (vs Spårvägens FF)",
     "filterTags": [
       "team:BK Buffalo",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -899,16 +974,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Gustavsbergs IF FK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Gustavsbergs IF FK 1)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Gustavsbergs IF FK 1)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -966,15 +1042,16 @@
     "formattedTeam": "P2011",
     "opponent": "Värmdö IF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Värmdö IF Vit)",
+    "formattedTitle": "⚽🏠 P2011 (vs Värmdö IF Vit)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -1031,14 +1108,15 @@
     "formattedTeam": "IFK Aspudden-Tellus DJ",
     "opponent": "Skogås-Trångsunds FF Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus DJ (vs Skogås-Trångsunds FF Röd)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus DJ (vs Skogås-Trångsunds FF Röd)",
     "filterTags": [
       "team:IFK Aspudden-Tellus DJ",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -1095,14 +1173,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Bromma/Nockebyhov 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Bromma/Nockebyhov 2)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Bromma/Nockebyhov 2)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -1159,14 +1238,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "AC Azzurri",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs AC Azzurri)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs AC Azzurri)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1223,81 +1303,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Segeltorps Idrottsförening Fotboll",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Segeltorps Idrottsförening Fotboll)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Segeltorps Idrottsförening Fotboll)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
-    ]
-  },
-  {
-    "uid": "venue-match-6252232",
-    "start": "2025-04-21T10:00:00.000Z",
-    "end": "2025-04-21T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Röd 3 vs Nynäshamns IF FK 1 vit",
-    "description": "P2012- 3I",
-    "location": "Aspuddens IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-nynashamns-if-fk-1-vit-pojkar-2012/6252232/",
-    "categories": [
-      "P2012- 3I"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6252232,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-3-nynashamns-if-fk-1-vit-pojkar-2012/6252232/",
-      "date": {
-        "iso8601": "2025-04-21 12:00",
-        "formatted": "12:00, 21 apr. 2025"
-      },
-      "location": "Aspuddens IP 11",
-      "category": "P2012- 3I",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Röd 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Röd 3"
-        }
-      },
-      "away": {
-        "team": "Nynäshamns IF FK 1 vit",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8033.png",
-          "alt": "Nynäshamns IF FK 1 vit"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2012",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Röd 3",
-    "color": "Röd",
-    "formattedTeam": "P2012 Röd",
-    "opponent": "Nynäshamns IF FK 1 vit",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Nynäshamns IF FK 1 vit)",
-    "filterTags": [
-      "team:P2012 Röd",
-      "match:Home",
-      "location:Aspuddens IP",
-      "location:Aspuddens IP 1",
-      "category:Match",
       "gender:Pojkar",
-      "ageGroup:2012",
-      "color:Röd"
+      "match:Home"
     ]
   },
   {
@@ -1355,15 +1369,16 @@
     "formattedTeam": "P2010",
     "opponent": "IFK Lidingö FK C",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs IFK Lidingö FK C)",
+    "formattedTitle": "⚽🏠 P2010 (vs IFK Lidingö FK C)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -1418,11 +1433,12 @@
     "activity": "Match",
     "formattedTitle": " (Stockholm StreetSoccer FF vs Dardania Stockholm FF)",
     "filterTags": [
-      "match:External",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -1479,14 +1495,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "IFK Tumba FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs IFK Tumba FK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs IFK Tumba FK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1544,15 +1561,16 @@
     "formattedTeam": "P2009",
     "opponent": "Karlbergs BK Vit 11",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Karlbergs BK Vit 11)",
+    "formattedTitle": "⚽🏠 P2009 (vs Karlbergs BK Vit 11)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -1609,14 +1627,15 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Tungelsta IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Tungelsta IF)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Tungelsta IF)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1674,16 +1693,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "IF Brommapojkarna",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs IF Brommapojkarna)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs IF Brommapojkarna)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1741,16 +1761,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Mälarhöjden-Hägersten FF Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Mälarhöjden-Hägersten FF Gul)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Mälarhöjden-Hägersten FF Gul)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1807,16 +1828,85 @@
     "color": "Röd",
     "formattedTeam": "P2012 Röd",
     "activity": "Match",
-    "formattedTitle": "🆚 External (IFK Aspudden-Tellus Röd 1 vs Gröndals IK Vit)",
+    "formattedTitle": "⚽ External (IFK Aspudden-Tellus Röd 1 vs Gröndals IK Vit)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:External",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:External"
+    ]
+  },
+  {
+    "uid": "venue-match-6252232",
+    "start": "2025-04-26T08:30:00.000Z",
+    "end": "2025-04-26T10:00:00.000Z",
+    "title": "IFK Aspudden-Tellus Röd 3 vs Nynäshamns IF FK 1 vit",
+    "description": "P2012- 3I",
+    "location": "Aspuddens IP 12",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-nynashamns-if-fk-1-vit-pojkar-2012/6252232/",
+    "categories": [
+      "P2012- 3I"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6252232,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-3-nynashamns-if-fk-1-vit-pojkar-2012/6252232/",
+      "date": {
+        "iso8601": "2025-04-26 10:30",
+        "formatted": "10:30, 26 apr. 2025"
+      },
+      "location": "Aspuddens IP 12",
+      "category": "P2012- 3I",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Röd 3",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Röd 3"
+        }
+      },
+      "away": {
+        "team": "Nynäshamns IF FK 1 vit",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8033.png",
+          "alt": "Nynäshamns IF FK 1 vit"
+        }
+      }
+    },
+    "gender": "Pojkar",
+    "ageGroup": "2012",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Röd 3",
+    "color": "Röd",
+    "formattedTeam": "P2012 Röd",
+    "opponent": "Nynäshamns IF FK 1 vit",
+    "activity": "Match",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Nynäshamns IF FK 1 vit)",
+    "filterTags": [
+      "team:P2012 Röd",
+      "activity:Match",
+      "category:Match",
+      "location:Aspuddens IP",
+      "location:Aspuddens IP 1",
+      "color:Röd",
+      "ageGroup:2012",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1873,14 +1963,15 @@
     "formattedTeam": "BK Buffalo",
     "opponent": "Tullinge Triangel Pojkar FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 BK Buffalo (vs Tullinge Triangel Pojkar FK)",
+    "formattedTitle": "⚽🏠 BK Buffalo (vs Tullinge Triangel Pojkar FK)",
     "filterTags": [
       "team:BK Buffalo",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -1937,14 +2028,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Karlbergs BK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Karlbergs BK Vit)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Karlbergs BK Vit)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -2002,16 +2094,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Svensk-Palestinska FF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Svensk-Palestinska FF 1)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Svensk-Palestinska FF 1)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2069,16 +2162,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Karlbergs BK Grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Karlbergs BK Grön)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Karlbergs BK Grön)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2136,15 +2230,16 @@
     "formattedTeam": "P2011",
     "opponent": "IF Brommapojkarna 11-26",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs IF Brommapojkarna 11-26)",
+    "formattedTitle": "⚽🏠 P2011 (vs IF Brommapojkarna 11-26)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -2202,15 +2297,83 @@
     "formattedTeam": "P2010",
     "opponent": "IFK Lidingö FK 8",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs IFK Lidingö FK 8)",
+    "formattedTitle": "⚽🏠 P2010 (vs IFK Lidingö FK 8)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
+    ]
+  },
+  {
+    "uid": "venue-match-6242743",
+    "start": "2025-04-27T12:00:00.000Z",
+    "end": "2025-04-27T13:30:00.000Z",
+    "title": "Gröndals IK 1 vs IK Frej Täby FF P17",
+    "description": "P2008- 2C",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/grondals-ik-1-ik-frej-taby-ff-p17-pojkar-2008/6242743/",
+    "categories": [
+      "P2008- 2C"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6242743,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/grondals-ik-1-ik-frej-taby-ff-p17-pojkar-2008/6242743/",
+      "date": {
+        "iso8601": "2025-04-27 14:00",
+        "formatted": "14:00, 27 apr. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P2008- 2C",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Gröndals IK 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
+          "alt": "Gröndals IK 1"
+        }
+      },
+      "away": {
+        "team": "IK Frej Täby FF P17",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13076.png",
+          "alt": "IK Frej Täby FF P17"
+        }
+      }
+    },
+    "gender": "Pojkar",
+    "ageGroup": "2008",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "match": "Home",
+    "team": "Gröndals IK 1",
+    "color": "unknown",
+    "formattedTeam": "P2008",
+    "opponent": "IK Frej Täby FF P17",
+    "activity": "Match",
+    "formattedTitle": "⚽🏠 P2008 (vs IK Frej Täby FF P17)",
+    "filterTags": [
+      "team:P2008",
+      "activity:Match",
+      "category:Match",
+      "location:Aspuddens IP",
+      "location:Aspuddens IP 1",
+      "ageGroup:2008",
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2267,14 +2430,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Stuvsta FF ",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Stuvsta FF)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Stuvsta FF)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -2331,14 +2495,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "FK Bromma",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs FK Bromma)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs FK Bromma)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2395,80 +2560,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Stuvsta IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Stuvsta IF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Stuvsta IF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
-    ]
-  },
-  {
-    "uid": "venue-match-6258380",
-    "start": "2025-05-03T00:00:00.000Z",
-    "end": "2025-05-03T01:30:00.000Z",
-    "title": "Ospecificerat lag (6) vs Sickla IF Blå",
-    "description": "F2011- 3B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-sickla-if-bla-flickor-2011/6258380/",
-    "categories": [
-      "F2011- 3B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6258380,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ospecificerat-lag-6-sickla-if-bla-flickor-2011/6258380/",
-      "date": {
-        "iso8601": "2025-05-03",
-        "formatted": "3 maj 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "F2011- 3B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Ospecificerat lag (6)",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/nationalsm/Ospecificerat lag (6).png",
-          "alt": "Ospecificerat lag (6)"
-        }
-      },
-      "away": {
-        "team": "Sickla IF Blå",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11612.png",
-          "alt": "Sickla IF Blå"
-        }
-      }
-    },
-    "gender": "Flickor",
-    "ageGroup": "2011",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "match": "Home",
-    "team": "Ospecificerat lag (6)",
-    "color": "unknown",
-    "formattedTeam": "F2011",
-    "opponent": "Sickla IF Blå",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Sickla IF Blå)",
-    "filterTags": [
-      "team:F2011",
-      "match:Home",
-      "location:Aspuddens IP",
-      "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor",
-      "ageGroup:2011"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2526,16 +2626,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Vendelsö IK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Vendelsö IK Vit)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Vendelsö IK Vit)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2593,16 +2694,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Örby IS Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Örby IS Röd)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Örby IS Röd)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2659,14 +2761,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Skogås-Trångsunds FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Skogås-Trångsunds FF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Skogås-Trångsunds FF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -2724,15 +2827,16 @@
     "formattedTeam": "P2025",
     "opponent": "Arameisk-Syrianska IF ",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2025 (vs Arameisk-Syrianska IF)",
+    "formattedTitle": "⚽🏠 P2025 (vs Arameisk-Syrianska IF)",
     "filterTags": [
       "team:P2025",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2025",
       "gender:Pojkar",
-      "ageGroup:2025"
+      "match:Home"
     ]
   },
   {
@@ -2790,16 +2894,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "IF Brommapojkarna 2013-14",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs IF Brommapojkarna 2013-14)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs IF Brommapojkarna 2013-14)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -2857,15 +2962,16 @@
     "formattedTeam": "P2009",
     "opponent": "Boo FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Boo FF 2)",
+    "formattedTitle": "⚽🏠 P2009 (vs Boo FF 2)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -2922,14 +3028,15 @@
     "formattedTeam": "IFK Aspudden-Tellus DJ",
     "opponent": "Hammarby IF FF U",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus DJ (vs Hammarby IF FF U)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus DJ (vs Hammarby IF FF U)",
     "filterTags": [
       "team:IFK Aspudden-Tellus DJ",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -2986,14 +3093,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Västerhaninge IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Västerhaninge IF)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Västerhaninge IF)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -3050,14 +3158,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "IFK Lidingö FK FA17",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs IFK Lidingö FK FA17)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs IFK Lidingö FK FA17)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -3114,14 +3223,15 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Vega FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Vega FC)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Vega FC)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3179,16 +3289,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Saltsjö-Boo IF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Saltsjö-Boo IF 1)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Saltsjö-Boo IF 1)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3246,16 +3357,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Högalids IF Grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Högalids IF Grön)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Högalids IF Grön)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3313,16 +3425,17 @@
     "formattedTeam": "P2011 Svart",
     "opponent": "Stureby SK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Svart (vs Stureby SK)",
+    "formattedTitle": "⚽🏠 P2011 Svart (vs Stureby SK)",
     "filterTags": [
       "team:P2011 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2011",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3379,14 +3492,15 @@
     "formattedTeam": "BK Buffalo",
     "opponent": "Botkyrka Kuluspor FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 BK Buffalo (vs Botkyrka Kuluspor FF)",
+    "formattedTitle": "⚽🏠 BK Buffalo (vs Botkyrka Kuluspor FF)",
     "filterTags": [
       "team:BK Buffalo",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3441,11 +3555,12 @@
     "activity": "Match",
     "formattedTitle": " (Stockholm StreetSoccer FF vs IK Makkabi)",
     "filterTags": [
-      "match:External",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -3503,16 +3618,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Boo FF 13",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Boo FF 13)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Boo FF 13)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3570,16 +3686,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Stuvsta IF 2:3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Stuvsta IF 2:3)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Stuvsta IF 2:3)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3637,15 +3754,16 @@
     "formattedTeam": "P2011",
     "opponent": "Segeltorps Idrottsförening Fotboll Mörkblå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Segeltorps Idrottsförening Fotboll Mörkblå)",
+    "formattedTitle": "⚽🏠 P2011 (vs Segeltorps Idrottsförening Fotboll Mörkblå)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -3703,15 +3821,16 @@
     "formattedTeam": "F2011",
     "opponent": "Gustavsbergs IF FK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Gustavsbergs IF FK 1)",
+    "formattedTitle": "⚽🏠 F2011 (vs Gustavsbergs IF FK 1)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -3769,15 +3888,16 @@
     "formattedTeam": "P2009",
     "opponent": "Rågsveds IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Rågsveds IF)",
+    "formattedTitle": "⚽🏠 P2009 (vs Rågsveds IF)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -3834,14 +3954,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Preben BoIS",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Preben BoIS)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Preben BoIS)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -3899,15 +4020,16 @@
     "formattedTeam": "P2008",
     "opponent": "Enskede IK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2008 (vs Enskede IK 1)",
+    "formattedTitle": "⚽🏠 P2008 (vs Enskede IK 1)",
     "filterTags": [
       "team:P2008",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2008",
       "gender:Pojkar",
-      "ageGroup:2008"
+      "match:Home"
     ]
   },
   {
@@ -3964,14 +4086,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Enskede FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Enskede FF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Enskede FF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4029,16 +4152,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Spånga IS FK 77",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Spånga IS FK 77)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Spånga IS FK 77)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4096,16 +4220,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Stureby SK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Stureby SK Vit)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Stureby SK Vit)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4163,15 +4288,16 @@
     "formattedTeam": "P2010",
     "opponent": "Saltsjöbadens IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Saltsjöbadens IF)",
+    "formattedTitle": "⚽🏠 P2010 (vs Saltsjöbadens IF)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -4228,14 +4354,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Älta IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Älta IF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Älta IF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -4293,15 +4420,16 @@
     "formattedTeam": "P2025",
     "opponent": "Örby IS",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2025 (vs Örby IS)",
+    "formattedTitle": "⚽🏠 P2025 (vs Örby IS)",
     "filterTags": [
       "team:P2025",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2025",
       "gender:Pojkar",
-      "ageGroup:2025"
+      "match:Home"
     ]
   },
   {
@@ -4359,15 +4487,16 @@
     "formattedTeam": "F2011",
     "opponent": "Hammarby IF FF 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Hammarby IF FF 4)",
+    "formattedTitle": "⚽🏠 F2011 (vs Hammarby IF FF 4)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -4425,16 +4554,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Skå IK & Bygdegård Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Skå IK & Bygdegård Gul)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Skå IK & Bygdegård Gul)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4492,15 +4622,16 @@
     "formattedTeam": "P2009",
     "opponent": "Hammarby IF FF 14",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Hammarby IF FF 14)",
+    "formattedTitle": "⚽🏠 P2009 (vs Hammarby IF FF 14)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -4558,15 +4689,16 @@
     "formattedTeam": "P2008",
     "opponent": "Huddinge IF P17U",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2008 (vs Huddinge IF P17U)",
+    "formattedTitle": "⚽🏠 P2008 (vs Huddinge IF P17U)",
     "filterTags": [
       "team:P2008",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2008",
       "gender:Pojkar",
-      "ageGroup:2008"
+      "match:Home"
     ]
   },
   {
@@ -4623,14 +4755,15 @@
     "formattedTeam": "IFK Aspudden-Tellus DJ",
     "opponent": "Älvsjö AIK FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus DJ (vs Älvsjö AIK FF 2)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus DJ (vs Älvsjö AIK FF 2)",
     "filterTags": [
       "team:IFK Aspudden-Tellus DJ",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -4687,14 +4820,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Sickla IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Sickla IF)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Sickla IF)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -4751,14 +4885,15 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Atletic Blåsut FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Atletic Blåsut FC)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Atletic Blåsut FC)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4816,16 +4951,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Mörtnäs IF Grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Mörtnäs IF Grön)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Mörtnäs IF Grön)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4883,16 +5019,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "IF Brommapojkarna 2013-19",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs IF Brommapojkarna 2013-19)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs IF Brommapojkarna 2013-19)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -4950,16 +5087,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Karlbergs BK 31",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Karlbergs BK 31)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Karlbergs BK 31)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5017,16 +5155,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Arameisk-Syrianska IF - Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Arameisk-Syrianska IF - Svart)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Arameisk-Syrianska IF - Svart)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5084,15 +5223,16 @@
     "formattedTeam": "F2011",
     "opponent": "Saltsjöbadens IF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Saltsjöbadens IF Vit)",
+    "formattedTitle": "⚽🏠 F2011 (vs Saltsjöbadens IF Vit)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -5149,14 +5289,15 @@
     "formattedTeam": "BK Buffalo",
     "opponent": "Tungelsta IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 BK Buffalo (vs Tungelsta IF)",
+    "formattedTitle": "⚽🏠 BK Buffalo (vs Tungelsta IF)",
     "filterTags": [
       "team:BK Buffalo",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5213,14 +5354,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Ängby IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Ängby IF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Ängby IF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -5278,16 +5420,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Ösmo GIF FK svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Ösmo GIF FK svart)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Ösmo GIF FK svart)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5345,16 +5488,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Newroz FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Newroz FC)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Newroz FC)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5412,81 +5556,16 @@
     "formattedTeam": "P2011",
     "opponent": "Konyaspor Kultur och IF U14 Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Konyaspor Kultur och IF U14 Vit)",
+    "formattedTitle": "⚽🏠 P2011 (vs Konyaspor Kultur och IF U14 Vit)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
-    ]
-  },
-  {
-    "uid": "venue-match-6245416",
-    "start": "2025-05-25T10:00:00.000Z",
-    "end": "2025-05-25T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 3 vs Djurgårdens IF FF 11 Röd",
-    "description": "P2010- 3C",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-djurgardens-if-ff-11-rod-pojkar-2010/6245416/",
-    "categories": [
-      "P2010- 3C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6245416,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-3-djurgardens-if-ff-11-rod-pojkar-2010/6245416/",
-      "date": {
-        "iso8601": "2025-05-25 12:00",
-        "formatted": "12:00, 25 maj 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010- 3C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 3"
-        }
-      },
-      "away": {
-        "team": "Djurgårdens IF FF 11 Röd",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
-          "alt": "Djurgårdens IF FF 11 Röd"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 3",
-    "color": "unknown",
-    "formattedTeam": "P2010",
-    "opponent": "Djurgårdens IF FF 11 Röd",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Djurgårdens IF FF 11 Röd)",
-    "filterTags": [
-      "team:P2010",
-      "match:Home",
-      "location:Aspuddens IP",
-      "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -5544,15 +5623,16 @@
     "formattedTeam": "P2009",
     "opponent": "Rönninge Salem Fotboll U 16",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Rönninge Salem Fotboll U 16)",
+    "formattedTitle": "⚽🏠 P2009 (vs Rönninge Salem Fotboll U 16)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -5609,14 +5689,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "FC Plavi Team",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs FC Plavi Team)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs FC Plavi Team)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5674,15 +5755,16 @@
     "formattedTeam": "P2025",
     "opponent": "FBK Karlstad ",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2025 (vs FBK Karlstad)",
+    "formattedTitle": "⚽🏠 P2025 (vs FBK Karlstad)",
     "filterTags": [
       "team:P2025",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2025",
       "gender:Pojkar",
-      "ageGroup:2025"
+      "match:Home"
     ]
   },
   {
@@ -5739,14 +5821,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Bagarmossen Kärrtorp BK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Bagarmossen Kärrtorp BK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Bagarmossen Kärrtorp BK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5804,15 +5887,16 @@
     "formattedTeam": "F2011",
     "opponent": "Norsborg FC 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Norsborg FC 1)",
+    "formattedTitle": "⚽🏠 F2011 (vs Norsborg FC 1)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -5870,16 +5954,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Arameisk-Syrianska IF 1 Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Arameisk-Syrianska IF 1 Gul)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Arameisk-Syrianska IF 1 Gul)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -5937,16 +6022,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Årsta FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Årsta FF 2)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Årsta FF 2)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6004,15 +6090,16 @@
     "formattedTeam": "P2010",
     "opponent": "Årsta FF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Årsta FF 1)",
+    "formattedTitle": "⚽🏠 P2010 (vs Årsta FF 1)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -6069,14 +6156,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Älvsjö AIK DFF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Älvsjö AIK DFF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Älvsjö AIK DFF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -6134,15 +6222,16 @@
     "formattedTeam": "P2009",
     "opponent": "Örby IS",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Örby IS)",
+    "formattedTitle": "⚽🏠 P2009 (vs Örby IS)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -6199,14 +6288,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Ösmo GIF FK ",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Ösmo GIF FK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Ösmo GIF FK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6264,16 +6354,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Hammarby IF FF 21 grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Hammarby IF FF 21 grön)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Hammarby IF FF 21 grön)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6331,16 +6422,17 @@
     "formattedTeam": "P2011 Svart",
     "opponent": "Segeltorps Idrottsförening Fotboll Orange",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Svart (vs Segeltorps Idrottsförening Fotboll Orange)",
+    "formattedTitle": "⚽🏠 P2011 Svart (vs Segeltorps Idrottsförening Fotboll Orange)",
     "filterTags": [
       "team:P2011 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2011",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6398,15 +6490,16 @@
     "formattedTeam": "P2010",
     "opponent": "Norrtulls SK 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Norrtulls SK 4)",
+    "formattedTitle": "⚽🏠 P2010 (vs Norrtulls SK 4)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -6464,15 +6557,16 @@
     "formattedTeam": "P2025",
     "opponent": "Karlslunds IF FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2025 (vs Karlslunds IF FK)",
+    "formattedTitle": "⚽🏠 P2025 (vs Karlslunds IF FK)",
     "filterTags": [
       "team:P2025",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2025",
       "gender:Pojkar",
-      "ageGroup:2025"
+      "match:Home"
     ]
   },
   {
@@ -6530,15 +6624,16 @@
     "formattedTeam": "P2008",
     "opponent": "Hammarby TFF Herrfotboll 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2008 (vs Hammarby TFF Herrfotboll 3)",
+    "formattedTitle": "⚽🏠 P2008 (vs Hammarby TFF Herrfotboll 3)",
     "filterTags": [
       "team:P2008",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2008",
       "gender:Pojkar",
-      "ageGroup:2008"
+      "match:Home"
     ]
   },
   {
@@ -6595,14 +6690,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Ösmo GIF FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Ösmo GIF FK)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Ösmo GIF FK)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -6659,14 +6755,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Huddinge IF U Dam",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Huddinge IF U Dam)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Huddinge IF U Dam)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -6724,15 +6821,16 @@
     "formattedTeam": "P2011",
     "opponent": "Hammarby IF FF 9 grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Hammarby IF FF 9 grön)",
+    "formattedTitle": "⚽🏠 P2011 (vs Hammarby IF FF 9 grön)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -6790,15 +6888,16 @@
     "formattedTeam": "F2011",
     "opponent": "Älta IF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Älta IF 3)",
+    "formattedTitle": "⚽🏠 F2011 (vs Älta IF 3)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -6855,14 +6954,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Westermalms IF FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Westermalms IF FK)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Westermalms IF FK)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6920,16 +7020,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Hammarby IF FF 26 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Hammarby IF FF 26 vit)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Hammarby IF FF 26 vit)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -6987,16 +7088,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Segeltorps Idrottsförening Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Segeltorps Idrottsförening Fotboll Vit)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Segeltorps Idrottsförening Fotboll Vit)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7054,15 +7156,16 @@
     "formattedTeam": "P2011",
     "opponent": "Boo FF 5",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Boo FF 5)",
+    "formattedTitle": "⚽🏠 P2011 (vs Boo FF 5)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -7119,14 +7222,15 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Sörskogens IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Sörskogens IF)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Sörskogens IF)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7183,14 +7287,15 @@
     "formattedTeam": "BK Buffalo",
     "opponent": "Mälarhöjden-Hägersten FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 BK Buffalo (vs Mälarhöjden-Hägersten FF)",
+    "formattedTitle": "⚽🏠 BK Buffalo (vs Mälarhöjden-Hägersten FF)",
     "filterTags": [
       "team:BK Buffalo",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7248,16 +7353,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Tyresö FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Tyresö FF 2)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Tyresö FF 2)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7315,16 +7421,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Hässelby SK FF P13 Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Hässelby SK FF P13 Röd)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Hässelby SK FF P13 Röd)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7382,15 +7489,16 @@
     "formattedTeam": "P2010",
     "opponent": "Mälarhöjden-Hägersten FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Mälarhöjden-Hägersten FF 3)",
+    "formattedTitle": "⚽🏠 P2010 (vs Mälarhöjden-Hägersten FF 3)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -7448,15 +7556,16 @@
     "formattedTeam": "P2009",
     "opponent": "IF Brommapojkarna 09-6",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs IF Brommapojkarna 09-6)",
+    "formattedTitle": "⚽🏠 P2009 (vs IF Brommapojkarna 09-6)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -7513,14 +7622,15 @@
     "formattedTeam": "IFK Aspudden-Tellus DJ",
     "opponent": "Enskede IK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus DJ (vs Enskede IK 1)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus DJ (vs Enskede IK 1)",
     "filterTags": [
       "team:IFK Aspudden-Tellus DJ",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -7577,14 +7687,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "IF Brommapojkarna 09-4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs IF Brommapojkarna 09-4)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs IF Brommapojkarna 09-4)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -7641,14 +7752,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Norrtulls SK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Norrtulls SK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Norrtulls SK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7705,14 +7817,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Ursvik IK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Ursvik IK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Ursvik IK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7770,16 +7883,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Mälarhöjden-Hägersten FF Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Mälarhöjden-Hägersten FF Gul)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Mälarhöjden-Hägersten FF Gul)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7837,16 +7951,17 @@
     "formattedTeam": "P2011 Svart",
     "opponent": "IFK Tumba FK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Svart (vs IFK Tumba FK 1)",
+    "formattedTitle": "⚽🏠 P2011 Svart (vs IFK Tumba FK 1)",
     "filterTags": [
       "team:P2011 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2011",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -7903,14 +8018,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Hangvar SK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Hangvar SK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Hangvar SK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -7967,80 +8083,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Skå IK & Bygdegård",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Skå IK & Bygdegård)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Skå IK & Bygdegård)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
-    ]
-  },
-  {
-    "uid": "venue-match-6258414",
-    "start": "2025-06-15T00:00:00.000Z",
-    "end": "2025-06-15T01:30:00.000Z",
-    "title": "Ospecificerat lag (6) vs IFK Stockholm FK 1",
-    "description": "F2011- 3B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-ifk-stockholm-fk-1-flickor-2011/6258414/",
-    "categories": [
-      "F2011- 3B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6258414,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ospecificerat-lag-6-ifk-stockholm-fk-1-flickor-2011/6258414/",
-      "date": {
-        "iso8601": "2025-06-15",
-        "formatted": "15 juni 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "F2011- 3B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Ospecificerat lag (6)",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/nationalsm/Ospecificerat lag (6).png",
-          "alt": "Ospecificerat lag (6)"
-        }
-      },
-      "away": {
-        "team": "IFK Stockholm FK 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12940.png",
-          "alt": "IFK Stockholm FK 1"
-        }
-      }
-    },
-    "gender": "Flickor",
-    "ageGroup": "2011",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "match": "Home",
-    "team": "Ospecificerat lag (6)",
-    "color": "unknown",
-    "formattedTeam": "F2011",
-    "opponent": "IFK Stockholm FK 1",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs IFK Stockholm FK 1)",
-    "filterTags": [
-      "team:F2011",
-      "match:Home",
-      "location:Aspuddens IP",
-      "location:Aspuddens IP 1",
-      "category:Match",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -8098,15 +8149,16 @@
     "formattedTeam": "P2011",
     "opponent": "Sköndals IK FK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Sköndals IK FK 3)",
+    "formattedTitle": "⚽🏠 P2011 (vs Sköndals IK FK 3)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -8164,15 +8216,16 @@
     "formattedTeam": "P2025",
     "opponent": "Athletic FC Eskilstuna",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2025 (vs Athletic FC Eskilstuna)",
+    "formattedTitle": "⚽🏠 P2025 (vs Athletic FC Eskilstuna)",
     "filterTags": [
       "team:P2025",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2025",
       "gender:Pojkar",
-      "ageGroup:2025"
+      "match:Home"
     ]
   },
   {
@@ -8230,15 +8283,16 @@
     "formattedTeam": "P2009",
     "opponent": "Ösmo GIF FK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Ösmo GIF FK 1)",
+    "formattedTitle": "⚽🏠 P2009 (vs Ösmo GIF FK 1)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -8295,14 +8349,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "IFK Haninge",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs IFK Haninge)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs IFK Haninge)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -8360,15 +8415,16 @@
     "formattedTeam": "P2008",
     "opponent": "Djurgårdens IF FF 7",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2008 (vs Djurgårdens IF FF 7)",
+    "formattedTitle": "⚽🏠 P2008 (vs Djurgårdens IF FF 7)",
     "filterTags": [
       "team:P2008",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2008",
       "gender:Pojkar",
-      "ageGroup:2008"
+      "match:Home"
     ]
   },
   {
@@ -8425,14 +8481,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "IFK Stockholm FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs IFK Stockholm FK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs IFK Stockholm FK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8490,15 +8547,16 @@
     "formattedTeam": "P2025",
     "opponent": "Nyköpings BIS",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2025 (vs Nyköpings BIS)",
+    "formattedTitle": "⚽🏠 P2025 (vs Nyköpings BIS)",
     "filterTags": [
       "team:P2025",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2025",
       "gender:Pojkar",
-      "ageGroup:2025"
+      "match:Home"
     ]
   },
   {
@@ -8554,14 +8612,15 @@
     "color": "unknown",
     "formattedTeam": "BK Buffalo",
     "activity": "Match",
-    "formattedTitle": "🆚 External (BK Buffalo vs Aspuddens FF)",
+    "formattedTitle": "⚽ External (BK Buffalo vs Aspuddens FF)",
     "filterTags": [
       "team:BK Buffalo",
-      "match:External",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -8618,14 +8677,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Norsborg FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Norsborg FC)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Norsborg FC)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8683,15 +8743,16 @@
     "formattedTeam": "P2009",
     "opponent": "Enskede IK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Enskede IK Svart)",
+    "formattedTitle": "⚽🏠 P2009 (vs Enskede IK Svart)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -8749,15 +8810,16 @@
     "formattedTeam": "F2011",
     "opponent": "Bagarmossen Kärrtorp BK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Bagarmossen Kärrtorp BK)",
+    "formattedTitle": "⚽🏠 F2011 (vs Bagarmossen Kärrtorp BK)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -8815,16 +8877,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Sickla IF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Sickla IF 1)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Sickla IF 1)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -8882,15 +8945,16 @@
     "formattedTeam": "P2010",
     "opponent": "Djurö-Vindö IF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Djurö-Vindö IF 1)",
+    "formattedTitle": "⚽🏠 P2010 (vs Djurö-Vindö IF 1)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -8948,15 +9012,16 @@
     "formattedTeam": "P2010",
     "opponent": "Norrtulls SK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Norrtulls SK 3)",
+    "formattedTitle": "⚽🏠 P2010 (vs Norrtulls SK 3)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -9013,14 +9078,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Råsunda FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Råsunda FC)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Råsunda FC)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9077,14 +9143,15 @@
     "formattedTeam": "BK Buffalo",
     "opponent": "Sörskogens IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 BK Buffalo (vs Sörskogens IF)",
+    "formattedTitle": "⚽🏠 BK Buffalo (vs Sörskogens IF)",
     "filterTags": [
       "team:BK Buffalo",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9141,14 +9208,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Rönninge Salem Fotboll ",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Rönninge Salem Fotboll)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Rönninge Salem Fotboll)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -9206,16 +9274,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "IFK Stockholm FK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs IFK Stockholm FK 2)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs IFK Stockholm FK 2)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9272,14 +9341,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Bagarmossen Kärrtorp BK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Bagarmossen Kärrtorp BK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Bagarmossen Kärrtorp BK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -9337,16 +9407,17 @@
     "formattedTeam": "P2011 Svart",
     "opponent": "Örby IS",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Svart (vs Örby IS)",
+    "formattedTitle": "⚽🏠 P2011 Svart (vs Örby IS)",
     "filterTags": [
       "team:P2011 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2011",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9404,15 +9475,16 @@
     "formattedTeam": "P2011",
     "opponent": "Rågsveds IF Grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Rågsveds IF Grön)",
+    "formattedTitle": "⚽🏠 P2011 (vs Rågsveds IF Grön)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -9469,14 +9541,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Norrtulls SK B",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Norrtulls SK B)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Norrtulls SK B)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -9533,14 +9606,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Långholmen FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Långholmen FC)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Långholmen FC)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9597,14 +9671,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Ospecificerat",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Ospecificerat)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Ospecificerat)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9661,14 +9736,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Älvsjö AIK FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Älvsjö AIK FF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Älvsjö AIK FF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9725,14 +9801,15 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "FC Tyresö United",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs FC Tyresö United)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs FC Tyresö United)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9790,16 +9867,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Boo FF 2 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Boo FF 2 2)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Boo FF 2 2)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9857,16 +9935,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Stuvsta IF 1:2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Stuvsta IF 1:2)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Stuvsta IF 1:2)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -9924,82 +10003,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Nacka FC Future2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Nacka FC Future2)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Nacka FC Future2)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
-    ]
-  },
-  {
-    "uid": "venue-match-6249293",
-    "start": "2025-08-23T10:00:00.000Z",
-    "end": "2025-08-23T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 4 vs Bagarmossen Kärrtorp BK 3",
-    "description": "P2011- 4D",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-bagarmossen-karrtorp-bk-3-pojkar-2011/6249293/",
-    "categories": [
-      "P2011- 4D"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6249293,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-bagarmossen-karrtorp-bk-3-pojkar-2011/6249293/",
-      "date": {
-        "iso8601": "2025-08-23 12:00",
-        "formatted": "12:00, 23 aug. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2011- 4D",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 4"
-        }
-      },
-      "away": {
-        "team": "Bagarmossen Kärrtorp BK 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7205.png",
-          "alt": "Bagarmossen Kärrtorp BK 3"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2011",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 4",
-    "color": "unknown",
-    "formattedTeam": "P2011",
-    "opponent": "Bagarmossen Kärrtorp BK 3",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Bagarmossen Kärrtorp BK 3)",
-    "filterTags": [
-      "team:P2011",
-      "match:Home",
-      "location:Aspuddens IP",
-      "location:Aspuddens IP 1",
-      "category:Match",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -10056,14 +10070,15 @@
     "formattedTeam": "BK Buffalo",
     "opponent": "KIF Söderort",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 BK Buffalo (vs KIF Söderort)",
+    "formattedTitle": "⚽🏠 BK Buffalo (vs KIF Söderort)",
     "filterTags": [
       "team:BK Buffalo",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10121,15 +10136,16 @@
     "formattedTeam": "P2025",
     "opponent": "Boo FF ",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2025 (vs Boo FF)",
+    "formattedTitle": "⚽🏠 P2025 (vs Boo FF)",
     "filterTags": [
       "team:P2025",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2025",
       "gender:Pojkar",
-      "ageGroup:2025"
+      "match:Home"
     ]
   },
   {
@@ -10187,16 +10203,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Hammarby IF FF 24 grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Hammarby IF FF 24 grön)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Hammarby IF FF 24 grön)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10254,16 +10271,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Täby FK 52",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Täby FK 52)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Täby FK 52)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10321,16 +10339,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "FoC Farsta FF Röd 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs FoC Farsta FF Röd 1)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs FoC Farsta FF Röd 1)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10388,15 +10407,16 @@
     "formattedTeam": "P2010",
     "opponent": "Örby IS",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Örby IS)",
+    "formattedTitle": "⚽🏠 P2010 (vs Örby IS)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -10454,15 +10474,16 @@
     "formattedTeam": "P2009",
     "opponent": "Djurgårdens IF FF 4 Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Djurgårdens IF FF 4 Gul)",
+    "formattedTitle": "⚽🏠 P2009 (vs Djurgårdens IF FF 4 Gul)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -10519,14 +10540,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Värtans IK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Värtans IK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Värtans IK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -10583,14 +10605,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Tudor Arms FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Tudor Arms FC)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Tudor Arms FC)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10647,14 +10670,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Stureby SK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Stureby SK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Stureby SK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10711,14 +10735,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Tyresö FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Tyresö FF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Tyresö FF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10776,16 +10801,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Essinge IK Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Essinge IK Svart)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Essinge IK Svart)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10843,16 +10869,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Hammarby IF FF 28 grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Hammarby IF FF 28 grön)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Hammarby IF FF 28 grön)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -10909,14 +10936,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Norrtulls SK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Norrtulls SK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Norrtulls SK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -10974,15 +11002,16 @@
     "formattedTeam": "F2011",
     "opponent": "Järla IF FK Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Järla IF FK Röd)",
+    "formattedTitle": "⚽🏠 F2011 (vs Järla IF FK Röd)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -11039,16 +11068,17 @@
     "color": "Blå",
     "formattedTeam": "P2013 Blå",
     "activity": "Match",
-    "formattedTitle": "🆚 External (IFK Aspudden-Tellus Blå 2 vs Gröndals IK Vit)",
+    "formattedTitle": "⚽ External (IFK Aspudden-Tellus Blå 2 vs Gröndals IK Vit)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:External",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -11106,15 +11136,16 @@
     "formattedTeam": "P2011",
     "opponent": "Tullinge Triangel Pojkar FK Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Tullinge Triangel Pojkar FK Blå)",
+    "formattedTitle": "⚽🏠 P2011 (vs Tullinge Triangel Pojkar FK Blå)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -11172,15 +11203,16 @@
     "formattedTeam": "F2011",
     "opponent": "Reymersholms IK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Reymersholms IK 2)",
+    "formattedTitle": "⚽🏠 F2011 (vs Reymersholms IK 2)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -11238,15 +11270,16 @@
     "formattedTeam": "P2010",
     "opponent": "Ängby IF P10 Mix",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Ängby IF P10 Mix)",
+    "formattedTitle": "⚽🏠 P2010 (vs Ängby IF P10 Mix)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -11303,14 +11336,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Örby IS",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Örby IS)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Örby IS)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -11367,14 +11401,15 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Mälarhöjden-Hägersten FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Mälarhöjden-Hägersten FF)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Mälarhöjden-Hägersten FF)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11432,16 +11467,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Hammarby IF FF 17 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Hammarby IF FF 17 vit)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Hammarby IF FF 17 vit)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11499,16 +11535,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Reymersholms IK 10",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Reymersholms IK 10)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Reymersholms IK 10)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11566,16 +11603,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Djurgårdens IF FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Djurgårdens IF FF 3)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Djurgårdens IF FF 3)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11633,16 +11671,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Ingarö IF Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Ingarö IF Svart)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Ingarö IF Svart)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11700,15 +11739,16 @@
     "formattedTeam": "P2010",
     "opponent": "Nockebyhovs IF NFK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Nockebyhovs IF NFK)",
+    "formattedTitle": "⚽🏠 P2010 (vs Nockebyhovs IF NFK)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -11765,14 +11805,15 @@
     "formattedTeam": "BK Buffalo",
     "opponent": "Atletic Blåsut FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 BK Buffalo (vs Atletic Blåsut FC)",
+    "formattedTitle": "⚽🏠 BK Buffalo (vs Atletic Blåsut FC)",
     "filterTags": [
       "team:BK Buffalo",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -11830,15 +11871,16 @@
     "formattedTeam": "P2025",
     "opponent": "Vendelsö IK ",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2025 (vs Vendelsö IK)",
+    "formattedTitle": "⚽🏠 P2025 (vs Vendelsö IK)",
     "filterTags": [
       "team:P2025",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2025",
       "gender:Pojkar",
-      "ageGroup:2025"
+      "match:Home"
     ]
   },
   {
@@ -11895,15 +11937,16 @@
     "color": "unknown",
     "formattedTeam": "P2011",
     "activity": "Match",
-    "formattedTitle": "🆚 External (IFK Aspudden-Tellus 4 vs Ospecificerat lag (11))",
+    "formattedTitle": "⚽ External (IFK Aspudden-Tellus 4 vs Ospecificerat lag (11))",
     "filterTags": [
       "team:P2011",
-      "match:External",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:External"
     ]
   },
   {
@@ -11960,16 +12003,17 @@
     "color": "Röd",
     "formattedTeam": "P2012 Röd",
     "activity": "Match",
-    "formattedTitle": "🆚 External (IFK Aspudden-Tellus Röd 2 vs Gröndals IK Blå)",
+    "formattedTitle": "⚽ External (IFK Aspudden-Tellus Röd 2 vs Gröndals IK Blå)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:External",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -12027,16 +12071,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Vendelsö IK Grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Vendelsö IK Grön)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Vendelsö IK Grön)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12094,15 +12139,16 @@
     "formattedTeam": "P2008",
     "opponent": "Älta IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2008 (vs Älta IF)",
+    "formattedTitle": "⚽🏠 P2008 (vs Älta IF)",
     "filterTags": [
       "team:P2008",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2008",
       "gender:Pojkar",
-      "ageGroup:2008"
+      "match:Home"
     ]
   },
   {
@@ -12159,14 +12205,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Reymersholms IK DJ-U",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Reymersholms IK DJ-U)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Reymersholms IK DJ-U)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -12223,14 +12270,15 @@
     "formattedTeam": "IFK Aspudden-Tellus DJ",
     "opponent": "Årsta FF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus DJ (vs Årsta FF 1)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus DJ (vs Årsta FF 1)",
     "filterTags": [
       "team:IFK Aspudden-Tellus DJ",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -12287,14 +12335,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "IF Lokomotiv Blackeberg",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs IF Lokomotiv Blackeberg)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs IF Lokomotiv Blackeberg)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12351,14 +12400,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Segeltorps IF Fotboll",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Segeltorps IF Fotboll)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Segeltorps IF Fotboll)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -12415,14 +12465,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Skogås-Trångsunds FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Skogås-Trångsunds FF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Skogås-Trångsunds FF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12480,16 +12531,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Huddinge IF 2013:1S",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Huddinge IF 2013:1S)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Huddinge IF 2013:1S)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12547,16 +12599,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Solberga BK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Solberga BK 2)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Solberga BK 2)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12613,14 +12666,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Ingarö IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Ingarö IF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Ingarö IF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -12678,15 +12732,16 @@
     "formattedTeam": "P2009",
     "opponent": "Reymersholms IK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Reymersholms IK 1)",
+    "formattedTitle": "⚽🏠 P2009 (vs Reymersholms IK 1)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -12744,15 +12799,16 @@
     "formattedTeam": "F2011",
     "opponent": "Boo FF F11:3 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Boo FF F11:3 1)",
+    "formattedTitle": "⚽🏠 F2011 (vs Boo FF F11:3 1)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -12810,16 +12866,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Nockebyhovs IF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Nockebyhovs IF 2)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Nockebyhovs IF 2)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -12877,15 +12934,16 @@
     "formattedTeam": "P2011",
     "opponent": "IF Brommapojkarna 11-20",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs IF Brommapojkarna 11-20)",
+    "formattedTitle": "⚽🏠 P2011 (vs IF Brommapojkarna 11-20)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -12943,15 +13001,16 @@
     "formattedTeam": "F2011",
     "opponent": "Mälarhöjden-Hägersten FF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Mälarhöjden-Hägersten FF 3)",
+    "formattedTitle": "⚽🏠 F2011 (vs Mälarhöjden-Hägersten FF 3)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -13009,15 +13068,16 @@
     "formattedTeam": "P2010",
     "opponent": "Fisksätra IF U15",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Fisksätra IF U15)",
+    "formattedTitle": "⚽🏠 P2010 (vs Fisksätra IF U15)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -13074,14 +13134,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "FoC Farsta FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs FoC Farsta FF)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs FoC Farsta FF)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -13138,14 +13199,15 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Botkyrka Kuluspor FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Botkyrka Kuluspor FF)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Botkyrka Kuluspor FF)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13203,16 +13265,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Järla IF FK Grå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Järla IF FK Grå)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Järla IF FK Grå)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13270,16 +13333,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Segeltorps Idrottsförening Fotboll Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Segeltorps Idrottsförening Fotboll Blå)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Segeltorps Idrottsförening Fotboll Blå)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13337,16 +13401,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Rönninge Salem Fotboll Svart 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Rönninge Salem Fotboll Svart 2)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Rönninge Salem Fotboll Svart 2)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13404,16 +13469,17 @@
     "formattedTeam": "P2011 Svart",
     "opponent": "Rönninge Salem Fotboll Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Svart (vs Rönninge Salem Fotboll Svart)",
+    "formattedTitle": "⚽🏠 P2011 Svart (vs Rönninge Salem Fotboll Svart)",
     "filterTags": [
       "team:P2011 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2011",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13470,14 +13536,15 @@
     "formattedTeam": "BK Buffalo",
     "opponent": "FC Tyresö United",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 BK Buffalo (vs FC Tyresö United)",
+    "formattedTitle": "⚽🏠 BK Buffalo (vs FC Tyresö United)",
     "filterTags": [
       "team:BK Buffalo",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13535,15 +13602,16 @@
     "formattedTeam": "P2025",
     "opponent": "IFK Eskilstuna",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2025 (vs IFK Eskilstuna)",
+    "formattedTitle": "⚽🏠 P2025 (vs IFK Eskilstuna)",
     "filterTags": [
       "team:P2025",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2025",
       "gender:Pojkar",
-      "ageGroup:2025"
+      "match:Home"
     ]
   },
   {
@@ -13601,15 +13669,16 @@
     "formattedTeam": "P2010",
     "opponent": "Karlbergs BK Grön",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Karlbergs BK Grön)",
+    "formattedTitle": "⚽🏠 P2010 (vs Karlbergs BK Grön)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -13667,16 +13736,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Hammarby IF FF 17 gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Hammarby IF FF 17 gul)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Hammarby IF FF 17 gul)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -13734,15 +13804,16 @@
     "formattedTeam": "P2011",
     "opponent": "FoC Farsta FF Blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs FoC Farsta FF Blå)",
+    "formattedTitle": "⚽🏠 P2011 (vs FoC Farsta FF Blå)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -13800,15 +13871,16 @@
     "formattedTeam": "F2011",
     "opponent": "Sickla IF Svart",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Sickla IF Svart)",
+    "formattedTitle": "⚽🏠 F2011 (vs Sickla IF Svart)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -13865,14 +13937,15 @@
     "formattedTeam": "IFK Aspudden-Tellus DJ",
     "opponent": "Nynäshamns IF FK 1 blå",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus DJ (vs Nynäshamns IF FK 1 blå)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus DJ (vs Nynäshamns IF FK 1 blå)",
     "filterTags": [
       "team:IFK Aspudden-Tellus DJ",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -13929,14 +14002,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Hammarby IF FF 1619vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Hammarby IF FF 1619vit)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Hammarby IF FF 1619vit)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -13993,14 +14067,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Lado Sur FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Lado Sur FC)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Lado Sur FC)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14057,14 +14132,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Sollentuna Utveckling FK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Sollentuna Utveckling FK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Sollentuna Utveckling FK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14121,14 +14197,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Konyaspor KIF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Konyaspor KIF)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Konyaspor KIF)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14186,16 +14263,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Tungelsta IF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Tungelsta IF 1)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Tungelsta IF 1)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14253,16 +14331,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Reymersholms IK 8",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Reymersholms IK 8)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Reymersholms IK 8)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14320,16 +14399,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Reymersholms IK 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Reymersholms IK 4)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Reymersholms IK 4)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14387,15 +14467,16 @@
     "formattedTeam": "P2011",
     "opponent": "Mälarhöjden-Hägersten FF Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Mälarhöjden-Hägersten FF Gul)",
+    "formattedTitle": "⚽🏠 P2011 (vs Mälarhöjden-Hägersten FF Gul)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -14452,14 +14533,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Norsborg FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Norsborg FC)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Norsborg FC)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -14517,15 +14599,16 @@
     "formattedTeam": "P2008",
     "opponent": "Rönninge Salem Fotboll 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2008 (vs Rönninge Salem Fotboll 1)",
+    "formattedTitle": "⚽🏠 P2008 (vs Rönninge Salem Fotboll 1)",
     "filterTags": [
       "team:P2008",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2008",
       "gender:Pojkar",
-      "ageGroup:2008"
+      "match:Home"
     ]
   },
   {
@@ -14583,15 +14666,16 @@
     "formattedTeam": "F2011",
     "opponent": "Årsta FF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Årsta FF 2)",
+    "formattedTitle": "⚽🏠 F2011 (vs Årsta FF 2)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -14649,16 +14733,17 @@
     "formattedTeam": "P2013 Svart",
     "opponent": "Hagalunds IS Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Svart (vs Hagalunds IS Vit)",
+    "formattedTitle": "⚽🏠 P2013 Svart (vs Hagalunds IS Vit)",
     "filterTags": [
       "team:P2013 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2013",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14716,16 +14801,17 @@
     "formattedTeam": "P2013 Blå",
     "opponent": "Örby IS Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2013 Blå (vs Örby IS Gul)",
+    "formattedTitle": "⚽🏠 P2013 Blå (vs Örby IS Gul)",
     "filterTags": [
       "team:P2013 Blå",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Blå",
       "ageGroup:2013",
-      "color:Blå"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14783,15 +14869,16 @@
     "formattedTeam": "P2010",
     "opponent": "Karlbergs BK 41",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Karlbergs BK 41)",
+    "formattedTitle": "⚽🏠 P2010 (vs Karlbergs BK 41)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -14849,15 +14936,16 @@
     "formattedTeam": "P2009",
     "opponent": "Spånga IS FK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Spånga IS FK 2)",
+    "formattedTitle": "⚽🏠 P2009 (vs Spånga IS FK 2)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -14914,14 +15002,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Sundbyberg FC",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Sundbyberg FC)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Sundbyberg FC)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -14977,14 +15066,15 @@
     "color": "unknown",
     "formattedTeam": "IFK Aspudden-Tellus",
     "activity": "Match",
-    "formattedTitle": "🆚 External (IFK Aspudden-Tellus vs Gröndals IK )",
+    "formattedTitle": "⚽ External (IFK Aspudden-Tellus vs Gröndals IK )",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:External",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:External"
     ]
   },
   {
@@ -15041,14 +15131,15 @@
     "formattedTeam": "Kransen United FF",
     "opponent": "Årsta FF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Kransen United FF (vs Årsta FF)",
+    "formattedTitle": "⚽🏠 Kransen United FF (vs Årsta FF)",
     "filterTags": [
       "team:Kransen United FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -15106,16 +15197,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Årsta FF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Årsta FF 1)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Årsta FF 1)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15173,16 +15265,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Reymersholms IK 4",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Reymersholms IK 4)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Reymersholms IK 4)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15240,79 +15333,16 @@
     "formattedTeam": "P2011",
     "opponent": "IFK Stockholm FK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs IFK Stockholm FK 1)",
+    "formattedTitle": "⚽🏠 P2011 (vs IFK Stockholm FK 1)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
-    ]
-  },
-  {
-    "uid": "venue-match-6255305",
-    "start": "2025-10-04T14:00:00.000Z",
-    "end": "2025-10-04T15:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Djurgårdens IF FF 3",
-    "description": "DJ- 3B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-djurgardens-if-ff-3-damjuniorer-0906/6255305/",
-    "categories": [
-      "DJ- 3B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6255305,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-djurgardens-if-ff-3-damjuniorer-0906/6255305/",
-      "date": {
-        "iso8601": "2025-10-04 16:00",
-        "formatted": "16:00, 4 okt. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "DJ- 3B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Djurgårdens IF FF 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
-          "alt": "Djurgårdens IF FF 3"
-        }
-      }
-    },
-    "gender": "Flickor",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "color": "unknown",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Djurgårdens IF FF 3",
-    "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Djurgårdens IF FF 3)",
-    "filterTags": [
-      "team:IFK Aspudden-Tellus",
-      "match:Home",
-      "location:Aspuddens IP",
-      "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "match:Home"
     ]
   },
   {
@@ -15370,15 +15400,16 @@
     "formattedTeam": "P2011",
     "opponent": "Enskede IK Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Enskede IK Vit)",
+    "formattedTitle": "⚽🏠 P2011 (vs Enskede IK Vit)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -15436,15 +15467,16 @@
     "formattedTeam": "P2010",
     "opponent": "Ekerö IK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Ekerö IK 2)",
+    "formattedTitle": "⚽🏠 P2010 (vs Ekerö IK 2)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -15501,14 +15533,15 @@
     "formattedTeam": "Aspuddens FF",
     "opponent": "Spårvägens FF ",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 Aspuddens FF (vs Spårvägens FF)",
+    "formattedTitle": "⚽🏠 Aspuddens FF (vs Spårvägens FF)",
     "filterTags": [
       "team:Aspuddens FF",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15566,16 +15599,17 @@
     "formattedTeam": "P2011 Svart",
     "opponent": "Tullinge Triangel Pojkar FK Röd",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Svart (vs Tullinge Triangel Pojkar FK Röd)",
+    "formattedTitle": "⚽🏠 P2011 Svart (vs Tullinge Triangel Pojkar FK Röd)",
     "filterTags": [
       "team:P2011 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2011",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15633,15 +15667,16 @@
     "formattedTeam": "F2011",
     "opponent": "Gustavsbergs IF FK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Gustavsbergs IF FK 1)",
+    "formattedTitle": "⚽🏠 F2011 (vs Gustavsbergs IF FK 1)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -15698,14 +15733,15 @@
     "formattedTeam": "IFK Aspudden-Tellus DJ",
     "opponent": "Reymersholms IK DJ",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus DJ (vs Reymersholms IK DJ)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus DJ (vs Reymersholms IK DJ)",
     "filterTags": [
       "team:IFK Aspudden-Tellus DJ",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -15762,14 +15798,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Vällingby AIK",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Vällingby AIK)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Vällingby AIK)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15827,15 +15864,16 @@
     "formattedTeam": "F2011",
     "opponent": "Älta IF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Älta IF 2)",
+    "formattedTitle": "⚽🏠 F2011 (vs Älta IF 2)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -15893,16 +15931,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Hammarby IF FF 25 vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Hammarby IF FF 25 vit)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Hammarby IF FF 25 vit)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -15960,15 +15999,16 @@
     "formattedTeam": "P2025",
     "opponent": "Irsta IF",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2025 (vs Irsta IF)",
+    "formattedTitle": "⚽🏠 P2025 (vs Irsta IF)",
     "filterTags": [
       "team:P2025",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2025",
       "gender:Pojkar",
-      "ageGroup:2025"
+      "match:Home"
     ]
   },
   {
@@ -16026,15 +16066,16 @@
     "formattedTeam": "P2008",
     "opponent": "Tungelsta IF 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2008 (vs Tungelsta IF 1)",
+    "formattedTitle": "⚽🏠 P2008 (vs Tungelsta IF 1)",
     "filterTags": [
       "team:P2008",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2008",
       "gender:Pojkar",
-      "ageGroup:2008"
+      "match:Home"
     ]
   },
   {
@@ -16092,15 +16133,16 @@
     "formattedTeam": "P2010",
     "opponent": "Reymersholms IK 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Reymersholms IK 3)",
+    "formattedTitle": "⚽🏠 P2010 (vs Reymersholms IK 3)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -16158,15 +16200,16 @@
     "formattedTeam": "P2010",
     "opponent": "Ängby IF 3",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2010 (vs Ängby IF 3)",
+    "formattedTitle": "⚽🏠 P2010 (vs Ängby IF 3)",
     "filterTags": [
       "team:P2010",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2010",
       "gender:Pojkar",
-      "ageGroup:2010"
+      "match:Home"
     ]
   },
   {
@@ -16224,15 +16267,16 @@
     "formattedTeam": "P2009",
     "opponent": "Norrtulls SK 1",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2009 (vs Norrtulls SK 1)",
+    "formattedTitle": "⚽🏠 P2009 (vs Norrtulls SK 1)",
     "filterTags": [
       "team:P2009",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2009",
       "gender:Pojkar",
-      "ageGroup:2009"
+      "match:Home"
     ]
   },
   {
@@ -16290,15 +16334,16 @@
     "formattedTeam": "F2011",
     "opponent": "Saltsjöbadens IF Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 F2011 (vs Saltsjöbadens IF Vit)",
+    "formattedTitle": "⚽🏠 F2011 (vs Saltsjöbadens IF Vit)",
     "filterTags": [
       "team:F2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Flickor",
-      "ageGroup:2011"
+      "match:Home"
     ]
   },
   {
@@ -16356,16 +16401,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Segeltorps Idrottsförening Fotboll Vit",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Segeltorps Idrottsförening Fotboll Vit)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Segeltorps Idrottsförening Fotboll Vit)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16422,14 +16468,15 @@
     "formattedTeam": "IFK Aspudden-Tellus",
     "opponent": "Enskede IK 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 IFK Aspudden-Tellus (vs Enskede IK 2)",
+    "formattedTitle": "⚽🏠 IFK Aspudden-Tellus (vs Enskede IK 2)",
     "filterTags": [
       "team:IFK Aspudden-Tellus",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Flickor"
+      "gender:Flickor",
+      "match:Home"
     ]
   },
   {
@@ -16487,16 +16534,17 @@
     "formattedTeam": "P2012 Röd",
     "opponent": "Boo FF 21",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2012 Röd (vs Boo FF 21)",
+    "formattedTitle": "⚽🏠 P2012 Röd (vs Boo FF 21)",
     "filterTags": [
       "team:P2012 Röd",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Röd",
       "ageGroup:2012",
-      "color:Röd"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16554,16 +16602,17 @@
     "formattedTeam": "P2011 Svart",
     "opponent": "Stuvsta IF 2",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 Svart (vs Stuvsta IF 2)",
+    "formattedTitle": "⚽🏠 P2011 Svart (vs Stuvsta IF 2)",
     "filterTags": [
       "team:P2011 Svart",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
-      "gender:Pojkar",
+      "color:Svart",
       "ageGroup:2011",
-      "color:Svart"
+      "gender:Pojkar",
+      "match:Home"
     ]
   },
   {
@@ -16621,15 +16670,16 @@
     "formattedTeam": "P2011",
     "opponent": "Ingarö IF Gul",
     "activity": "Match",
-    "formattedTitle": "🆚🏠 P2011 (vs Ingarö IF Gul)",
+    "formattedTitle": "⚽🏠 P2011 (vs Ingarö IF Gul)",
     "filterTags": [
       "team:P2011",
-      "match:Home",
+      "activity:Match",
+      "category:Match",
       "location:Aspuddens IP",
       "location:Aspuddens IP 1",
-      "category:Match",
+      "ageGroup:2011",
       "gender:Pojkar",
-      "ageGroup:2011"
+      "match:Home"
     ]
   }
 ]

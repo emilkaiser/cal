@@ -2,19 +2,18 @@ import { JSDOM } from 'jsdom';
 import * as ical from 'node-ical';
 import * as path from 'path';
 import * as fs from 'fs/promises';
-import { saveEventsToJson } from '../utils/calendar-io';
+import { saveEventsToJson } from './utils/calendar-io';
 import {
   getColorFromTeamName,
   getGenderFromTeamName,
   getAgeGroupFromTeamName,
-} from '../utils/team-metadata';
-import { extractVenues } from '../utils/venue-utils';
-import { getActivityTypeFromCategories } from '../utils/activity-utils';
-import { getHomeAwayCategory, getOpponent } from '../utils/match-utils';
-import { formatEventTitle } from '../utils/event-formatter';
-import { CalendarEvent } from '../types/types';
-import { extractTeamInfo, createFormattedTeamName } from '../utils/team-parser';
-import { buildFilterTags } from '../utils/filter-utils';
+} from './utils/team-metadata';
+import { extractVenues } from './utils/venue-utils';
+import { getActivityTypeFromCategories, getCupTypeFromTitle } from './utils/activity-utils';
+import { getHomeAwayCategory, getOpponent } from './utils/match-utils';
+import { formatEventTitle } from './utils/event-formatter';
+import { CalendarEvent, OTHER } from '../types/types';
+import { extractTeamInfo, createFormattedTeamName } from './utils/team-parser';
 // Import ICalEvent from our type declaration
 import { ICalEvent } from 'node-ical';
 
@@ -125,23 +124,17 @@ function transformLagetEvents(events: Record<string, ICalEvent>): CalendarEvent[
 
 function enhanceLagetEvents(events: CalendarEvent[]): CalendarEvent[] {
   return events.map(event => {
-    const activity = getActivityTypeFromCategories(event.categories);
+    let activity = getActivityTypeFromCategories(event.categories);
+    if (activity === OTHER) {
+      activity = getCupTypeFromTitle(event.title) ?? OTHER;
+    }
+    event = {
+      ...event,
+      activity,
+    };
     const match = getHomeAwayCategory(event);
     const opponent = getOpponent(event);
     const venues = extractVenues(event.location);
-
-    // Extract team info using the utility
-    const { rawTeam, formattedTeam } = extractTeamInfo(event.title || '');
-
-    // Extract team from the title if possible
-    let teamName = '';
-    if (event.title) {
-      // Look for team name in format "Title - Team Name"
-      const teamMatch = event.title.match(/\s+-\s+(.+)$/);
-      if (teamMatch && teamMatch[1]) {
-        teamName = teamMatch[1].trim();
-      }
-    }
 
     return {
       ...event,
@@ -149,7 +142,6 @@ function enhanceLagetEvents(events: CalendarEvent[]): CalendarEvent[] {
       venues,
       match,
       opponent,
-      rawTeam: rawTeam || teamName, // Store raw team name if extracted
     };
   });
 }
@@ -160,7 +152,14 @@ function getTeamMeta(teamName: string) {
   const ageGroup = getAgeGroupFromTeamName(teamName);
 
   // Use utility to create formatted team name
-  const formattedTeam = createFormattedTeamName(gender, ageGroup, color) || 'Unknown';
+  let formattedTeam: string | undefined;
+  if (gender && ageGroup) {
+    formattedTeam = createFormattedTeamName(gender, ageGroup, color);
+  }
+
+  if (!formattedTeam) {
+    formattedTeam = teamName;
+  }
 
   return {
     formattedTeam,
@@ -178,6 +177,12 @@ async function main() {
 
     // Step 1: Fetch team slugs
     const teams = await fetchTeamSlugs();
+    // const teams = [
+    //   {
+    //     name: 'TESTAR',
+    //     slug: 'P2014B',
+    //   },
+    // ];
 
     const allEvents: CalendarEvent[] = [];
 
@@ -201,14 +206,11 @@ async function main() {
       // Step 5: Add to collection with metadata and filter tags
       allEvents.push(
         ...enhancedSourceEvents.map(e => {
-          // Use the raw team name from the event if available, otherwise use the team name
-          const teamName = e.rawTeam || team.name;
-
           const eventWithMeta = {
             ...e,
             ...meta,
             // Use raw team name if available, otherwise use the team name from metadata
-            team: teamName,
+            team: team.name,
             url: icsUrl,
             // Format the title with appropriate icons
             formattedTitle: formatEventTitle(
@@ -220,16 +222,10 @@ async function main() {
             ),
           };
 
-          // Add filter tags to each event
-          const eventWithTags = {
-            ...eventWithMeta,
-            filterTags: buildFilterTags(eventWithMeta),
-          };
-
           // Remove the temporary rawTeam property
-          delete eventWithTags.rawTeam;
+          delete eventWithMeta.rawTeam;
 
-          return eventWithTags;
+          return eventWithMeta;
         })
       );
     }

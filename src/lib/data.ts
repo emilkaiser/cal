@@ -1,12 +1,24 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import { CalendarEvent } from '../types/types';
 import { allDataSources, normalizeEvents, addSourceToEvents } from './data-sources';
 import { DataSource } from './data-sources';
 import allVenues from '@/data/venue/all.json';
-import { normalizeCalendarEvents } from '@/utils/calendar-utils';
+import { normalizeCalendarEvents } from '@/scrapers/utils/calendar-utils';
 
-// Process and prepare all event data
+// Memoization cache
+const memoizedEvents = new Map();
+const memoizedVenueEvents = new Map();
+
+// Process and prepare all event data with memoization
 export const getAllEvents = (): { events: CalendarEvent[]; dataSources: DataSource[] } => {
+  // Use unique key for this combination of data sources
+  const cacheKey = 'all-events-' + allDataSources.map(s => s.id).join('-');
+
+  if (memoizedEvents.has(cacheKey)) {
+    return memoizedEvents.get(cacheKey);
+  }
+
+  console.time('getAllEvents');
   // Get all events from data sources
   const dataSourceEvents = allDataSources.flatMap(source =>
     source.events.map(event => ({
@@ -18,14 +30,24 @@ export const getAllEvents = (): { events: CalendarEvent[]; dataSources: DataSour
   // Process venue events
   const venueEvents = processVenueEvents();
 
-  return {
+  const result = {
     events: [...dataSourceEvents, ...venueEvents],
     dataSources: allDataSources,
   };
+  console.timeEnd('getAllEvents');
+
+  // Store in cache
+  memoizedEvents.set(cacheKey, result);
+  return result;
 };
 
-// Process venue data
+// Process venue data with memoization
 function processVenueEvents(): CalendarEvent[] {
+  const cacheKey = 'venue-events';
+  if (memoizedVenueEvents.has(cacheKey)) {
+    return memoizedVenueEvents.get(cacheKey);
+  }
+
   // Normalize venue events first
   const normalizedEvents = normalizeEvents(allVenues as any[]);
 
@@ -41,6 +63,8 @@ function processVenueEvents(): CalendarEvent[] {
     allVenueEvents = [...allVenueEvents, ...eventsWithSource];
   }
 
+  // Store in cache
+  memoizedVenueEvents.set(cacheKey, allVenueEvents);
   return allVenueEvents;
 }
 
@@ -104,23 +128,27 @@ export function useLoadCalendarData() {
   });
 
   useEffect(() => {
+    // Performance measurement
+    console.time('useLoadCalendarData');
+
     // Get all events
     const { events, dataSources } = getAllEvents();
 
-    // Parse date strings to Date objects
-    const parsedEvents = events.map(event => ({
-      ...event,
-      start: new Date(event.start),
-      end: new Date(event.end),
-    }));
-
-    // Normalize events to ensure all properties are in filterTags
-    const normalizedEvents = normalizeCalendarEvents(parsedEvents);
+    // Parse date strings to Date objects and normalize in one pass
+    const normalizedEvents = normalizeCalendarEvents(
+      events.map(event => ({
+        ...event,
+        start: new Date(event.start),
+        end: new Date(event.end),
+      }))
+    );
 
     setData({
       events: normalizedEvents,
       dataSources,
     });
+
+    console.timeEnd('useLoadCalendarData');
   }, []);
 
   return data;

@@ -50,14 +50,14 @@ const jsdom_1 = require("jsdom");
 const ical = __importStar(require("node-ical"));
 const path = __importStar(require("path"));
 const fs = __importStar(require("fs/promises"));
-const calendar_io_1 = require("../utils/calendar-io");
-const team_metadata_1 = require("../utils/team-metadata");
-const venue_utils_1 = require("../utils/venue-utils");
-const activity_utils_1 = require("../utils/activity-utils");
-const match_utils_1 = require("../utils/match-utils");
-const event_formatter_1 = require("../utils/event-formatter");
-const team_parser_1 = require("../utils/team-parser");
-const filter_utils_1 = require("../utils/filter-utils");
+const calendar_io_1 = require("./utils/calendar-io");
+const team_metadata_1 = require("./utils/team-metadata");
+const venue_utils_1 = require("./utils/venue-utils");
+const activity_utils_1 = require("./utils/activity-utils");
+const match_utils_1 = require("./utils/match-utils");
+const event_formatter_1 = require("./utils/event-formatter");
+const types_1 = require("../types/types");
+const team_parser_1 = require("./utils/team-parser");
 function fetchTeamSlugs() {
     return __awaiter(this, void 0, void 0, function* () {
         console.log('Fetching team slugs from IFK Aspudden-Tellus website...');
@@ -147,17 +147,19 @@ function transformLagetEvents(events) {
 }
 function enhanceLagetEvents(events) {
     return events.map(event => {
-        const activity = (0, activity_utils_1.getActivityTypeFromCategories)(event.categories);
+        var _a;
+        let activity = (0, activity_utils_1.getActivityTypeFromCategories)(event.categories);
+        if (activity === types_1.OTHER) {
+            activity = (_a = (0, activity_utils_1.getCupTypeFromTitle)(event.title)) !== null && _a !== void 0 ? _a : types_1.OTHER;
+        }
+        event = Object.assign(Object.assign({}, event), { activity });
         const match = (0, match_utils_1.getHomeAwayCategory)(event);
         const opponent = (0, match_utils_1.getOpponent)(event);
         const venues = (0, venue_utils_1.extractVenues)(event.location);
-        // Extract team info using the utility
-        const { rawTeam } = (0, team_parser_1.extractTeamInfo)(event.title || '');
         return Object.assign(Object.assign({}, event), { activity,
             venues,
             match,
-            opponent,
-            rawTeam });
+            opponent });
     });
 }
 function getTeamMeta(teamName) {
@@ -165,7 +167,13 @@ function getTeamMeta(teamName) {
     const gender = (0, team_metadata_1.getGenderFromTeamName)(teamName);
     const ageGroup = (0, team_metadata_1.getAgeGroupFromTeamName)(teamName);
     // Use utility to create formatted team name
-    const formattedTeam = (0, team_parser_1.createFormattedTeamName)(gender, ageGroup, color) || teamName;
+    let formattedTeam;
+    if (gender && ageGroup) {
+        formattedTeam = (0, team_parser_1.createFormattedTeamName)(gender, ageGroup, color);
+    }
+    if (!formattedTeam) {
+        formattedTeam = teamName;
+    }
     return {
         formattedTeam,
         color,
@@ -181,6 +189,12 @@ function main() {
             yield fs.mkdir(dataDir, { recursive: true });
             // Step 1: Fetch team slugs
             const teams = yield fetchTeamSlugs();
+            // const teams = [
+            //   {
+            //     name: 'TESTAR',
+            //     slug: 'P2014B',
+            //   },
+            // ];
             const allEvents = [];
             // Process each team
             for (const team of teams) {
@@ -196,18 +210,14 @@ function main() {
                 const enhancedSourceEvents = enhanceLagetEvents(sourceEvents);
                 // Step 5: Add to collection with metadata and filter tags
                 allEvents.push(...enhancedSourceEvents.map(e => {
-                    // Use the raw team name from the event if available, otherwise use the team name
-                    const teamName = e.rawTeam || team.name;
                     const eventWithMeta = Object.assign(Object.assign(Object.assign({}, e), meta), { 
                         // Use raw team name if available, otherwise use the team name from metadata
-                        team: teamName, url: icsUrl, 
+                        team: team.name, url: icsUrl, 
                         // Format the title with appropriate icons
                         formattedTitle: (0, event_formatter_1.formatEventTitle)(meta.formattedTeam, e.title, e.activity, e.match, e.opponent) });
-                    // Add filter tags to each event
-                    const eventWithTags = Object.assign(Object.assign({}, eventWithMeta), { filterTags: (0, filter_utils_1.buildFilterTags)(eventWithMeta) });
                     // Remove the temporary rawTeam property
-                    delete eventWithTags.rawTeam;
-                    return eventWithTags;
+                    delete eventWithMeta.rawTeam;
+                    return eventWithMeta;
                 }));
             }
             // Step 6: Save all events

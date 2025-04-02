@@ -1,8 +1,4 @@
-import {
-  getEventType,
-  extractAgeGroup,
-  getHomeAwayCategory,
-} from '../../src/utils/event-categorizer';
+import { getEventType, extractAgeGroup } from '../../src/scrapers/utils/event-categorizer';
 import { CalendarEvent } from '../../src/types/types';
 
 describe('Event Categorizer Utilities', () => {
@@ -14,6 +10,8 @@ describe('Event Categorizer Utilities', () => {
         end: new Date(),
         sourceType: 'laget',
         categories: ['Match'],
+        uid: 'test-uid-1',
+        rawData: {},
       };
       expect(getEventType(event)).toBe('Match');
     });
@@ -24,6 +22,8 @@ describe('Event Categorizer Utilities', () => {
         start: new Date(),
         end: new Date(),
         sourceType: 'laget',
+        uid: 'test-uid-2',
+        rawData: {},
       };
       expect(getEventType(event)).toBe('Match');
     });
@@ -34,6 +34,8 @@ describe('Event Categorizer Utilities', () => {
         start: new Date(),
         end: new Date(),
         sourceType: 'laget',
+        uid: 'test-uid-3',
+        rawData: {},
       };
       expect(getEventType(event)).toBe('Match');
     });
@@ -44,6 +46,8 @@ describe('Event Categorizer Utilities', () => {
         start: new Date(),
         end: new Date(),
         sourceType: 'laget',
+        uid: 'test-uid-4',
+        rawData: {},
       };
       expect(getEventType(event)).toBe('Match');
     });
@@ -54,6 +58,8 @@ describe('Event Categorizer Utilities', () => {
         start: new Date(),
         end: new Date(),
         sourceType: 'laget',
+        uid: 'test-uid-5',
+        rawData: {},
       };
       expect(getEventType(event)).toBe('Träning');
     });
@@ -64,6 +70,8 @@ describe('Event Categorizer Utilities', () => {
         start: new Date(),
         end: new Date(),
         sourceType: 'laget',
+        uid: 'test-uid-6',
+        rawData: {},
       };
       expect(getEventType(event)).toBe('Cup');
     });
@@ -74,6 +82,8 @@ describe('Event Categorizer Utilities', () => {
         start: new Date(),
         end: new Date(),
         sourceType: 'laget',
+        uid: 'test-uid-7',
+        rawData: {},
       };
       expect(getEventType(event)).toBe('Turnering');
     });
@@ -84,6 +94,8 @@ describe('Event Categorizer Utilities', () => {
         start: new Date(),
         end: new Date(),
         sourceType: 'laget',
+        uid: 'test-uid-8',
+        rawData: {},
       };
       expect(getEventType(event)).toBe('Möte');
     });
@@ -94,6 +106,8 @@ describe('Event Categorizer Utilities', () => {
         start: new Date(),
         end: new Date(),
         sourceType: 'laget',
+        uid: 'test-uid-9',
+        rawData: {},
       };
       expect(getEventType(event)).toBeUndefined();
     });
@@ -104,22 +118,10 @@ describe('Event Categorizer Utilities', () => {
         start: new Date(),
         end: new Date(),
         sourceType: 'laget',
+        uid: 'test-uid-10',
+        rawData: {},
       };
       expect(getEventType(event)).toBeUndefined();
-    });
-  });
-
-  describe('getHomeAwayCategory', () => {
-    it('uses the match-utils implementation', () => {
-      const event: CalendarEvent = {
-        title: 'IFK Aspudden-Tellus vs Team B',
-        start: new Date(),
-        end: new Date(),
-        sourceType: 'laget',
-      };
-      // Just verify it exists and returns expected type
-      const result = getHomeAwayCategory(event);
-      expect(['Home', 'Away', undefined]).toContain(result);
     });
   });
 

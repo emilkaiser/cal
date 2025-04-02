@@ -47,14 +47,13 @@ exports.transformToSourceData = transformToSourceData;
 exports.enhanceSourceEvents = enhanceSourceEvents;
 const path = __importStar(require("path"));
 const fs = __importStar(require("fs/promises"));
-const calendar_io_1 = require("../utils/calendar-io");
-const venue_utils_1 = require("../utils/venue-utils");
-const event_categorizer_1 = require("../utils/event-categorizer");
-const event_formatter_1 = require("../utils/event-formatter");
-const match_utils_1 = require("../utils/match-utils");
-const team_metadata_1 = require("../utils/team-metadata");
-const team_parser_1 = require("../utils/team-parser");
-const filter_utils_1 = require("../utils/filter-utils");
+const calendar_io_1 = require("./utils/calendar-io");
+const venue_utils_1 = require("./utils/venue-utils");
+const event_categorizer_1 = require("./utils/event-categorizer");
+const event_formatter_1 = require("./utils/event-formatter");
+const match_utils_1 = require("./utils/match-utils");
+const team_metadata_1 = require("./utils/team-metadata");
+const team_parser_1 = require("./utils/team-parser");
 // Define resource IDs for the venues we want to fetch
 const RESOURCE_IDS = [15452, 15469]; // Aspuddens IP and Västberga IP
 const BASE_URL = 'https://www.stff.se/api/venue/getmatches/?facilityMatchesId=';
@@ -147,7 +146,9 @@ function enhanceSourceEvents(events) {
                 // Extract team color if we have a team
                 enhancedEvent.color = (0, team_metadata_1.getColorFromTeamName)(rawTeam);
                 // Create formatted team name using the utility
-                enhancedEvent.formattedTeam = (0, team_parser_1.createFormattedTeamName)(enhancedEvent.gender, enhancedEvent.ageGroup, enhancedEvent.color);
+                if (enhancedEvent.gender && enhancedEvent.ageGroup) {
+                    enhancedEvent.formattedTeam = (0, team_parser_1.createFormattedTeamName)(enhancedEvent.gender, enhancedEvent.ageGroup, enhancedEvent.color);
+                }
                 // If we couldn't create a formatted team name, use the raw team
                 if (!enhancedEvent.formattedTeam) {
                     enhancedEvent.formattedTeam = rawTeam;
@@ -168,8 +169,6 @@ function enhanceEvents(events) {
     console.log('Enhancing events with categories and metadata');
     return events.map(event => {
         const enhancedEvent = Object.assign({}, event);
-        // Add filter tags
-        enhancedEvent.filterTags = (0, filter_utils_1.buildFilterTags)(enhancedEvent);
         // Remove temporary rawTeam property after it's been used
         delete enhancedEvent.rawTeam;
         return enhancedEvent;

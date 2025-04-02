@@ -1,19 +1,17 @@
 import * as path from 'path';
 import * as fs from 'fs/promises';
-import { saveEventsToJson } from '../utils/calendar-io';
-import { isAspuddensIP1, isAspuddensIP2, isVastbergaIP, extractVenues } from '../utils/venue-utils';
+import { saveEventsToJson } from './utils/calendar-io';
+import { isAspuddensIP1, isAspuddensIP2, isVastbergaIP, extractVenues } from './utils/venue-utils';
 import { CalendarEvent } from '../types/types';
-import { extractAgeGroup } from '../utils/event-categorizer';
-import { getActivityTypeFromCategories } from '../utils/activity-utils';
-import { formatEventTitle } from '../utils/event-formatter';
+import { extractAgeGroup } from './utils/event-categorizer';
+import { formatEventTitle } from './utils/event-formatter';
 import {
   determineMatchStatus,
   extractTeamFromMatch,
   extractOpponentFromMatch,
-} from '../utils/match-utils';
-import { getColorFromTeamName } from '../utils/team-metadata';
-import { createFormattedTeamName, extractTeamInfo } from '../utils/team-parser';
-import { buildFilterTags } from '../utils/filter-utils';
+} from './utils/match-utils';
+import { getColorFromTeamName } from './utils/team-metadata';
+import { createFormattedTeamName } from './utils/team-parser';
 
 // Define resource IDs for the venues we want to fetch
 const RESOURCE_IDS = [15452, 15469]; // Aspuddens IP and Västberga IP
@@ -163,11 +161,13 @@ function enhanceSourceEvents(events: CalendarEvent[]): CalendarEvent[] {
         enhancedEvent.color = getColorFromTeamName(rawTeam);
 
         // Create formatted team name using the utility
-        enhancedEvent.formattedTeam = createFormattedTeamName(
-          enhancedEvent.gender,
-          enhancedEvent.ageGroup,
-          enhancedEvent.color
-        );
+        if (enhancedEvent.gender && enhancedEvent.ageGroup) {
+          enhancedEvent.formattedTeam = createFormattedTeamName(
+            enhancedEvent.gender,
+            enhancedEvent.ageGroup,
+            enhancedEvent.color
+          );
+        }
 
         // If we couldn't create a formatted team name, use the raw team
         if (!enhancedEvent.formattedTeam) {
@@ -207,9 +207,6 @@ function enhanceEvents(events: CalendarEvent[]): CalendarEvent[] {
 
   return events.map(event => {
     const enhancedEvent = { ...event };
-
-    // Add filter tags
-    enhancedEvent.filterTags = buildFilterTags(enhancedEvent);
 
     // Remove temporary rawTeam property after it's been used
     delete enhancedEvent.rawTeam;

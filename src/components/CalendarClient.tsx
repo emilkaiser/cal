@@ -1,10 +1,9 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useMemo } from 'react';
 import TeamCalendar from './TeamCalendar';
 import type { CalendarEvent as BaseCalendarEvent } from '../types/types';
 import { DataSource } from '@/lib/data-sources';
-import { normalizeCalendarEvents } from '@/utils/calendar-utils';
 
 interface CalendarEvent extends Omit<BaseCalendarEvent, 'start' | 'end'> {
   start: Date;
@@ -17,10 +16,17 @@ interface CalendarClientProps {
   dataSources: DataSource[];
 }
 
-export default function CalendarClient({ initialEvents, dataSources }: CalendarClientProps) {
-  const [events, setEvents] = useState<CalendarEvent[]>([]);
+// Cache for normalized events to prevent recalculation
+const normalizedEventsCache = new WeakMap();
 
-  useEffect(() => {
+export default function CalendarClient({ initialEvents, dataSources }: CalendarClientProps) {
+  // Process events only once using useMemo
+  const processedEvents = useMemo(() => {
+    // Check cache first
+    if (normalizedEventsCache.has(initialEvents)) {
+      return normalizedEventsCache.get(initialEvents);
+    }
+
     // Parse date strings to Date objects
     const parsedEvents = initialEvents.map(event => ({
       ...event,
@@ -28,15 +34,15 @@ export default function CalendarClient({ initialEvents, dataSources }: CalendarC
       end: new Date(event.end),
     }));
 
-    // Normalize events to ensure all properties are represented in filterTags
-    const normalizedEvents = normalizeCalendarEvents(parsedEvents);
-    setEvents(normalizedEvents);
+    // Store in cache
+    normalizedEventsCache.set(initialEvents, parsedEvents);
+    return parsedEvents;
   }, [initialEvents]);
 
   return (
     <>
-      {events.length > 0 ? (
-        <TeamCalendar events={events} dataSources={dataSources} />
+      {processedEvents.length > 0 ? (
+        <TeamCalendar events={processedEvents} dataSources={dataSources} />
       ) : (
         <div style={{ textAlign: 'center', marginTop: '50px' }}>
           <h2>Loading calendar data...</h2>

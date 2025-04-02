@@ -1,14 +1,13 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useCallback, Suspense, lazy } from 'react';
 import { Calendar, momentLocalizer, Views, View } from 'react-big-calendar';
 import moment from 'moment';
 import 'react-big-calendar/lib/css/react-big-calendar.css';
 import type { CalendarEvent as BaseCalendarEvent } from '../types/types';
 import { Card, CardContent } from '@/components/ui/card';
-import { DataSourceSelector } from './DataSourceSelector';
 import { DataSource } from '@/lib/data-sources';
-import { getHexColor, getVenueColor, getContrastingColor, isLightColor } from '@/utils/team-utils';
+import { getHexColor, getVenueColor, getContrastingColor, isLightColor } from '@/utils/color-utils';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Button } from '@/components/ui/button';
 import {
@@ -18,14 +17,17 @@ import {
   DialogTitle,
   DialogDescription,
 } from '@/components/ui/dialog';
-import { filterPresets } from '@/config/filterPresets';
-import {
-  getPropertyFromFilterTags,
-  getAllPropertyValuesFromFilterTags,
-} from '@/utils/calendar-utils';
+import { getPropertyFromFilterTags } from '@/scrapers/utils/calendar-utils';
 import { Badge } from '@/components/ui/badge';
-import { useCalendarFilters } from '@/hooks/useCalendarFilters';
-import { GlobalFilterSelector } from './GlobalFilterSelector';
+import { Spinner } from '@/components/ui/spinner';
+
+// Lazy load filter components to defer their initialization
+const LazyDataSourceSelector = lazy(() =>
+  import('./DataSourceSelector').then(mod => ({ default: mod.DataSourceSelector }))
+);
+const LazyGlobalFilterSelector = lazy(() =>
+  import('./GlobalFilterSelector').then(mod => ({ default: mod.GlobalFilterSelector }))
+);
 
 // Configure moment to start the week on Monday
 moment.updateLocale('en', {
@@ -51,127 +53,108 @@ interface TeamCalendarProps {
 }
 
 const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
-  // Use our custom filter hook
-  const {
-    globalFilters,
-    sourceFilters,
-    selectedSources,
-    setSelectedSources,
-    hiddenSources,
-    activePreset,
-    filteredEvents,
-    availableFiltersBySource,
-    availableGlobalFilters,
-    activeFilters,
-    onGlobalFilterChange,
-    onSourceFilterChange,
-    onClearGlobalFilters,
-    onClearSourceFilter,
-    onRemoveFilter,
-    onClearAllFilters,
-    onApplyPreset,
-    onTogglePreset,
-    onToggleHiddenSource,
-  } = useCalendarFilters(events, dataSources);
-
   const [date, setDate] = useState<Date>(new Date());
   const [view, setView] = useState<View>(Views.MONTH);
   const [activeFilterTab, setActiveFilterTab] = useState<string>('sources');
   const [showFilters, setShowFilters] = useState<boolean>(false);
+  const [filterLoading, setFilterLoading] = useState<boolean>(false);
   const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(null);
 
-  // Custom event styles with improved color handling and special venue handling
-  const eventStyleGetter = (event: CalendarEvent) => {
-    // Find the source for this event
-    const source = event.source && dataSources.find(s => s.id === event.source);
+  // Memoize event style getter to prevent recreation on every render
+  const eventStyleGetter = useCallback(
+    (event: CalendarEvent) => {
+      // Find the source for this event
+      const source = event.source && dataSources.find(s => s.id === event.source);
 
-    // Default style
-    let style = {
-      backgroundColor: 'hsl(var(--primary))',
-      borderRadius: '0.375rem',
-      opacity: 0.8,
-      color: 'hsl(var(--primary-foreground))',
-      border: '0px',
-      display: 'block',
-    };
+      // Default style
+      let style = {
+        backgroundColor: 'hsl(var(--primary))',
+        borderRadius: '0.375rem',
+        opacity: 0.8,
+        color: 'hsl(var(--primary-foreground))',
+        border: '0px',
+        display: 'block',
+      };
 
-    // Special venue list that should always use venue-based coloring
-    const venuePriorityList = ['Aspuddens IP 1', 'Aspuddens IP 2', 'Västberga IP'];
+      // Special venue list that should always use venue-based coloring
+      const venuePriorityList = ['Aspuddens IP 1', 'Aspuddens IP 2', 'Västberga IP'];
 
-    // Get venues from filterTags
-    const venues =
-      event.filterTags
-        ?.filter((tag: string) => tag.startsWith('venue:'))
-        .map((tag: string) => tag.split(':')[1]) || [];
+      // Get venues from filterTags
+      const venues =
+        event.filterTags
+          ?.filter((tag: string) => tag.startsWith('venue:'))
+          .map((tag: string) => tag.split(':')[1]) || [];
 
-    // Check if event has one of the special venues
-    const hasSpecialVenue = venues.some(venue => venuePriorityList.includes(venue));
+      // Check if event has one of the special venues
+      const hasSpecialVenue = venues.some(venue => venuePriorityList.includes(venue));
 
-    // Priority order for colors:
-    // 1. Special venues (Aspuddens IP, Västberga IP) always use venue colors
-    // 2. Event-specific color (if not a special venue)
-    // 3. Venue-based color for other venues
-    // 4. Source color
-    // 5. Match-type or team-based color
+      // Priority order for colors:
+      // 1. Special venues (Aspuddens IP, Västberga IP) always use venue colors
+      // 2. Event-specific color (if not a special venue)
+      // 3. Venue-based color for other venues
+      // 4. Source color
+      // 5. Match-type or team-based color
 
-    if (hasSpecialVenue) {
-      // Find the first special venue in the list
-      const specialVenue = venues.find(venue => venuePriorityList.includes(venue));
-      if (specialVenue) {
-        style.backgroundColor = getVenueColor(specialVenue);
-      }
-    } else if (event.color && event.color !== 'unknown') {
-      // Use event-specific color if available and not a special venue
-      style.backgroundColor = getHexColor(event.color);
-    } else if (venues.length > 0) {
-      // Use venue-based color for other venues
-      style.backgroundColor = getVenueColor(venues[0]);
-    } else if (source) {
-      // Use source color
-      style.backgroundColor = source.color;
-    } else {
-      // Match-type color logic for home/away games
-      const matchType = getPropertyFromFilterTags(event.filterTags, 'match');
-      const isHomeGame = matchType === 'Home';
-      const isAwayGame = matchType === 'Away';
-      const team = getPropertyFromFilterTags(event.filterTags, 'team');
-
-      if (isHomeGame) {
-        style.backgroundColor = 'hsl(142.1 76.2% 36.3%)'; // Green for home games
-      } else if (isAwayGame) {
-        style.backgroundColor = 'hsl(346.8 77.2% 49.8%)'; // Red for away games
-      } else if (team) {
-        // Use a contrasting color based on team name hash
-        const teamHash = team.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
-        style.backgroundColor = getContrastingColor(teamHash);
-      }
-    }
-
-    // Handle light color text contrast
-    if (style.backgroundColor.startsWith('#')) {
-      if (isLightColor(style.backgroundColor)) {
-        style.color = '#000000'; // Black text for light backgrounds
+      if (hasSpecialVenue) {
+        // Find the first special venue in the list
+        const specialVenue = venues.find(venue => venuePriorityList.includes(venue));
+        if (specialVenue) {
+          style.backgroundColor = getVenueColor(specialVenue);
+        }
+      } else if (event.color) {
+        // Use event-specific color if available and not a special venue
+        style.backgroundColor = getHexColor(event.color);
+      } else if (venues.length > 0) {
+        // Use venue-based color for other venues
+        style.backgroundColor = getVenueColor(venues[0]);
+      } else if (source) {
+        // Use source color
+        style.backgroundColor = source.color;
       } else {
-        style.color = '#ffffff'; // White text for dark backgrounds
-      }
-    } else if (style.backgroundColor.startsWith('hsl')) {
-      // For HSL colors, check the lightness value
-      const lightnessMatch = style.backgroundColor.match(/\d+\.?\d*%\)/);
-      if (lightnessMatch && parseFloat(lightnessMatch[0]) > 60) {
-        style.color = '#000000'; // Black text for light backgrounds
-      } else {
-        style.color = '#ffffff'; // White text for dark backgrounds
-      }
-    }
+        // Match-type color logic for home/away games
+        const matchType = getPropertyFromFilterTags(event.filterTags, 'match');
+        const isHomeGame = matchType === 'Home';
+        const isAwayGame = matchType === 'Away';
+        const team = getPropertyFromFilterTags(event.filterTags, 'team');
 
-    return {
-      style,
-      className: '',
-    };
-  };
+        if (isHomeGame) {
+          style.backgroundColor = 'hsl(142.1 76.2% 36.3%)'; // Green for home games
+        } else if (isAwayGame) {
+          style.backgroundColor = 'hsl(346.8 77.2% 49.8%)'; // Red for away games
+        } else if (team) {
+          // Use a contrasting color based on team name hash
+          const teamHash = team.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
+          style.backgroundColor = getContrastingColor(teamHash);
+        }
+      }
 
-  // Fix CustomEventWrapper to match EventWrapperProps interface
-  const CustomEventWrapper = ({ event, children }: any) => {
+      // Handle light color text contrast
+      if (style.backgroundColor.startsWith('#')) {
+        if (isLightColor(style.backgroundColor)) {
+          style.color = '#000000'; // Black text for light backgrounds
+        } else {
+          style.color = '#ffffff'; // White text for dark backgrounds
+        }
+      } else if (style.backgroundColor.startsWith('hsl')) {
+        // For HSL colors, check the lightness value
+        const lightnessMatch = style.backgroundColor.match(/\d+\.?\d*%\)/);
+        if (lightnessMatch && parseFloat(lightnessMatch[0]) > 60) {
+          style.color = '#000000'; // Black text for light backgrounds
+        } else {
+          style.color = '#ffffff'; // White text for dark backgrounds
+        }
+      }
+
+      return {
+        style,
+        className: '',
+      };
+    },
+    [dataSources]
+  );
+
+  // Fix CustomEventWrapper to match EventWrapperProps interface - memoize
+  const CustomEventWrapper = useCallback(({ event, children }: any) => {
     // Get event data from filterTags when possible
     const team = getPropertyFromFilterTags(event.filterTags, 'team') || event.team;
     const ageGroup = getPropertyFromFilterTags(event.filterTags, 'ageGroup') || event.ageGroup;
@@ -208,7 +191,7 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
       .join('\n');
 
     return <div title={tooltip}>{children}</div>;
-  };
+  }, []);
 
   // Calendar formats with firstDayOfWeek set to 1 (Monday)
   const formats = useMemo(
@@ -232,6 +215,47 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
     }),
     []
   );
+
+  // Memoize handlers to prevent recreating on every render
+  const handleFilterTabChange = useCallback((value: string) => {
+    setActiveFilterTab(value);
+  }, []);
+
+  const toggleShowFilters = useCallback(() => {
+    if (!showFilters) {
+      setFilterLoading(true);
+
+      // Ensure filter data is initialized before showing UI
+      setTimeout(() => {
+        // This will trigger the data initialization if not already done
+        initializeFilterData();
+
+        // After a brief delay to allow data processing, show the UI
+        setTimeout(() => {
+          setShowFilters(true);
+          setFilterLoading(false);
+        }, 50);
+      }, 10);
+    } else {
+      setShowFilters(false);
+    }
+  }, [showFilters, initializeFilterData]);
+
+  const handleEventSelect = useCallback((event: CalendarEvent) => {
+    setSelectedEvent(event);
+  }, []);
+
+  const handleDateChange = useCallback((newDate: Date) => {
+    setDate(newDate);
+  }, []);
+
+  const handleViewChange = useCallback((newView: View) => {
+    setView(newView);
+  }, []);
+
+  const closeDialog = useCallback(() => {
+    setSelectedEvent(null);
+  }, []);
 
   return (
     <div className="space-y-4">
@@ -258,8 +282,22 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
                 Reset All
               </Button>
             </div>
-            <Button variant="outline" size="sm" onClick={() => setShowFilters(prev => !prev)}>
-              {showFilters ? 'Hide Filters' : 'Show Filters'}
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={toggleShowFilters}
+              disabled={filterLoading}
+            >
+              {filterLoading ? (
+                <>
+                  <Spinner className="mr-2 h-4 w-4" />
+                  Loading...
+                </>
+              ) : showFilters ? (
+                'Hide Filters'
+              ) : (
+                'Show Filters'
+              )}
             </Button>
           </div>
 
@@ -295,40 +333,72 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
             </div>
           )}
 
-          {showFilters && (
-            <Tabs value={activeFilterTab} onValueChange={setActiveFilterTab} className="w-full">
-              <TabsList className="w-full mb-4">
-                <TabsTrigger value="sources" className="flex-1">
-                  Data Sources
-                </TabsTrigger>
-                <TabsTrigger value="global" className="flex-1">
-                  Global Filters
-                </TabsTrigger>
-              </TabsList>
+          {(showFilters || filterLoading) && (
+            <div
+              className={`transition-opacity duration-300 ${
+                filterLoading ? 'opacity-50' : 'opacity-100'
+              }`}
+            >
+              {filterLoading ? (
+                <div className="flex justify-center items-center py-20">
+                  <Spinner className="h-8 w-8" />
+                </div>
+              ) : (
+                <Tabs
+                  value={activeFilterTab}
+                  onValueChange={handleFilterTabChange}
+                  className="w-full"
+                >
+                  <TabsList className="w-full mb-4">
+                    <TabsTrigger value="sources" className="flex-1">
+                      Data Sources
+                    </TabsTrigger>
+                    <TabsTrigger value="global" className="flex-1">
+                      Global Filters
+                    </TabsTrigger>
+                  </TabsList>
 
-              <TabsContent value="sources" className="mt-0 pt-2">
-                <DataSourceSelector
-                  dataSources={dataSources}
-                  selectedSources={selectedSources}
-                  onSelectionChange={sources => setSelectedSources(sources)}
-                  availableFiltersBySource={availableFiltersBySource}
-                  sourceFilters={sourceFilters}
-                  onFilterChange={onSourceFilterChange}
-                  hiddenSources={hiddenSources}
-                  onToggleHiddenSource={onToggleHiddenSource}
-                  onClearSourceFilters={onClearSourceFilter}
-                />
-              </TabsContent>
+                  <TabsContent value="sources" className="mt-0 pt-2">
+                    <Suspense
+                      fallback={
+                        <div className="flex justify-center py-10">
+                          <Spinner />
+                        </div>
+                      }
+                    >
+                      <LazyDataSourceSelector
+                        dataSources={dataSources}
+                        selectedSources={selectedSources}
+                        onSelectionChange={sources => setSelectedSources(sources)}
+                        availableFiltersBySource={availableFiltersBySource}
+                        sourceFilters={sourceFilters}
+                        onFilterChange={onSourceFilterChange}
+                        hiddenSources={hiddenSources}
+                        onToggleHiddenSource={onToggleHiddenSource}
+                        onClearSourceFilters={onClearSourceFilter}
+                      />
+                    </Suspense>
+                  </TabsContent>
 
-              <TabsContent value="global" className="mt-0 pt-2">
-                <GlobalFilterSelector
-                  availableFilters={availableGlobalFilters}
-                  selectedFilters={globalFilters}
-                  onFilterChange={onGlobalFilterChange}
-                  onClearAll={onClearGlobalFilters}
-                />
-              </TabsContent>
-            </Tabs>
+                  <TabsContent value="global" className="mt-0 pt-2">
+                    <Suspense
+                      fallback={
+                        <div className="flex justify-center py-10">
+                          <Spinner />
+                        </div>
+                      }
+                    >
+                      <LazyGlobalFilterSelector
+                        availableFilters={availableGlobalFilters}
+                        selectedFilters={globalFilters}
+                        onFilterChange={onGlobalFilterChange}
+                        onClearAll={onClearGlobalFilters}
+                      />
+                    </Suspense>
+                  </TabsContent>
+                </Tabs>
+              )}
+            </div>
           )}
         </CardContent>
       </Card>
@@ -349,9 +419,9 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
           views={views}
           date={date}
           view={view}
-          onView={setView}
-          onNavigate={newDate => setDate(newDate)}
-          onSelectEvent={event => setSelectedEvent(event)}
+          onView={handleViewChange}
+          onNavigate={handleDateChange}
+          onSelectEvent={handleEventSelect}
           style={{ height: '100%', width: '100%' }}
           min={new Date(0, 0, 0, 8, 0)} // 8:00 AM
           max={new Date(0, 0, 0, 23, 0)} // 11:00 PM
@@ -360,7 +430,7 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
 
       {/* Enhanced event details modal with DialogDescription */}
       {selectedEvent && (
-        <Dialog open={true} onOpenChange={() => setSelectedEvent(null)}>
+        <Dialog open={true} onOpenChange={closeDialog}>
           <DialogContent className="sm:max-w-[500px]">
             <DialogHeader>
               <DialogTitle className="text-xl">
@@ -478,7 +548,7 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
                   Open Link
                 </Button>
               )}
-              <Button variant="outline" onClick={() => setSelectedEvent(null)} className="ml-auto">
+              <Button variant="outline" onClick={closeDialog} className="ml-auto">
                 Close
               </Button>
             </div>

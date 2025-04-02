@@ -5,7 +5,7 @@ import {
   determineMatchStatus,
   extractTeamFromMatch,
   extractOpponentFromMatch,
-} from '../../src/utils/match-utils';
+} from '../../src/scrapers/utils/match-utils';
 import { CalendarEvent } from '../../src/types/types';
 
 describe('getHomeAwayCategory', () => {
@@ -14,6 +14,8 @@ describe('getHomeAwayCategory', () => {
     start: new Date(),
     end: new Date(),
     sourceType: 'laget',
+    uid: 'test-uid',
+    rawData: {},
   };
 
   it('returns undefined for events with no title', () => {
@@ -24,6 +26,7 @@ describe('getHomeAwayCategory', () => {
     expect(
       getHomeAwayCategory({
         ...baseEvent,
+        activity: 'Match',
         title: 'IFK AT vs Opponent',
         categories: ['Home'],
       })
@@ -32,6 +35,7 @@ describe('getHomeAwayCategory', () => {
     expect(
       getHomeAwayCategory({
         ...baseEvent,
+        activity: 'Match',
         title: 'Opponent vs IFK AT',
         categories: ['Away'],
       })
@@ -42,6 +46,7 @@ describe('getHomeAwayCategory', () => {
     expect(
       getHomeAwayCategory({
         ...baseEvent,
+        activity: 'Match',
         title: 'IFK Aspudden-Tellus vs Opponent FC',
       })
     ).toBe('Home');
@@ -51,6 +56,7 @@ describe('getHomeAwayCategory', () => {
     expect(
       getHomeAwayCategory({
         ...baseEvent,
+        activity: 'Match',
         title: 'Opponent FC vs IFK AT',
       })
     ).toBe('Away');
@@ -60,6 +66,7 @@ describe('getHomeAwayCategory', () => {
     expect(
       getHomeAwayCategory({
         ...baseEvent,
+        activity: 'Match',
         title: 'Aspudden - Opponent FC',
       })
     ).toBe('Home');
@@ -69,6 +76,7 @@ describe('getHomeAwayCategory', () => {
     expect(
       getHomeAwayCategory({
         ...baseEvent,
+        activity: 'Match',
         title: 'Opponent FC - Tellus',
       })
     ).toBe('Away');
@@ -78,6 +86,7 @@ describe('getHomeAwayCategory', () => {
     expect(
       getHomeAwayCategory({
         ...baseEvent,
+        activity: 'Match',
         title: 'Some match',
         location: 'Aspuddens IP',
       })
@@ -88,10 +97,21 @@ describe('getHomeAwayCategory', () => {
     expect(
       getHomeAwayCategory({
         ...baseEvent,
+        activity: 'Match',
         title: 'Some match',
         location: 'Opponent Arena',
       })
     ).toBe('Away');
+  });
+
+  it('undefined for non match activities', () => {
+    expect(
+      getHomeAwayCategory({
+        ...baseEvent,
+        activity: 'Träning',
+        title: 'Opponent FC - Tellus',
+      })
+    ).toBeUndefined();
   });
 });
 
@@ -101,6 +121,8 @@ describe('getOpponent', () => {
     start: new Date(),
     end: new Date(),
     sourceType: 'laget',
+    uid: 'test-uid',
+    rawData: {},
   };
 
   it('returns undefined for events with no title', () => {
@@ -111,6 +133,7 @@ describe('getOpponent', () => {
     expect(
       getOpponent({
         ...baseEvent,
+        activity: 'Match',
         title: 'IFK Aspudden-Tellus vs Opponent FC',
       })
     ).toBe('Opponent FC');
@@ -120,6 +143,7 @@ describe('getOpponent', () => {
     expect(
       getOpponent({
         ...baseEvent,
+        activity: 'Match',
         title: 'Opponent FC vs IFK AT',
       })
     ).toBe('Opponent FC');
@@ -129,6 +153,7 @@ describe('getOpponent', () => {
     expect(
       getOpponent({
         ...baseEvent,
+        activity: 'Match',
         title: 'Aspudden - Opponent FC',
       })
     ).toBe('Opponent FC');
@@ -138,6 +163,7 @@ describe('getOpponent', () => {
     expect(
       getOpponent({
         ...baseEvent,
+        activity: 'Match',
         title: 'Opponent FC - Tellus',
       })
     ).toBe('Opponent FC');
@@ -147,6 +173,7 @@ describe('getOpponent', () => {
     expect(
       getOpponent({
         ...baseEvent,
+        activity: 'Match',
         title: 'Match AT F2014 Gul - Mälarhöjden IK F2014',
       })
     ).toBe('Mälarhöjden IK F2014');
@@ -156,6 +183,7 @@ describe('getOpponent', () => {
     expect(
       getOpponent({
         ...baseEvent,
+        activity: 'Match',
         title: 'IFK AT vs Match FC',
       })
     ).toBe('Match FC');
@@ -165,6 +193,7 @@ describe('getOpponent', () => {
     expect(
       getOpponent({
         ...baseEvent,
+        activity: 'Match',
         title: 'Match Tellus P2015 Blå - AIK FF 3',
       })
     ).toBe('AIK FF 3');
@@ -174,6 +203,7 @@ describe('getOpponent', () => {
     expect(
       getOpponent({
         ...baseEvent,
+        activity: 'Match',
         title: 'Some random event',
       })
     ).toBeUndefined();
@@ -183,7 +213,48 @@ describe('getOpponent', () => {
     expect(
       getOpponent({
         ...baseEvent,
+        activity: 'Match',
         title: 'IFK Aspudden-Tellus vs Tellus',
+      })
+    ).toBeUndefined();
+  });
+
+  it('returns undefined for training activities with Träning in the title', () => {
+    expect(
+      getOpponent({
+        ...baseEvent,
+        activity: 'Match',
+        title: 'Träning P2015',
+      })
+    ).toBeUndefined();
+  });
+
+  it('returns undefined for training activities with Training in the title', () => {
+    expect(
+      getOpponent({
+        ...baseEvent,
+        activity: 'Match',
+        title: 'Training F2014',
+      })
+    ).toBeUndefined();
+  });
+
+  it('returns undefined for training activities with specific team mentions', () => {
+    expect(
+      getOpponent({
+        ...baseEvent,
+        activity: 'Match',
+        title: 'Träning IFK AT P2013',
+      })
+    ).toBeUndefined();
+  });
+
+  it('returns undefined for training activities', () => {
+    expect(
+      getOpponent({
+        ...baseEvent,
+        activity: 'Träning',
+        title: 'Match AT F2014 Gul - Mälarhöjden IK F2014',
       })
     ).toBeUndefined();
   });
