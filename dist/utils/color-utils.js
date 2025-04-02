@@ -1,10 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.stringToColor = stringToColor;
 exports.getHexColor = getHexColor;
 exports.getVenueColor = getVenueColor;
-exports.isLightColor = isLightColor;
 exports.getContrastingColor = getContrastingColor;
+exports.isLightColor = isLightColor;
 /**
  * Maps color names to hex color codes
  */
@@ -45,94 +44,61 @@ const colorMap = {
     unknown: '#6b7280', // Default to gray
 };
 /**
- * Generates a deterministic color from a string
- * @param input Any string input
- * @returns A hex color code
+ * Convert color string to hex format
  */
-function stringToColor(input) {
-    // Simple hash function to convert string to a number
-    let hash = 0;
-    for (let i = 0; i < input.length; i++) {
-        hash = input.charCodeAt(i) + ((hash << 5) - hash);
+function getHexColor(color) {
+    // If it's already hex, return it
+    if (color.startsWith('#')) {
+        return color;
     }
-    // Convert to hex color
-    let color = '#';
-    for (let i = 0; i < 3; i++) {
-        const value = (hash >> (i * 8)) & 0xff;
-        color += ('00' + value.toString(16)).slice(-2);
+    // Handle HSL format
+    if (color.startsWith('hsl')) {
+        // For simplicity, return a default color
+        // A complete implementation would convert HSL to hex
+        return '#6366f1';
     }
-    return color;
+    // Default fallback color
+    return '#6366f1';
 }
 /**
- * Gets a hex color code from a color name
- * @param colorName The name of the color
- * @returns The hex color code for the color
+ * Generate a color for a venue based on venue name
  */
-function getHexColor(colorName) {
-    if (!colorName)
-        return '#6b7280'; // Default gray for empty colors
-    const normalizedColor = colorName.toLowerCase().trim();
-    // Return the color if it exists in our map
-    if (normalizedColor in colorMap) {
-        return colorMap[normalizedColor];
+function getVenueColor(venue) {
+    // Specific colors for standard venues
+    if (venue === 'Aspuddens IP 1') {
+        return '#3b82f6'; // Blue
     }
-    // Check if it's already a valid hex color
-    if (/^#([0-9A-F]{3}){1,2}$/i.test(colorName)) {
-        return colorName;
+    if (venue === 'Aspuddens IP 2') {
+        return '#8b5cf6'; // Purple
     }
-    // Check if it's an RGB or HSL value
-    if (colorName.startsWith('rgb') || colorName.startsWith('hsl')) {
-        return colorName;
+    if (venue === 'Västberga IP') {
+        return '#ec4899'; // Pink
     }
-    // For unknown colors, generate a deterministic color
-    return stringToColor(colorName);
+    // For other venues, create a hash-based color
+    const hash = venue.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
+    const hue = hash % 360;
+    return `hsl(${hue}, 70%, 50%)`;
 }
 /**
- * Generate a deterministic color based on a string (like venue name)
- * This ensures the same venue always gets the same color
+ * Generate a contrasting color based on a numerical value
  */
-function getVenueColor(venueName) {
-    // Use a simple hash function to generate a number from the string
-    let hash = 0;
-    for (let i = 0; i < venueName.length; i++) {
-        hash = venueName.charCodeAt(i) + ((hash << 5) - hash);
-    }
-    // We'll use HSL to ensure good contrast and saturation
-    // Use hash to get a hue between 0-360
-    const hue = Math.abs(hash) % 360;
-    // Fixed saturation and lightness for good readability
-    return `hsl(${hue}, 80%, 45%)`;
+function getContrastingColor(value) {
+    const hue = value % 360;
+    return `hsl(${hue}, 70%, 50%)`;
 }
 /**
- * Determines if a color is light or dark
- * @param color Hex color code
- * @returns Boolean indicating if the color is light
+ * Check if a hex color is light (to determine text color)
  */
 function isLightColor(color) {
-    // Convert hex to RGB
+    // Remove # if present
     const hex = color.replace('#', '');
-    const r = parseInt(hex.substr(0, 2), 16);
-    const g = parseInt(hex.substr(2, 2), 16);
-    const b = parseInt(hex.substr(4, 2), 16);
-    // Calculate luminance - weights from ITU-R BT.709
-    const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
-    // Return true if color is light (luminance > 0.5)
-    return luminance > 0.5;
-}
-/**
- * Returns a contrasting color that works well with most team colors
- */
-function getContrastingColor(index) {
-    // Define an array of contrasting, accessible colors
-    const contrastColors = [
-        'hsl(230, 70%, 50%)', // Blue
-        'hsl(160, 70%, 40%)', // Teal
-        'hsl(340, 80%, 50%)', // Pink
-        'hsl(40, 90%, 45%)', // Orange
-        'hsl(270, 70%, 50%)', // Purple
-        'hsl(200, 80%, 45%)', // Sky blue
-        'hsl(320, 70%, 45%)', // Magenta
-        'hsl(180, 70%, 40%)', // Cyan
-    ];
-    return contrastColors[index % contrastColors.length];
+    // Convert to RGB
+    const r = parseInt(hex.substring(0, 2), 16);
+    const g = parseInt(hex.substring(2, 4), 16);
+    const b = parseInt(hex.substring(4, 6), 16);
+    // Calculate perceived brightness using the formula
+    // (0.299*R + 0.587*G + 0.114*B)
+    const brightness = r * 0.299 + g * 0.587 + b * 0.114;
+    // If brightness is greater than 155, color is considered light
+    return brightness > 155;
 }

@@ -47,6 +47,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Veteran DM Herrar",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -102,6 +103,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P19 Div.1 2025 - Region 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus ",
     "formattedTeam": "IFK Aspudden-Tellus ",
@@ -157,6 +159,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Stockholm StreetSoccer FF vs Handelskamraternas IS)"
@@ -210,6 +213,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -232,8 +236,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6245376,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-3-alvsjo-aik-ff-3-pojkar-2010/6245376/",
       "date": {
@@ -259,18 +265,19 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "Älvsjö AIK FF 3",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs Älvsjö AIK FF 3)"
+    "formattedTitle": "🏟️ H2010 (vs Älvsjö AIK FF 3)"
   },
   {
     "uid": "venue-match-6245859",
@@ -321,6 +328,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2010",
@@ -376,6 +384,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 4 Södra",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -431,6 +440,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -487,6 +497,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 3B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Ospecificerat lag (6) vs Skogås-Trångsunds FF Blå)"
@@ -540,6 +551,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3K",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -597,6 +609,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 1E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2011",
@@ -653,6 +666,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "D2011",
@@ -709,6 +723,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2007-kval till P19- B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (FC Stockholm Internazionale vs Älvsjö AIK FF)"
@@ -761,6 +776,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Buffalo vs Spårvägens FF )"
@@ -814,6 +830,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -871,6 +888,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 4D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2011",
@@ -926,6 +944,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus DJ",
     "formattedTeam": "IFK Aspudden-Tellus DJ",
@@ -981,6 +1000,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 3B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -1036,6 +1056,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs AC Azzurri)"
@@ -1088,6 +1109,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "SSH 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -1144,6 +1166,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2010",
@@ -1199,6 +1222,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Stockholm StreetSoccer FF vs Dardania Stockholm FF)"
@@ -1251,6 +1275,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 4 Södra",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -1307,6 +1332,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009- 1B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2009",
@@ -1362,6 +1388,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -1418,6 +1445,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 1",
     "color": "Svart",
@@ -1475,6 +1503,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -1532,6 +1561,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -1589,6 +1619,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -1646,6 +1677,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -1703,6 +1735,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -1760,6 +1793,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -1817,6 +1851,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -1874,6 +1909,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -1931,6 +1967,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -1987,6 +2024,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Buffalo vs Tullinge Triangel Pojkar FK)"
@@ -2040,6 +2078,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -2096,6 +2135,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 3B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -2152,6 +2192,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3K",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -2209,6 +2250,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -2266,6 +2308,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -2323,6 +2366,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -2380,6 +2424,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 4D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2011",
@@ -2401,8 +2446,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281383,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-kif-soderort-guld-pojkar-2016/6281383/",
       "date": {
@@ -2434,6 +2481,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -2491,6 +2539,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -2548,6 +2597,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -2605,6 +2655,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -2627,8 +2678,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6245389,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-3-ifk-lidingo-fk-8-pojkar-2010/6245389/",
       "date": {
@@ -2654,18 +2707,19 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "IFK Lidingö FK 8",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs IFK Lidingö FK 8)"
+    "formattedTitle": "🏟️ H2010 (vs IFK Lidingö FK 8)"
   },
   {
     "uid": "venue-match-6262915",
@@ -2716,6 +2770,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -2772,6 +2827,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2008- 2C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs IK Frej Täby FF P17)"
@@ -2825,6 +2881,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -2882,6 +2939,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -2938,6 +2996,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 4 B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Stuvsta FF )"
@@ -2990,6 +3049,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar Vet B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -3045,6 +3105,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 4 Södra",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -3101,6 +3162,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -3158,6 +3220,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -3215,6 +3278,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -3272,6 +3336,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -3329,6 +3394,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -3386,6 +3452,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2015",
@@ -3441,6 +3508,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 3 B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -3497,6 +3565,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -3554,6 +3623,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 4",
     "color": "Blå",
@@ -3610,6 +3680,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P19 Div.1 2025 - Region 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus ",
     "formattedTeam": "IFK Aspudden-Tellus ",
@@ -3666,6 +3737,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -3723,6 +3795,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -3780,6 +3853,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 2",
     "color": "Svart",
@@ -3837,6 +3911,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -3894,6 +3969,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -3951,6 +4027,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
     "formattedTeam": "F2015",
@@ -4007,6 +4084,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009- 1B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2009",
@@ -4063,6 +4141,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -4120,6 +4199,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -4176,6 +4256,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus DJ",
     "formattedTeam": "IFK Aspudden-Tellus DJ",
@@ -4231,6 +4312,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 4 B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Västerhaninge IF)"
@@ -4283,6 +4365,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "JDM Flickor Slutspel",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -4338,6 +4421,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -4394,6 +4478,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -4451,6 +4536,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -4508,6 +4594,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -4565,6 +4652,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -4622,6 +4710,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -4679,6 +4768,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -4736,6 +4826,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -4793,6 +4884,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -4848,6 +4940,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Buffalo vs Botkyrka Kuluspor FF)"
@@ -4901,6 +4994,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -4957,6 +5051,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Stockholm StreetSoccer FF vs IK Makkabi)"
@@ -5010,6 +5105,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -5067,6 +5163,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -5124,6 +5221,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 1",
     "color": "Svart",
@@ -5181,6 +5279,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -5203,8 +5302,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281429,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-djurgardens-if-ff-12-rod-pojkar-2016/6281429/",
       "date": {
@@ -5236,6 +5337,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -5293,6 +5395,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -5315,8 +5418,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6261494,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-ifk-stocksund-1-flickor-2014/6261494/",
       "date": {
@@ -5348,6 +5453,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -5405,6 +5511,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 1E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2011",
@@ -5461,6 +5568,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -5518,6 +5626,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "D2011",
@@ -5574,6 +5683,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -5631,6 +5741,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -5688,6 +5799,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009-kval till P17- B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2009",
@@ -5744,6 +5856,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -5800,6 +5913,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Preben BoIS)"
@@ -5853,6 +5967,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2008- 2C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Enskede IK 1)"
@@ -5905,6 +6020,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 4 Södra",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -5961,6 +6077,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -6018,6 +6135,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -6075,6 +6193,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 2",
     "color": "Svart",
@@ -6132,6 +6251,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -6189,6 +6309,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -6246,6 +6367,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -6303,6 +6425,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2010",
@@ -6359,6 +6482,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -6415,6 +6539,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 3 B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -6470,6 +6595,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P19 Div.1 2025 - Region 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus ",
     "formattedTeam": "IFK Aspudden-Tellus ",
@@ -6526,6 +6652,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 3B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Ospecificerat lag (6) vs Hammarby IF FF 4)"
@@ -6579,6 +6706,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 5",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -6636,6 +6764,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -6693,6 +6822,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -6750,6 +6880,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -6807,6 +6938,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -6864,6 +6996,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009- 1B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2009",
@@ -6920,6 +7053,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -6977,6 +7111,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2008- 2C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Huddinge IF P17U)"
@@ -7030,6 +7165,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -7086,6 +7222,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus DJ",
     "formattedTeam": "IFK Aspudden-Tellus DJ",
@@ -7141,6 +7278,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 4 B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Sickla IF)"
@@ -7193,6 +7331,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -7249,6 +7388,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -7306,6 +7446,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -7363,6 +7504,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -7420,6 +7562,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -7477,6 +7620,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3K",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -7534,6 +7678,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 1",
     "color": "Svart",
@@ -7591,6 +7736,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -7648,6 +7794,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "D2011",
@@ -7704,6 +7851,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
     "formattedTeam": "F2015",
@@ -7759,6 +7907,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Buffalo vs Tungelsta IF)"
@@ -7812,6 +7961,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -7868,6 +8018,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 3B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -7924,6 +8075,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -7981,6 +8133,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -8038,6 +8191,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -8095,6 +8249,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -8152,6 +8307,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -8209,6 +8365,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 1E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2011",
@@ -8230,8 +8387,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281475,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-hogdalens-ais-svart-pojkar-2016/6281475/",
       "date": {
@@ -8263,6 +8422,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -8320,6 +8480,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -8377,6 +8538,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -8434,6 +8596,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -8490,6 +8653,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -8547,6 +8711,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 4",
     "color": "Blå",
@@ -8604,6 +8769,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009-kval till P17- B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2009",
@@ -8659,6 +8825,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs FC Plavi Team)"
@@ -8712,6 +8879,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 1S (11m11)",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Hammarby IF FF F14A vs Enskede IK 1)"
@@ -8764,6 +8932,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P19 Div.1 2025 - Region 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus ",
     "formattedTeam": "IFK Aspudden-Tellus ",
@@ -8819,6 +8988,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 4 Södra",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -8875,6 +9045,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 3B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Ospecificerat lag (6) vs Norsborg FC 1)"
@@ -8928,6 +9099,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -8985,6 +9157,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -9042,6 +9215,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -9099,6 +9273,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3K",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -9156,6 +9331,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -9213,6 +9389,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2015",
@@ -9269,6 +9446,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 1C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2010",
@@ -9325,6 +9503,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -9381,6 +9560,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 3 B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -9437,6 +9617,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009-kval till P17- B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2009",
@@ -9492,6 +9673,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "JDM Pojkar Slutspel",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -9548,6 +9730,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 2",
     "color": "Svart",
@@ -9605,6 +9788,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -9662,6 +9846,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -9719,6 +9904,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -9776,6 +9962,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -9833,6 +10020,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -9890,6 +10078,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2010",
@@ -9946,6 +10135,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -10002,6 +10192,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P19 Div.1 2025 - Region 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus ",
     "formattedTeam": "IFK Aspudden-Tellus ",
@@ -10058,6 +10249,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -10115,6 +10307,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2008- 2C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Hammarby TFF Herrfotboll 3)"
@@ -10167,6 +10360,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 4 B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Ösmo GIF FK)"
@@ -10219,6 +10413,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "SSD 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -10275,6 +10470,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 1E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2011",
@@ -10331,6 +10527,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "D2011",
@@ -10386,6 +10583,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Westermalms IF FK)"
@@ -10439,6 +10637,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -10496,6 +10695,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -10553,6 +10753,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -10610,6 +10811,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -10667,6 +10869,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 4D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2011",
@@ -10723,6 +10926,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -10780,6 +10984,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -10837,6 +11042,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
     "formattedTeam": "F2015",
@@ -10892,6 +11098,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -10948,6 +11155,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -11005,6 +11213,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 4",
     "color": "Blå",
@@ -11061,6 +11270,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Buffalo vs Mälarhöjden-Hägersten FF)"
@@ -11114,6 +11324,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -11171,6 +11382,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -11228,6 +11440,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -11285,6 +11498,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -11307,8 +11521,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6245429,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-3-malarhojden-hagersten-ff-3-pojkar-2010/6245429/",
       "date": {
@@ -11334,18 +11550,19 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "Mälarhöjden-Hägersten FF 3",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs Mälarhöjden-Hägersten FF 3)"
+    "formattedTitle": "🏟️ H2010 (vs Mälarhöjden-Hägersten FF 3)"
   },
   {
     "uid": "venue-match-6281544",
@@ -11361,8 +11578,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281544,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-dalaro-sk-pojkar-2016/6281544/",
       "date": {
@@ -11394,6 +11613,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -11451,6 +11671,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -11508,6 +11729,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -11565,6 +11787,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009- 1B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2009",
@@ -11621,6 +11844,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -11677,6 +11901,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus DJ",
     "formattedTeam": "IFK Aspudden-Tellus DJ",
@@ -11733,6 +11958,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -11790,6 +12016,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -11846,6 +12073,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 3B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -11901,6 +12129,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "SSH 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -11956,6 +12185,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar Vet B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -12012,6 +12242,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3K",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -12069,6 +12300,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -12125,6 +12357,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 3 B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -12180,6 +12413,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 3B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -12236,6 +12470,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 4D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2011",
@@ -12291,6 +12526,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P19 Div.1 2025 - Region 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus ",
     "formattedTeam": "IFK Aspudden-Tellus ",
@@ -12347,6 +12583,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009-kval till P17- B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2009",
@@ -12402,6 +12639,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 4 B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs IFK Haninge)"
@@ -12455,6 +12693,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2008- 2C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Djurgårdens IF FF 7)"
@@ -12507,6 +12746,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 4 Södra",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -12562,6 +12802,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P19 Div.1 2025 - Region 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus ",
     "formattedTeam": "IFK Aspudden-Tellus ",
@@ -12617,6 +12858,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "Away",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -12672,6 +12914,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 4 Södra",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -12728,6 +12971,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009- 1B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2009",
@@ -12784,6 +13028,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "D2011",
@@ -12840,6 +13085,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -12897,6 +13143,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2010",
@@ -12918,8 +13165,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6245442,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-3-norrtulls-sk-3-pojkar-2010/6245442/",
       "date": {
@@ -12945,18 +13194,19 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "Norrtulls SK 3",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs Norrtulls SK 3)"
+    "formattedTitle": "🏟️ H2010 (vs Norrtulls SK 3)"
   },
   {
     "uid": "venue-match-6221058",
@@ -13006,6 +13256,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Råsunda FC)"
@@ -13058,6 +13309,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Buffalo vs Sörskogens IF)"
@@ -13110,6 +13362,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 4 B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Rönninge Salem Fotboll )"
@@ -13163,6 +13416,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3K",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -13219,6 +13473,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 3 B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -13275,6 +13530,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -13332,6 +13588,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 1E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2011",
@@ -13387,6 +13644,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "SSD 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -13442,6 +13700,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar Vet B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -13497,6 +13756,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "SSH 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -13552,6 +13812,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 4 Södra",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -13607,6 +13868,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -13663,6 +13925,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 2",
     "color": "Svart",
@@ -13720,6 +13983,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -13777,6 +14041,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -13834,6 +14099,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -13891,6 +14157,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -13948,6 +14215,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -14005,6 +14273,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -14062,6 +14331,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -14117,6 +14387,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Buffalo vs KIF Söderort)"
@@ -14170,6 +14441,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -14226,6 +14498,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P19 Div.1 2025 - Region 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus ",
     "formattedTeam": "IFK Aspudden-Tellus ",
@@ -14282,6 +14555,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 1",
     "color": "Svart",
@@ -14339,6 +14613,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 5",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -14396,6 +14671,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -14453,6 +14729,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -14510,6 +14787,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -14567,6 +14845,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -14624,6 +14903,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -14646,8 +14926,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6261579,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-tullinge-triangel-pojkar-fk-vit-flickor-2014/6261579/",
       "date": {
@@ -14679,6 +14961,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -14701,8 +14984,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6245453,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-3-orby-is-pojkar-2010/6245453/",
       "date": {
@@ -14728,18 +15013,19 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "Örby IS",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs Örby IS)"
+    "formattedTitle": "🏟️ H2010 (vs Örby IS)"
   },
   {
     "uid": "venue-match-6273127",
@@ -14790,6 +15076,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -14847,6 +15134,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009- 1B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2009",
@@ -14903,6 +15191,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -14960,6 +15249,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -15016,6 +15306,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 3B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -15071,6 +15362,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Tudor Arms FC)"
@@ -15123,6 +15415,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar Vet B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -15178,6 +15471,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 4 Södra",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -15199,8 +15493,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281583,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-angby-if-vit-pojkar-2016/6281583/",
       "date": {
@@ -15232,6 +15528,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -15289,6 +15586,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -15346,6 +15644,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 2",
     "color": "Svart",
@@ -15403,6 +15702,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -15460,6 +15760,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -15517,6 +15818,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -15574,6 +15876,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2015",
@@ -15629,6 +15932,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 3 B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -15685,6 +15989,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -15742,6 +16047,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -15799,6 +16105,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 3B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Ospecificerat lag (6) vs Järla IF FK Röd)"
@@ -15852,6 +16159,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -15909,6 +16217,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -15966,6 +16275,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -16023,6 +16333,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -16080,6 +16391,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -16137,6 +16449,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -16194,6 +16507,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 1E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2011",
@@ -16250,6 +16564,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -16307,6 +16622,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "D2011",
@@ -16363,6 +16679,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
     "formattedTeam": "F2015",
@@ -16419,6 +16736,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -16476,6 +16794,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2010",
@@ -16531,6 +16850,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 4 B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Örby IS)"
@@ -16583,6 +16903,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -16639,6 +16960,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -16696,6 +17018,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -16753,6 +17076,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -16810,6 +17134,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -16867,6 +17192,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -16924,6 +17250,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 1",
     "color": "Svart",
@@ -16981,6 +17308,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -17002,8 +17330,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6245464,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-3-nockebyhovs-if-nfk-pojkar-2010/6245464/",
       "date": {
@@ -17029,18 +17359,19 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "Nockebyhovs IF NFK",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs Nockebyhovs IF NFK)"
+    "formattedTitle": "🏟️ H2010 (vs Nockebyhovs IF NFK)"
   },
   {
     "uid": "venue-match-6276295",
@@ -17091,6 +17422,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -17147,6 +17479,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Buffalo vs Atletic Blåsut FC)"
@@ -17200,6 +17533,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 4",
     "color": "Blå",
@@ -17256,6 +17590,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P19 Div.1 2025 - Region 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus ",
     "formattedTeam": "IFK Aspudden-Tellus ",
@@ -17312,6 +17647,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 4D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2011",
@@ -17368,6 +17704,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3K",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -17425,6 +17762,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 5",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -17482,6 +17820,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -17539,6 +17878,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -17596,6 +17936,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -17653,6 +17994,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -17710,6 +18052,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -17767,6 +18110,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2008- 2C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Älta IF)"
@@ -17820,6 +18164,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -17876,6 +18221,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 3B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -17932,6 +18278,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -17988,6 +18335,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus DJ",
     "formattedTeam": "IFK Aspudden-Tellus DJ",
@@ -18043,6 +18391,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs IF Lokomotiv Blackeberg)"
@@ -18095,6 +18444,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "SSD 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -18150,6 +18500,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 4 Södra",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -18206,6 +18557,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -18263,6 +18615,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -18320,6 +18673,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 2",
     "color": "Svart",
@@ -18377,6 +18731,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -18434,6 +18789,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -18491,6 +18847,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -18548,6 +18905,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -18604,6 +18962,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 3 B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -18660,6 +19019,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -18717,6 +19077,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009- 1B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2009",
@@ -18773,6 +19134,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -18830,6 +19192,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 3B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Ospecificerat lag (6) vs Boo FF F11:3 1)"
@@ -18883,6 +19246,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -18940,6 +19304,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -18997,6 +19362,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -19019,8 +19385,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281651,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-boo-ff-p168-pojkar-2016/6281651/",
       "date": {
@@ -19052,6 +19420,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -19109,6 +19478,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -19166,6 +19536,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -19223,6 +19594,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 1E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2011",
@@ -19279,6 +19651,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
     "formattedTeam": "F2015",
@@ -19335,6 +19708,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "D2011",
@@ -19391,6 +19765,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -19448,6 +19823,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2010",
@@ -19503,6 +19879,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 4 B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs FoC Farsta FF)"
@@ -19555,6 +19932,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -19611,6 +19989,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -19668,6 +20047,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -19725,6 +20105,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -19782,6 +20163,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -19839,6 +20221,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 1",
     "color": "Svart",
@@ -19896,6 +20279,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -19953,6 +20337,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -20010,6 +20395,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -20065,6 +20451,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Buffalo vs FC Tyresö United)"
@@ -20118,6 +20505,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -20175,6 +20563,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 4",
     "color": "Blå",
@@ -20231,6 +20620,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P19 Div.1 2025 - Region 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus ",
     "formattedTeam": "IFK Aspudden-Tellus ",
@@ -20252,8 +20642,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6245475,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-3-karlbergs-bk-gron-pojkar-2010/6245475/",
       "date": {
@@ -20279,18 +20671,19 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "Karlbergs BK Grön",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs Karlbergs BK Grön)"
+    "formattedTitle": "🏟️ H2010 (vs Karlbergs BK Grön)"
   },
   {
     "uid": "venue-match-6252586",
@@ -20341,6 +20734,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3K",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -20398,6 +20792,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -20455,6 +20850,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -20512,6 +20908,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 4D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2011",
@@ -20568,6 +20965,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -20625,6 +21023,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -20682,6 +21081,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -20739,6 +21139,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "D2011",
@@ -20795,6 +21196,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -20851,6 +21253,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus DJ",
     "formattedTeam": "IFK Aspudden-Tellus DJ",
@@ -20907,6 +21310,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -20964,6 +21368,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -21020,6 +21425,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 3B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -21075,6 +21481,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Lado Sur FC)"
@@ -21127,6 +21534,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "SSH 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -21182,6 +21590,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 4 Södra",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -21238,6 +21647,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -21295,6 +21705,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -21352,6 +21763,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -21409,6 +21821,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -21466,6 +21879,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 2",
     "color": "Svart",
@@ -21523,6 +21937,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -21580,6 +21995,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -21637,6 +22053,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -21694,6 +22111,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 1E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2011",
@@ -21750,6 +22168,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -21806,6 +22225,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 3 B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -21862,6 +22282,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -21919,6 +22340,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2008- 2C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Rönninge Salem Fotboll 1)"
@@ -21972,6 +22394,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 3B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Ospecificerat lag (6) vs Årsta FF 2)"
@@ -22025,6 +22448,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -22082,6 +22506,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -22139,6 +22564,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 1",
     "color": "Svart",
@@ -22196,6 +22622,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -22218,8 +22645,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281696,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-osteraker-united-fk-6-rosa-pojkar-2016/6281696/",
       "date": {
@@ -22251,6 +22680,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -22308,6 +22738,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -22330,8 +22761,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6261655,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-viggbyholms-ik-ff-svart-flickor-2014/6261655/",
       "date": {
@@ -22363,6 +22796,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -22420,6 +22854,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -22477,6 +22912,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2010",
@@ -22533,6 +22969,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -22590,6 +23027,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -22647,6 +23085,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009- 1B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2009",
@@ -22702,6 +23141,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Sundbyberg FC)"
@@ -22754,6 +23194,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar Vet B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -22809,6 +23250,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Damer 4 B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Årsta FF)"
@@ -22862,6 +23304,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -22919,6 +23362,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3K",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -22976,6 +23420,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 1E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2011",
@@ -23032,6 +23477,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 4D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2011",
@@ -23053,8 +23499,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6245486,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-3-ekero-ik-2-pojkar-2010/6245486/",
       "date": {
@@ -23080,18 +23528,19 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "Ekerö IK 2",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs Ekerö IK 2)"
+    "formattedTitle": "🏟️ H2010 (vs Ekerö IK 2)"
   },
   {
     "uid": "venue-match-6190791",
@@ -23141,6 +23590,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar 5 Södra",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -23197,6 +23647,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -23254,6 +23705,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "D2011",
@@ -23309,6 +23761,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus DJ",
     "formattedTeam": "IFK Aspudden-Tellus DJ",
@@ -23364,6 +23817,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "Herrar Vet B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -23420,6 +23874,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 3B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Ospecificerat lag (6) vs Älta IF 2)"
@@ -23473,6 +23928,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -23529,6 +23985,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P19 Div.1 2025 - Region 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus ",
     "formattedTeam": "IFK Aspudden-Tellus ",
@@ -23585,6 +24042,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2008- 2C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Tungelsta IF 1)"
@@ -23638,6 +24096,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2010",
@@ -23659,8 +24118,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6245497,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-3-angby-if-3-pojkar-2010/6245497/",
       "date": {
@@ -23686,18 +24147,19 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2010- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "Ängby IF 3",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs Ängby IF 3)"
+    "formattedTitle": "🏟️ H2010 (vs Ängby IF 3)"
   },
   {
     "uid": "venue-match-6243262",
@@ -23748,6 +24210,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2009- 1B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2009",
@@ -23804,6 +24267,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "F2011- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "D2011",
@@ -23860,6 +24324,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 3K",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -23916,6 +24381,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "DJ- 3B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -23972,6 +24438,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2012- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -24029,6 +24496,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -24086,6 +24554,7 @@
       "Aspuddens IP",
       "Aspuddens IP 1"
     ],
+    "series": "P2011- 4D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2011",
@@ -24141,6 +24610,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 4H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -24197,6 +24667,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3J",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -24253,6 +24724,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2009- 1B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2009",
@@ -24308,6 +24780,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 1C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2010",
@@ -24363,6 +24836,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -24418,6 +24892,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs Råsunda FC)"
@@ -24470,6 +24945,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 4C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "D2012",
@@ -24525,6 +25001,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "D2012",
@@ -24580,6 +25057,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -24635,6 +25113,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "DJ- 2B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Karlbergs BK Röd vs Boo FF DJ svart)"
@@ -24687,6 +25166,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -24743,6 +25223,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Svart 3",
     "color": "Svart",
@@ -24798,6 +25279,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs AIK Framtid FK)"
@@ -24849,6 +25331,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Gröndals FF)"
@@ -24901,6 +25384,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3J",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -24957,6 +25441,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 4H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -25013,6 +25498,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -25068,6 +25554,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Damer 5 C",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -25123,6 +25610,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -25179,6 +25667,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -25201,8 +25690,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281914,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-arsta-ff-4-pojkar-2017/6281914/",
       "date": {
@@ -25233,6 +25724,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -25289,6 +25781,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -25345,6 +25838,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -25401,6 +25895,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -25457,6 +25952,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 4C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "D2012",
@@ -25512,6 +26008,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -25568,6 +26065,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -25624,6 +26122,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 5",
     "color": "Gul",
@@ -25680,6 +26179,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 1C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2010",
@@ -25734,6 +26234,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK vs Colo-Colo International FK)"
@@ -25786,6 +26287,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -25808,8 +26310,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281911,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-essinge-ik-svart-pojkar-2017/6281911/",
       "date": {
@@ -25840,6 +26344,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -25896,6 +26401,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -25918,8 +26424,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281932,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-nockebyhovs-if-1-pojkar-2017/6281932/",
       "date": {
@@ -25950,6 +26458,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -26006,6 +26515,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -26062,6 +26572,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -26118,6 +26629,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2011- 4B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "D2011",
@@ -26173,6 +26685,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2010",
@@ -26227,6 +26740,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Essinge IK)"
@@ -26278,6 +26792,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Essinge Rovers IK)"
@@ -26329,6 +26844,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs Kransen United FF)"
@@ -26381,6 +26897,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -26403,8 +26920,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6282033,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-ifk-stockholm-fk-2-pojkar-2017/6282033/",
       "date": {
@@ -26435,6 +26954,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -26491,6 +27011,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -26513,8 +27034,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6282108,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-hammarby-if-ff-11-pojkar-2017/6282108/",
       "date": {
@@ -26545,6 +27068,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -26601,6 +27125,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -26657,6 +27182,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "D2012",
@@ -26712,6 +27238,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3J",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -26768,6 +27295,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -26824,6 +27352,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -26880,6 +27409,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -26936,6 +27466,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2013",
@@ -26991,6 +27522,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2013",
@@ -27046,6 +27578,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -27102,6 +27635,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 4H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -27158,6 +27692,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -27214,6 +27749,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2009- 3C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Reymersholms IK 3)"
@@ -27265,6 +27801,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs IFK Bergshamra)"
@@ -27316,6 +27853,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Damer 5 C",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -27371,6 +27909,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -27427,6 +27966,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -27449,8 +27989,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6282276,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-if-brommapojkarna-p17-21-pojkar-2017/6282276/",
       "date": {
@@ -27481,6 +28023,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -27537,6 +28080,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -27593,6 +28137,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -27649,6 +28194,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -27705,6 +28251,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 4C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "D2012",
@@ -27760,6 +28307,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -27816,6 +28364,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -27872,6 +28421,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 5",
     "color": "Gul",
@@ -27928,6 +28478,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -27983,6 +28534,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar Vet B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -28004,8 +28556,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6282310,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-reymersholms-ik-3-pojkar-2017/6282310/",
       "date": {
@@ -28036,6 +28590,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -28092,6 +28647,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -28114,8 +28670,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6282282,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-norrtulls-sk-vit-pojkar-2017/6282282/",
       "date": {
@@ -28146,6 +28704,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -28202,6 +28761,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -28258,6 +28818,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -28314,6 +28875,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -28370,6 +28932,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2010",
@@ -28424,6 +28987,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Hallunda IF)"
@@ -28475,6 +29039,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Gröndals IK)"
@@ -28526,6 +29091,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Damer 5 C",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -28581,6 +29147,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -28603,8 +29170,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6282437,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-solberga-bk-1-pojkar-2017/6282437/",
       "date": {
@@ -28635,6 +29204,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -28691,6 +29261,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -28713,8 +29284,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6282440,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-sorskogens-if-4-pojkar-2017/6282440/",
       "date": {
@@ -28745,6 +29318,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -28801,6 +29375,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -28857,6 +29432,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "D2012",
@@ -28912,6 +29488,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -28968,6 +29545,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3J",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -29024,6 +29602,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -29080,6 +29659,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -29135,6 +29715,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK vs Polonia Falcons FF)"
@@ -29187,6 +29768,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -29243,6 +29825,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -29299,6 +29882,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2013",
@@ -29354,6 +29938,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -29410,6 +29995,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -29466,6 +30052,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2013",
@@ -29521,6 +30108,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 6",
     "color": "Gul",
@@ -29577,6 +30165,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 1C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2010",
@@ -29632,6 +30221,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2009- 3C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Bagarmossen Kärrtorp BK)"
@@ -29683,6 +30273,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Handelskamraternas IS)"
@@ -29734,6 +30325,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Långholmen FC)"
@@ -29785,6 +30377,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs Westermalms IF FK)"
@@ -29837,6 +30430,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -29893,6 +30487,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -29949,6 +30544,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -30005,6 +30601,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -30061,6 +30658,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -30117,6 +30715,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 4H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -30173,6 +30772,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 5",
     "color": "Gul",
@@ -30229,6 +30829,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -30285,6 +30886,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -30341,6 +30943,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -30396,6 +30999,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar Vet B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -30417,8 +31021,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6282774,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-ronninge-salem-fotboll-vit-pojkar-2017/6282774/",
       "date": {
@@ -30449,6 +31055,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -30505,6 +31112,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -30527,8 +31135,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6282691,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-orby-is-vit-pojkar-2017/6282691/",
       "date": {
@@ -30559,6 +31169,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -30615,6 +31226,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -30671,6 +31283,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 4D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 4",
     "formattedTeam": "H2011",
@@ -30726,6 +31339,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -30782,6 +31396,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2010",
@@ -30837,6 +31452,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2007-kval till P19- B",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Reymersholms IK 1 vs Spånga IS FK 1)"
@@ -30888,6 +31504,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Colo-Colo International FK)"
@@ -30939,6 +31556,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Damer 5 C",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -30994,6 +31612,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -31050,6 +31669,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -31072,8 +31692,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283000,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-arameisk-syrianska-if-2---rod-pojkar-2017/6283000/",
       "date": {
@@ -31104,6 +31726,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -31126,8 +31749,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6282885,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-if-brommapojkarna-f17a-pojkar-2017/6282885/",
       "date": {
@@ -31158,6 +31783,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -31214,6 +31840,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -31270,6 +31897,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "D2012",
@@ -31325,6 +31953,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -31381,6 +32010,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 4C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "D2012",
@@ -31436,6 +32066,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -31491,6 +32122,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Gröndals FF)"
@@ -31543,6 +32175,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -31565,8 +32198,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6282855,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-enskede-ik-lila-1-pojkar-2017/6282855/",
       "date": {
@@ -31597,6 +32232,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -31653,6 +32289,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2013",
@@ -31708,6 +32345,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2013",
@@ -31763,6 +32401,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3J",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -31819,6 +32458,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -31875,6 +32515,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2010",
@@ -31930,6 +32571,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2009- 3C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Enskede IK BRL)"
@@ -31981,6 +32623,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Dardania Stockholm FF)"
@@ -32032,6 +32675,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK vs Långholmen FC)"
@@ -32083,6 +32727,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs Tudor Arms FC)"
@@ -32135,6 +32780,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -32191,6 +32837,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -32213,8 +32860,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283015,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-jarla-if-fk-orange-pojkar-2017/6283015/",
       "date": {
@@ -32245,6 +32894,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -32301,6 +32951,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -32357,6 +33008,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -32413,6 +33065,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -32469,6 +33122,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -32525,6 +33179,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -32581,6 +33236,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 4H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -32637,6 +33293,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 5",
     "color": "Gul",
@@ -32693,6 +33350,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -32749,6 +33407,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -32805,6 +33464,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -32827,8 +33487,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283173,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-ifk-lidingo-fk-5-pojkar-2017/6283173/",
       "date": {
@@ -32859,6 +33521,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -32915,6 +33578,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -32971,6 +33635,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -33027,6 +33692,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -33082,6 +33748,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Essinge Rovers IK)"
@@ -33133,6 +33800,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Damer 5 C",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -33188,6 +33856,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 4C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "D2012",
@@ -33243,6 +33912,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 1C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2010",
@@ -33298,6 +33968,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -33353,6 +34024,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK vs Hallunda IF)"
@@ -33405,6 +34077,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3J",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -33461,6 +34134,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "D2012",
@@ -33516,6 +34190,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2010",
@@ -33571,6 +34246,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2009- 3C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Sköndals IK FK)"
@@ -33622,6 +34298,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Råsunda IS)"
@@ -33673,6 +34350,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs IF Lokomotiv Blackeberg)"
@@ -33725,6 +34403,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -33781,6 +34460,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 4H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -33836,6 +34516,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Polonia Falcons FF)"
@@ -33888,6 +34569,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 1C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2010",
@@ -33943,6 +34625,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -33998,6 +34681,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Stockholm StreetSoccer FF)"
@@ -34049,6 +34733,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Damer 5 C",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -34104,6 +34789,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 4C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "D2012",
@@ -34159,6 +34845,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3J",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -34214,6 +34901,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 6 C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Högalids IF vs Konglig Samhällsbyggnadssektion FC)"
@@ -34266,6 +34954,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -34322,6 +35011,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -34377,6 +35067,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs BK Karlbergare)"
@@ -34428,6 +35119,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs FC Plavi Team)"
@@ -34480,6 +35172,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -34502,8 +35195,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283321,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-aik-ff-3-pojkar-2017/6283321/",
       "date": {
@@ -34534,6 +35229,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -34590,6 +35286,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -34612,8 +35309,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283317,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-aik-ff-2-pojkar-2017/6283317/",
       "date": {
@@ -34644,6 +35343,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -34700,6 +35400,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -34756,6 +35457,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "D2012",
@@ -34811,6 +35513,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -34867,6 +35570,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 4H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -34923,6 +35627,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -34979,6 +35684,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -35035,6 +35741,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2013",
@@ -35090,6 +35797,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -35112,8 +35820,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283279,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-tyreso-ff-c-gul-pojkar-2017/6283279/",
       "date": {
@@ -35144,6 +35854,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -35200,6 +35911,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2013",
@@ -35255,6 +35967,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -35311,6 +36024,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -35367,6 +36081,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -35423,6 +36138,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 1C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2010",
@@ -35478,6 +36194,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2010",
@@ -35533,6 +36250,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2009- 3C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Djurgårdens IF FF 10)"
@@ -35584,6 +36302,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Gröndals IK)"
@@ -35635,6 +36354,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Damer 5 C",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -35690,6 +36410,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -35746,6 +36467,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -35768,8 +36490,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283457,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-enskede-ik-gra-pojkar-2017/6283457/",
       "date": {
@@ -35800,6 +36524,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -35856,6 +36581,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -35912,6 +36638,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -35968,6 +36695,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -36024,6 +36752,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 4C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "D2012",
@@ -36079,6 +36808,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -36135,6 +36865,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3J",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -36191,6 +36922,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -36247,6 +36979,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -36302,6 +37035,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Polonia Falcons FF)"
@@ -36354,6 +37088,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -36376,8 +37111,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283584,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-boo-ff-p1711-pojkar-2017/6283584/",
       "date": {
@@ -36408,6 +37145,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -36464,6 +37202,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -36520,6 +37259,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -36576,6 +37316,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -36632,6 +37373,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2013",
@@ -36687,6 +37429,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 5",
     "color": "Gul",
@@ -36743,6 +37486,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -36798,6 +37542,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Ljungbackens IF)"
@@ -36849,6 +37594,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK vs Gröndals FF)"
@@ -36900,6 +37646,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs Preben BoIS)"
@@ -36952,6 +37699,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -37008,6 +37756,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -37030,8 +37779,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283811,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-ifk-lidingo-fk-13-bla-pojkar-2017/6283811/",
       "date": {
@@ -37062,6 +37813,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -37084,8 +37836,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283874,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-djurgardens-if-ff-6-pojkar-2017/6283874/",
       "date": {
@@ -37116,6 +37870,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -37172,6 +37927,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -37228,6 +37984,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "D2012",
@@ -37283,6 +38040,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -37339,6 +38097,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -37395,6 +38154,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -37450,6 +38210,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar Vet B",
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
@@ -37505,6 +38266,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 1C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2010",
@@ -37560,6 +38322,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -37582,8 +38345,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283817,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-if-brommapojkarna-p17-17-pojkar-2017/6283817/",
       "date": {
@@ -37614,6 +38379,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -37670,6 +38436,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2013",
@@ -37725,6 +38492,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 4H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -37781,6 +38549,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -37837,6 +38606,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -37893,6 +38663,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2009- 3C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Boo FF 3)"
@@ -37944,6 +38715,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Stockholm United FC)"
@@ -37995,6 +38767,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs Sundbyberg FC)"
@@ -38047,6 +38820,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -38103,6 +38877,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -38125,8 +38900,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284097,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-boo-ff-p176-pojkar-2017/6284097/",
       "date": {
@@ -38157,6 +38934,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -38213,6 +38991,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -38269,6 +39048,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -38325,6 +39105,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -38381,6 +39162,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3J",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -38437,6 +39219,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -38493,6 +39276,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2013",
@@ -38548,6 +39332,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 6",
     "color": "Gul",
@@ -38604,6 +39389,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -38660,6 +39446,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -38682,8 +39469,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283885,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-ifk-lidingo-fk-8-pojkar-2017/6283885/",
       "date": {
@@ -38714,6 +39503,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -38770,6 +39560,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -38826,6 +39617,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -38882,6 +39674,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -38938,6 +39731,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2010",
@@ -38992,6 +39786,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK vs Stockholm United FC)"
@@ -39044,6 +39839,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -39066,8 +39862,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284268,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-boo-ff-p1713-1-pojkar-2017/6284268/",
       "date": {
@@ -39098,6 +39896,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -39154,6 +39953,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -39210,6 +40010,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -39266,6 +40067,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "D2012",
@@ -39321,6 +40123,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -39377,6 +40180,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 4C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "D2012",
@@ -39432,6 +40236,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 5",
     "color": "Gul",
@@ -39488,6 +40293,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -39543,6 +40349,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Colo-Colo International FK)"
@@ -39595,6 +40402,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -39617,8 +40425,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284279,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-hanvikens-sk-bla-pojkar-2017/6284279/",
       "date": {
@@ -39649,6 +40459,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -39705,6 +40516,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -39727,8 +40539,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284205,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-segeltorps-idrottsforening-fotboll-rod-pojkar-2017/6284205/",
       "date": {
@@ -39759,6 +40573,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -39815,6 +40630,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2013",
@@ -39870,6 +40686,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -39926,6 +40743,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -39982,6 +40800,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 1",
     "color": "Vit",
@@ -40038,6 +40857,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 1C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2010",
@@ -40093,6 +40913,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2009- 3C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Gustavsbergs IF FK Vit)"
@@ -40144,6 +40965,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Järla IF FK)"
@@ -40195,6 +41017,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 6 E",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Lado Sur FC vs AC Azzurri)"
@@ -40247,6 +41070,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -40303,6 +41127,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -40325,8 +41150,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284500,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-ronninge-salem-fotboll-gul-pojkar-2017/6284500/",
       "date": {
@@ -40357,6 +41184,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -40413,6 +41241,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -40469,6 +41298,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -40525,6 +41355,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -40581,6 +41412,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3J",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -40637,6 +41469,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -40693,6 +41526,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 4H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -40749,6 +41583,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 6",
     "color": "Gul",
@@ -40805,6 +41640,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -40861,6 +41697,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -40883,8 +41720,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284499,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-hanvikens-sk-guld-pojkar-2017/6284499/",
       "date": {
@@ -40915,6 +41754,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -40971,6 +41811,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Vit 2",
     "color": "Vit",
@@ -41027,6 +41868,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2013- 4",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2013",
@@ -41082,6 +41924,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -41138,6 +41981,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -41194,6 +42038,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2010",
@@ -41248,6 +42093,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Damer 5 C",
     "match": "Home",
     "team": "Aspuddens FF",
     "formattedTeam": "Aspuddens FF",
@@ -41303,6 +42149,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "D2012",
@@ -41358,6 +42205,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 4C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "D2012",
@@ -41412,6 +42260,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 5 Mellersta",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs IK Makkabi)"
@@ -41464,6 +42313,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
@@ -41520,6 +42370,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
@@ -41576,6 +42427,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 2D",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -41631,6 +42483,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK vs Essinge Rovers IK)"
@@ -41682,6 +42535,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "Herrar 7 G",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Stockholm United FC vs Hallunda IF)"
@@ -41734,6 +42588,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 4H",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -41790,6 +42645,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3I",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 3",
     "color": "Gul",
@@ -41846,6 +42702,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 1C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "H2010",
@@ -41901,6 +42758,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2012- 3J",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 2",
     "color": "Gul",
@@ -41957,6 +42815,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "H2010",
@@ -42012,6 +42871,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2009- 3C",
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Karlbergs BK Röd)"
@@ -42064,6 +42924,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "F2012- 4C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "D2012",
@@ -42119,6 +42980,7 @@
     "venues": [
       "Västberga IP"
     ],
+    "series": "P2011- 3E",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",

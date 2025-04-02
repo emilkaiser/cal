@@ -75,7 +75,7 @@ export function normalizeCalendarEvents(events: CalendarEvent[]): CalendarEvent[
 }
 
 /**
- * Extracts a specific property from a filterTag
+ * Extract a property value from filterTags array
  */
 export function getPropertyFromFilterTags(
   filterTags: string[] | undefined,
@@ -84,9 +84,11 @@ export function getPropertyFromFilterTags(
   if (!filterTags) return undefined;
 
   const tag = filterTags.find(tag => tag.startsWith(`${property}:`));
-  if (!tag) return undefined;
+  if (tag) {
+    return tag.split(':')[1];
+  }
 
-  return tag.split(':')[1];
+  return undefined;
 }
 
 /**

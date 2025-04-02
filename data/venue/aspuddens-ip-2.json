@@ -48,6 +48,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -105,6 +106,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -162,6 +164,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -219,6 +222,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -276,6 +280,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -333,6 +338,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -390,6 +396,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -447,6 +454,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -504,6 +512,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -526,8 +535,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281383,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-kif-soderort-guld-pojkar-2016/6281383/",
       "date": {
@@ -559,6 +570,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -616,6 +628,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -673,6 +686,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -730,6 +744,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -787,6 +802,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -843,6 +859,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -900,6 +917,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -957,6 +975,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -1014,6 +1033,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -1071,6 +1091,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -1128,6 +1149,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2015",
@@ -1184,6 +1206,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -1241,6 +1264,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 4",
     "color": "Blå",
@@ -1298,6 +1322,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -1355,6 +1380,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -1412,6 +1438,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -1469,6 +1496,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -1526,6 +1554,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
     "formattedTeam": "F2015",
@@ -1582,6 +1611,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -1639,6 +1669,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -1696,6 +1727,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -1753,6 +1785,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -1810,6 +1843,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -1867,6 +1901,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -1924,6 +1959,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -1980,6 +2016,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -2037,6 +2074,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -2094,6 +2132,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -2116,8 +2155,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281429,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-djurgardens-if-ff-12-rod-pojkar-2016/6281429/",
       "date": {
@@ -2149,6 +2190,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -2206,6 +2248,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -2228,8 +2271,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6261494,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-ifk-stocksund-1-flickor-2014/6261494/",
       "date": {
@@ -2261,6 +2306,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -2318,6 +2364,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -2375,6 +2422,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -2432,6 +2480,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -2489,6 +2538,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -2546,6 +2596,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -2603,6 +2654,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -2660,6 +2712,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -2717,6 +2770,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -2774,6 +2828,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -2831,6 +2886,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -2888,6 +2944,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -2945,6 +3002,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -3002,6 +3060,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -3059,6 +3118,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -3116,6 +3176,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -3173,6 +3234,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -3230,6 +3292,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -3287,6 +3350,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -3344,6 +3408,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
     "formattedTeam": "F2015",
@@ -3400,6 +3465,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -3457,6 +3523,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -3514,6 +3581,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -3571,6 +3639,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -3593,8 +3662,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281475,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-hogdalens-ais-svart-pojkar-2016/6281475/",
       "date": {
@@ -3626,6 +3697,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -3683,6 +3755,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -3740,6 +3813,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -3797,6 +3871,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -3853,6 +3928,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -3910,6 +3986,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 4",
     "color": "Blå",
@@ -3967,6 +4044,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -4024,6 +4102,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -4081,6 +4160,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -4138,6 +4218,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2015",
@@ -4194,6 +4275,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -4251,6 +4333,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -4308,6 +4391,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -4365,6 +4449,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -4422,6 +4507,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -4479,6 +4565,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -4536,6 +4623,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -4593,6 +4681,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -4650,6 +4739,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -4707,6 +4797,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -4764,6 +4855,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -4821,6 +4913,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
     "formattedTeam": "F2015",
@@ -4877,6 +4970,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -4934,6 +5028,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 4",
     "color": "Blå",
@@ -4991,6 +5086,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -5048,6 +5144,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -5070,8 +5167,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281544,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-dalaro-sk-pojkar-2016/6281544/",
       "date": {
@@ -5103,6 +5202,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -5160,6 +5260,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -5217,6 +5318,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -5274,6 +5376,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -5331,6 +5434,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -5388,6 +5492,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -5445,6 +5550,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -5502,6 +5608,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -5559,6 +5666,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -5616,6 +5724,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -5673,6 +5782,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -5729,6 +5839,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -5786,6 +5897,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -5843,6 +5955,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -5900,6 +6013,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -5957,6 +6071,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -5979,8 +6094,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6261579,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-tullinge-triangel-pojkar-fk-vit-flickor-2014/6261579/",
       "date": {
@@ -6012,6 +6129,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -6069,6 +6187,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -6126,6 +6245,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -6183,6 +6303,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -6205,8 +6326,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281583,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-angby-if-vit-pojkar-2016/6281583/",
       "date": {
@@ -6238,6 +6361,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -6295,6 +6419,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -6352,6 +6477,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -6409,6 +6535,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -6466,6 +6593,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "F2015",
@@ -6522,6 +6650,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -6579,6 +6708,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -6636,6 +6766,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -6693,6 +6824,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -6750,6 +6882,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -6807,6 +6940,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -6864,6 +6998,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -6921,6 +7056,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -6978,6 +7114,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
     "formattedTeam": "F2015",
@@ -7034,6 +7171,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -7091,6 +7229,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -7148,6 +7287,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -7205,6 +7345,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -7261,6 +7402,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -7318,6 +7460,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 4",
     "color": "Blå",
@@ -7375,6 +7518,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -7432,6 +7576,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -7489,6 +7634,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -7546,6 +7692,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -7603,6 +7750,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -7660,6 +7808,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -7717,6 +7866,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -7774,6 +7924,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -7831,6 +7982,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -7888,6 +8040,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -7945,6 +8098,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -8002,6 +8156,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -8059,6 +8214,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -8116,6 +8272,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -8173,6 +8330,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -8230,6 +8388,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -8252,8 +8411,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281651,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-boo-ff-p168-pojkar-2016/6281651/",
       "date": {
@@ -8285,6 +8446,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -8342,6 +8504,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -8399,6 +8562,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -8456,6 +8620,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
     "formattedTeam": "F2015",
@@ -8512,6 +8677,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -8569,6 +8735,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -8626,6 +8793,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -8683,6 +8851,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -8740,6 +8909,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "F2015",
@@ -8796,6 +8966,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -8853,6 +9024,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 4",
     "color": "Blå",
@@ -8910,6 +9082,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -8967,6 +9140,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -9024,6 +9198,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -9081,6 +9256,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -9138,6 +9314,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -9195,6 +9372,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -9252,6 +9430,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -9309,6 +9488,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -9366,6 +9546,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 2",
     "color": "Röd",
@@ -9423,6 +9604,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -9480,6 +9662,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -9537,6 +9720,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -9594,6 +9778,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -9651,6 +9836,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -9708,6 +9894,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 3",
     "color": "Blå",
@@ -9765,6 +9952,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -9822,6 +10010,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",
@@ -9844,8 +10033,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281696,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-osteraker-united-fk-6-rosa-pojkar-2016/6281696/",
       "date": {
@@ -9877,6 +10068,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2016- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 2",
     "color": "Blå",
@@ -9934,6 +10126,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2017- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -9956,8 +10149,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6261655,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-viggbyholms-ik-ff-svart-flickor-2014/6261655/",
       "date": {
@@ -9989,6 +10184,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "F2014- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
@@ -10046,6 +10242,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2014- 2",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -10103,6 +10300,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 1",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Blå 1",
     "color": "Blå",
@@ -10160,6 +10358,7 @@
       "Aspuddens IP",
       "Aspuddens IP 2"
     ],
+    "series": "P2015- 3",
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 3",
     "color": "Röd",

@@ -64,4 +64,6 @@ export interface CalendarEvent {
   formattedTitle?: string;
   filterTags?: string[];
   rawTeam?: string;
+  source?: string; // Added source property
+  series?: string;
 }

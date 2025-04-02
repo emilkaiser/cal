@@ -1,14 +1,11 @@
 'use client';
 
-import { useState, useMemo, useCallback, Suspense, lazy } from 'react';
+import { useState, useMemo, useCallback } from 'react';
 import { Calendar, momentLocalizer, Views, View } from 'react-big-calendar';
 import moment from 'moment';
 import 'react-big-calendar/lib/css/react-big-calendar.css';
 import type { CalendarEvent as BaseCalendarEvent } from '../types/types';
-import { Card, CardContent } from '@/components/ui/card';
 import { DataSource } from '@/lib/data-sources';
-import { getHexColor, getVenueColor, getContrastingColor, isLightColor } from '@/utils/color-utils';
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Button } from '@/components/ui/button';
 import {
   Dialog,
@@ -18,16 +15,16 @@ import {
   DialogDescription,
 } from '@/components/ui/dialog';
 import { getPropertyFromFilterTags } from '@/scrapers/utils/calendar-utils';
-import { Badge } from '@/components/ui/badge';
-import { Spinner } from '@/components/ui/spinner';
-
-// Lazy load filter components to defer their initialization
-const LazyDataSourceSelector = lazy(() =>
-  import('./DataSourceSelector').then(mod => ({ default: mod.DataSourceSelector }))
-);
-const LazyGlobalFilterSelector = lazy(() =>
-  import('./GlobalFilterSelector').then(mod => ({ default: mod.GlobalFilterSelector }))
-);
+import { useEventFilters } from '@/hooks/useEventFilters';
+import { Switch } from '@/components/ui/switch';
+import { Label } from '@/components/ui/label';
+import {
+  Accordion,
+  AccordionContent,
+  AccordionItem,
+  AccordionTrigger,
+} from '@/components/ui/accordion';
+import { getEventStyle, getDataSourceColor, getCalendarEventStyle } from '@/lib/color-utils';
 
 // Configure moment to start the week on Monday
 moment.updateLocale('en', {
@@ -54,146 +51,13 @@ interface TeamCalendarProps {
 
 const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
   const [date, setDate] = useState<Date>(new Date());
-  const [view, setView] = useState<View>(Views.MONTH);
-  const [activeFilterTab, setActiveFilterTab] = useState<string>('sources');
-  const [showFilters, setShowFilters] = useState<boolean>(false);
-  const [filterLoading, setFilterLoading] = useState<boolean>(false);
+  const [view, setView] = useState<View>(Views.WEEK);
   const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(null);
+  const [filterExpanded, setFilterExpanded] = useState(false);
 
-  // Memoize event style getter to prevent recreation on every render
-  const eventStyleGetter = useCallback(
-    (event: CalendarEvent) => {
-      // Find the source for this event
-      const source = event.source && dataSources.find(s => s.id === event.source);
+  // Use our new custom hook for all filtering
+  const filters = useEventFilters(events, dataSources);
 
-      // Default style
-      let style = {
-        backgroundColor: 'hsl(var(--primary))',
-        borderRadius: '0.375rem',
-        opacity: 0.8,
-        color: 'hsl(var(--primary-foreground))',
-        border: '0px',
-        display: 'block',
-      };
-
-      // Special venue list that should always use venue-based coloring
-      const venuePriorityList = ['Aspuddens IP 1', 'Aspuddens IP 2', 'Västberga IP'];
-
-      // Get venues from filterTags
-      const venues =
-        event.filterTags
-          ?.filter((tag: string) => tag.startsWith('venue:'))
-          .map((tag: string) => tag.split(':')[1]) || [];
-
-      // Check if event has one of the special venues
-      const hasSpecialVenue = venues.some(venue => venuePriorityList.includes(venue));
-
-      // Priority order for colors:
-      // 1. Special venues (Aspuddens IP, Västberga IP) always use venue colors
-      // 2. Event-specific color (if not a special venue)
-      // 3. Venue-based color for other venues
-      // 4. Source color
-      // 5. Match-type or team-based color
-
-      if (hasSpecialVenue) {
-        // Find the first special venue in the list
-        const specialVenue = venues.find(venue => venuePriorityList.includes(venue));
-        if (specialVenue) {
-          style.backgroundColor = getVenueColor(specialVenue);
-        }
-      } else if (event.color) {
-        // Use event-specific color if available and not a special venue
-        style.backgroundColor = getHexColor(event.color);
-      } else if (venues.length > 0) {
-        // Use venue-based color for other venues
-        style.backgroundColor = getVenueColor(venues[0]);
-      } else if (source) {
-        // Use source color
-        style.backgroundColor = source.color;
-      } else {
-        // Match-type color logic for home/away games
-        const matchType = getPropertyFromFilterTags(event.filterTags, 'match');
-        const isHomeGame = matchType === 'Home';
-        const isAwayGame = matchType === 'Away';
-        const team = getPropertyFromFilterTags(event.filterTags, 'team');
-
-        if (isHomeGame) {
-          style.backgroundColor = 'hsl(142.1 76.2% 36.3%)'; // Green for home games
-        } else if (isAwayGame) {
-          style.backgroundColor = 'hsl(346.8 77.2% 49.8%)'; // Red for away games
-        } else if (team) {
-          // Use a contrasting color based on team name hash
-          const teamHash = team.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
-          style.backgroundColor = getContrastingColor(teamHash);
-        }
-      }
-
-      // Handle light color text contrast
-      if (style.backgroundColor.startsWith('#')) {
-        if (isLightColor(style.backgroundColor)) {
-          style.color = '#000000'; // Black text for light backgrounds
-        } else {
-          style.color = '#ffffff'; // White text for dark backgrounds
-        }
-      } else if (style.backgroundColor.startsWith('hsl')) {
-        // For HSL colors, check the lightness value
-        const lightnessMatch = style.backgroundColor.match(/\d+\.?\d*%\)/);
-        if (lightnessMatch && parseFloat(lightnessMatch[0]) > 60) {
-          style.color = '#000000'; // Black text for light backgrounds
-        } else {
-          style.color = '#ffffff'; // White text for dark backgrounds
-        }
-      }
-
-      return {
-        style,
-        className: '',
-      };
-    },
-    [dataSources]
-  );
-
-  // Fix CustomEventWrapper to match EventWrapperProps interface - memoize
-  const CustomEventWrapper = useCallback(({ event, children }: any) => {
-    // Get event data from filterTags when possible
-    const team = getPropertyFromFilterTags(event.filterTags, 'team') || event.team;
-    const ageGroup = getPropertyFromFilterTags(event.filterTags, 'ageGroup') || event.ageGroup;
-    const gender = getPropertyFromFilterTags(event.filterTags, 'gender') || event.gender;
-    const activity = getPropertyFromFilterTags(event.filterTags, 'activity') || event.activity;
-    const matchType = getPropertyFromFilterTags(event.filterTags, 'match') || event.match;
-    const venues =
-      event.filterTags
-        ?.filter((tag: string) => tag.startsWith('venue:'))
-        .map((tag: string) => tag.split(':')[1]) ||
-      event.venues ||
-      [];
-
-    // Create a more detailed tooltip with comprehensive event information
-    // Leading with location information
-    let locationInfo = '';
-    if (venues.length > 0) {
-      locationInfo = `Location: ${venues.join(', ')}\n`;
-    }
-
-    const tooltip = [
-      `${event.title || 'Untitled Event'}`,
-      locationInfo, // Display location prominently at the top
-      team ? `Team: ${team}` : '',
-      ageGroup ? `Age Group: ${ageGroup}` : '',
-      gender ? `Gender: ${gender}` : '',
-      activity ? `Activity: ${activity}` : '',
-      event.categories?.length > 0 ? `Categories: ${event.categories.join(', ')}` : '',
-      matchType ? `Match: ${matchType}` : '',
-      `Start: ${moment(event.start).format('MMM D, YYYY h:mm A')}`,
-      `End: ${moment(event.end).format('MMM D, YYYY h:mm A')}`,
-    ]
-      .filter(line => line !== '') // Remove empty lines
-      .join('\n');
-
-    return <div title={tooltip}>{children}</div>;
-  }, []);
-
-  // Calendar formats with firstDayOfWeek set to 1 (Monday)
   const formats = useMemo(
     () => ({
       eventTimeRangeFormat: () => {
@@ -205,41 +69,14 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
     []
   );
 
-  // Define available views
   const views = useMemo(
     () => ({
       month: true,
       week: true,
       day: true,
-      agenda: true,
     }),
     []
   );
-
-  // Memoize handlers to prevent recreating on every render
-  const handleFilterTabChange = useCallback((value: string) => {
-    setActiveFilterTab(value);
-  }, []);
-
-  const toggleShowFilters = useCallback(() => {
-    if (!showFilters) {
-      setFilterLoading(true);
-
-      // Ensure filter data is initialized before showing UI
-      setTimeout(() => {
-        // This will trigger the data initialization if not already done
-        initializeFilterData();
-
-        // After a brief delay to allow data processing, show the UI
-        setTimeout(() => {
-          setShowFilters(true);
-          setFilterLoading(false);
-        }, 50);
-      }, 10);
-    } else {
-      setShowFilters(false);
-    }
-  }, [showFilters, initializeFilterData]);
 
   const handleEventSelect = useCallback((event: CalendarEvent) => {
     setSelectedEvent(event);
@@ -257,151 +94,450 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
     setSelectedEvent(null);
   }, []);
 
+  const toggleFilters = useCallback(() => {
+    setFilterExpanded(prev => !prev);
+  }, []);
+
+  const getMatchLocationLabel = useCallback((location: string) => {
+    switch (location) {
+      case 'home':
+        return 'Home Games 🏟️';
+      case 'away':
+        return 'Away Games ✈️';
+      case 'other':
+        return 'Other Events';
+      default:
+        return location;
+    }
+  }, []);
+
   return (
     <div className="space-y-4">
-      <Card className="shadow-sm">
-        <CardContent className="p-4">
-          <div className="flex justify-between items-center mb-4">
-            <div className="flex flex-wrap gap-2">
-              {filterPresets.map(preset => (
-                <Button
-                  key={preset.id}
-                  variant={activePreset === preset.id ? 'default' : 'outline'}
-                  size="sm"
-                  onClick={() => onTogglePreset(preset)}
-                >
-                  {preset.name}
-                </Button>
-              ))}
-              <Button
-                variant="outline"
-                size="sm"
-                onClick={onClearAllFilters}
-                className="border-red-200 hover:bg-red-100 hover:text-red-800"
-              >
-                Reset All
-              </Button>
-            </div>
-            <Button
-              variant="outline"
-              size="sm"
-              onClick={toggleShowFilters}
-              disabled={filterLoading}
-            >
-              {filterLoading ? (
-                <>
-                  <Spinner className="mr-2 h-4 w-4" />
-                  Loading...
-                </>
-              ) : showFilters ? (
-                'Hide Filters'
-              ) : (
-                'Show Filters'
-              )}
-            </Button>
-          </div>
+      <div className="filter-controls rounded-lg border shadow-sm p-4">
+        <Button onClick={toggleFilters} variant="outline" className="mb-2 w-full">
+          {filterExpanded ? 'Hide Filters' : 'Show Filters'}
+        </Button>
 
-          {/* Display active filters as removable tags */}
-          {activeFilters.length > 0 && (
-            <div className="flex flex-wrap gap-2 mb-4 p-2 bg-muted/50 rounded">
-              <span className="text-sm font-medium self-center mr-1">Active Filters:</span>
-              {activeFilters.map((filter, index) => (
-                <Badge
-                  key={`${filter.type}-${filter.value}-${index}`}
-                  variant="secondary"
-                  className="flex items-center gap-1 px-2 py-1"
-                >
-                  {filter.label}
-                  <button
-                    className="ml-1 text-xs rounded-full bg-muted w-4 h-4 inline-flex items-center justify-center hover:bg-destructive hover:text-destructive-foreground"
-                    onClick={() => onRemoveFilter(filter.type, filter.value)}
-                  >
-                    ×
-                  </button>
-                </Badge>
-              ))}
-              {activeFilters.length > 0 && (
-                <Button
-                  variant="ghost"
-                  size="sm"
-                  className="text-xs h-6 px-2"
-                  onClick={onClearAllFilters}
-                >
-                  Clear All
-                </Button>
-              )}
-            </div>
-          )}
+        {filterExpanded && (
+          <Accordion type="multiple" className="w-full">
+            <AccordionItem value="sources">
+              <AccordionTrigger className="text-md font-semibold">Data Sources</AccordionTrigger>
+              <AccordionContent>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 mt-2">
+                  <div className="col-span-full mb-2 flex items-center gap-2">
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      onClick={() => filters.toggleAllDataSources(true)}
+                    >
+                      Select All
+                    </Button>
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      onClick={() => filters.toggleAllDataSources(false)}
+                    >
+                      Deselect All
+                    </Button>
+                  </div>
 
-          {(showFilters || filterLoading) && (
-            <div
-              className={`transition-opacity duration-300 ${
-                filterLoading ? 'opacity-50' : 'opacity-100'
-              }`}
-            >
-              {filterLoading ? (
-                <div className="flex justify-center items-center py-20">
-                  <Spinner className="h-8 w-8" />
+                  {dataSources.map(source => (
+                    <div key={source.id} className="flex items-center space-x-2">
+                      <Switch
+                        id={`source-${source.id}`}
+                        checked={filters.enabledSources[source.id]}
+                        onCheckedChange={() => filters.toggleDataSource(source.id)}
+                      />
+                      <div className="flex items-center">
+                        <div
+                          className="w-4 h-4 mr-2 rounded-full border border-gray-300"
+                          style={{
+                            backgroundColor: source.color || getDataSourceColor(source.id),
+                          }}
+                        />
+                        <Label htmlFor={`source-${source.id}`}>{source.name}</Label>
+                      </div>
+                    </div>
+                  ))}
                 </div>
-              ) : (
-                <Tabs
-                  value={activeFilterTab}
-                  onValueChange={handleFilterTabChange}
-                  className="w-full"
-                >
-                  <TabsList className="w-full mb-4">
-                    <TabsTrigger value="sources" className="flex-1">
-                      Data Sources
-                    </TabsTrigger>
-                    <TabsTrigger value="global" className="flex-1">
-                      Global Filters
-                    </TabsTrigger>
-                  </TabsList>
+              </AccordionContent>
+            </AccordionItem>
 
-                  <TabsContent value="sources" className="mt-0 pt-2">
-                    <Suspense
-                      fallback={
-                        <div className="flex justify-center py-10">
-                          <Spinner />
-                        </div>
-                      }
-                    >
-                      <LazyDataSourceSelector
-                        dataSources={dataSources}
-                        selectedSources={selectedSources}
-                        onSelectionChange={sources => setSelectedSources(sources)}
-                        availableFiltersBySource={availableFiltersBySource}
-                        sourceFilters={sourceFilters}
-                        onFilterChange={onSourceFilterChange}
-                        hiddenSources={hiddenSources}
-                        onToggleHiddenSource={onToggleHiddenSource}
-                        onClearSourceFilters={onClearSourceFilter}
-                      />
-                    </Suspense>
-                  </TabsContent>
+            {/* Laget Teams */}
+            {filters.hasLagetData && filters.lagetTeams.length > 0 && (
+              <AccordionItem value="laget-teams">
+                <AccordionTrigger className="text-md font-semibold">Laget Teams</AccordionTrigger>
+                <AccordionContent>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 mt-2">
+                    <div className="col-span-full mb-2 flex items-center gap-2">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllLagetTeams(true)}
+                      >
+                        Select All
+                      </Button>
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllLagetTeams(false)}
+                      >
+                        Deselect All
+                      </Button>
+                    </div>
 
-                  <TabsContent value="global" className="mt-0 pt-2">
-                    <Suspense
-                      fallback={
-                        <div className="flex justify-center py-10">
-                          <Spinner />
-                        </div>
-                      }
-                    >
-                      <LazyGlobalFilterSelector
-                        availableFilters={availableGlobalFilters}
-                        selectedFilters={globalFilters}
-                        onFilterChange={onGlobalFilterChange}
-                        onClearAll={onClearGlobalFilters}
-                      />
-                    </Suspense>
-                  </TabsContent>
-                </Tabs>
-              )}
-            </div>
-          )}
-        </CardContent>
-      </Card>
+                    {filters.lagetTeams.map(team => (
+                      <div key={team} className="flex items-center space-x-2">
+                        <Switch
+                          id={`laget-team-${team}`}
+                          checked={filters.enabledLagetTeams[team]}
+                          onCheckedChange={() => filters.toggleLagetTeam(team)}
+                        />
+                        <Label htmlFor={`laget-team-${team}`}>{team}</Label>
+                      </div>
+                    ))}
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            )}
+
+            {/* Venue Teams */}
+            {filters.hasVenueData && filters.venueTeams.length > 0 && (
+              <AccordionItem value="venue-teams">
+                <AccordionTrigger className="text-md font-semibold">Venue Teams</AccordionTrigger>
+                <AccordionContent>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 mt-2">
+                    <div className="col-span-full mb-2 flex items-center gap-2">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllVenueTeams(true)}
+                      >
+                        Select All
+                      </Button>
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllVenueTeams(false)}
+                      >
+                        Deselect All
+                      </Button>
+                    </div>
+
+                    {filters.venueTeams.map(team => (
+                      <div key={team} className="flex items-center space-x-2">
+                        <Switch
+                          id={`venue-team-${team}`}
+                          checked={filters.enabledVenueTeams[team]}
+                          onCheckedChange={() => filters.toggleVenueTeam(team)}
+                        />
+                        <Label htmlFor={`venue-team-${team}`}>{team}</Label>
+                      </div>
+                    ))}
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            )}
+
+            {/* Other Teams */}
+            {filters.otherTeams.length > 0 && (
+              <AccordionItem value="other-teams">
+                <AccordionTrigger className="text-md font-semibold">Other Teams</AccordionTrigger>
+                <AccordionContent>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 mt-2">
+                    <div className="col-span-full mb-2 flex items-center gap-2">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllOtherTeams(true)}
+                      >
+                        Select All
+                      </Button>
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllOtherTeams(false)}
+                      >
+                        Deselect All
+                      </Button>
+                    </div>
+
+                    {filters.otherTeams.map(team => (
+                      <div key={team} className="flex items-center space-x-2">
+                        <Switch
+                          id={`other-team-${team}`}
+                          checked={filters.enabledOtherTeams[team]}
+                          onCheckedChange={() => filters.toggleOtherTeam(team)}
+                        />
+                        <Label htmlFor={`other-team-${team}`}>{team}</Label>
+                      </div>
+                    ))}
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            )}
+
+            {/* Undefined Teams */}
+            {filters.hasUndefinedTeams && (
+              <AccordionItem value="undefined-teams">
+                <AccordionTrigger className="text-md font-semibold">
+                  Events without Teams
+                </AccordionTrigger>
+                <AccordionContent>
+                  <div className="flex items-center space-x-2 mt-2">
+                    <Switch
+                      id="undefined-teams"
+                      checked={filters.showUndefinedTeams}
+                      onCheckedChange={filters.toggleUndefinedTeams}
+                    />
+                    <Label htmlFor="undefined-teams">Show events without team assignment</Label>
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            )}
+
+            {/* Laget Venues */}
+            {filters.hasLagetData && filters.lagetVenues.length > 0 && (
+              <AccordionItem value="laget-venues">
+                <AccordionTrigger className="text-md font-semibold">Laget Venues</AccordionTrigger>
+                <AccordionContent>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 mt-2">
+                    <div className="col-span-full mb-2 flex items-center gap-2">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllLagetVenues(true)}
+                      >
+                        Select All
+                      </Button>
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllLagetVenues(false)}
+                      >
+                        Deselect All
+                      </Button>
+                    </div>
+
+                    {filters.lagetVenues.map(venue => (
+                      <div key={venue} className="flex items-center space-x-2">
+                        <Switch
+                          id={`laget-venue-${venue}`}
+                          checked={filters.enabledLagetVenues[venue]}
+                          onCheckedChange={() => filters.toggleLagetVenue(venue)}
+                        />
+                        <Label htmlFor={`laget-venue-${venue}`}>{venue}</Label>
+                      </div>
+                    ))}
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            )}
+
+            {/* Venue Venues */}
+            {filters.hasVenueData && filters.venueVenues.length > 0 && (
+              <AccordionItem value="venue-venues">
+                <AccordionTrigger className="text-md font-semibold">Venue Venues</AccordionTrigger>
+                <AccordionContent>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 mt-2">
+                    <div className="col-span-full mb-2 flex items-center gap-2">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllVenueVenues(true)}
+                      >
+                        Select All
+                      </Button>
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllVenueVenues(false)}
+                      >
+                        Deselect All
+                      </Button>
+                    </div>
+
+                    {filters.venueVenues.map(venue => (
+                      <div key={venue} className="flex items-center space-x-2">
+                        <Switch
+                          id={`venue-venue-${venue}`}
+                          checked={filters.enabledVenueVenues[venue]}
+                          onCheckedChange={() => filters.toggleVenueVenue(venue)}
+                        />
+                        <Label htmlFor={`venue-venue-${venue}`}>{venue}</Label>
+                      </div>
+                    ))}
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            )}
+
+            {/* Laget Activities */}
+            {filters.hasLagetData && filters.lagetActivities.length > 0 && (
+              <AccordionItem value="laget-activities">
+                <AccordionTrigger className="text-md font-semibold">
+                  Laget Activities
+                </AccordionTrigger>
+                <AccordionContent>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 mt-2">
+                    <div className="col-span-full mb-2 flex items-center gap-2">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllLagetActivities(true)}
+                      >
+                        Select All
+                      </Button>
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllLagetActivities(false)}
+                      >
+                        Deselect All
+                      </Button>
+                    </div>
+
+                    {filters.lagetActivities.map(activity => (
+                      <div key={activity} className="flex items-center space-x-2">
+                        <Switch
+                          id={`laget-activity-${activity}`}
+                          checked={filters.enabledLagetActivities[activity]}
+                          onCheckedChange={() => filters.toggleLagetActivity(activity)}
+                        />
+                        <Label htmlFor={`laget-activity-${activity}`}>{activity}</Label>
+                      </div>
+                    ))}
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            )}
+
+            {/* Venue Activities */}
+            {filters.hasVenueData && filters.venueActivities.length > 0 && (
+              <AccordionItem value="venue-activities">
+                <AccordionTrigger className="text-md font-semibold">
+                  Venue Activities
+                </AccordionTrigger>
+                <AccordionContent>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 mt-2">
+                    <div className="col-span-full mb-2 flex items-center gap-2">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllVenueActivities(true)}
+                      >
+                        Select All
+                      </Button>
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllVenueActivities(false)}
+                      >
+                        Deselect All
+                      </Button>
+                    </div>
+
+                    {filters.venueActivities.map(activity => (
+                      <div key={activity} className="flex items-center space-x-2">
+                        <Switch
+                          id={`venue-activity-${activity}`}
+                          checked={filters.enabledVenueActivities[activity]}
+                          onCheckedChange={() => filters.toggleVenueActivity(activity)}
+                        />
+                        <Label htmlFor={`venue-activity-${activity}`}>{activity}</Label>
+                      </div>
+                    ))}
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            )}
+
+            {/* Laget Match Locations */}
+            {filters.hasLagetData && filters.lagetMatchLocations.length > 0 && (
+              <AccordionItem value="laget-match-locations">
+                <AccordionTrigger className="text-md font-semibold">
+                  Laget: Home/Away
+                </AccordionTrigger>
+                <AccordionContent>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 mt-2">
+                    <div className="col-span-full mb-2 flex items-center gap-2">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllLagetMatchLocations(true)}
+                      >
+                        Select All
+                      </Button>
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllLagetMatchLocations(false)}
+                      >
+                        Deselect All
+                      </Button>
+                    </div>
+
+                    {filters.lagetMatchLocations.map(location => (
+                      <div key={location} className="flex items-center space-x-2">
+                        <Switch
+                          id={`laget-location-${location}`}
+                          checked={filters.enabledLagetMatchLocations[location]}
+                          onCheckedChange={() => filters.toggleLagetMatchLocation(location)}
+                        />
+                        <Label htmlFor={`laget-location-${location}`}>
+                          {getMatchLocationLabel(location)}
+                        </Label>
+                      </div>
+                    ))}
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            )}
+
+            {/* Venue Match Locations */}
+            {filters.hasVenueData && filters.venueMatchLocations.length > 0 && (
+              <AccordionItem value="venue-match-locations">
+                <AccordionTrigger className="text-md font-semibold">
+                  Venue: Home/Away
+                </AccordionTrigger>
+                <AccordionContent>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 mt-2">
+                    <div className="col-span-full mb-2 flex items-center gap-2">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllVenueMatchLocations(true)}
+                      >
+                        Select All
+                      </Button>
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => filters.toggleAllVenueMatchLocations(false)}
+                      >
+                        Deselect All
+                      </Button>
+                    </div>
+
+                    {filters.venueMatchLocations.map(location => (
+                      <div key={location} className="flex items-center space-x-2">
+                        <Switch
+                          id={`venue-location-${location}`}
+                          checked={filters.enabledVenueMatchLocations[location]}
+                          onCheckedChange={() => filters.toggleVenueMatchLocation(location)}
+                        />
+                        <Label htmlFor={`venue-location-${location}`}>
+                          {getMatchLocationLabel(location)}
+                        </Label>
+                      </div>
+                    ))}
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            )}
+          </Accordion>
+        )}
+      </div>
 
       <div
         className="calendar-container rounded-lg border shadow-sm overflow-hidden"
@@ -409,11 +545,12 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
       >
         <Calendar
           localizer={localizer}
-          events={filteredEvents}
+          events={filters.filteredEvents}
           startAccessor="start"
           endAccessor="end"
-          eventPropGetter={eventStyleGetter}
-          components={{ eventWrapper: CustomEventWrapper }}
+          eventPropGetter={(event: CalendarEvent) => ({
+            style: getCalendarEventStyle(event.source ? event.source.toLowerCase() : undefined),
+          })}
           formats={formats}
           popup
           views={views}
@@ -428,7 +565,6 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
         />
       </div>
 
-      {/* Enhanced event details modal with DialogDescription */}
       {selectedEvent && (
         <Dialog open={true} onOpenChange={closeDialog}>
           <DialogContent className="sm:max-w-[500px]">
@@ -440,53 +576,43 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
             </DialogHeader>
 
             <div className="grid gap-4 py-4">
-              {/* Extract information from filterTags when possible */}
-              {selectedEvent.filterTags?.some(tag => tag.startsWith('team:')) && (
+              {(selectedEvent.team ||
+                selectedEvent.filterTags?.some(tag => tag.startsWith('team:'))) && (
                 <div className="grid grid-cols-4 items-center gap-2">
                   <span className="text-sm font-medium">Team:</span>
                   <span className="col-span-3">
-                    {getPropertyFromFilterTags(selectedEvent.filterTags, 'team')}
+                    {selectedEvent.team || selectedEvent.filterTags
+                      ? getPropertyFromFilterTags(selectedEvent.filterTags, 'team')
+                      : ''}
                   </span>
                 </div>
               )}
 
-              {selectedEvent.filterTags?.some(tag => tag.startsWith('ageGroup:')) && (
+              {selectedEvent.ageGroup && (
                 <div className="grid grid-cols-4 items-center gap-2">
                   <span className="text-sm font-medium">Age Group:</span>
-                  <span className="col-span-3">
-                    {getPropertyFromFilterTags(selectedEvent.filterTags, 'ageGroup')}
-                  </span>
+                  <span className="col-span-3">{selectedEvent.ageGroup}</span>
                 </div>
               )}
 
-              {selectedEvent.filterTags?.some(tag => tag.startsWith('gender:')) && (
+              {selectedEvent.gender && (
                 <div className="grid grid-cols-4 items-center gap-2">
                   <span className="text-sm font-medium">Gender:</span>
-                  <span className="col-span-3">
-                    {getPropertyFromFilterTags(selectedEvent.filterTags, 'gender')}
-                  </span>
+                  <span className="col-span-3">{selectedEvent.gender}</span>
                 </div>
               )}
 
-              {/* Get venues from filterTags */}
-              {selectedEvent.filterTags?.some(tag => tag.startsWith('venue:')) && (
-                <div className="grid grid-cols-4 items-center gap-2">
-                  <span className="text-sm font-medium">Location:</span>
-                  <span className="col-span-3">
-                    {selectedEvent.filterTags
-                      .filter(tag => tag.startsWith('venue:'))
-                      .map(tag => tag.split(':')[1])
-                      .join(', ')}
-                  </span>
-                </div>
-              )}
-
-              {selectedEvent.filterTags?.some(tag => tag.startsWith('activity:')) && (
+              {selectedEvent.activity && (
                 <div className="grid grid-cols-4 items-center gap-2">
                   <span className="text-sm font-medium">Activity:</span>
-                  <span className="col-span-3">
-                    {getPropertyFromFilterTags(selectedEvent.filterTags, 'activity')}
-                  </span>
+                  <span className="col-span-3">{selectedEvent.activity}</span>
+                </div>
+              )}
+
+              {selectedEvent.match && (
+                <div className="grid grid-cols-4 items-center gap-2">
+                  <span className="text-sm font-medium">Match:</span>
+                  <span className="col-span-3">{selectedEvent.match}</span>
                 </div>
               )}
 
@@ -497,12 +623,10 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
                 </div>
               )}
 
-              {selectedEvent.filterTags?.some(tag => tag.startsWith('match:')) && (
-                <div className="grid grid-cols-4 items-center gap-2">
-                  <span className="text-sm font-medium">Match:</span>
-                  <span className="col-span-3">
-                    {getPropertyFromFilterTags(selectedEvent.filterTags, 'match')}
-                  </span>
+              {selectedEvent.venues && selectedEvent.venues.length > 0 && (
+                <div className="grid grid-cols-4 items-start gap-2">
+                  <span className="text-sm font-medium">Venue:</span>
+                  <span className="col-span-3">{selectedEvent.venues.join(', ')}</span>
                 </div>
               )}
 
@@ -519,6 +643,16 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
                   {moment(selectedEvent.end).format('MMMM D, YYYY h:mm A')}
                 </span>
               </div>
+
+              {selectedEvent.source && (
+                <div className="grid grid-cols-4 items-center gap-2">
+                  <span className="text-sm font-medium">Source:</span>
+                  <span className="col-span-3">
+                    {dataSources.find(s => s.id === selectedEvent.source)?.name ||
+                      selectedEvent.source}
+                  </span>
+                </div>
+              )}
 
               {selectedEvent.url && (
                 <div className="grid grid-cols-4 items-center gap-2">
@@ -537,7 +671,9 @@ const TeamCalendar = ({ events, dataSources }: TeamCalendarProps) => {
               {selectedEvent.description && (
                 <div className="grid grid-cols-4 items-start gap-2">
                   <span className="text-sm font-medium">Description:</span>
-                  <div className="col-span-3 text-sm">{selectedEvent.description}</div>
+                  <div className="col-span-3 text-sm whitespace-pre-line">
+                    {selectedEvent.description}
+                  </div>
                 </div>
               )}
             </div>

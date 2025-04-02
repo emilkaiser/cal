@@ -63,15 +63,16 @@ function normalizeCalendarEvents(events) {
     });
 }
 /**
- * Extracts a specific property from a filterTag
+ * Extract a property value from filterTags array
  */
 function getPropertyFromFilterTags(filterTags, property) {
     if (!filterTags)
         return undefined;
     const tag = filterTags.find(tag => tag.startsWith(`${property}:`));
-    if (!tag)
-        return undefined;
-    return tag.split(':')[1];
+    if (tag) {
+        return tag.split(':')[1];
+    }
+    return undefined;
 }
 /**
  * Check if a filter value exists in filterTags

@@ -128,6 +128,7 @@ function enhanceSourceEvents(events) {
             if (match.location) {
                 enhancedEvent.venues = (0, venue_utils_1.extractVenues)(match.location);
             }
+            enhancedEvent.series = match.category;
             // Determine match status based on team names
             const matchStatus = (0, match_utils_1.determineMatchStatus)(match.home.team, match.away.team);
             enhancedEvent.match = matchStatus === 'External' ? 'External' : matchStatus;
