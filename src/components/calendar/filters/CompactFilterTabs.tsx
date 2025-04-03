@@ -7,6 +7,7 @@ import { DataSourceFilters } from './DataSourceFilters';
 import { TeamFilters } from './TeamFilters';
 import { VenueFilters } from './VenueFilters';
 import { ActivityFilters } from './ActivityFilters';
+import { MatchFilters } from './MatchFilters';
 
 interface CompactFilterTabsProps {
   filters: any;
@@ -21,7 +22,7 @@ export const CompactFilterTabs = ({
 }: CompactFilterTabsProps) => {
   return (
     <Tabs defaultValue="sources" className="w-full">
-      <TabsList className="mb-2 grid grid-cols-2 md:grid-cols-4 h-auto">
+      <TabsList className="mb-2 grid grid-cols-2 md:grid-cols-5 h-auto">
         <TabsTrigger value="sources" className="text-xs py-2">
           Data Sources
         </TabsTrigger>
@@ -33,6 +34,9 @@ export const CompactFilterTabs = ({
         </TabsTrigger>
         <TabsTrigger value="activities" className="text-xs py-2">
           Activities
+        </TabsTrigger>
+        <TabsTrigger value="matches" className="text-xs py-2">
+          Matches
         </TabsTrigger>
       </TabsList>
 
@@ -57,6 +61,12 @@ export const CompactFilterTabs = ({
       <TabsContent value="activities" className="border rounded-md p-3">
         <ScrollArea className="h-60">
           <ActivityFilters filters={filters} getMatchLocationLabel={getMatchLocationLabel} />
+        </ScrollArea>
+      </TabsContent>
+
+      <TabsContent value="matches" className="border rounded-md p-3">
+        <ScrollArea className="h-60">
+          <MatchFilters filters={filters} />
         </ScrollArea>
       </TabsContent>
     </Tabs>

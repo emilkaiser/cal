@@ -1,0 +1,96 @@
+name: Update All Calendar Data
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # every 2 hours (reduced frequency from 30 min to avoid conflicts)
+  workflow_dispatch:
+    inputs:
+      team_config_file:
+        description: 'Path to team config file (relative to repo root)'
+        required: false
+        default: 'team-config.json'
+      run_laget:
+        description: 'Run laget scraper'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+      run_team:
+        description: 'Run team scraper'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+      run_venue:
+        description: 'Run venue scraper'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ github.token }}
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build TypeScript
+        run: npm run build:node
+
+      # Run scrapers based on inputs or run all by default
+      - name: Run laget scraper
+        if: ${{ github.event.inputs.run_laget != 'false' }}
+        run: node dist/scrapers/laget-scraper.js
+
+      - name: Run team scraper
+        if: ${{ github.event.inputs.run_team != 'false' }}
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ] && [ "${{ github.event.inputs.team_config_file }}" != "team-config.json" ]; then
+            node dist/scrapers/team-scraper.js --config="${{ github.event.inputs.team_config_file }}"
+          else
+            node dist/scrapers/team-scraper.js
+          fi
+
+      - name: Run venue scraper
+        if: ${{ github.event.inputs.run_venue != 'false' }}
+        run: node dist/scrapers/venue-scraper.js
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          # Stage all data files
+          git add data/laget/*.json data/team/*.json data/venue/*.json
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Get the latest changes from the remote
+          git pull --ff-only origin main || true
+
+          # Commit and push changes
+          git commit -m "Update calendar data [skip ci]"
+          git push origin main

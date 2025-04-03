@@ -1,9 +1,14 @@
-# Deploy to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
       - main
+    paths:
+      - 'data/**' # Only trigger when data files are updated
+      - 'src/**' # Or when source code changes
+      - 'public/**' # Or when public files change
+  workflow_dispatch: # Allow manual triggering
 
 jobs:
   deploy:
