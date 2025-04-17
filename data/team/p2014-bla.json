@@ -384,11 +384,11 @@
   },
   {
     "uid": "team-game-6270155",
-    "start": "2025-04-27T11:00:00.000Z",
-    "end": "2025-04-27T12:30:00.000Z",
+    "start": "2025-04-27T06:45:00.000Z",
+    "end": "2025-04-27T08:15:00.000Z",
     "title": "IF Brommapojkarna 2014-32 vs IFK Aspudden-Tellus Gul 2",
     "description": "P2014- 1",
-    "location": "Stora Mossens IP 3",
+    "location": "Olovslunds BP 11",
     "url": "https://www.stff.se/go-to/?fmid=6270155",
     "categories": [
       "P2014- 1"
@@ -396,11 +396,11 @@
     "sourceType": "team",
     "rawData": {
       "id": "6270155",
-      "dateTime": "2025-04-27T13:00+02:00",
+      "dateTime": "2025-04-27T08:45+02:00",
       "homeTeam": "IF Brommapojkarna 2014-32",
       "awayTeam": "IFK Aspudden-Tellus Gul 2",
       "category": "P2014- 1",
-      "location": "Stora Mossens IP 3",
+      "location": "Olovslunds BP 11",
       "url": "https://www.stff.se/go-to/?fmid=6270155"
     },
     "formattedTeam": "IF Brommapojkarna 2014-32",
