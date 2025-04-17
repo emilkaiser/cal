@@ -1,734 +1,8 @@
 [
   {
-    "uid": "venue-match-6190671",
-    "start": "2025-04-11T18:00:00.000Z",
-    "end": "2025-04-11T19:30:00.000Z",
-    "title": "Aspuddens FF vs Tullinge Triangel Pojkar FK",
-    "description": "Herrar 5 Södra",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-tullinge-triangel-pojkar-fk-div-5-herrar/6190671/",
-    "categories": [
-      "Herrar 5 Södra"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6190671,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/aspuddens-ff-tullinge-triangel-pojkar-fk-div-5-herrar/6190671/",
-      "date": {
-        "iso8601": "2025-04-11 20:00",
-        "formatted": "20:00, 11 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 5 Södra",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Aspuddens FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
-          "alt": "Aspuddens FF"
-        }
-      },
-      "away": {
-        "team": "Tullinge Triangel Pojkar FK",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6759.png",
-          "alt": "Tullinge Triangel Pojkar FK"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 5 Södra",
-    "match": "Home",
-    "team": "Aspuddens FF",
-    "formattedTeam": "Aspuddens FF",
-    "opponent": "Tullinge Triangel Pojkar FK",
-    "activity": "Match",
-    "formattedTitle": "🏟️ Aspuddens FF (vs Tullinge Triangel Pojkar FK)"
-  },
-  {
-    "uid": "venue-match-6258369",
-    "start": "2025-04-12T00:00:00.000Z",
-    "end": "2025-04-12T01:30:00.000Z",
-    "title": "Ospecificerat lag (6) vs Skogås-Trångsunds FF Blå",
-    "description": "F2011- 3B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ospecificerat-lag-6-skogas-trangsunds-ff-bla-flickor-2011/6258369/",
-    "categories": [
-      "F2011- 3B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6258369,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ospecificerat-lag-6-skogas-trangsunds-ff-bla-flickor-2011/6258369/",
-      "date": {
-        "iso8601": "2025-04-12",
-        "formatted": "12 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "F2011- 3B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Ospecificerat lag (6)",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/nationalsm/Ospecificerat lag (6).png",
-          "alt": "Ospecificerat lag (6)"
-        }
-      },
-      "away": {
-        "team": "Skogås-Trångsunds FF Blå",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
-          "alt": "Skogås-Trångsunds FF Blå"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "ageGroup": "2011",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "F2011- 3B",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Ospecificerat lag (6) vs Skogås-Trångsunds FF Blå)"
-  },
-  {
-    "uid": "venue-match-6252488",
-    "start": "2025-04-12T07:00:00.000Z",
-    "end": "2025-04-12T08:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Röd 2 vs Boo FF 31",
-    "description": "P2012- 3K",
-    "location": "Aspuddens IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-boo-ff-31-pojkar-2012/6252488/",
-    "categories": [
-      "P2012- 3K"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6252488,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-boo-ff-31-pojkar-2012/6252488/",
-      "date": {
-        "iso8601": "2025-04-12 09:00",
-        "formatted": "09:00, 12 apr. 2025"
-      },
-      "location": "Aspuddens IP 11",
-      "category": "P2012- 3K",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Röd 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Röd 2"
-        }
-      },
-      "away": {
-        "team": "Boo FF 31",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
-          "alt": "Boo FF 31"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2012- 3K",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Röd 2",
-    "color": "Röd",
-    "formattedTeam": "H2012 Röd",
-    "opponent": "Boo FF 31",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs Boo FF 31)"
-  },
-  {
-    "uid": "venue-match-6246650",
-    "start": "2025-04-12T08:30:00.000Z",
-    "end": "2025-04-12T10:00:00.000Z",
-    "title": "IFK Aspudden-Tellus 1 vs Djurgårdens IF FF 11",
-    "description": "P2011- 1E",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-djurgardens-if-ff-11-pojkar-2011/6246650/",
-    "categories": [
-      "P2011- 1E"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6246650,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-djurgardens-if-ff-11-pojkar-2011/6246650/",
-      "date": {
-        "iso8601": "2025-04-12 10:30",
-        "formatted": "10:30, 12 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2011- 1E",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 1"
-        }
-      },
-      "away": {
-        "team": "Djurgårdens IF FF 11",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
-          "alt": "Djurgårdens IF FF 11"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2011",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2011- 1E",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "H2011",
-    "opponent": "Djurgårdens IF FF 11",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2011 (vs Djurgårdens IF FF 11)"
-  },
-  {
-    "uid": "venue-match-6347336",
-    "start": "2025-04-12T10:00:00.000Z",
-    "end": "2025-04-12T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Mälarhöjden-Hägersten FF 3",
-    "description": "F2011- 4B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-malarhojden-hagersten-ff-3-flickor-2011/6347336/",
-    "categories": [
-      "F2011- 4B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6347336,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-malarhojden-hagersten-ff-3-flickor-2011/6347336/",
-      "date": {
-        "iso8601": "2025-04-12 12:00",
-        "formatted": "12:00, 12 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "F2011- 4B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Mälarhöjden-Hägersten FF 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
-          "alt": "Mälarhöjden-Hägersten FF 3"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "ageGroup": "2011",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "F2011- 4B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "D2011",
-    "opponent": "Mälarhöjden-Hägersten FF 3",
-    "activity": "Match",
-    "formattedTitle": "🏟️ D2011 (vs Mälarhöjden-Hägersten FF 3)"
-  },
-  {
-    "uid": "venue-match-6254224",
-    "start": "2025-04-12T12:00:00.000Z",
-    "end": "2025-04-12T13:30:00.000Z",
-    "title": "FC Stockholm Internazionale vs Älvsjö AIK FF",
-    "description": "P2007-kval till P19- B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/fc-stockholm-internazionale-alvsjo-aik-ff-pojkar-2007-kval-till-p19/6254224/",
-    "categories": [
-      "P2007-kval till P19- B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6254224,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/fc-stockholm-internazionale-alvsjo-aik-ff-pojkar-2007-kval-till-p19/6254224/",
-      "date": {
-        "iso8601": "2025-04-12 14:00",
-        "formatted": "14:00, 12 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2007-kval till P19- B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "FC Stockholm Internazionale",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12338.png",
-          "alt": "FC Stockholm Internazionale"
-        }
-      },
-      "away": {
-        "team": "Älvsjö AIK FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7708.png",
-          "alt": "Älvsjö AIK FF"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2007",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2007-kval till P19- B",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (FC Stockholm Internazionale vs Älvsjö AIK FF)"
-  },
-  {
-    "uid": "venue-match-6190676",
-    "start": "2025-04-12T14:00:00.000Z",
-    "end": "2025-04-12T15:30:00.000Z",
-    "title": "BK Buffalo vs Spårvägens FF ",
-    "description": "Herrar 5 Södra",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-sparvagens-ff--div-5-herrar/6190676/",
-    "categories": [
-      "Herrar 5 Södra"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6190676,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/bk-buffalo-sparvagens-ff--div-5-herrar/6190676/",
-      "date": {
-        "iso8601": "2025-04-12 16:00",
-        "formatted": "16:00, 12 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 5 Södra",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "BK Buffalo",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
-          "alt": "BK Buffalo"
-        }
-      },
-      "away": {
-        "team": "Spårvägens FF ",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7864.png",
-          "alt": "Spårvägens FF "
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 5 Södra",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (BK Buffalo vs Spårvägens FF )"
-  },
-  {
-    "uid": "venue-match-6250774",
-    "start": "2025-04-13T07:00:00.000Z",
-    "end": "2025-04-13T08:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Röd 1 vs Gustavsbergs IF FK 1",
-    "description": "P2012- 2D",
-    "location": "Aspuddens IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-gustavsbergs-if-fk-1-pojkar-2012/6250774/",
-    "categories": [
-      "P2012- 2D"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6250774,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-gustavsbergs-if-fk-1-pojkar-2012/6250774/",
-      "date": {
-        "iso8601": "2025-04-13 09:00",
-        "formatted": "09:00, 13 apr. 2025"
-      },
-      "location": "Aspuddens IP 11",
-      "category": "P2012- 2D",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Röd 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Röd 1"
-        }
-      },
-      "away": {
-        "team": "Gustavsbergs IF FK 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11780.png",
-          "alt": "Gustavsbergs IF FK 1"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2012- 2D",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Röd 1",
-    "color": "Röd",
-    "formattedTeam": "H2012 Röd",
-    "opponent": "Gustavsbergs IF FK 1",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs Gustavsbergs IF FK 1)"
-  },
-  {
-    "uid": "venue-match-6249217",
-    "start": "2025-04-13T08:30:00.000Z",
-    "end": "2025-04-13T10:00:00.000Z",
-    "title": "IFK Aspudden-Tellus 4 vs Värmdö IF Vit",
-    "description": "P2011- 4D",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-varmdo-if-vit-pojkar-2011/6249217/",
-    "categories": [
-      "P2011- 4D"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6249217,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-varmdo-if-vit-pojkar-2011/6249217/",
-      "date": {
-        "iso8601": "2025-04-13 10:30",
-        "formatted": "10:30, 13 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2011- 4D",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 4"
-        }
-      },
-      "away": {
-        "team": "Värmdö IF Vit",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9869.png",
-          "alt": "Värmdö IF Vit"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2011",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2011- 4D",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 4",
-    "formattedTeam": "H2011",
-    "opponent": "Värmdö IF Vit",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2011 (vs Värmdö IF Vit)"
-  },
-  {
-    "uid": "venue-match-6254968",
-    "start": "2025-04-13T12:00:00.000Z",
-    "end": "2025-04-13T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus DJ vs Skogås-Trångsunds FF Röd",
-    "description": "DJ- 2C",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dj-skogas-trangsunds-ff-rod-damjuniorer-0906/6254968/",
-    "categories": [
-      "DJ- 2C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6254968,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-dj-skogas-trangsunds-ff-rod-damjuniorer-0906/6254968/",
-      "date": {
-        "iso8601": "2025-04-13 14:00",
-        "formatted": "14:00, 13 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "DJ- 2C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus DJ",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus DJ"
-        }
-      },
-      "away": {
-        "team": "Skogås-Trångsunds FF Röd",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
-          "alt": "Skogås-Trångsunds FF Röd"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "DJ- 2C",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus DJ",
-    "formattedTeam": "IFK Aspudden-Tellus DJ",
-    "opponent": "Skogås-Trångsunds FF Röd",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus DJ (vs Skogås-Trångsunds FF Röd)"
-  },
-  {
-    "uid": "venue-match-6221014",
-    "start": "2025-04-13T16:00:00.000Z",
-    "end": "2025-04-13T17:30:00.000Z",
-    "title": "Kransen United FF vs AC Azzurri",
-    "description": "Herrar 6 E",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-ac-azzurri-div-6-herrar/6221014/",
-    "categories": [
-      "Herrar 6 E"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221014,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/kransen-united-ff-ac-azzurri-div-6-herrar/6221014/",
-      "date": {
-        "iso8601": "2025-04-13 18:00",
-        "formatted": "18:00, 13 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 6 E",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Kransen United FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
-          "alt": "Kransen United FF"
-        }
-      },
-      "away": {
-        "team": "AC Azzurri",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9040.png",
-          "alt": "AC Azzurri"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 6 E",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Kransen United FF vs AC Azzurri)"
-  },
-  {
-    "uid": "venue-match-6233559",
-    "start": "2025-04-13T18:00:00.000Z",
-    "end": "2025-04-13T19:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Segeltorps IF Fotboll",
-    "description": "SSH 3",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-segeltorps-if-fotboll-stockholmsserien-3-herrar/6233559/",
-    "categories": [
-      "SSH 3"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6233559,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-segeltorps-if-fotboll-stockholmsserien-3-herrar/6233559/",
-      "date": {
-        "iso8601": "2025-04-13 20:00",
-        "formatted": "20:00, 13 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "SSH 3",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Segeltorps IF Fotboll",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13623.png",
-          "alt": "Segeltorps IF Fotboll"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "SSH 3",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Segeltorps IF Fotboll",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Segeltorps IF Fotboll)"
-  },
-  {
-    "uid": "venue-match-6245871",
-    "start": "2025-04-21T12:00:00.000Z",
-    "end": "2025-04-21T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 4 vs IFK Lidingö FK C",
-    "description": "P2010- 4B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-ifk-lidingo-fk-c-pojkar-2010/6245871/",
-    "categories": [
-      "P2010- 4B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6245871,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-ifk-lidingo-fk-c-pojkar-2010/6245871/",
-      "date": {
-        "iso8601": "2025-04-21 14:00",
-        "formatted": "14:00, 21 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010- 4B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 4"
-        }
-      },
-      "away": {
-        "team": "IFK Lidingö FK C",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8255.png",
-          "alt": "IFK Lidingö FK C"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010- 4B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 4",
-    "formattedTeam": "H2010",
-    "opponent": "IFK Lidingö FK C",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs IFK Lidingö FK C)"
-  },
-  {
     "uid": "venue-match-6189507",
-    "start": "2025-04-21T14:00:00.000Z",
-    "end": "2025-04-21T15:30:00.000Z",
+    "start": "2025-04-21T16:00:00.000Z",
+    "end": "2025-04-21T17:30:00.000Z",
     "title": "Stockholm StreetSoccer FF vs Dardania Stockholm FF",
     "description": "Herrar 5 Mellersta",
     "location": "Aspuddens IP 1",
@@ -780,8 +54,8 @@
   },
   {
     "uid": "venue-match-6186147",
-    "start": "2025-04-21T16:00:00.000Z",
-    "end": "2025-04-21T17:30:00.000Z",
+    "start": "2025-04-21T18:00:00.000Z",
+    "end": "2025-04-21T19:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs IFK Tumba FK",
     "description": "Herrar 4 Södra",
     "location": "Aspuddens IP 1",
@@ -836,8 +110,8 @@
   },
   {
     "uid": "venue-match-6243154",
-    "start": "2025-04-21T18:00:00.000Z",
-    "end": "2025-04-21T19:30:00.000Z",
+    "start": "2025-04-21T20:00:00.000Z",
+    "end": "2025-04-21T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus 2 vs Karlbergs BK Vit 11",
     "description": "P2009- 1B",
     "location": "Aspuddens IP 1",
@@ -893,8 +167,8 @@
   },
   {
     "uid": "venue-match-6190684",
-    "start": "2025-04-25T18:00:00.000Z",
-    "end": "2025-04-25T19:30:00.000Z",
+    "start": "2025-04-25T20:00:00.000Z",
+    "end": "2025-04-25T21:30:00.000Z",
     "title": "Aspuddens FF vs Tungelsta IF",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -949,8 +223,8 @@
   },
   {
     "uid": "venue-match-6266656",
-    "start": "2025-04-26T07:00:00.000Z",
-    "end": "2025-04-26T08:30:00.000Z",
+    "start": "2025-04-26T09:00:00.000Z",
+    "end": "2025-04-26T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 1 vs IF Brommapojkarna",
     "description": "P2013- 1",
     "location": "Aspuddens IP 11",
@@ -1007,8 +281,8 @@
   },
   {
     "uid": "venue-match-6267573",
-    "start": "2025-04-26T07:00:00.000Z",
-    "end": "2025-04-26T08:30:00.000Z",
+    "start": "2025-04-26T09:00:00.000Z",
+    "end": "2025-04-26T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Mälarhöjden-Hägersten FF Gul",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -1065,8 +339,8 @@
   },
   {
     "uid": "venue-match-6250786",
-    "start": "2025-04-26T08:30:00.000Z",
-    "end": "2025-04-26T10:00:00.000Z",
+    "start": "2025-04-26T10:30:00.000Z",
+    "end": "2025-04-26T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 1 vs Gröndals IK Vit",
     "description": "P2012- 2D",
     "location": "Aspuddens IP 11",
@@ -1123,8 +397,8 @@
   },
   {
     "uid": "venue-match-6252232",
-    "start": "2025-04-26T08:30:00.000Z",
-    "end": "2025-04-26T10:00:00.000Z",
+    "start": "2025-04-26T10:30:00.000Z",
+    "end": "2025-04-26T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 3 vs Nynäshamns IF FK 1 vit",
     "description": "P2012- 3I",
     "location": "Aspuddens IP 12",
@@ -1181,8 +455,8 @@
   },
   {
     "uid": "venue-match-6190688",
-    "start": "2025-04-26T12:00:00.000Z",
-    "end": "2025-04-26T13:30:00.000Z",
+    "start": "2025-04-26T14:00:00.000Z",
+    "end": "2025-04-26T15:30:00.000Z",
     "title": "BK Buffalo vs Tullinge Triangel Pojkar FK",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -1234,8 +508,8 @@
   },
   {
     "uid": "venue-match-6255209",
-    "start": "2025-04-26T14:00:00.000Z",
-    "end": "2025-04-26T15:30:00.000Z",
+    "start": "2025-04-26T16:00:00.000Z",
+    "end": "2025-04-26T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Karlbergs BK Vit",
     "description": "DJ- 3B",
     "location": "Aspuddens IP 1",
@@ -1290,8 +564,8 @@
   },
   {
     "uid": "venue-match-6252501",
-    "start": "2025-04-27T07:00:00.000Z",
-    "end": "2025-04-27T08:30:00.000Z",
+    "start": "2025-04-27T09:00:00.000Z",
+    "end": "2025-04-27T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 2 vs Svensk-Palestinska FF 1",
     "description": "P2012- 3K",
     "location": "Aspuddens IP 11",
@@ -1348,8 +622,8 @@
   },
   {
     "uid": "venue-match-6268878",
-    "start": "2025-04-27T07:00:00.000Z",
-    "end": "2025-04-27T08:30:00.000Z",
+    "start": "2025-04-27T09:00:00.000Z",
+    "end": "2025-04-27T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 2 vs Karlbergs BK Grön",
     "description": "P2013- 4",
     "location": "Aspuddens IP 12",
@@ -1406,8 +680,8 @@
   },
   {
     "uid": "venue-match-6249230",
-    "start": "2025-04-27T08:30:00.000Z",
-    "end": "2025-04-27T10:00:00.000Z",
+    "start": "2025-04-27T10:30:00.000Z",
+    "end": "2025-04-27T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus 4 vs IF Brommapojkarna 11-26",
     "description": "P2011- 4D",
     "location": "Aspuddens IP 1",
@@ -1463,8 +737,8 @@
   },
   {
     "uid": "venue-match-6245389",
-    "start": "2025-04-27T10:00:00.000Z",
-    "end": "2025-04-27T11:30:00.000Z",
+    "start": "2025-04-27T12:00:00.000Z",
+    "end": "2025-04-27T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus 3 vs IFK Lidingö FK 8",
     "description": "P2010- 3C",
     "location": "Aspuddens IP 1",
@@ -1520,8 +794,8 @@
   },
   {
     "uid": "venue-match-6242743",
-    "start": "2025-04-27T12:00:00.000Z",
-    "end": "2025-04-27T13:30:00.000Z",
+    "start": "2025-04-27T14:00:00.000Z",
+    "end": "2025-04-27T15:30:00.000Z",
     "title": "Gröndals IK 1 vs IK Frej Täby FF P17",
     "description": "P2008- 2C",
     "location": "Aspuddens IP 1",
@@ -1574,8 +848,8 @@
   },
   {
     "uid": "venue-match-6220567",
-    "start": "2025-04-27T16:00:00.000Z",
-    "end": "2025-04-27T17:30:00.000Z",
+    "start": "2025-04-27T18:00:00.000Z",
+    "end": "2025-04-27T19:30:00.000Z",
     "title": "Kransen United FF vs Stuvsta FF ",
     "description": "Damer 4 B",
     "location": "Aspuddens IP 1",
@@ -1627,8 +901,8 @@
   },
   {
     "uid": "venue-match-6234356",
-    "start": "2025-04-27T18:00:00.000Z",
-    "end": "2025-04-27T19:30:00.000Z",
+    "start": "2025-04-27T20:00:00.000Z",
+    "end": "2025-04-27T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs FK Bromma",
     "description": "Herrar Vet B",
     "location": "Aspuddens IP 1",
@@ -1683,8 +957,8 @@
   },
   {
     "uid": "venue-match-6186125",
-    "start": "2025-05-02T18:00:00.000Z",
-    "end": "2025-05-02T19:30:00.000Z",
+    "start": "2025-05-02T20:00:00.000Z",
+    "end": "2025-05-02T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Stuvsta IF",
     "description": "Herrar 4 Södra",
     "location": "Aspuddens IP 1",
@@ -1739,8 +1013,8 @@
   },
   {
     "uid": "venue-match-6252244",
-    "start": "2025-05-03T08:30:00.000Z",
-    "end": "2025-05-03T10:00:00.000Z",
+    "start": "2025-05-03T10:30:00.000Z",
+    "end": "2025-05-03T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 3 vs Vendelsö IK Vit",
     "description": "P2012- 3I",
     "location": "Aspuddens IP 11",
@@ -1797,8 +1071,8 @@
   },
   {
     "uid": "venue-match-6267663",
-    "start": "2025-05-03T08:30:00.000Z",
-    "end": "2025-05-03T10:00:00.000Z",
+    "start": "2025-05-03T10:30:00.000Z",
+    "end": "2025-05-03T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 1 vs Örby IS Röd",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -1855,8 +1129,8 @@
   },
   {
     "uid": "venue-match-6187967",
-    "start": "2025-05-03T11:30:00.000Z",
-    "end": "2025-05-03T13:00:00.000Z",
+    "start": "2025-05-03T13:30:00.000Z",
+    "end": "2025-05-03T15:00:00.000Z",
     "title": "IFK Aspudden-Tellus vs Skogås-Trångsunds FF",
     "description": "Damer 3 B",
     "location": "Aspuddens IP 1",
@@ -1911,8 +1185,8 @@
   },
   {
     "uid": "venue-match-6191657",
-    "start": "2025-05-03T14:00:00.000Z",
-    "end": "2025-05-03T15:30:00.000Z",
+    "start": "2025-05-03T16:00:00.000Z",
+    "end": "2025-05-03T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus  vs Arameisk-Syrianska IF ",
     "description": "P19 Div.1 2025 - Region 4",
     "location": "Aspuddens IP 1",
@@ -1967,8 +1241,8 @@
   },
   {
     "uid": "venue-match-6266894",
-    "start": "2025-05-04T08:30:00.000Z",
-    "end": "2025-05-04T10:00:00.000Z",
+    "start": "2025-05-04T10:30:00.000Z",
+    "end": "2025-05-04T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 2 vs IF Brommapojkarna 2013-14",
     "description": "P2013- 2",
     "location": "Aspuddens IP 11",
@@ -2025,8 +1299,8 @@
   },
   {
     "uid": "venue-match-6243166",
-    "start": "2025-05-04T12:00:00.000Z",
-    "end": "2025-05-04T13:30:00.000Z",
+    "start": "2025-05-04T14:00:00.000Z",
+    "end": "2025-05-04T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus 2 vs Boo FF 2",
     "description": "P2009- 1B",
     "location": "Aspuddens IP 1",
@@ -2082,8 +1356,8 @@
   },
   {
     "uid": "venue-match-6254978",
-    "start": "2025-05-04T14:00:00.000Z",
-    "end": "2025-05-04T15:30:00.000Z",
+    "start": "2025-05-04T16:00:00.000Z",
+    "end": "2025-05-04T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus DJ vs Hammarby IF FF U",
     "description": "DJ- 2C",
     "location": "Aspuddens IP 1",
@@ -2138,8 +1412,8 @@
   },
   {
     "uid": "venue-match-6220573",
-    "start": "2025-05-04T16:00:00.000Z",
-    "end": "2025-05-04T17:30:00.000Z",
+    "start": "2025-05-04T18:00:00.000Z",
+    "end": "2025-05-04T19:30:00.000Z",
     "title": "Kransen United FF vs Västerhaninge IF",
     "description": "Damer 4 B",
     "location": "Aspuddens IP 1",
@@ -2191,8 +1465,8 @@
   },
   {
     "uid": "venue-match-6374304",
-    "start": "2025-05-06T18:00:00.000Z",
-    "end": "2025-05-06T19:30:00.000Z",
+    "start": "2025-05-06T20:00:00.000Z",
+    "end": "2025-05-06T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs IFK Lidingö FK FA17",
     "description": "JDM Flickor Slutspel",
     "location": "Aspuddens IP 1",
@@ -2247,8 +1521,8 @@
   },
   {
     "uid": "venue-match-6190697",
-    "start": "2025-05-09T18:00:00.000Z",
-    "end": "2025-05-09T19:30:00.000Z",
+    "start": "2025-05-09T20:00:00.000Z",
+    "end": "2025-05-09T21:30:00.000Z",
     "title": "Aspuddens FF vs Vega FC",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -2303,8 +1577,8 @@
   },
   {
     "uid": "venue-match-6250798",
-    "start": "2025-05-10T08:30:00.000Z",
-    "end": "2025-05-10T10:00:00.000Z",
+    "start": "2025-05-10T10:30:00.000Z",
+    "end": "2025-05-10T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 1 vs Saltsjö-Boo IF 1",
     "description": "P2012- 2D",
     "location": "Aspuddens IP 11",
@@ -2361,8 +1635,8 @@
   },
   {
     "uid": "venue-match-6267790",
-    "start": "2025-05-10T08:30:00.000Z",
-    "end": "2025-05-10T10:00:00.000Z",
+    "start": "2025-05-10T10:30:00.000Z",
+    "end": "2025-05-10T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Högalids IF Grön",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -2419,8 +1693,8 @@
   },
   {
     "uid": "venue-match-6248585",
-    "start": "2025-05-10T10:00:00.000Z",
-    "end": "2025-05-10T11:30:00.000Z",
+    "start": "2025-05-10T12:00:00.000Z",
+    "end": "2025-05-10T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Stureby SK",
     "description": "P2011- 3H",
     "location": "Aspuddens IP 1",
@@ -2477,8 +1751,8 @@
   },
   {
     "uid": "venue-match-6190700",
-    "start": "2025-05-10T12:00:00.000Z",
-    "end": "2025-05-10T13:30:00.000Z",
+    "start": "2025-05-10T14:00:00.000Z",
+    "end": "2025-05-10T15:30:00.000Z",
     "title": "BK Buffalo vs Botkyrka Kuluspor FF",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -2530,8 +1804,8 @@
   },
   {
     "uid": "venue-match-6189521",
-    "start": "2025-05-10T14:00:00.000Z",
-    "end": "2025-05-10T15:30:00.000Z",
+    "start": "2025-05-10T16:00:00.000Z",
+    "end": "2025-05-10T17:30:00.000Z",
     "title": "Stockholm StreetSoccer FF vs IK Makkabi",
     "description": "Herrar 5 Mellersta",
     "location": "Aspuddens IP 1",
@@ -2583,8 +1857,8 @@
   },
   {
     "uid": "venue-match-6266682",
-    "start": "2025-05-11T08:30:00.000Z",
-    "end": "2025-05-11T10:00:00.000Z",
+    "start": "2025-05-11T10:30:00.000Z",
+    "end": "2025-05-11T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 1 vs Boo FF 13",
     "description": "P2013- 1",
     "location": "Aspuddens IP 11",
@@ -2641,8 +1915,8 @@
   },
   {
     "uid": "venue-match-6269066",
-    "start": "2025-05-11T08:30:00.000Z",
-    "end": "2025-05-11T10:00:00.000Z",
+    "start": "2025-05-11T10:30:00.000Z",
+    "end": "2025-05-11T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 2 vs Stuvsta IF 2:3",
     "description": "P2013- 4",
     "location": "Aspuddens IP 12",
@@ -2699,8 +1973,8 @@
   },
   {
     "uid": "venue-match-6246661",
-    "start": "2025-05-11T10:00:00.000Z",
-    "end": "2025-05-11T11:30:00.000Z",
+    "start": "2025-05-11T12:00:00.000Z",
+    "end": "2025-05-11T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs Segeltorps Idrottsförening Fotboll Mörkblå",
     "description": "P2011- 1E",
     "location": "Aspuddens IP 1",
@@ -2756,8 +2030,8 @@
   },
   {
     "uid": "venue-match-6347349",
-    "start": "2025-05-11T12:00:00.000Z",
-    "end": "2025-05-11T13:30:00.000Z",
+    "start": "2025-05-11T14:00:00.000Z",
+    "end": "2025-05-11T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Gustavsbergs IF FK 1",
     "description": "F2011- 4B",
     "location": "Aspuddens IP 1",
@@ -2813,8 +2087,8 @@
   },
   {
     "uid": "venue-match-6254443",
-    "start": "2025-05-11T14:00:00.000Z",
-    "end": "2025-05-11T15:30:00.000Z",
+    "start": "2025-05-11T16:00:00.000Z",
+    "end": "2025-05-11T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs Rågsveds IF",
     "description": "P2009-kval till P17- B",
     "location": "Aspuddens IP 1",
@@ -2870,8 +2144,8 @@
   },
   {
     "uid": "venue-match-6221025",
-    "start": "2025-05-11T16:00:00.000Z",
-    "end": "2025-05-11T17:30:00.000Z",
+    "start": "2025-05-11T18:00:00.000Z",
+    "end": "2025-05-11T19:30:00.000Z",
     "title": "Kransen United FF vs Preben BoIS",
     "description": "Herrar 6 E",
     "location": "Aspuddens IP 1",
@@ -2923,8 +2197,8 @@
   },
   {
     "uid": "venue-match-6242754",
-    "start": "2025-05-11T18:00:00.000Z",
-    "end": "2025-05-11T19:30:00.000Z",
+    "start": "2025-05-11T20:00:00.000Z",
+    "end": "2025-05-11T21:30:00.000Z",
     "title": "Gröndals IK 1 vs Enskede IK 1",
     "description": "P2008- 2C",
     "location": "Aspuddens IP 1",
@@ -2977,8 +2251,8 @@
   },
   {
     "uid": "venue-match-6186103",
-    "start": "2025-05-16T18:00:00.000Z",
-    "end": "2025-05-16T19:30:00.000Z",
+    "start": "2025-05-16T20:00:00.000Z",
+    "end": "2025-05-16T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Enskede FF",
     "description": "Herrar 4 Södra",
     "location": "Aspuddens IP 1",
@@ -3033,8 +2307,8 @@
   },
   {
     "uid": "venue-match-6267024",
-    "start": "2025-05-17T08:30:00.000Z",
-    "end": "2025-05-17T10:00:00.000Z",
+    "start": "2025-05-17T10:30:00.000Z",
+    "end": "2025-05-17T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 2 vs Spånga IS FK 77",
     "description": "P2013- 2",
     "location": "Aspuddens IP 11",
@@ -3091,8 +2365,8 @@
   },
   {
     "uid": "venue-match-6267850",
-    "start": "2025-05-17T08:30:00.000Z",
-    "end": "2025-05-17T10:00:00.000Z",
+    "start": "2025-05-17T10:30:00.000Z",
+    "end": "2025-05-17T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 1 vs Stureby SK Vit",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -3148,66 +2422,9 @@
     "formattedTitle": "🏟️ P2013 Blå (vs Stureby SK Vit)"
   },
   {
-    "uid": "venue-match-6245895",
-    "start": "2025-05-17T10:00:00.000Z",
-    "end": "2025-05-17T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 4 vs Saltsjöbadens IF",
-    "description": "P2010- 4B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-saltsjobadens-if-pojkar-2010/6245895/",
-    "categories": [
-      "P2010- 4B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6245895,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-saltsjobadens-if-pojkar-2010/6245895/",
-      "date": {
-        "iso8601": "2025-05-17 12:00",
-        "formatted": "12:00, 17 maj 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010- 4B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 4"
-        }
-      },
-      "away": {
-        "team": "Saltsjöbadens IF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10370.png",
-          "alt": "Saltsjöbadens IF"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010- 4B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 4",
-    "formattedTeam": "H2010",
-    "opponent": "Saltsjöbadens IF",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs Saltsjöbadens IF)"
-  },
-  {
     "uid": "venue-match-6187949",
-    "start": "2025-05-17T11:30:00.000Z",
-    "end": "2025-05-17T13:00:00.000Z",
+    "start": "2025-05-17T13:30:00.000Z",
+    "end": "2025-05-17T15:00:00.000Z",
     "title": "IFK Aspudden-Tellus vs Älta IF",
     "description": "Damer 3 B",
     "location": "Aspuddens IP 1",
@@ -3262,8 +2479,8 @@
   },
   {
     "uid": "venue-match-6191642",
-    "start": "2025-05-17T14:00:00.000Z",
-    "end": "2025-05-17T15:30:00.000Z",
+    "start": "2025-05-17T16:00:00.000Z",
+    "end": "2025-05-17T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus  vs Örby IS",
     "description": "P19 Div.1 2025 - Region 4",
     "location": "Aspuddens IP 1",
@@ -3372,8 +2589,8 @@
   },
   {
     "uid": "venue-match-6269917",
-    "start": "2025-05-18T07:00:00.000Z",
-    "end": "2025-05-18T08:30:00.000Z",
+    "start": "2025-05-18T09:00:00.000Z",
+    "end": "2025-05-18T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 3 vs Skå IK & Bygdegård Gul",
     "description": "P2013- 5",
     "location": "Aspuddens IP 12",
@@ -3430,8 +2647,8 @@
   },
   {
     "uid": "venue-match-6243178",
-    "start": "2025-05-18T10:00:00.000Z",
-    "end": "2025-05-18T11:30:00.000Z",
+    "start": "2025-05-18T12:00:00.000Z",
+    "end": "2025-05-18T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus 2 vs Hammarby IF FF 14",
     "description": "P2009- 1B",
     "location": "Aspuddens IP 1",
@@ -3487,8 +2704,8 @@
   },
   {
     "uid": "venue-match-6242759",
-    "start": "2025-05-18T12:00:00.000Z",
-    "end": "2025-05-18T13:30:00.000Z",
+    "start": "2025-05-18T14:00:00.000Z",
+    "end": "2025-05-18T15:30:00.000Z",
     "title": "Gröndals IK 1 vs Huddinge IF P17U",
     "description": "P2008- 2C",
     "location": "Aspuddens IP 1",
@@ -3541,8 +2758,8 @@
   },
   {
     "uid": "venue-match-6254988",
-    "start": "2025-05-18T14:00:00.000Z",
-    "end": "2025-05-18T15:30:00.000Z",
+    "start": "2025-05-18T16:00:00.000Z",
+    "end": "2025-05-18T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus DJ vs Älvsjö AIK FF 2",
     "description": "DJ- 2C",
     "location": "Aspuddens IP 1",
@@ -3597,8 +2814,8 @@
   },
   {
     "uid": "venue-match-6220583",
-    "start": "2025-05-18T16:00:00.000Z",
-    "end": "2025-05-18T17:30:00.000Z",
+    "start": "2025-05-18T18:00:00.000Z",
+    "end": "2025-05-18T19:30:00.000Z",
     "title": "Kransen United FF vs Sickla IF",
     "description": "Damer 4 B",
     "location": "Aspuddens IP 1",
@@ -3649,9 +2866,65 @@
     "formattedTitle": " (Kransen United FF vs Sickla IF)"
   },
   {
+    "uid": "venue-match-6374276",
+    "start": "2025-05-19T20:00:00.000Z",
+    "end": "2025-05-19T21:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Ösmo GIF FK ",
+    "description": "JDM Pojkar Slutspel",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-osmo-gif-fk--j-dm-pojkar/6374276/",
+    "categories": [
+      "JDM Pojkar Slutspel"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6374276,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-osmo-gif-fk--j-dm-pojkar/6374276/",
+      "date": {
+        "iso8601": "2025-05-19 20:00",
+        "formatted": "20:00, 19 maj 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "JDM Pojkar Slutspel",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Ösmo GIF FK ",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7867.png",
+          "alt": "Ösmo GIF FK "
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "JDM Pojkar Slutspel",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Ösmo GIF FK ",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Ösmo GIF FK)"
+  },
+  {
     "uid": "venue-match-6190710",
-    "start": "2025-05-23T18:00:00.000Z",
-    "end": "2025-05-23T19:30:00.000Z",
+    "start": "2025-05-23T20:00:00.000Z",
+    "end": "2025-05-23T21:30:00.000Z",
     "title": "Aspuddens FF vs Atletic Blåsut FC",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -3706,8 +2979,8 @@
   },
   {
     "uid": "venue-match-6250810",
-    "start": "2025-05-24T07:00:00.000Z",
-    "end": "2025-05-24T08:30:00.000Z",
+    "start": "2025-05-24T09:00:00.000Z",
+    "end": "2025-05-24T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 1 vs Mörtnäs IF Grön",
     "description": "P2012- 2D",
     "location": "Aspuddens IP 11",
@@ -3764,8 +3037,8 @@
   },
   {
     "uid": "venue-match-6267934",
-    "start": "2025-05-24T07:00:00.000Z",
-    "end": "2025-05-24T08:30:00.000Z",
+    "start": "2025-05-24T09:00:00.000Z",
+    "end": "2025-05-24T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs IF Brommapojkarna 2013-19",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -3822,8 +3095,8 @@
   },
   {
     "uid": "venue-match-6252527",
-    "start": "2025-05-24T08:30:00.000Z",
-    "end": "2025-05-24T10:00:00.000Z",
+    "start": "2025-05-24T10:30:00.000Z",
+    "end": "2025-05-24T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 2 vs Karlbergs BK 31",
     "description": "P2012- 3K",
     "location": "Aspuddens IP 11",
@@ -3880,8 +3153,8 @@
   },
   {
     "uid": "venue-match-6266710",
-    "start": "2025-05-24T08:30:00.000Z",
-    "end": "2025-05-24T10:00:00.000Z",
+    "start": "2025-05-24T10:30:00.000Z",
+    "end": "2025-05-24T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 1 vs Arameisk-Syrianska IF - Svart",
     "description": "P2013- 1",
     "location": "Aspuddens IP 12",
@@ -3938,8 +3211,8 @@
   },
   {
     "uid": "venue-match-6347357",
-    "start": "2025-05-24T10:15:00.000Z",
-    "end": "2025-05-24T11:45:00.000Z",
+    "start": "2025-05-24T12:15:00.000Z",
+    "end": "2025-05-24T13:45:00.000Z",
     "title": "IFK Aspudden-Tellus vs Saltsjöbadens IF Vit",
     "description": "F2011- 4B",
     "location": "Aspuddens IP 1",
@@ -3995,8 +3268,8 @@
   },
   {
     "uid": "venue-match-6190712",
-    "start": "2025-05-24T12:00:00.000Z",
-    "end": "2025-05-24T13:30:00.000Z",
+    "start": "2025-05-24T14:00:00.000Z",
+    "end": "2025-05-24T15:30:00.000Z",
     "title": "BK Buffalo vs Tungelsta IF",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -4047,65 +3320,9 @@
     "formattedTitle": " (BK Buffalo vs Tungelsta IF)"
   },
   {
-    "uid": "venue-match-6255235",
-    "start": "2025-05-24T14:00:00.000Z",
-    "end": "2025-05-24T15:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Ängby IF",
-    "description": "DJ- 3B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-angby-if-damjuniorer-0906/6255235/",
-    "categories": [
-      "DJ- 3B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6255235,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-angby-if-damjuniorer-0906/6255235/",
-      "date": {
-        "iso8601": "2025-05-24 16:00",
-        "formatted": "16:00, 24 maj 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "DJ- 3B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Ängby IF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9781.png",
-          "alt": "Ängby IF"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "DJ- 3B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Ängby IF",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Ängby IF)"
-  },
-  {
     "uid": "venue-match-6252259",
-    "start": "2025-05-25T07:00:00.000Z",
-    "end": "2025-05-25T08:30:00.000Z",
+    "start": "2025-05-25T09:00:00.000Z",
+    "end": "2025-05-25T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 3 vs Ösmo GIF FK svart",
     "description": "P2012- 3I",
     "location": "Aspuddens IP 11",
@@ -4162,8 +3379,8 @@
   },
   {
     "uid": "venue-match-6269208",
-    "start": "2025-05-25T07:00:00.000Z",
-    "end": "2025-05-25T08:30:00.000Z",
+    "start": "2025-05-25T09:00:00.000Z",
+    "end": "2025-05-25T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 2 vs Newroz FC",
     "description": "P2013- 4",
     "location": "Aspuddens IP 12",
@@ -4220,8 +3437,8 @@
   },
   {
     "uid": "venue-match-6246672",
-    "start": "2025-05-25T08:30:00.000Z",
-    "end": "2025-05-25T10:00:00.000Z",
+    "start": "2025-05-25T10:30:00.000Z",
+    "end": "2025-05-25T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs Konyaspor Kultur och IF U14 Vit",
     "description": "P2011- 1E",
     "location": "Aspuddens IP 1",
@@ -4276,9 +3493,65 @@
     "formattedTitle": "🏟️ H2011 (vs Konyaspor Kultur och IF U14 Vit)"
   },
   {
-    "uid": "venue-match-6254454",
+    "uid": "venue-match-6255235",
     "start": "2025-05-25T14:00:00.000Z",
     "end": "2025-05-25T15:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Ängby IF",
+    "description": "DJ- 3B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-angby-if-damjuniorer-0906/6255235/",
+    "categories": [
+      "DJ- 3B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6255235,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-angby-if-damjuniorer-0906/6255235/",
+      "date": {
+        "iso8601": "2025-05-25 14:00",
+        "formatted": "14:00, 25 maj 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "DJ- 3B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Ängby IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9781.png",
+          "alt": "Ängby IF"
+        }
+      }
+    },
+    "gender": "Damjunior",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "DJ- 3B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Ängby IF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Ängby IF)"
+  },
+  {
+    "uid": "venue-match-6254454",
+    "start": "2025-05-25T16:00:00.000Z",
+    "end": "2025-05-25T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs Rönninge Salem Fotboll U 16",
     "description": "P2009-kval till P17- B",
     "location": "Aspuddens IP 1",
@@ -4334,8 +3607,8 @@
   },
   {
     "uid": "venue-match-6221036",
-    "start": "2025-05-25T16:00:00.000Z",
-    "end": "2025-05-25T17:30:00.000Z",
+    "start": "2025-05-25T18:00:00.000Z",
+    "end": "2025-05-25T19:30:00.000Z",
     "title": "Kransen United FF vs FC Plavi Team",
     "description": "Herrar 6 E",
     "location": "Aspuddens IP 1",
@@ -4387,8 +3660,8 @@
   },
   {
     "uid": "venue-match-6257894",
-    "start": "2025-05-29T11:30:00.000Z",
-    "end": "2025-05-29T13:00:00.000Z",
+    "start": "2025-05-29T13:30:00.000Z",
+    "end": "2025-05-29T15:00:00.000Z",
     "title": "Hammarby IF FF F14A vs Enskede IK 1",
     "description": "F2011- 1S (11m11)",
     "location": "Aspuddens IP 1",
@@ -4441,8 +3714,8 @@
   },
   {
     "uid": "venue-match-6191607",
-    "start": "2025-05-29T14:00:00.000Z",
-    "end": "2025-05-29T15:30:00.000Z",
+    "start": "2025-05-29T16:00:00.000Z",
+    "end": "2025-05-29T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus  vs FBK Karlstad ",
     "description": "P19 Div.1 2025 - Region 4",
     "location": "Aspuddens IP 1",
@@ -4497,8 +3770,8 @@
   },
   {
     "uid": "venue-match-6186082",
-    "start": "2025-05-30T18:00:00.000Z",
-    "end": "2025-05-30T19:30:00.000Z",
+    "start": "2025-05-30T20:00:00.000Z",
+    "end": "2025-05-30T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Bagarmossen Kärrtorp BK",
     "description": "Herrar 4 Södra",
     "location": "Aspuddens IP 1",
@@ -4607,8 +3880,8 @@
   },
   {
     "uid": "venue-match-6268092",
-    "start": "2025-05-31T07:00:00.000Z",
-    "end": "2025-05-31T08:30:00.000Z",
+    "start": "2025-05-31T09:00:00.000Z",
+    "end": "2025-05-31T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 1 vs Arameisk-Syrianska IF 1 Gul",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -4665,8 +3938,8 @@
   },
   {
     "uid": "venue-match-6252531",
-    "start": "2025-05-31T08:30:00.000Z",
-    "end": "2025-05-31T10:00:00.000Z",
+    "start": "2025-05-31T10:30:00.000Z",
+    "end": "2025-05-31T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 2 vs Årsta FF 2",
     "description": "P2012- 3K",
     "location": "Aspuddens IP 11",
@@ -4723,8 +3996,8 @@
   },
   {
     "uid": "venue-match-6347957",
-    "start": "2025-05-31T10:15:00.000Z",
-    "end": "2025-05-31T11:45:00.000Z",
+    "start": "2025-05-31T12:15:00.000Z",
+    "end": "2025-05-31T13:45:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs Årsta FF 1",
     "description": "P2010- 1C",
     "location": "Aspuddens IP 1",
@@ -4780,8 +4053,8 @@
   },
   {
     "uid": "venue-match-6187931",
-    "start": "2025-05-31T12:00:00.000Z",
-    "end": "2025-05-31T13:30:00.000Z",
+    "start": "2025-05-31T14:00:00.000Z",
+    "end": "2025-05-31T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Älvsjö AIK DFF",
     "description": "Damer 3 B",
     "location": "Aspuddens IP 1",
@@ -4836,8 +4109,8 @@
   },
   {
     "uid": "venue-match-6254458",
-    "start": "2025-05-31T14:00:00.000Z",
-    "end": "2025-05-31T15:30:00.000Z",
+    "start": "2025-05-31T16:00:00.000Z",
+    "end": "2025-05-31T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs Örby IS",
     "description": "P2009-kval till P17- B",
     "location": "Aspuddens IP 1",
@@ -4892,65 +4165,9 @@
     "formattedTitle": "🏟️ H2009 (vs Örby IS)"
   },
   {
-    "uid": "venue-match-6374276",
-    "start": "2025-06-01T00:00:00.000Z",
-    "end": "2025-06-01T01:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Ösmo GIF FK ",
-    "description": "JDM Pojkar Slutspel",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-osmo-gif-fk--j-dm-pojkar/6374276/",
-    "categories": [
-      "JDM Pojkar Slutspel"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6374276,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-osmo-gif-fk--j-dm-pojkar/6374276/",
-      "date": {
-        "iso8601": "2025-06-01",
-        "formatted": "1 juni 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "JDM Pojkar Slutspel",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Ösmo GIF FK ",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7867.png",
-          "alt": "Ösmo GIF FK "
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "JDM Pojkar Slutspel",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Ösmo GIF FK ",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Ösmo GIF FK)"
-  },
-  {
     "uid": "venue-match-6267100",
-    "start": "2025-06-01T07:00:00.000Z",
-    "end": "2025-06-01T08:30:00.000Z",
+    "start": "2025-06-01T09:00:00.000Z",
+    "end": "2025-06-01T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 2 vs Hammarby IF FF 21 grön",
     "description": "P2013- 2",
     "location": "Aspuddens IP 11",
@@ -5007,8 +4224,8 @@
   },
   {
     "uid": "venue-match-6248602",
-    "start": "2025-06-01T08:30:00.000Z",
-    "end": "2025-06-01T10:00:00.000Z",
+    "start": "2025-06-01T10:30:00.000Z",
+    "end": "2025-06-01T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Segeltorps Idrottsförening Fotboll Orange",
     "description": "P2011- 3H",
     "location": "Aspuddens IP 1",
@@ -5064,66 +4281,9 @@
     "formattedTitle": "🏟️ H2011 Svart (vs Segeltorps Idrottsförening Fotboll Orange)"
   },
   {
-    "uid": "venue-match-6245907",
-    "start": "2025-06-01T10:00:00.000Z",
-    "end": "2025-06-01T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 4 vs Norrtulls SK 4",
-    "description": "P2010- 4B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-norrtulls-sk-4-pojkar-2010/6245907/",
-    "categories": [
-      "P2010- 4B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6245907,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-norrtulls-sk-4-pojkar-2010/6245907/",
-      "date": {
-        "iso8601": "2025-06-01 12:00",
-        "formatted": "12:00, 1 juni 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010- 4B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 4"
-        }
-      },
-      "away": {
-        "team": "Norrtulls SK 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10543.png",
-          "alt": "Norrtulls SK 4"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010- 4B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 4",
-    "formattedTeam": "H2010",
-    "opponent": "Norrtulls SK 4",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs Norrtulls SK 4)"
-  },
-  {
     "uid": "venue-match-6191660",
-    "start": "2025-06-01T12:00:00.000Z",
-    "end": "2025-06-01T13:30:00.000Z",
+    "start": "2025-06-01T14:00:00.000Z",
+    "end": "2025-06-01T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus  vs Karlslunds IF FK",
     "description": "P19 Div.1 2025 - Region 4",
     "location": "Aspuddens IP 1",
@@ -5178,8 +4338,8 @@
   },
   {
     "uid": "venue-match-6220593",
-    "start": "2025-06-01T16:00:00.000Z",
-    "end": "2025-06-01T17:30:00.000Z",
+    "start": "2025-06-01T18:00:00.000Z",
+    "end": "2025-06-01T19:30:00.000Z",
     "title": "Kransen United FF vs Ösmo GIF FK",
     "description": "Damer 4 B",
     "location": "Aspuddens IP 1",
@@ -5231,8 +4391,8 @@
   },
   {
     "uid": "venue-match-6233436",
-    "start": "2025-06-01T18:00:00.000Z",
-    "end": "2025-06-01T19:30:00.000Z",
+    "start": "2025-06-01T20:00:00.000Z",
+    "end": "2025-06-01T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Huddinge IF U Dam",
     "description": "SSD 2",
     "location": "Aspuddens IP 1",
@@ -5287,8 +4447,8 @@
   },
   {
     "uid": "venue-match-6246683",
-    "start": "2025-06-06T12:00:00.000Z",
-    "end": "2025-06-06T13:30:00.000Z",
+    "start": "2025-06-06T14:00:00.000Z",
+    "end": "2025-06-06T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs Hammarby IF FF 9 grön",
     "description": "P2011- 1E",
     "location": "Aspuddens IP 1",
@@ -5344,8 +4504,8 @@
   },
   {
     "uid": "venue-match-6347365",
-    "start": "2025-06-06T14:00:00.000Z",
-    "end": "2025-06-06T15:30:00.000Z",
+    "start": "2025-06-06T16:00:00.000Z",
+    "end": "2025-06-06T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Älta IF 3",
     "description": "F2011- 4B",
     "location": "Aspuddens IP 1",
@@ -5401,8 +4561,8 @@
   },
   {
     "uid": "venue-match-6221047",
-    "start": "2025-06-06T18:00:00.000Z",
-    "end": "2025-06-06T19:30:00.000Z",
+    "start": "2025-06-06T20:00:00.000Z",
+    "end": "2025-06-06T21:30:00.000Z",
     "title": "Kransen United FF vs Westermalms IF FK",
     "description": "Herrar 6 E",
     "location": "Aspuddens IP 1",
@@ -5454,8 +4614,8 @@
   },
   {
     "uid": "venue-match-6250822",
-    "start": "2025-06-07T07:00:00.000Z",
-    "end": "2025-06-07T08:30:00.000Z",
+    "start": "2025-06-07T09:00:00.000Z",
+    "end": "2025-06-07T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 1 vs Hammarby IF FF 26 vit",
     "description": "P2012- 2D",
     "location": "Aspuddens IP 11",
@@ -5512,8 +4672,8 @@
   },
   {
     "uid": "venue-match-6268187",
-    "start": "2025-06-07T07:00:00.000Z",
-    "end": "2025-06-07T08:30:00.000Z",
+    "start": "2025-06-07T09:00:00.000Z",
+    "end": "2025-06-07T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Segeltorps Idrottsförening Fotboll Vit",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -5570,8 +4730,8 @@
   },
   {
     "uid": "venue-match-6249269",
-    "start": "2025-06-07T08:30:00.000Z",
-    "end": "2025-06-07T10:00:00.000Z",
+    "start": "2025-06-07T10:30:00.000Z",
+    "end": "2025-06-07T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus 4 vs Boo FF 5",
     "description": "P2011- 4D",
     "location": "Aspuddens IP 1",
@@ -5627,8 +4787,8 @@
   },
   {
     "uid": "venue-match-6190723",
-    "start": "2025-06-07T12:00:00.000Z",
-    "end": "2025-06-07T13:30:00.000Z",
+    "start": "2025-06-07T14:00:00.000Z",
+    "end": "2025-06-07T15:30:00.000Z",
     "title": "Aspuddens FF vs Sörskogens IF",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -5683,8 +4843,8 @@
   },
   {
     "uid": "venue-match-6190724",
-    "start": "2025-06-07T14:00:00.000Z",
-    "end": "2025-06-07T15:30:00.000Z",
+    "start": "2025-06-07T16:00:00.000Z",
+    "end": "2025-06-07T17:30:00.000Z",
     "title": "BK Buffalo vs Mälarhöjden-Hägersten FF",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -5736,8 +4896,8 @@
   },
   {
     "uid": "venue-match-6252272",
-    "start": "2025-06-08T07:00:00.000Z",
-    "end": "2025-06-08T08:30:00.000Z",
+    "start": "2025-06-08T09:00:00.000Z",
+    "end": "2025-06-08T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 3 vs Tyresö FF 2",
     "description": "P2012- 3I",
     "location": "Aspuddens IP 11",
@@ -5794,8 +4954,8 @@
   },
   {
     "uid": "venue-match-6269375",
-    "start": "2025-06-08T07:00:00.000Z",
-    "end": "2025-06-08T08:30:00.000Z",
+    "start": "2025-06-08T09:00:00.000Z",
+    "end": "2025-06-08T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 2 vs Hässelby SK FF P13 Röd",
     "description": "P2013- 4",
     "location": "Aspuddens IP 12",
@@ -5852,8 +5012,8 @@
   },
   {
     "uid": "venue-match-6245429",
-    "start": "2025-06-08T08:30:00.000Z",
-    "end": "2025-06-08T10:00:00.000Z",
+    "start": "2025-06-08T10:30:00.000Z",
+    "end": "2025-06-08T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus 3 vs Mälarhöjden-Hägersten FF 3",
     "description": "P2010- 3C",
     "location": "Aspuddens IP 1",
@@ -5909,8 +5069,8 @@
   },
   {
     "uid": "venue-match-6243194",
-    "start": "2025-06-08T10:00:00.000Z",
-    "end": "2025-06-08T11:30:00.000Z",
+    "start": "2025-06-08T12:00:00.000Z",
+    "end": "2025-06-08T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus 2 vs IF Brommapojkarna 09-6",
     "description": "P2009- 1B",
     "location": "Aspuddens IP 1",
@@ -5966,8 +5126,8 @@
   },
   {
     "uid": "venue-match-6255001",
-    "start": "2025-06-08T12:00:00.000Z",
-    "end": "2025-06-08T13:30:00.000Z",
+    "start": "2025-06-08T14:00:00.000Z",
+    "end": "2025-06-08T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus DJ vs Enskede IK 1",
     "description": "DJ- 2C",
     "location": "Aspuddens IP 1",
@@ -6022,8 +5182,8 @@
   },
   {
     "uid": "venue-match-6255248",
-    "start": "2025-06-08T14:00:00.000Z",
-    "end": "2025-06-08T15:30:00.000Z",
+    "start": "2025-06-08T16:00:00.000Z",
+    "end": "2025-06-08T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs IF Brommapojkarna 09-4",
     "description": "DJ- 3B",
     "location": "Aspuddens IP 1",
@@ -6078,8 +5238,8 @@
   },
   {
     "uid": "venue-match-6233585",
-    "start": "2025-06-08T16:00:00.000Z",
-    "end": "2025-06-08T17:30:00.000Z",
+    "start": "2025-06-08T18:00:00.000Z",
+    "end": "2025-06-08T19:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Norrtulls SK",
     "description": "SSH 3",
     "location": "Aspuddens IP 1",
@@ -6134,8 +5294,8 @@
   },
   {
     "uid": "venue-match-6234386",
-    "start": "2025-06-08T18:00:00.000Z",
-    "end": "2025-06-08T19:30:00.000Z",
+    "start": "2025-06-08T20:00:00.000Z",
+    "end": "2025-06-08T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Ursvik IK",
     "description": "Herrar Vet B",
     "location": "Aspuddens IP 1",
@@ -6190,8 +5350,8 @@
   },
   {
     "uid": "venue-match-6252543",
-    "start": "2025-06-14T08:30:00.000Z",
-    "end": "2025-06-14T10:00:00.000Z",
+    "start": "2025-06-14T10:30:00.000Z",
+    "end": "2025-06-14T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 2 vs Mälarhöjden-Hägersten FF Gul",
     "description": "P2012- 3K",
     "location": "Aspuddens IP 11",
@@ -6248,8 +5408,8 @@
   },
   {
     "uid": "venue-match-6187913",
-    "start": "2025-06-14T12:00:00.000Z",
-    "end": "2025-06-14T13:30:00.000Z",
+    "start": "2025-06-14T14:00:00.000Z",
+    "end": "2025-06-14T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Hangvar SK",
     "description": "Damer 3 B",
     "location": "Aspuddens IP 1",
@@ -6304,8 +5464,8 @@
   },
   {
     "uid": "venue-match-6255251",
-    "start": "2025-06-14T14:00:00.000Z",
-    "end": "2025-06-14T15:30:00.000Z",
+    "start": "2025-06-14T16:00:00.000Z",
+    "end": "2025-06-14T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Skå IK & Bygdegård",
     "description": "DJ- 3B",
     "location": "Aspuddens IP 1",
@@ -6360,8 +5520,8 @@
   },
   {
     "uid": "venue-match-6249272",
-    "start": "2025-06-15T08:30:00.000Z",
-    "end": "2025-06-15T10:00:00.000Z",
+    "start": "2025-06-15T10:30:00.000Z",
+    "end": "2025-06-15T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus 4 vs Sköndals IK FK 3",
     "description": "P2011- 4D",
     "location": "Aspuddens IP 1",
@@ -6417,8 +5577,8 @@
   },
   {
     "uid": "venue-match-6191674",
-    "start": "2025-06-15T12:00:00.000Z",
-    "end": "2025-06-15T13:30:00.000Z",
+    "start": "2025-06-15T14:00:00.000Z",
+    "end": "2025-06-15T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus  vs Athletic FC Eskilstuna",
     "description": "P19 Div.1 2025 - Region 4",
     "location": "Aspuddens IP 1",
@@ -6473,8 +5633,8 @@
   },
   {
     "uid": "venue-match-6254468",
-    "start": "2025-06-15T14:00:00.000Z",
-    "end": "2025-06-15T15:30:00.000Z",
+    "start": "2025-06-15T16:00:00.000Z",
+    "end": "2025-06-15T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs Ösmo GIF FK 1",
     "description": "P2009-kval till P17- B",
     "location": "Aspuddens IP 1",
@@ -6530,8 +5690,8 @@
   },
   {
     "uid": "venue-match-6220603",
-    "start": "2025-06-15T16:00:00.000Z",
-    "end": "2025-06-15T17:30:00.000Z",
+    "start": "2025-06-15T18:00:00.000Z",
+    "end": "2025-06-15T19:30:00.000Z",
     "title": "Kransen United FF vs IFK Haninge",
     "description": "Damer 4 B",
     "location": "Aspuddens IP 1",
@@ -6583,8 +5743,8 @@
   },
   {
     "uid": "venue-match-6242779",
-    "start": "2025-06-15T18:00:00.000Z",
-    "end": "2025-06-15T19:30:00.000Z",
+    "start": "2025-06-15T20:00:00.000Z",
+    "end": "2025-06-15T21:30:00.000Z",
     "title": "Gröndals IK 1 vs Djurgårdens IF FF 7",
     "description": "P2008- 2C",
     "location": "Aspuddens IP 1",
@@ -6636,9 +5796,65 @@
     "formattedTitle": " (Gröndals IK 1 vs Djurgårdens IF FF 7)"
   },
   {
+    "uid": "venue-match-6233565",
+    "start": "2025-06-17T19:30:00.000Z",
+    "end": "2025-06-17T21:00:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Åkersberga FC 1",
+    "description": "SSH 3",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-akersberga-fc-1-stockholmsserien-3-herrar/6233565/",
+    "categories": [
+      "SSH 3"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6233565,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-akersberga-fc-1-stockholmsserien-3-herrar/6233565/",
+      "date": {
+        "iso8601": "2025-06-17 19:30",
+        "formatted": "19:30, 17 juni 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "SSH 3",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Åkersberga FC 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12855.png",
+          "alt": "Åkersberga FC 1"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "SSH 3",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Åkersberga FC 1",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Åkersberga FC 1)"
+  },
+  {
     "uid": "venue-match-6186059",
-    "start": "2025-06-22T16:00:00.000Z",
-    "end": "2025-06-22T17:30:00.000Z",
+    "start": "2025-06-22T18:00:00.000Z",
+    "end": "2025-06-22T19:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs IFK Stockholm FK",
     "description": "Herrar 4 Södra",
     "location": "Aspuddens IP 1",
@@ -6693,8 +5909,8 @@
   },
   {
     "uid": "venue-match-6191688",
-    "start": "2025-06-29T14:00:00.000Z",
-    "end": "2025-06-29T15:30:00.000Z",
+    "start": "2025-06-29T16:00:00.000Z",
+    "end": "2025-06-29T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus  vs Nyköpings BIS",
     "description": "P19 Div.1 2025 - Region 4",
     "location": "Aspuddens IP 1",
@@ -6749,8 +5965,8 @@
   },
   {
     "uid": "venue-match-6190736",
-    "start": "2025-08-02T11:30:00.000Z",
-    "end": "2025-08-02T13:00:00.000Z",
+    "start": "2025-08-02T13:30:00.000Z",
+    "end": "2025-08-02T15:00:00.000Z",
     "title": "BK Buffalo vs Aspuddens FF",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -6805,8 +6021,8 @@
   },
   {
     "uid": "venue-match-6186187",
-    "start": "2025-08-08T18:00:00.000Z",
-    "end": "2025-08-08T19:30:00.000Z",
+    "start": "2025-08-08T20:00:00.000Z",
+    "end": "2025-08-08T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Norsborg FC",
     "description": "Herrar 4 Södra",
     "location": "Aspuddens IP 1",
@@ -6861,8 +6077,8 @@
   },
   {
     "uid": "venue-match-6243207",
-    "start": "2025-08-09T12:00:00.000Z",
-    "end": "2025-08-09T13:30:00.000Z",
+    "start": "2025-08-09T14:00:00.000Z",
+    "end": "2025-08-09T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus 2 vs Enskede IK Svart",
     "description": "P2009- 1B",
     "location": "Aspuddens IP 1",
@@ -6918,8 +6134,8 @@
   },
   {
     "uid": "venue-match-6347373",
-    "start": "2025-08-09T14:00:00.000Z",
-    "end": "2025-08-09T15:30:00.000Z",
+    "start": "2025-08-09T16:00:00.000Z",
+    "end": "2025-08-09T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Bagarmossen Kärrtorp BK",
     "description": "F2011- 4B",
     "location": "Aspuddens IP 1",
@@ -6975,8 +6191,8 @@
   },
   {
     "uid": "venue-match-6250834",
-    "start": "2025-08-10T10:00:00.000Z",
-    "end": "2025-08-10T11:30:00.000Z",
+    "start": "2025-08-10T12:00:00.000Z",
+    "end": "2025-08-10T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 1 vs Sickla IF 1",
     "description": "P2012- 2D",
     "location": "Aspuddens IP 11",
@@ -7032,66 +6248,9 @@
     "formattedTitle": "🏟️ H2012 Röd (vs Sickla IF 1)"
   },
   {
-    "uid": "venue-match-6245924",
-    "start": "2025-08-10T12:00:00.000Z",
-    "end": "2025-08-10T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 4 vs Djurö-Vindö IF 1",
-    "description": "P2010- 4B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-djuro-vindo-if-1-pojkar-2010/6245924/",
-    "categories": [
-      "P2010- 4B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6245924,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-djuro-vindo-if-1-pojkar-2010/6245924/",
-      "date": {
-        "iso8601": "2025-08-10 14:00",
-        "formatted": "14:00, 10 aug. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010- 4B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 4"
-        }
-      },
-      "away": {
-        "team": "Djurö-Vindö IF 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11452.png",
-          "alt": "Djurö-Vindö IF 1"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010- 4B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 4",
-    "formattedTeam": "H2010",
-    "opponent": "Djurö-Vindö IF 1",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs Djurö-Vindö IF 1)"
-  },
-  {
     "uid": "venue-match-6245442",
-    "start": "2025-08-10T14:00:00.000Z",
-    "end": "2025-08-10T15:30:00.000Z",
+    "start": "2025-08-10T16:00:00.000Z",
+    "end": "2025-08-10T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus 3 vs Norrtulls SK 3",
     "description": "P2010- 3C",
     "location": "Aspuddens IP 1",
@@ -7147,8 +6306,8 @@
   },
   {
     "uid": "venue-match-6221058",
-    "start": "2025-08-10T16:00:00.000Z",
-    "end": "2025-08-10T17:30:00.000Z",
+    "start": "2025-08-10T18:00:00.000Z",
+    "end": "2025-08-10T19:30:00.000Z",
     "title": "Kransen United FF vs Råsunda FC",
     "description": "Herrar 6 E",
     "location": "Aspuddens IP 1",
@@ -7200,8 +6359,8 @@
   },
   {
     "uid": "venue-match-6190748",
-    "start": "2025-08-13T18:00:00.000Z",
-    "end": "2025-08-13T19:30:00.000Z",
+    "start": "2025-08-13T20:00:00.000Z",
+    "end": "2025-08-13T21:30:00.000Z",
     "title": "BK Buffalo vs Sörskogens IF",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -7253,8 +6412,8 @@
   },
   {
     "uid": "venue-match-6220613",
-    "start": "2025-08-15T18:00:00.000Z",
-    "end": "2025-08-15T19:30:00.000Z",
+    "start": "2025-08-15T20:00:00.000Z",
+    "end": "2025-08-15T21:30:00.000Z",
     "title": "Kransen United FF vs Rönninge Salem Fotboll ",
     "description": "Damer 4 B",
     "location": "Aspuddens IP 1",
@@ -7306,8 +6465,8 @@
   },
   {
     "uid": "venue-match-6187914",
-    "start": "2025-08-16T12:00:00.000Z",
-    "end": "2025-08-16T13:30:00.000Z",
+    "start": "2025-08-16T14:00:00.000Z",
+    "end": "2025-08-16T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Bagarmossen Kärrtorp BK",
     "description": "Damer 3 B",
     "location": "Aspuddens IP 1",
@@ -7362,8 +6521,8 @@
   },
   {
     "uid": "venue-match-6248626",
-    "start": "2025-08-17T10:00:00.000Z",
-    "end": "2025-08-17T11:30:00.000Z",
+    "start": "2025-08-17T12:00:00.000Z",
+    "end": "2025-08-17T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Örby IS",
     "description": "P2011- 3H",
     "location": "Aspuddens IP 1",
@@ -7420,8 +6579,8 @@
   },
   {
     "uid": "venue-match-6246694",
-    "start": "2025-08-17T12:00:00.000Z",
-    "end": "2025-08-17T13:30:00.000Z",
+    "start": "2025-08-17T14:00:00.000Z",
+    "end": "2025-08-17T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs Rågsveds IF Grön",
     "description": "P2011- 1E",
     "location": "Aspuddens IP 1",
@@ -7477,8 +6636,8 @@
   },
   {
     "uid": "venue-match-6233447",
-    "start": "2025-08-17T16:00:00.000Z",
-    "end": "2025-08-17T17:30:00.000Z",
+    "start": "2025-08-17T18:00:00.000Z",
+    "end": "2025-08-17T19:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Norrtulls SK B",
     "description": "SSD 2",
     "location": "Aspuddens IP 1",
@@ -7533,8 +6692,8 @@
   },
   {
     "uid": "venue-match-6234396",
-    "start": "2025-08-17T18:00:00.000Z",
-    "end": "2025-08-17T19:30:00.000Z",
+    "start": "2025-08-17T20:00:00.000Z",
+    "end": "2025-08-17T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Långholmen FC",
     "description": "Herrar Vet B",
     "location": "Aspuddens IP 1",
@@ -7645,8 +6804,8 @@
   },
   {
     "uid": "venue-match-6186101",
-    "start": "2025-08-20T18:00:00.000Z",
-    "end": "2025-08-20T19:30:00.000Z",
+    "start": "2025-08-20T20:00:00.000Z",
+    "end": "2025-08-20T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Älvsjö AIK FF",
     "description": "Herrar 4 Södra",
     "location": "Aspuddens IP 1",
@@ -7701,8 +6860,8 @@
   },
   {
     "uid": "venue-match-6190758",
-    "start": "2025-08-22T18:00:00.000Z",
-    "end": "2025-08-22T19:30:00.000Z",
+    "start": "2025-08-22T20:00:00.000Z",
+    "end": "2025-08-22T21:30:00.000Z",
     "title": "Aspuddens FF vs FC Tyresö United",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -7757,8 +6916,8 @@
   },
   {
     "uid": "venue-match-6267212",
-    "start": "2025-08-23T07:00:00.000Z",
-    "end": "2025-08-23T08:30:00.000Z",
+    "start": "2025-08-23T09:00:00.000Z",
+    "end": "2025-08-23T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 2 vs Boo FF 2 2",
     "description": "P2013- 2",
     "location": "Aspuddens IP 11",
@@ -7815,8 +6974,8 @@
   },
   {
     "uid": "venue-match-6268274",
-    "start": "2025-08-23T07:00:00.000Z",
-    "end": "2025-08-23T08:30:00.000Z",
+    "start": "2025-08-23T09:00:00.000Z",
+    "end": "2025-08-23T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 1 vs Stuvsta IF 1:2",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -7873,8 +7032,8 @@
   },
   {
     "uid": "venue-match-6250846",
-    "start": "2025-08-23T08:30:00.000Z",
-    "end": "2025-08-23T10:00:00.000Z",
+    "start": "2025-08-23T10:30:00.000Z",
+    "end": "2025-08-23T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 1 vs Nacka FC Future2",
     "description": "P2012- 2D",
     "location": "Aspuddens IP 11",
@@ -7931,8 +7090,8 @@
   },
   {
     "uid": "venue-match-6190760",
-    "start": "2025-08-23T11:30:00.000Z",
-    "end": "2025-08-23T13:00:00.000Z",
+    "start": "2025-08-23T13:30:00.000Z",
+    "end": "2025-08-23T15:00:00.000Z",
     "title": "BK Buffalo vs KIF Söderort",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -7984,8 +7143,8 @@
   },
   {
     "uid": "venue-match-6191770",
-    "start": "2025-08-23T14:00:00.000Z",
-    "end": "2025-08-23T15:30:00.000Z",
+    "start": "2025-08-23T16:00:00.000Z",
+    "end": "2025-08-23T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus  vs Boo FF ",
     "description": "P19 Div.1 2025 - Region 4",
     "location": "Aspuddens IP 1",
@@ -8040,8 +7199,8 @@
   },
   {
     "uid": "venue-match-6266752",
-    "start": "2025-08-24T07:00:00.000Z",
-    "end": "2025-08-24T08:30:00.000Z",
+    "start": "2025-08-24T09:00:00.000Z",
+    "end": "2025-08-24T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 1 vs Hammarby IF FF 24 grön",
     "description": "P2013- 1",
     "location": "Aspuddens IP 11",
@@ -8098,8 +7257,8 @@
   },
   {
     "uid": "venue-match-6269952",
-    "start": "2025-08-24T07:00:00.000Z",
-    "end": "2025-08-24T08:30:00.000Z",
+    "start": "2025-08-24T09:00:00.000Z",
+    "end": "2025-08-24T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 3 vs Täby FK 52",
     "description": "P2013- 5",
     "location": "Aspuddens IP 12",
@@ -8156,8 +7315,8 @@
   },
   {
     "uid": "venue-match-6252296",
-    "start": "2025-08-24T08:30:00.000Z",
-    "end": "2025-08-24T10:00:00.000Z",
+    "start": "2025-08-24T10:30:00.000Z",
+    "end": "2025-08-24T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 3 vs FoC Farsta FF Röd 1",
     "description": "P2012- 3I",
     "location": "Aspuddens IP 11",
@@ -8214,8 +7373,8 @@
   },
   {
     "uid": "venue-match-6245453",
-    "start": "2025-08-24T10:00:00.000Z",
-    "end": "2025-08-24T11:30:00.000Z",
+    "start": "2025-08-24T12:00:00.000Z",
+    "end": "2025-08-24T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus 3 vs Örby IS",
     "description": "P2010- 3C",
     "location": "Aspuddens IP 1",
@@ -8271,8 +7430,8 @@
   },
   {
     "uid": "venue-match-6243218",
-    "start": "2025-08-24T12:00:00.000Z",
-    "end": "2025-08-24T13:30:00.000Z",
+    "start": "2025-08-24T14:00:00.000Z",
+    "end": "2025-08-24T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus 2 vs Djurgårdens IF FF 4 Gul",
     "description": "P2009- 1B",
     "location": "Aspuddens IP 1",
@@ -8328,8 +7487,8 @@
   },
   {
     "uid": "venue-match-6255272",
-    "start": "2025-08-24T14:00:00.000Z",
-    "end": "2025-08-24T15:30:00.000Z",
+    "start": "2025-08-24T16:00:00.000Z",
+    "end": "2025-08-24T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Värtans IK",
     "description": "DJ- 3B",
     "location": "Aspuddens IP 1",
@@ -8384,8 +7543,8 @@
   },
   {
     "uid": "venue-match-6221067",
-    "start": "2025-08-24T16:00:00.000Z",
-    "end": "2025-08-24T17:30:00.000Z",
+    "start": "2025-08-24T18:00:00.000Z",
+    "end": "2025-08-24T19:30:00.000Z",
     "title": "Kransen United FF vs Tudor Arms FC",
     "description": "Herrar 6 E",
     "location": "Aspuddens IP 1",
@@ -8437,8 +7596,8 @@
   },
   {
     "uid": "venue-match-6234316",
-    "start": "2025-08-24T18:00:00.000Z",
-    "end": "2025-08-24T19:30:00.000Z",
+    "start": "2025-08-24T20:00:00.000Z",
+    "end": "2025-08-24T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Stureby SK",
     "description": "Herrar Vet B",
     "location": "Aspuddens IP 1",
@@ -8493,8 +7652,8 @@
   },
   {
     "uid": "venue-match-6186124",
-    "start": "2025-08-29T18:00:00.000Z",
-    "end": "2025-08-29T19:30:00.000Z",
+    "start": "2025-08-29T20:00:00.000Z",
+    "end": "2025-08-29T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Tyresö FF",
     "description": "Herrar 4 Södra",
     "location": "Aspuddens IP 1",
@@ -8549,8 +7708,8 @@
   },
   {
     "uid": "venue-match-6267268",
-    "start": "2025-08-30T08:30:00.000Z",
-    "end": "2025-08-30T10:00:00.000Z",
+    "start": "2025-08-30T10:30:00.000Z",
+    "end": "2025-08-30T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 2 vs Essinge IK Svart",
     "description": "P2013- 2",
     "location": "Aspuddens IP 11",
@@ -8607,8 +7766,8 @@
   },
   {
     "uid": "venue-match-6268405",
-    "start": "2025-08-30T08:30:00.000Z",
-    "end": "2025-08-30T10:00:00.000Z",
+    "start": "2025-08-30T10:30:00.000Z",
+    "end": "2025-08-30T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Hammarby IF FF 28 grön",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -8665,8 +7824,8 @@
   },
   {
     "uid": "venue-match-6187932",
-    "start": "2025-08-30T12:00:00.000Z",
-    "end": "2025-08-30T13:30:00.000Z",
+    "start": "2025-08-30T14:00:00.000Z",
+    "end": "2025-08-30T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Norrtulls SK",
     "description": "Damer 3 B",
     "location": "Aspuddens IP 1",
@@ -8775,8 +7934,8 @@
   },
   {
     "uid": "venue-match-6269490",
-    "start": "2025-08-31T08:30:00.000Z",
-    "end": "2025-08-31T10:00:00.000Z",
+    "start": "2025-08-31T10:30:00.000Z",
+    "end": "2025-08-31T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 2 vs Gröndals IK Vit",
     "description": "P2013- 4",
     "location": "Aspuddens IP 12",
@@ -8833,8 +7992,8 @@
   },
   {
     "uid": "venue-match-6246703",
-    "start": "2025-08-31T10:00:00.000Z",
-    "end": "2025-08-31T11:30:00.000Z",
+    "start": "2025-08-31T12:00:00.000Z",
+    "end": "2025-08-31T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs Tullinge Triangel Pojkar FK Blå",
     "description": "P2011- 1E",
     "location": "Aspuddens IP 1",
@@ -8890,8 +8049,8 @@
   },
   {
     "uid": "venue-match-6347384",
-    "start": "2025-08-31T12:00:00.000Z",
-    "end": "2025-08-31T13:30:00.000Z",
+    "start": "2025-08-31T14:00:00.000Z",
+    "end": "2025-08-31T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Reymersholms IK 2",
     "description": "F2011- 4B",
     "location": "Aspuddens IP 1",
@@ -8946,66 +8105,9 @@
     "formattedTitle": "🏟️ D2011 (vs Reymersholms IK 2)"
   },
   {
-    "uid": "venue-match-6245943",
-    "start": "2025-08-31T14:00:00.000Z",
-    "end": "2025-08-31T15:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 4 vs Ängby IF P10 Mix",
-    "description": "P2010- 4B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-angby-if-p10-mix-pojkar-2010/6245943/",
-    "categories": [
-      "P2010- 4B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6245943,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-angby-if-p10-mix-pojkar-2010/6245943/",
-      "date": {
-        "iso8601": "2025-08-31 16:00",
-        "formatted": "16:00, 31 aug. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010- 4B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 4"
-        }
-      },
-      "away": {
-        "team": "Ängby IF P10 Mix",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9781.png",
-          "alt": "Ängby IF P10 Mix"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010- 4B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 4",
-    "formattedTeam": "H2010",
-    "opponent": "Ängby IF P10 Mix",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs Ängby IF P10 Mix)"
-  },
-  {
     "uid": "venue-match-6220623",
-    "start": "2025-08-31T16:00:00.000Z",
-    "end": "2025-08-31T17:30:00.000Z",
+    "start": "2025-08-31T18:00:00.000Z",
+    "end": "2025-08-31T19:30:00.000Z",
     "title": "Kransen United FF vs Örby IS",
     "description": "Damer 4 B",
     "location": "Aspuddens IP 1",
@@ -9057,8 +8159,8 @@
   },
   {
     "uid": "venue-match-6190769",
-    "start": "2025-09-05T18:00:00.000Z",
-    "end": "2025-09-05T19:30:00.000Z",
+    "start": "2025-09-05T20:00:00.000Z",
+    "end": "2025-09-05T21:30:00.000Z",
     "title": "Aspuddens FF vs Mälarhöjden-Hägersten FF",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -9113,8 +8215,8 @@
   },
   {
     "uid": "venue-match-6252307",
-    "start": "2025-09-06T07:00:00.000Z",
-    "end": "2025-09-06T08:30:00.000Z",
+    "start": "2025-09-06T09:00:00.000Z",
+    "end": "2025-09-06T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 3 vs Hammarby IF FF 17 vit",
     "description": "P2012- 3I",
     "location": "Aspuddens IP 11",
@@ -9171,8 +8273,8 @@
   },
   {
     "uid": "venue-match-6268455",
-    "start": "2025-09-06T07:00:00.000Z",
-    "end": "2025-09-06T08:30:00.000Z",
+    "start": "2025-09-06T09:00:00.000Z",
+    "end": "2025-09-06T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 1 vs Reymersholms IK 10",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -9229,8 +8331,8 @@
   },
   {
     "uid": "venue-match-6250858",
-    "start": "2025-09-06T08:30:00.000Z",
-    "end": "2025-09-06T10:00:00.000Z",
+    "start": "2025-09-06T10:30:00.000Z",
+    "end": "2025-09-06T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 1 vs Djurgårdens IF FF 3",
     "description": "P2012- 2D",
     "location": "Aspuddens IP 12",
@@ -9287,8 +8389,8 @@
   },
   {
     "uid": "venue-match-6266779",
-    "start": "2025-09-06T08:30:00.000Z",
-    "end": "2025-09-06T10:00:00.000Z",
+    "start": "2025-09-06T10:30:00.000Z",
+    "end": "2025-09-06T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 1 vs Ingarö IF Svart",
     "description": "P2013- 1",
     "location": "Aspuddens IP 11",
@@ -9345,8 +8447,8 @@
   },
   {
     "uid": "venue-match-6245464",
-    "start": "2025-09-06T10:00:00.000Z",
-    "end": "2025-09-06T11:30:00.000Z",
+    "start": "2025-09-06T12:00:00.000Z",
+    "end": "2025-09-06T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus 3 vs Nockebyhovs IF NFK",
     "description": "P2010- 3C",
     "location": "Aspuddens IP 1",
@@ -9402,8 +8504,8 @@
   },
   {
     "uid": "venue-match-6190772",
-    "start": "2025-09-06T11:30:00.000Z",
-    "end": "2025-09-06T13:00:00.000Z",
+    "start": "2025-09-06T13:30:00.000Z",
+    "end": "2025-09-06T15:00:00.000Z",
     "title": "BK Buffalo vs Atletic Blåsut FC",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -9455,8 +8557,8 @@
   },
   {
     "uid": "venue-match-6191724",
-    "start": "2025-09-06T14:00:00.000Z",
-    "end": "2025-09-06T15:30:00.000Z",
+    "start": "2025-09-06T16:00:00.000Z",
+    "end": "2025-09-06T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus  vs Vendelsö IK ",
     "description": "P19 Div.1 2025 - Region 4",
     "location": "Aspuddens IP 1",
@@ -9568,8 +8670,8 @@
   },
   {
     "uid": "venue-match-6252575",
-    "start": "2025-09-07T07:00:00.000Z",
-    "end": "2025-09-07T08:30:00.000Z",
+    "start": "2025-09-07T09:00:00.000Z",
+    "end": "2025-09-07T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 2 vs Gröndals IK Blå",
     "description": "P2012- 3K",
     "location": "Aspuddens IP 11",
@@ -9626,8 +8728,8 @@
   },
   {
     "uid": "venue-match-6269975",
-    "start": "2025-09-07T07:00:00.000Z",
-    "end": "2025-09-07T08:30:00.000Z",
+    "start": "2025-09-07T09:00:00.000Z",
+    "end": "2025-09-07T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 3 vs Vendelsö IK Grön",
     "description": "P2013- 5",
     "location": "Aspuddens IP 12",
@@ -9684,8 +8786,8 @@
   },
   {
     "uid": "venue-match-6242800",
-    "start": "2025-09-07T10:00:00.000Z",
-    "end": "2025-09-07T11:30:00.000Z",
+    "start": "2025-09-07T12:00:00.000Z",
+    "end": "2025-09-07T13:30:00.000Z",
     "title": "Gröndals IK 1 vs Älta IF",
     "description": "P2008- 2C",
     "location": "Aspuddens IP 1",
@@ -9738,8 +8840,8 @@
   },
   {
     "uid": "venue-match-6255283",
-    "start": "2025-09-07T12:00:00.000Z",
-    "end": "2025-09-07T13:30:00.000Z",
+    "start": "2025-09-07T14:00:00.000Z",
+    "end": "2025-09-07T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Reymersholms IK DJ-U",
     "description": "DJ- 3B",
     "location": "Aspuddens IP 1",
@@ -9794,8 +8896,8 @@
   },
   {
     "uid": "venue-match-6255028",
-    "start": "2025-09-07T14:00:00.000Z",
-    "end": "2025-09-07T15:30:00.000Z",
+    "start": "2025-09-07T16:00:00.000Z",
+    "end": "2025-09-07T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus DJ vs Årsta FF 1",
     "description": "DJ- 2C",
     "location": "Aspuddens IP 1",
@@ -9850,8 +8952,8 @@
   },
   {
     "uid": "venue-match-6221076",
-    "start": "2025-09-07T16:00:00.000Z",
-    "end": "2025-09-07T17:30:00.000Z",
+    "start": "2025-09-07T18:00:00.000Z",
+    "end": "2025-09-07T19:30:00.000Z",
     "title": "Kransen United FF vs IF Lokomotiv Blackeberg",
     "description": "Herrar 6 E",
     "location": "Aspuddens IP 1",
@@ -9903,8 +9005,8 @@
   },
   {
     "uid": "venue-match-6233458",
-    "start": "2025-09-07T18:00:00.000Z",
-    "end": "2025-09-07T19:30:00.000Z",
+    "start": "2025-09-07T20:00:00.000Z",
+    "end": "2025-09-07T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Segeltorps IF Fotboll",
     "description": "SSD 2",
     "location": "Aspuddens IP 1",
@@ -9959,8 +9061,8 @@
   },
   {
     "uid": "venue-match-6186146",
-    "start": "2025-09-12T18:00:00.000Z",
-    "end": "2025-09-12T19:30:00.000Z",
+    "start": "2025-09-12T20:00:00.000Z",
+    "end": "2025-09-12T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Skogås-Trångsunds FF",
     "description": "Herrar 4 Södra",
     "location": "Aspuddens IP 1",
@@ -10015,8 +9117,8 @@
   },
   {
     "uid": "venue-match-6267337",
-    "start": "2025-09-13T08:30:00.000Z",
-    "end": "2025-09-13T10:00:00.000Z",
+    "start": "2025-09-13T10:30:00.000Z",
+    "end": "2025-09-13T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 2 vs Huddinge IF 2013:1S",
     "description": "P2013- 2",
     "location": "Aspuddens IP 11",
@@ -10073,8 +9175,8 @@
   },
   {
     "uid": "venue-match-6268549",
-    "start": "2025-09-13T08:30:00.000Z",
-    "end": "2025-09-13T10:00:00.000Z",
+    "start": "2025-09-13T10:30:00.000Z",
+    "end": "2025-09-13T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Solberga BK 2",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -10131,8 +9233,8 @@
   },
   {
     "uid": "venue-match-6187950",
-    "start": "2025-09-13T12:00:00.000Z",
-    "end": "2025-09-13T13:30:00.000Z",
+    "start": "2025-09-13T14:00:00.000Z",
+    "end": "2025-09-13T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Ingarö IF",
     "description": "Damer 3 B",
     "location": "Aspuddens IP 1",
@@ -10187,8 +9289,8 @@
   },
   {
     "uid": "venue-match-6243238",
-    "start": "2025-09-13T14:00:00.000Z",
-    "end": "2025-09-13T15:30:00.000Z",
+    "start": "2025-09-13T16:00:00.000Z",
+    "end": "2025-09-13T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus 2 vs Reymersholms IK 1",
     "description": "P2009- 1B",
     "location": "Aspuddens IP 1",
@@ -10298,8 +9400,8 @@
   },
   {
     "uid": "venue-match-6269671",
-    "start": "2025-09-14T08:30:00.000Z",
-    "end": "2025-09-14T10:00:00.000Z",
+    "start": "2025-09-14T10:30:00.000Z",
+    "end": "2025-09-14T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 2 vs Nockebyhovs IF 2",
     "description": "P2013- 4",
     "location": "Aspuddens IP 12",
@@ -10356,8 +9458,8 @@
   },
   {
     "uid": "venue-match-6246712",
-    "start": "2025-09-14T10:00:00.000Z",
-    "end": "2025-09-14T11:30:00.000Z",
+    "start": "2025-09-14T12:00:00.000Z",
+    "end": "2025-09-14T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs IF Brommapojkarna 11-20",
     "description": "P2011- 1E",
     "location": "Aspuddens IP 1",
@@ -10413,8 +9515,8 @@
   },
   {
     "uid": "venue-match-6347392",
-    "start": "2025-09-14T12:00:00.000Z",
-    "end": "2025-09-14T13:30:00.000Z",
+    "start": "2025-09-14T14:00:00.000Z",
+    "end": "2025-09-14T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Mälarhöjden-Hägersten FF 3",
     "description": "F2011- 4B",
     "location": "Aspuddens IP 1",
@@ -10469,66 +9571,9 @@
     "formattedTitle": "🏟️ D2011 (vs Mälarhöjden-Hägersten FF 3)"
   },
   {
-    "uid": "venue-match-6245955",
-    "start": "2025-09-14T14:00:00.000Z",
-    "end": "2025-09-14T15:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 4 vs Fisksätra IF U15",
-    "description": "P2010- 4B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-fisksatra-if-u15-pojkar-2010/6245955/",
-    "categories": [
-      "P2010- 4B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6245955,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-fisksatra-if-u15-pojkar-2010/6245955/",
-      "date": {
-        "iso8601": "2025-09-14 16:00",
-        "formatted": "16:00, 14 sep. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010- 4B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 4"
-        }
-      },
-      "away": {
-        "team": "Fisksätra IF U15",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11377.png",
-          "alt": "Fisksätra IF U15"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010- 4B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 4",
-    "formattedTeam": "H2010",
-    "opponent": "Fisksätra IF U15",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs Fisksätra IF U15)"
-  },
-  {
     "uid": "venue-match-6220633",
-    "start": "2025-09-14T16:00:00.000Z",
-    "end": "2025-09-14T17:30:00.000Z",
+    "start": "2025-09-14T18:00:00.000Z",
+    "end": "2025-09-14T19:30:00.000Z",
     "title": "Kransen United FF vs FoC Farsta FF",
     "description": "Damer 4 B",
     "location": "Aspuddens IP 1",
@@ -10580,8 +9625,8 @@
   },
   {
     "uid": "venue-match-6190780",
-    "start": "2025-09-19T18:00:00.000Z",
-    "end": "2025-09-19T19:30:00.000Z",
+    "start": "2025-09-19T20:00:00.000Z",
+    "end": "2025-09-19T21:30:00.000Z",
     "title": "Aspuddens FF vs Botkyrka Kuluspor FF",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -10636,8 +9681,8 @@
   },
   {
     "uid": "venue-match-6250870",
-    "start": "2025-09-20T07:00:00.000Z",
-    "end": "2025-09-20T08:30:00.000Z",
+    "start": "2025-09-20T09:00:00.000Z",
+    "end": "2025-09-20T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 1 vs Järla IF FK Grå",
     "description": "P2012- 2D",
     "location": "Aspuddens IP 11",
@@ -10694,8 +9739,8 @@
   },
   {
     "uid": "venue-match-6268713",
-    "start": "2025-09-20T07:00:00.000Z",
-    "end": "2025-09-20T08:30:00.000Z",
+    "start": "2025-09-20T09:00:00.000Z",
+    "end": "2025-09-20T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 1 vs Segeltorps Idrottsförening Fotboll Blå",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -10752,8 +9797,8 @@
   },
   {
     "uid": "venue-match-6266799",
-    "start": "2025-09-20T08:30:00.000Z",
-    "end": "2025-09-20T10:00:00.000Z",
+    "start": "2025-09-20T10:30:00.000Z",
+    "end": "2025-09-20T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 1 vs Rönninge Salem Fotboll Svart 2",
     "description": "P2013- 1",
     "location": "Aspuddens IP 11",
@@ -10810,8 +9855,8 @@
   },
   {
     "uid": "venue-match-6248657",
-    "start": "2025-09-20T10:00:00.000Z",
-    "end": "2025-09-20T11:30:00.000Z",
+    "start": "2025-09-20T12:00:00.000Z",
+    "end": "2025-09-20T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Rönninge Salem Fotboll Svart",
     "description": "P2011- 3H",
     "location": "Aspuddens IP 1",
@@ -10868,8 +9913,8 @@
   },
   {
     "uid": "venue-match-6190784",
-    "start": "2025-09-20T11:30:00.000Z",
-    "end": "2025-09-20T13:00:00.000Z",
+    "start": "2025-09-20T13:30:00.000Z",
+    "end": "2025-09-20T15:00:00.000Z",
     "title": "BK Buffalo vs FC Tyresö United",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -10921,8 +9966,8 @@
   },
   {
     "uid": "venue-match-6191736",
-    "start": "2025-09-20T14:00:00.000Z",
-    "end": "2025-09-20T15:30:00.000Z",
+    "start": "2025-09-20T16:00:00.000Z",
+    "end": "2025-09-20T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus  vs IFK Eskilstuna",
     "description": "P19 Div.1 2025 - Region 4",
     "location": "Aspuddens IP 1",
@@ -10977,8 +10022,8 @@
   },
   {
     "uid": "venue-match-6245475",
-    "start": "2025-09-20T16:00:00.000Z",
-    "end": "2025-09-20T17:30:00.000Z",
+    "start": "2025-09-20T18:00:00.000Z",
+    "end": "2025-09-20T19:30:00.000Z",
     "title": "IFK Aspudden-Tellus 3 vs Karlbergs BK Grön",
     "description": "P2010- 3C",
     "location": "Aspuddens IP 1",
@@ -11034,8 +10079,8 @@
   },
   {
     "uid": "venue-match-6252586",
-    "start": "2025-09-21T07:00:00.000Z",
-    "end": "2025-09-21T08:30:00.000Z",
+    "start": "2025-09-21T09:00:00.000Z",
+    "end": "2025-09-21T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 2 vs Hammarby IF FF 17 gul",
     "description": "P2012- 3K",
     "location": "Aspuddens IP 11",
@@ -11092,8 +10137,8 @@
   },
   {
     "uid": "venue-match-6249315",
-    "start": "2025-09-21T08:30:00.000Z",
-    "end": "2025-09-21T10:00:00.000Z",
+    "start": "2025-09-21T10:30:00.000Z",
+    "end": "2025-09-21T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus 4 vs FoC Farsta FF Blå",
     "description": "P2011- 4D",
     "location": "Aspuddens IP 1",
@@ -11149,8 +10194,8 @@
   },
   {
     "uid": "venue-match-6347397",
-    "start": "2025-09-21T10:15:00.000Z",
-    "end": "2025-09-21T11:45:00.000Z",
+    "start": "2025-09-21T12:15:00.000Z",
+    "end": "2025-09-21T13:45:00.000Z",
     "title": "IFK Aspudden-Tellus vs Sickla IF Svart",
     "description": "F2011- 4B",
     "location": "Aspuddens IP 1",
@@ -11206,8 +10251,8 @@
   },
   {
     "uid": "venue-match-6255038",
-    "start": "2025-09-21T12:00:00.000Z",
-    "end": "2025-09-21T13:30:00.000Z",
+    "start": "2025-09-21T14:00:00.000Z",
+    "end": "2025-09-21T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus DJ vs Nynäshamns IF FK 1 blå",
     "description": "DJ- 2C",
     "location": "Aspuddens IP 1",
@@ -11262,8 +10307,8 @@
   },
   {
     "uid": "venue-match-6255294",
-    "start": "2025-09-21T14:00:00.000Z",
-    "end": "2025-09-21T15:30:00.000Z",
+    "start": "2025-09-21T16:00:00.000Z",
+    "end": "2025-09-21T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Hammarby IF FF 1619vit",
     "description": "DJ- 3B",
     "location": "Aspuddens IP 1",
@@ -11318,8 +10363,8 @@
   },
   {
     "uid": "venue-match-6221085",
-    "start": "2025-09-21T16:00:00.000Z",
-    "end": "2025-09-21T17:30:00.000Z",
+    "start": "2025-09-21T18:00:00.000Z",
+    "end": "2025-09-21T19:30:00.000Z",
     "title": "Kransen United FF vs Lado Sur FC",
     "description": "Herrar 6 E",
     "location": "Aspuddens IP 1",
@@ -11371,8 +10416,8 @@
   },
   {
     "uid": "venue-match-6233611",
-    "start": "2025-09-21T18:00:00.000Z",
-    "end": "2025-09-21T19:30:00.000Z",
+    "start": "2025-09-21T20:00:00.000Z",
+    "end": "2025-09-21T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Sollentuna Utveckling FK",
     "description": "SSH 3",
     "location": "Aspuddens IP 1",
@@ -11427,8 +10472,8 @@
   },
   {
     "uid": "venue-match-6186168",
-    "start": "2025-09-26T18:00:00.000Z",
-    "end": "2025-09-26T19:30:00.000Z",
+    "start": "2025-09-26T20:00:00.000Z",
+    "end": "2025-09-26T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Konyaspor KIF",
     "description": "Herrar 4 Södra",
     "location": "Aspuddens IP 1",
@@ -11483,8 +10528,8 @@
   },
   {
     "uid": "venue-match-6252328",
-    "start": "2025-09-27T07:00:00.000Z",
-    "end": "2025-09-27T08:30:00.000Z",
+    "start": "2025-09-27T09:00:00.000Z",
+    "end": "2025-09-27T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 3 vs Tungelsta IF 1",
     "description": "P2012- 3I",
     "location": "Aspuddens IP 11",
@@ -11541,8 +10586,8 @@
   },
   {
     "uid": "venue-match-6268835",
-    "start": "2025-09-27T07:00:00.000Z",
-    "end": "2025-09-27T08:30:00.000Z",
+    "start": "2025-09-27T09:00:00.000Z",
+    "end": "2025-09-27T10:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Reymersholms IK 8",
     "description": "P2013- 3",
     "location": "Aspuddens IP 12",
@@ -11599,8 +10644,8 @@
   },
   {
     "uid": "venue-match-6267445",
-    "start": "2025-09-27T08:30:00.000Z",
-    "end": "2025-09-27T10:00:00.000Z",
+    "start": "2025-09-27T10:30:00.000Z",
+    "end": "2025-09-27T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 2 vs Reymersholms IK 4",
     "description": "P2013- 2",
     "location": "Aspuddens IP 11",
@@ -11657,8 +10702,8 @@
   },
   {
     "uid": "venue-match-6246721",
-    "start": "2025-09-27T10:00:00.000Z",
-    "end": "2025-09-27T11:30:00.000Z",
+    "start": "2025-09-27T12:00:00.000Z",
+    "end": "2025-09-27T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs Mälarhöjden-Hägersten FF Gul",
     "description": "P2011- 1E",
     "location": "Aspuddens IP 1",
@@ -11714,8 +10759,8 @@
   },
   {
     "uid": "venue-match-6187968",
-    "start": "2025-09-27T12:00:00.000Z",
-    "end": "2025-09-27T13:30:00.000Z",
+    "start": "2025-09-27T14:00:00.000Z",
+    "end": "2025-09-27T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Norsborg FC",
     "description": "Damer 3 B",
     "location": "Aspuddens IP 1",
@@ -11770,8 +10815,8 @@
   },
   {
     "uid": "venue-match-6242815",
-    "start": "2025-09-27T14:00:00.000Z",
-    "end": "2025-09-27T15:30:00.000Z",
+    "start": "2025-09-27T16:00:00.000Z",
+    "end": "2025-09-27T17:30:00.000Z",
     "title": "Gröndals IK 1 vs Rönninge Salem Fotboll 1",
     "description": "P2008- 2C",
     "location": "Aspuddens IP 1",
@@ -11878,8 +10923,8 @@
   },
   {
     "uid": "venue-match-6266822",
-    "start": "2025-09-28T08:30:00.000Z",
-    "end": "2025-09-28T10:00:00.000Z",
+    "start": "2025-09-28T10:30:00.000Z",
+    "end": "2025-09-28T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 1 vs Hagalunds IS Vit",
     "description": "P2013- 1",
     "location": "Aspuddens IP 11",
@@ -11936,8 +10981,8 @@
   },
   {
     "uid": "venue-match-6269832",
-    "start": "2025-09-28T08:30:00.000Z",
-    "end": "2025-09-28T10:00:00.000Z",
+    "start": "2025-09-28T10:30:00.000Z",
+    "end": "2025-09-28T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Blå 2 vs Örby IS Gul",
     "description": "P2013- 4",
     "location": "Aspuddens IP 12",
@@ -11993,66 +11038,9 @@
     "formattedTitle": "🏟️ P2013 Blå (vs Örby IS Gul)"
   },
   {
-    "uid": "venue-match-6245967",
-    "start": "2025-09-28T12:00:00.000Z",
-    "end": "2025-09-28T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 4 vs Karlbergs BK 41",
-    "description": "P2010- 4B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-karlbergs-bk-41-pojkar-2010/6245967/",
-    "categories": [
-      "P2010- 4B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6245967,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-karlbergs-bk-41-pojkar-2010/6245967/",
-      "date": {
-        "iso8601": "2025-09-28 14:00",
-        "formatted": "14:00, 28 sep. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010- 4B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 4"
-        }
-      },
-      "away": {
-        "team": "Karlbergs BK 41",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10871.png",
-          "alt": "Karlbergs BK 41"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010- 4B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 4",
-    "formattedTeam": "H2010",
-    "opponent": "Karlbergs BK 41",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs Karlbergs BK 41)"
-  },
-  {
     "uid": "venue-match-6243250",
-    "start": "2025-09-28T14:00:00.000Z",
-    "end": "2025-09-28T15:30:00.000Z",
+    "start": "2025-09-28T16:00:00.000Z",
+    "end": "2025-09-28T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus 2 vs Spånga IS FK 2",
     "description": "P2009- 1B",
     "location": "Aspuddens IP 1",
@@ -12108,8 +11096,8 @@
   },
   {
     "uid": "venue-match-6221094",
-    "start": "2025-09-28T16:00:00.000Z",
-    "end": "2025-09-28T17:30:00.000Z",
+    "start": "2025-09-28T18:00:00.000Z",
+    "end": "2025-09-28T19:30:00.000Z",
     "title": "Kransen United FF vs Sundbyberg FC",
     "description": "Herrar 6 E",
     "location": "Aspuddens IP 1",
@@ -12161,8 +11149,8 @@
   },
   {
     "uid": "venue-match-6234336",
-    "start": "2025-09-28T18:00:00.000Z",
-    "end": "2025-09-28T19:30:00.000Z",
+    "start": "2025-09-28T20:00:00.000Z",
+    "end": "2025-09-28T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Gröndals IK ",
     "description": "Herrar Vet B",
     "location": "Aspuddens IP 1",
@@ -12217,8 +11205,8 @@
   },
   {
     "uid": "venue-match-6220647",
-    "start": "2025-10-03T18:00:00.000Z",
-    "end": "2025-10-03T19:30:00.000Z",
+    "start": "2025-10-03T20:00:00.000Z",
+    "end": "2025-10-03T21:30:00.000Z",
     "title": "Kransen United FF vs Årsta FF",
     "description": "Damer 4 B",
     "location": "Aspuddens IP 1",
@@ -12270,8 +11258,8 @@
   },
   {
     "uid": "venue-match-6250882",
-    "start": "2025-10-04T08:30:00.000Z",
-    "end": "2025-10-04T10:00:00.000Z",
+    "start": "2025-10-04T10:30:00.000Z",
+    "end": "2025-10-04T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 1 vs Årsta FF 1",
     "description": "P2012- 2D",
     "location": "Aspuddens IP 11",
@@ -12328,8 +11316,8 @@
   },
   {
     "uid": "venue-match-6252597",
-    "start": "2025-10-04T10:00:00.000Z",
-    "end": "2025-10-04T11:30:00.000Z",
+    "start": "2025-10-04T12:00:00.000Z",
+    "end": "2025-10-04T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 2 vs Reymersholms IK 4",
     "description": "P2012- 3K",
     "location": "Aspuddens IP 11",
@@ -12386,8 +11374,8 @@
   },
   {
     "uid": "venue-match-6246730",
-    "start": "2025-10-04T12:00:00.000Z",
-    "end": "2025-10-04T13:30:00.000Z",
+    "start": "2025-10-04T14:00:00.000Z",
+    "end": "2025-10-04T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus 1 vs IFK Stockholm FK 1",
     "description": "P2011- 1E",
     "location": "Aspuddens IP 1",
@@ -12443,8 +11431,8 @@
   },
   {
     "uid": "venue-match-6249326",
-    "start": "2025-10-05T08:30:00.000Z",
-    "end": "2025-10-05T10:00:00.000Z",
+    "start": "2025-10-05T10:30:00.000Z",
+    "end": "2025-10-05T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus 4 vs Enskede IK Vit",
     "description": "P2011- 4D",
     "location": "Aspuddens IP 1",
@@ -12500,8 +11488,8 @@
   },
   {
     "uid": "venue-match-6245486",
-    "start": "2025-10-05T10:00:00.000Z",
-    "end": "2025-10-05T11:30:00.000Z",
+    "start": "2025-10-05T12:00:00.000Z",
+    "end": "2025-10-05T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus 3 vs Ekerö IK 2",
     "description": "P2010- 3C",
     "location": "Aspuddens IP 1",
@@ -12557,8 +11545,8 @@
   },
   {
     "uid": "venue-match-6190791",
-    "start": "2025-10-05T12:00:00.000Z",
-    "end": "2025-10-05T13:30:00.000Z",
+    "start": "2025-10-05T14:00:00.000Z",
+    "end": "2025-10-05T15:30:00.000Z",
     "title": "Aspuddens FF vs Spårvägens FF ",
     "description": "Herrar 5 Södra",
     "location": "Aspuddens IP 1",
@@ -12613,8 +11601,8 @@
   },
   {
     "uid": "venue-match-6248668",
-    "start": "2025-10-05T14:15:00.000Z",
-    "end": "2025-10-05T15:45:00.000Z",
+    "start": "2025-10-05T16:15:00.000Z",
+    "end": "2025-10-05T17:45:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Tullinge Triangel Pojkar FK Röd",
     "description": "P2011- 3H",
     "location": "Aspuddens IP 1",
@@ -12671,8 +11659,8 @@
   },
   {
     "uid": "venue-match-6347405",
-    "start": "2025-10-05T16:00:00.000Z",
-    "end": "2025-10-05T17:30:00.000Z",
+    "start": "2025-10-05T18:00:00.000Z",
+    "end": "2025-10-05T19:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Gustavsbergs IF FK 1",
     "description": "F2011- 4B",
     "location": "Aspuddens IP 1",
@@ -12728,8 +11716,8 @@
   },
   {
     "uid": "venue-match-6255048",
-    "start": "2025-10-05T18:00:00.000Z",
-    "end": "2025-10-05T19:30:00.000Z",
+    "start": "2025-10-05T20:00:00.000Z",
+    "end": "2025-10-05T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus DJ vs Reymersholms IK DJ",
     "description": "DJ- 2C",
     "location": "Aspuddens IP 1",
@@ -12784,8 +11772,8 @@
   },
   {
     "uid": "venue-match-6234346",
-    "start": "2025-10-10T18:00:00.000Z",
-    "end": "2025-10-10T19:30:00.000Z",
+    "start": "2025-10-10T20:00:00.000Z",
+    "end": "2025-10-10T21:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Vällingby AIK",
     "description": "Herrar Vet B",
     "location": "Aspuddens IP 1",
@@ -12894,8 +11882,8 @@
   },
   {
     "uid": "venue-match-6252340",
-    "start": "2025-10-11T08:30:00.000Z",
-    "end": "2025-10-11T10:00:00.000Z",
+    "start": "2025-10-11T10:30:00.000Z",
+    "end": "2025-10-11T12:00:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 3 vs Hammarby IF FF 25 vit",
     "description": "P2012- 3I",
     "location": "Aspuddens IP 11",
@@ -12952,8 +11940,8 @@
   },
   {
     "uid": "venue-match-6191772",
-    "start": "2025-10-11T12:00:00.000Z",
-    "end": "2025-10-11T13:30:00.000Z",
+    "start": "2025-10-11T14:00:00.000Z",
+    "end": "2025-10-11T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus  vs Irsta IF",
     "description": "P19 Div.1 2025 - Region 4",
     "location": "Aspuddens IP 1",
@@ -13008,8 +11996,8 @@
   },
   {
     "uid": "venue-match-6242824",
-    "start": "2025-10-11T14:00:00.000Z",
-    "end": "2025-10-11T15:30:00.000Z",
+    "start": "2025-10-11T16:00:00.000Z",
+    "end": "2025-10-11T17:30:00.000Z",
     "title": "Gröndals IK 1 vs Tungelsta IF 1",
     "description": "P2008- 2C",
     "location": "Aspuddens IP 1",
@@ -13061,66 +12049,9 @@
     "formattedTitle": " (Gröndals IK 1 vs Tungelsta IF 1)"
   },
   {
-    "uid": "venue-match-6245979",
-    "start": "2025-10-12T10:00:00.000Z",
-    "end": "2025-10-12T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 4 vs Reymersholms IK 3",
-    "description": "P2010- 4B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-reymersholms-ik-3-pojkar-2010/6245979/",
-    "categories": [
-      "P2010- 4B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6245979,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-reymersholms-ik-3-pojkar-2010/6245979/",
-      "date": {
-        "iso8601": "2025-10-12 12:00",
-        "formatted": "12:00, 12 okt. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010- 4B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 4"
-        }
-      },
-      "away": {
-        "team": "Reymersholms IK 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
-          "alt": "Reymersholms IK 3"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010- 4B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 4",
-    "formattedTeam": "H2010",
-    "opponent": "Reymersholms IK 3",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs Reymersholms IK 3)"
-  },
-  {
     "uid": "venue-match-6245497",
-    "start": "2025-10-12T12:00:00.000Z",
-    "end": "2025-10-12T13:30:00.000Z",
+    "start": "2025-10-12T14:00:00.000Z",
+    "end": "2025-10-12T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus 3 vs Ängby IF 3",
     "description": "P2010- 3C",
     "location": "Aspuddens IP 1",
@@ -13176,8 +12107,8 @@
   },
   {
     "uid": "venue-match-6243262",
-    "start": "2025-10-12T14:00:00.000Z",
-    "end": "2025-10-12T15:30:00.000Z",
+    "start": "2025-10-12T16:00:00.000Z",
+    "end": "2025-10-12T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus 2 vs Norrtulls SK 1",
     "description": "P2009- 1B",
     "location": "Aspuddens IP 1",
@@ -13233,8 +12164,8 @@
   },
   {
     "uid": "venue-match-6347413",
-    "start": "2025-10-18T10:00:00.000Z",
-    "end": "2025-10-18T11:30:00.000Z",
+    "start": "2025-10-18T12:00:00.000Z",
+    "end": "2025-10-18T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Saltsjöbadens IF Vit",
     "description": "F2011- 4B",
     "location": "Aspuddens IP 1",
@@ -13290,8 +12221,8 @@
   },
   {
     "uid": "venue-match-6252608",
-    "start": "2025-10-18T12:00:00.000Z",
-    "end": "2025-10-18T13:30:00.000Z",
+    "start": "2025-10-18T14:00:00.000Z",
+    "end": "2025-10-18T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 2 vs Segeltorps Idrottsförening Fotboll Vit",
     "description": "P2012- 3K",
     "location": "Aspuddens IP 11",
@@ -13348,8 +12279,8 @@
   },
   {
     "uid": "venue-match-6255316",
-    "start": "2025-10-18T14:00:00.000Z",
-    "end": "2025-10-18T15:30:00.000Z",
+    "start": "2025-10-18T16:00:00.000Z",
+    "end": "2025-10-18T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Enskede IK 2",
     "description": "DJ- 3B",
     "location": "Aspuddens IP 1",
@@ -13404,8 +12335,8 @@
   },
   {
     "uid": "venue-match-6250894",
-    "start": "2025-10-19T10:00:00.000Z",
-    "end": "2025-10-19T11:30:00.000Z",
+    "start": "2025-10-19T12:00:00.000Z",
+    "end": "2025-10-19T13:30:00.000Z",
     "title": "IFK Aspudden-Tellus Röd 1 vs Boo FF 21",
     "description": "P2012- 2D",
     "location": "Aspuddens IP 11",
@@ -13462,8 +12393,8 @@
   },
   {
     "uid": "venue-match-6248679",
-    "start": "2025-10-19T12:00:00.000Z",
-    "end": "2025-10-19T13:30:00.000Z",
+    "start": "2025-10-19T14:00:00.000Z",
+    "end": "2025-10-19T15:30:00.000Z",
     "title": "IFK Aspudden-Tellus Svart 3 vs Stuvsta IF 2",
     "description": "P2011- 3H",
     "location": "Aspuddens IP 1",
@@ -13520,8 +12451,8 @@
   },
   {
     "uid": "venue-match-6249337",
-    "start": "2025-10-19T14:00:00.000Z",
-    "end": "2025-10-19T15:30:00.000Z",
+    "start": "2025-10-19T16:00:00.000Z",
+    "end": "2025-10-19T17:30:00.000Z",
     "title": "IFK Aspudden-Tellus 4 vs Ingarö IF Gul",
     "description": "P2011- 4D",
     "location": "Aspuddens IP 1",
