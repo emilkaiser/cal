@@ -1,398 +1,5 @@
 [
   {
-    "uid": "venue-match-6195349",
-    "start": "2025-04-04T18:00:00.000Z",
-    "end": "2025-04-04T19:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Hagalunds IS",
-    "description": "Veteran DM Herrar",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-hagalunds-is-veteran-dm/6195349/",
-    "categories": [
-      "Veteran DM Herrar"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6195349,
-      "ageCategoryName": "Veteran",
-      "ageCategoryId": 5,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-hagalunds-is-veteran-dm/6195349/",
-      "date": {
-        "iso8601": "2025-04-04 20:00",
-        "formatted": "20:00, 4 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Veteran DM Herrar",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Hagalunds IS",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11210.png",
-          "alt": "Hagalunds IS"
-        }
-      }
-    },
-    "gender": "Herrveteran",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Veteran DM Herrar",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Hagalunds IS",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Hagalunds IS)"
-  },
-  {
-    "uid": "venue-match-6191624",
-    "start": "2025-04-05T10:00:00.000Z",
-    "end": "2025-04-05T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus  vs Djurgårdens TFF",
-    "description": "P19 Div.1 2025 - Region 4",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--djurgardens-tff-p19-serier/6191624/",
-    "categories": [
-      "P19 Div.1 2025 - Region 4"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6191624,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus--djurgardens-tff-p19-serier/6191624/",
-      "date": {
-        "iso8601": "2025-04-05 12:00",
-        "formatted": "12:00, 5 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P19 Div.1 2025 - Region 4",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus ",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus "
-        }
-      },
-      "away": {
-        "team": "Djurgårdens TFF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13233.png",
-          "alt": "Djurgårdens TFF"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P19 Div.1 2025 - Region 4",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus ",
-    "formattedTeam": "IFK Aspudden-Tellus ",
-    "opponent": "Djurgårdens TFF",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus  (vs Djurgårdens TFF)"
-  },
-  {
-    "uid": "venue-match-6189495",
-    "start": "2025-04-05T12:00:00.000Z",
-    "end": "2025-04-05T13:30:00.000Z",
-    "title": "Stockholm StreetSoccer FF vs Handelskamraternas IS",
-    "description": "Herrar 5 Mellersta",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/stockholm-streetsoccer-ff-handelskamraternas-is-div-5-herrar/6189495/",
-    "categories": [
-      "Herrar 5 Mellersta"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6189495,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/stockholm-streetsoccer-ff-handelskamraternas-is-div-5-herrar/6189495/",
-      "date": {
-        "iso8601": "2025-04-05 14:00",
-        "formatted": "14:00, 5 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 5 Mellersta",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Stockholm StreetSoccer FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13348.png",
-          "alt": "Stockholm StreetSoccer FF"
-        }
-      },
-      "away": {
-        "team": "Handelskamraternas IS",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11802.png",
-          "alt": "Handelskamraternas IS"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 5 Mellersta",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Stockholm StreetSoccer FF vs Handelskamraternas IS)"
-  },
-  {
-    "uid": "venue-match-6252220",
-    "start": "2025-04-06T10:00:00.000Z",
-    "end": "2025-04-06T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Röd 3 vs IFK Haninge H Blå",
-    "description": "P2012- 3I",
-    "location": "Aspuddens IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-ifk-haninge-h-bla-pojkar-2012/6252220/",
-    "categories": [
-      "P2012- 3I"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6252220,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-3-ifk-haninge-h-bla-pojkar-2012/6252220/",
-      "date": {
-        "iso8601": "2025-04-06 12:00",
-        "formatted": "12:00, 6 apr. 2025"
-      },
-      "location": "Aspuddens IP 11",
-      "category": "P2012- 3I",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Röd 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Röd 3"
-        }
-      },
-      "away": {
-        "team": "IFK Haninge H Blå",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11529.png",
-          "alt": "IFK Haninge H Blå"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2012- 3I",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Röd 3",
-    "color": "Röd",
-    "formattedTeam": "H2012 Röd",
-    "opponent": "IFK Haninge H Blå",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs IFK Haninge H Blå)"
-  },
-  {
-    "uid": "venue-match-6245376",
-    "start": "2025-04-06T12:00:00.000Z",
-    "end": "2025-04-06T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 3 vs Älvsjö AIK FF 3",
-    "description": "P2010- 3C",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-alvsjo-aik-ff-3-pojkar-2010/6245376/",
-    "categories": [
-      "P2010- 3C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6245376,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-3-alvsjo-aik-ff-3-pojkar-2010/6245376/",
-      "date": {
-        "iso8601": "2025-04-06 14:00",
-        "formatted": "14:00, 6 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010- 3C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 3"
-        }
-      },
-      "away": {
-        "team": "Älvsjö AIK FF 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7708.png",
-          "alt": "Älvsjö AIK FF 3"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010- 3C",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 3",
-    "formattedTeam": "H2010",
-    "opponent": "Älvsjö AIK FF 3",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs Älvsjö AIK FF 3)"
-  },
-  {
-    "uid": "venue-match-6245859",
-    "start": "2025-04-06T14:00:00.000Z",
-    "end": "2025-04-06T15:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 4 vs IF Brommapojkarna 10-5",
-    "description": "P2010- 4B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-if-brommapojkarna-10-5-pojkar-2010/6245859/",
-    "categories": [
-      "P2010- 4B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6245859,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-if-brommapojkarna-10-5-pojkar-2010/6245859/",
-      "date": {
-        "iso8601": "2025-04-06 16:00",
-        "formatted": "16:00, 6 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010- 4B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 4"
-        }
-      },
-      "away": {
-        "team": "IF Brommapojkarna 10-5",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
-          "alt": "IF Brommapojkarna 10-5"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010- 4B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 4",
-    "formattedTeam": "H2010",
-    "opponent": "IF Brommapojkarna 10-5",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs IF Brommapojkarna 10-5)"
-  },
-  {
-    "uid": "venue-match-6186169",
-    "start": "2025-04-06T16:00:00.000Z",
-    "end": "2025-04-06T17:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Västerhaninge IF",
-    "description": "Herrar 4 Södra",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vasterhaninge-if-div-4-herrar/6186169/",
-    "categories": [
-      "Herrar 4 Södra"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6186169,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-vasterhaninge-if-div-4-herrar/6186169/",
-      "date": {
-        "iso8601": "2025-04-06 18:00",
-        "formatted": "18:00, 6 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 4 Södra",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Västerhaninge IF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9859.png",
-          "alt": "Västerhaninge IF"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 4 Södra",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Västerhaninge IF",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Västerhaninge IF)"
-  },
-  {
     "uid": "venue-match-6190671",
     "start": "2025-04-11T18:00:00.000Z",
     "end": "2025-04-11T19:30:00.000Z",
@@ -953,62 +560,6 @@
     "formattedTitle": "🏟️ IFK Aspudden-Tellus DJ (vs Skogås-Trångsunds FF Röd)"
   },
   {
-    "uid": "venue-match-6255196",
-    "start": "2025-04-13T14:00:00.000Z",
-    "end": "2025-04-13T15:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Bromma/Nockebyhov 2",
-    "description": "DJ- 3B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-brommanockebyhov-2-damjuniorer-0906/6255196/",
-    "categories": [
-      "DJ- 3B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6255196,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-brommanockebyhov-2-damjuniorer-0906/6255196/",
-      "date": {
-        "iso8601": "2025-04-13 16:00",
-        "formatted": "16:00, 13 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "DJ- 3B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Bromma/Nockebyhov 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9027.png",
-          "alt": "Bromma/Nockebyhov 2"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "DJ- 3B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Bromma/Nockebyhov 2",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Bromma/Nockebyhov 2)"
-  },
-  {
     "uid": "venue-match-6221014",
     "start": "2025-04-13T16:00:00.000Z",
     "end": "2025-04-13T17:30:00.000Z",
@@ -1065,10 +616,10 @@
     "uid": "venue-match-6233559",
     "start": "2025-04-13T18:00:00.000Z",
     "end": "2025-04-13T19:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Segeltorps Idrottsförening Fotboll",
+    "title": "IFK Aspudden-Tellus vs Segeltorps IF Fotboll",
     "description": "SSH 3",
     "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-segeltorps-idrottsforening-fotboll-stockholmsserien-3-herrar/6233559/",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-segeltorps-if-fotboll-stockholmsserien-3-herrar/6233559/",
     "categories": [
       "SSH 3"
     ],
@@ -1080,7 +631,7 @@
       "genderName": "Man",
       "genderId": 2,
       "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-segeltorps-idrottsforening-fotboll-stockholmsserien-3-herrar/6233559/",
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-segeltorps-if-fotboll-stockholmsserien-3-herrar/6233559/",
       "date": {
         "iso8601": "2025-04-13 20:00",
         "formatted": "20:00, 13 apr. 2025"
@@ -1097,10 +648,10 @@
         }
       },
       "away": {
-        "team": "Segeltorps Idrottsförening Fotboll",
+        "team": "Segeltorps IF Fotboll",
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13623.png",
-          "alt": "Segeltorps Idrottsförening Fotboll"
+          "alt": "Segeltorps IF Fotboll"
         }
       }
     },
@@ -1113,9 +664,9 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus",
     "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Segeltorps Idrottsförening Fotboll",
+    "opponent": "Segeltorps IF Fotboll",
     "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Segeltorps Idrottsförening Fotboll)"
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Segeltorps IF Fotboll)"
   },
   {
     "uid": "venue-match-6245871",
@@ -5626,60 +5177,6 @@
     "formattedTitle": "🏟️ IFK Aspudden-Tellus  (vs Karlslunds IF FK)"
   },
   {
-    "uid": "venue-match-6242769",
-    "start": "2025-06-01T14:00:00.000Z",
-    "end": "2025-06-01T15:30:00.000Z",
-    "title": "Gröndals IK 1 vs Hammarby TFF Herrfotboll 3",
-    "description": "P2008- 2C",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/grondals-ik-1-hammarby-tff-herrfotboll-3-pojkar-2008/6242769/",
-    "categories": [
-      "P2008- 2C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6242769,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/grondals-ik-1-hammarby-tff-herrfotboll-3-pojkar-2008/6242769/",
-      "date": {
-        "iso8601": "2025-06-01 16:00",
-        "formatted": "16:00, 1 juni 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2008- 2C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Gröndals IK 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
-          "alt": "Gröndals IK 1"
-        }
-      },
-      "away": {
-        "team": "Hammarby TFF Herrfotboll 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11346.png",
-          "alt": "Hammarby TFF Herrfotboll 3"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2008",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2008- 2C",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Gröndals IK 1 vs Hammarby TFF Herrfotboll 3)"
-  },
-  {
     "uid": "venue-match-6220593",
     "start": "2025-06-01T16:00:00.000Z",
     "end": "2025-06-01T17:30:00.000Z",
@@ -6750,64 +6247,6 @@
     "formattedTitle": "🏟️ H2012 Röd (vs Mälarhöjden-Hägersten FF Gul)"
   },
   {
-    "uid": "venue-match-6248614",
-    "start": "2025-06-14T10:15:00.000Z",
-    "end": "2025-06-14T11:45:00.000Z",
-    "title": "IFK Aspudden-Tellus Svart 3 vs IFK Tumba FK 1",
-    "description": "P2011- 3H",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-ifk-tumba-fk-1-pojkar-2011/6248614/",
-    "categories": [
-      "P2011- 3H"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6248614,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-svart-3-ifk-tumba-fk-1-pojkar-2011/6248614/",
-      "date": {
-        "iso8601": "2025-06-14 12:15",
-        "formatted": "12:15, 14 juni 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2011- 3H",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Svart 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Svart 3"
-        }
-      },
-      "away": {
-        "team": "IFK Tumba FK 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7790.png",
-          "alt": "IFK Tumba FK 1"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2011",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2011- 3H",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Svart 3",
-    "color": "Svart",
-    "formattedTeam": "H2011 Svart",
-    "opponent": "IFK Tumba FK 1",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2011 Svart (vs IFK Tumba FK 1)"
-  },
-  {
     "uid": "venue-match-6187913",
     "start": "2025-06-14T12:00:00.000Z",
     "end": "2025-06-14T13:30:00.000Z",
@@ -7864,64 +7303,6 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Rönninge Salem Fotboll )"
-  },
-  {
-    "uid": "venue-match-6252555",
-    "start": "2025-08-16T08:30:00.000Z",
-    "end": "2025-08-16T10:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Röd 2 vs IFK Stockholm FK 2",
-    "description": "P2012- 3K",
-    "location": "Aspuddens IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-ifk-stockholm-fk-2-pojkar-2012/6252555/",
-    "categories": [
-      "P2012- 3K"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6252555,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-ifk-stockholm-fk-2-pojkar-2012/6252555/",
-      "date": {
-        "iso8601": "2025-08-16 10:30",
-        "formatted": "10:30, 16 aug. 2025"
-      },
-      "location": "Aspuddens IP 11",
-      "category": "P2012- 3K",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Röd 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Röd 2"
-        }
-      },
-      "away": {
-        "team": "IFK Stockholm FK 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12940.png",
-          "alt": "IFK Stockholm FK 2"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2012- 3K",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Röd 2",
-    "color": "Röd",
-    "formattedTeam": "H2012 Röd",
-    "opponent": "IFK Stockholm FK 2",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs IFK Stockholm FK 2)"
   },
   {
     "uid": "venue-match-6187914",

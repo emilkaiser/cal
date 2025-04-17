@@ -1,0 +1,322 @@
+[
+  {
+    "uid": "team-game-6271118",
+    "start": "2025-05-04T10:00:00.000Z",
+    "end": "2025-05-04T11:30:00.000Z",
+    "title": "IF Brommapojkarna F14A vs IFK Aspudden-Tellus Röd 1",
+    "description": "P2014- 2",
+    "location": "Åkeshovs BP 11",
+    "url": "https://www.stff.se/go-to/?fmid=6271118",
+    "categories": [
+      "P2014- 2"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6271118",
+      "dateTime": "2025-05-04T12:00+02:00",
+      "homeTeam": "IF Brommapojkarna F14A",
+      "awayTeam": "IFK Aspudden-Tellus Röd 1",
+      "category": "P2014- 2",
+      "location": "Åkeshovs BP 11",
+      "url": "https://www.stff.se/go-to/?fmid=6271118"
+    },
+    "gender": "Flickor",
+    "formattedTeam": "IF Brommapojkarna F14A",
+    "team": "IF Brommapojkarna F14A",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "IF Brommapojkarna F14A"
+  },
+  {
+    "uid": "team-game-6271372",
+    "start": "2025-05-18T11:00:00.000Z",
+    "end": "2025-05-18T12:30:00.000Z",
+    "title": "IFK Aspudden-Tellus Röd 1 vs Boo FF Blå 3",
+    "description": "P2014- 2",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/go-to/?fmid=6271372",
+    "categories": [
+      "P2014- 2"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6271372",
+      "dateTime": "2025-05-18T13:00+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Röd 1",
+      "awayTeam": "Boo FF Blå 3",
+      "category": "P2014- 2",
+      "location": "Aspuddens IP 2",
+      "url": "https://www.stff.se/go-to/?fmid=6271372"
+    },
+    "color": "Röd",
+    "formattedTeam": "IFK Aspudden-Tellus Röd 1",
+    "team": "IFK Aspudden-Tellus Röd 1",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Röd 1"
+  },
+  {
+    "uid": "team-game-6271651",
+    "start": "2025-05-31T08:15:00.000Z",
+    "end": "2025-05-31T09:45:00.000Z",
+    "title": "Järla IF FK Grå vs IFK Aspudden-Tellus Röd 1",
+    "description": "P2014- 2",
+    "location": "Nacka IP 225",
+    "url": "https://www.stff.se/go-to/?fmid=6271651",
+    "categories": [
+      "P2014- 2"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6271651",
+      "dateTime": "2025-05-31T10:15+02:00",
+      "homeTeam": "Järla IF FK Grå",
+      "awayTeam": "IFK Aspudden-Tellus Röd 1",
+      "category": "P2014- 2",
+      "location": "Nacka IP 225",
+      "url": "https://www.stff.se/go-to/?fmid=6271651"
+    },
+    "formattedTeam": "Järla IF FK Grå",
+    "team": "Järla IF FK Grå",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Järla IF FK Grå"
+  },
+  {
+    "uid": "team-game-6271904",
+    "start": "2025-08-23T09:45:00.000Z",
+    "end": "2025-08-23T11:15:00.000Z",
+    "title": "IFK Aspudden-Tellus Röd 1 vs IFK Lidingö FK 6",
+    "description": "P2014- 2",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/go-to/?fmid=6271904",
+    "categories": [
+      "P2014- 2"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6271904",
+      "dateTime": "2025-08-23T11:45+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Röd 1",
+      "awayTeam": "IFK Lidingö FK 6",
+      "category": "P2014- 2",
+      "location": "Aspuddens IP 2",
+      "url": "https://www.stff.se/go-to/?fmid=6271904"
+    },
+    "color": "Röd",
+    "formattedTeam": "IFK Aspudden-Tellus Röd 1",
+    "team": "IFK Aspudden-Tellus Röd 1",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Röd 1"
+  },
+  {
+    "uid": "team-game-6272052",
+    "start": "2025-09-07T07:00:00.000Z",
+    "end": "2025-09-07T08:30:00.000Z",
+    "title": "Huddinge IF Röd M vs IFK Aspudden-Tellus Röd 1",
+    "description": "P2014- 2",
+    "location": "Kvarnbergsskolans IP",
+    "url": "https://www.stff.se/go-to/?fmid=6272052",
+    "categories": [
+      "P2014- 2"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6272052",
+      "dateTime": "2025-09-07T09:00+02:00",
+      "homeTeam": "Huddinge IF Röd M",
+      "awayTeam": "IFK Aspudden-Tellus Röd 1",
+      "category": "P2014- 2",
+      "location": "Kvarnbergsskolans IP",
+      "url": "https://www.stff.se/go-to/?fmid=6272052"
+    },
+    "color": "Röd",
+    "formattedTeam": "Huddinge IF Röd M",
+    "team": "Huddinge IF Röd M",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Huddinge IF Röd M"
+  },
+  {
+    "uid": "team-game-6272401",
+    "start": "2025-09-20T09:45:00.000Z",
+    "end": "2025-09-20T11:15:00.000Z",
+    "title": "IFK Aspudden-Tellus Röd 1 vs Hammarby IF FF 5 vit",
+    "description": "P2014- 2",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/go-to/?fmid=6272401",
+    "categories": [
+      "P2014- 2"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6272401",
+      "dateTime": "2025-09-20T11:45+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Röd 1",
+      "awayTeam": "Hammarby IF FF 5 vit",
+      "category": "P2014- 2",
+      "location": "Aspuddens IP 2",
+      "url": "https://www.stff.se/go-to/?fmid=6272401"
+    },
+    "color": "Röd",
+    "formattedTeam": "IFK Aspudden-Tellus Röd 1",
+    "team": "IFK Aspudden-Tellus Röd 1",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Röd 1"
+  },
+  {
+    "uid": "team-game-6272691",
+    "start": "2025-05-03T09:45:00.000Z",
+    "end": "2025-05-03T11:15:00.000Z",
+    "title": "IFK Aspudden-Tellus Röd 2 vs Reymersholms IK 2",
+    "description": "P2014- 3",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/go-to/?fmid=6272691",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6272691",
+      "dateTime": "2025-05-03T11:45+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Röd 2",
+      "awayTeam": "Reymersholms IK 2",
+      "category": "P2014- 3",
+      "location": "Aspuddens IP 2",
+      "url": "https://www.stff.se/go-to/?fmid=6272691"
+    },
+    "color": "Röd",
+    "formattedTeam": "IFK Aspudden-Tellus Röd 2",
+    "team": "IFK Aspudden-Tellus Röd 2",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Röd 2"
+  },
+  {
+    "uid": "team-game-6272798",
+    "start": "2025-05-10T10:30:00.000Z",
+    "end": "2025-05-10T12:00:00.000Z",
+    "title": "Örby IS Blå vs IFK Aspudden-Tellus Röd 2",
+    "description": "P2014- 3",
+    "location": "Sjöängens BP 11",
+    "url": "https://www.stff.se/go-to/?fmid=6272798",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6272798",
+      "dateTime": "2025-05-10T12:30+02:00",
+      "homeTeam": "Örby IS Blå",
+      "awayTeam": "IFK Aspudden-Tellus Röd 2",
+      "category": "P2014- 3",
+      "location": "Sjöängens BP 11",
+      "url": "https://www.stff.se/go-to/?fmid=6272798"
+    },
+    "formattedTeam": "Örby IS Blå",
+    "team": "Örby IS Blå",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Örby IS Blå"
+  },
+  {
+    "uid": "team-game-6272955",
+    "start": "2025-05-24T13:30:00.000Z",
+    "end": "2025-05-24T15:00:00.000Z",
+    "title": "Ängby IF Vit 1 vs IFK Aspudden-Tellus Röd 2",
+    "description": "P2014- 3",
+    "location": "Ängby IP 2",
+    "url": "https://www.stff.se/go-to/?fmid=6272955",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6272955",
+      "dateTime": "2025-05-24T15:30+02:00",
+      "homeTeam": "Ängby IF Vit 1",
+      "awayTeam": "IFK Aspudden-Tellus Röd 2",
+      "category": "P2014- 3",
+      "location": "Ängby IP 2",
+      "url": "https://www.stff.se/go-to/?fmid=6272955"
+    },
+    "color": "Vit",
+    "formattedTeam": "Ängby IF Vit 1",
+    "team": "Ängby IF Vit 1",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Ängby IF Vit 1"
+  },
+  {
+    "uid": "team-game-6273292",
+    "start": "2025-09-06T10:00:00.000Z",
+    "end": "2025-09-06T11:30:00.000Z",
+    "title": "Boo FF 2 vs IFK Aspudden-Tellus Röd 2",
+    "description": "P2014- 3",
+    "location": "Boovallen 216",
+    "url": "https://www.stff.se/go-to/?fmid=6273292",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6273292",
+      "dateTime": "2025-09-06T12:00+02:00",
+      "homeTeam": "Boo FF 2",
+      "awayTeam": "IFK Aspudden-Tellus Röd 2",
+      "category": "P2014- 3",
+      "location": "Boovallen 216",
+      "url": "https://www.stff.se/go-to/?fmid=6273292"
+    },
+    "formattedTeam": "Boo FF 2",
+    "team": "Boo FF 2",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Boo FF 2"
+  },
+  {
+    "uid": "team-game-6273493",
+    "start": "2025-09-21T11:00:00.000Z",
+    "end": "2025-09-21T12:30:00.000Z",
+    "title": "IFK Aspudden-Tellus Röd 2 vs IF Brommapojkarna 2014-14",
+    "description": "P2014- 3",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/go-to/?fmid=6273493",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6273493",
+      "dateTime": "2025-09-21T13:00+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Röd 2",
+      "awayTeam": "IF Brommapojkarna 2014-14",
+      "category": "P2014- 3",
+      "location": "Aspuddens IP 2",
+      "url": "https://www.stff.se/go-to/?fmid=6273493"
+    },
+    "color": "Röd",
+    "formattedTeam": "IFK Aspudden-Tellus Röd 2",
+    "team": "IFK Aspudden-Tellus Röd 2",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Röd 2"
+  }
+]

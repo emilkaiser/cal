@@ -1,288 +1,5 @@
 [
   {
-    "uid": "venue-match-6253542",
-    "start": "2025-04-05T09:00:00.000Z",
-    "end": "2025-04-05T10:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 3 vs Enskede IK Vit 4",
-    "description": "P2012- 4H",
-    "location": "Västberga IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-3-enskede-ik-vit-4-pojkar-2012/6253542/",
-    "categories": [
-      "P2012- 4H"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6253542,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-enskede-ik-vit-4-pojkar-2012/6253542/",
-      "date": {
-        "iso8601": "2025-04-05 11:00",
-        "formatted": "11:00, 5 apr. 2025"
-      },
-      "location": "Västberga IP 11",
-      "category": "P2012- 4H",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 3"
-        }
-      },
-      "away": {
-        "team": "Enskede IK Vit 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11417.png",
-          "alt": "Enskede IK Vit 4"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2012- 4H",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 3",
-    "color": "Gul",
-    "formattedTeam": "H2012 Gul",
-    "opponent": "Enskede IK Vit 4",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Gul (vs Enskede IK Vit 4)"
-  },
-  {
-    "uid": "venue-match-6252349",
-    "start": "2025-04-05T10:30:00.000Z",
-    "end": "2025-04-05T12:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 2 vs Vistaberg IF 1",
-    "description": "P2012- 3J",
-    "location": "Västberga IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-2-vistaberg-if-1-pojkar-2012/6252349/",
-    "categories": [
-      "P2012- 3J"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6252349,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-vistaberg-if-1-pojkar-2012/6252349/",
-      "date": {
-        "iso8601": "2025-04-05 12:30",
-        "formatted": "12:30, 5 apr. 2025"
-      },
-      "location": "Västberga IP 11",
-      "category": "P2012- 3J",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 2"
-        }
-      },
-      "away": {
-        "team": "Vistaberg IF 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13558.png",
-          "alt": "Vistaberg IF 1"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2012- 3J",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 2",
-    "color": "Gul",
-    "formattedTeam": "H2012 Gul",
-    "opponent": "Vistaberg IF 1",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Gul (vs Vistaberg IF 1)"
-  },
-  {
-    "uid": "venue-match-6243142",
-    "start": "2025-04-06T10:00:00.000Z",
-    "end": "2025-04-06T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 2 vs IFK Lidingö FK C",
-    "description": "P2009- 1B",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-ifk-lidingo-fk-c-pojkar-2009/6243142/",
-    "categories": [
-      "P2009- 1B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6243142,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-2-ifk-lidingo-fk-c-pojkar-2009/6243142/",
-      "date": {
-        "iso8601": "2025-04-06 12:00",
-        "formatted": "12:00, 6 apr. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2009- 1B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 2"
-        }
-      },
-      "away": {
-        "team": "IFK Lidingö FK C",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8255.png",
-          "alt": "IFK Lidingö FK C"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2009",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2009- 1B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 2",
-    "formattedTeam": "H2009",
-    "opponent": "IFK Lidingö FK C",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2009 (vs IFK Lidingö FK C)"
-  },
-  {
-    "uid": "venue-match-6347973",
-    "start": "2025-04-06T12:00:00.000Z",
-    "end": "2025-04-06T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 1 vs IF Brommapojkarna 10-11",
-    "description": "P2010- 1C",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-if-brommapojkarna-10-11-pojkar-2010/6347973/",
-    "categories": [
-      "P2010- 1C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6347973,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-if-brommapojkarna-10-11-pojkar-2010/6347973/",
-      "date": {
-        "iso8601": "2025-04-06 14:00",
-        "formatted": "14:00, 6 apr. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2010- 1C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 1"
-        }
-      },
-      "away": {
-        "team": "IF Brommapojkarna 10-11",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
-          "alt": "IF Brommapojkarna 10-11"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2010- 1C",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "H2010",
-    "opponent": "IF Brommapojkarna 10-11",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs IF Brommapojkarna 10-11)"
-  },
-  {
-    "uid": "venue-match-6248683",
-    "start": "2025-04-06T14:00:00.000Z",
-    "end": "2025-04-06T15:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 3 vs IFK Stockholm FK 2",
-    "description": "P2011- 3I",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-3-ifk-stockholm-fk-2-pojkar-2011/6248683/",
-    "categories": [
-      "P2011- 3I"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6248683,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-ifk-stockholm-fk-2-pojkar-2011/6248683/",
-      "date": {
-        "iso8601": "2025-04-06 16:00",
-        "formatted": "16:00, 6 apr. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2011- 3I",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 3"
-        }
-      },
-      "away": {
-        "team": "IFK Stockholm FK 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12940.png",
-          "alt": "IFK Stockholm FK 2"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2011",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2011- 3I",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 3",
-    "color": "Gul",
-    "formattedTeam": "H2011 Gul",
-    "opponent": "IFK Stockholm FK 2",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2011 Gul (vs IFK Stockholm FK 2)"
-  },
-  {
     "uid": "venue-match-6221013",
     "start": "2025-04-11T18:00:00.000Z",
     "end": "2025-04-11T19:30:00.000Z",
@@ -504,58 +221,6 @@
     "formattedTitle": "🏟️ H2011 Gul (vs Sickla IF Vit 3)"
   },
   {
-    "uid": "venue-match-6348909",
-    "start": "2025-04-12T14:00:00.000Z",
-    "end": "2025-04-12T15:30:00.000Z",
-    "title": "Karlbergs BK Röd vs Boo FF DJ svart",
-    "description": "DJ- 2B",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/karlbergs-bk-rod-boo-ff-dj-svart-damjuniorer-0906/6348909/",
-    "categories": [
-      "DJ- 2B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6348909,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/karlbergs-bk-rod-boo-ff-dj-svart-damjuniorer-0906/6348909/",
-      "date": {
-        "iso8601": "2025-04-12 16:00",
-        "formatted": "16:00, 12 apr. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "DJ- 2B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Karlbergs BK Röd",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10871.png",
-          "alt": "Karlbergs BK Röd"
-        }
-      },
-      "away": {
-        "team": "Boo FF DJ svart",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
-          "alt": "Boo FF DJ svart"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "DJ- 2B",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Karlbergs BK Röd vs Boo FF DJ svart)"
-  },
-  {
     "uid": "venue-match-6252096",
     "start": "2025-04-13T08:30:00.000Z",
     "end": "2025-04-13T10:00:00.000Z",
@@ -611,63 +276,6 @@
     "opponent": "Tyresö FF 3",
     "activity": "Match",
     "formattedTitle": "🏟️ H2012 Gul (vs Tyresö FF 3)"
-  },
-  {
-    "uid": "venue-match-6248559",
-    "start": "2025-04-13T12:00:00.000Z",
-    "end": "2025-04-13T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Svart 3 vs Reymersholms IK 7",
-    "description": "P2011- 3H",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-reymersholms-ik-7-pojkar-2011/6248559/",
-    "categories": [
-      "P2011- 3H"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6248559,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-svart-3-reymersholms-ik-7-pojkar-2011/6248559/",
-      "date": {
-        "iso8601": "2025-04-13 14:00",
-        "formatted": "14:00, 13 apr. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2011- 3H",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Svart 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Svart 3"
-        }
-      },
-      "away": {
-        "team": "Reymersholms IK 7",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
-          "alt": "Reymersholms IK 7"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2011",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2011- 3H",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Svart 3",
-    "color": "Svart",
-    "formattedTeam": "H2011 Svart",
-    "opponent": "Reymersholms IK 7",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2011 Svart (vs Reymersholms IK 7)"
   },
   {
     "uid": "venue-match-6189500",
@@ -772,63 +380,6 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Långholmen FC vs Gröndals FF)"
-  },
-  {
-    "uid": "venue-match-6252361",
-    "start": "2025-04-21T12:30:00.000Z",
-    "end": "2025-04-21T14:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 2 vs Rönninge Salem Fotboll Svart",
-    "description": "P2012- 3J",
-    "location": "Västberga IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-2-ronninge-salem-fotboll-svart-pojkar-2012/6252361/",
-    "categories": [
-      "P2012- 3J"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6252361,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-ronninge-salem-fotboll-svart-pojkar-2012/6252361/",
-      "date": {
-        "iso8601": "2025-04-21 14:30",
-        "formatted": "14:30, 21 apr. 2025"
-      },
-      "location": "Västberga IP 11",
-      "category": "P2012- 3J",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 2"
-        }
-      },
-      "away": {
-        "team": "Rönninge Salem Fotboll Svart",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8142.png",
-          "alt": "Rönninge Salem Fotboll Svart"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2012- 3J",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 2",
-    "color": "Gul",
-    "formattedTeam": "H2012 Gul",
-    "opponent": "Rönninge Salem Fotboll Svart",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Gul (vs Rönninge Salem Fotboll Svart)"
   },
   {
     "uid": "venue-match-6253554",
@@ -1791,6 +1342,63 @@
     "formattedTitle": "🏟️ P2017 Vit (vs Essinge IK Svart)"
   },
   {
+    "uid": "venue-match-6262383",
+    "start": "2025-04-27T07:00:00.000Z",
+    "end": "2025-04-27T08:30:00.000Z",
+    "title": "Reymersholms IK 2 vs IFK Aspudden-Tellus Gul 2",
+    "description": "F2014- 3",
+    "location": "Västberga IP 12",
+    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ik-2-ifk-aspudden-tellus-gul-2-flickor-2014/6262383/",
+    "categories": [
+      "F2014- 3"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6262383,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/reymersholms-ik-2-ifk-aspudden-tellus-gul-2-flickor-2014/6262383/",
+      "date": {
+        "iso8601": "2025-04-27 09:00",
+        "formatted": "09:00, 27 apr. 2025"
+      },
+      "location": "Västberga IP 12",
+      "category": "F2014- 3",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Reymersholms IK 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
+          "alt": "Reymersholms IK 2"
+        }
+      },
+      "away": {
+        "team": "IFK Aspudden-Tellus Gul 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Gul 2"
+        }
+      }
+    },
+    "gender": "Flickor",
+    "ageGroup": "2014",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "F2014- 3",
+    "match": "Away",
+    "team": "IFK Aspudden-Tellus Gul 2",
+    "color": "Gul",
+    "formattedTeam": "F2014 Gul",
+    "opponent": "Reymersholms IK 2",
+    "activity": "Match",
+    "formattedTitle": "✈️ F2014 Gul (vs Reymersholms IK 2)"
+  },
+  {
     "uid": "venue-match-6278238",
     "start": "2025-04-27T07:00:00.000Z",
     "end": "2025-04-27T08:30:00.000Z",
@@ -2129,6 +1737,63 @@
     "opponent": "Reymersholms IK 1",
     "activity": "Match",
     "formattedTitle": "🏟️ H2010 (vs Reymersholms IK 1)"
+  },
+  {
+    "uid": "venue-match-6252361",
+    "start": "2025-04-27T13:45:00.000Z",
+    "end": "2025-04-27T15:15:00.000Z",
+    "title": "IFK Aspudden-Tellus Gul 2 vs Rönninge Salem Fotboll Svart",
+    "description": "P2012- 3J",
+    "location": "Västberga IP 11",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-2-ronninge-salem-fotboll-svart-pojkar-2012/6252361/",
+    "categories": [
+      "P2012- 3J"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6252361,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-ronninge-salem-fotboll-svart-pojkar-2012/6252361/",
+      "date": {
+        "iso8601": "2025-04-27 15:45",
+        "formatted": "15:45, 27 apr. 2025"
+      },
+      "location": "Västberga IP 11",
+      "category": "P2012- 3J",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Gul 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Gul 2"
+        }
+      },
+      "away": {
+        "team": "Rönninge Salem Fotboll Svart",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8142.png",
+          "alt": "Rönninge Salem Fotboll Svart"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2012",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2012- 3J",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Gul 2",
+    "color": "Gul",
+    "formattedTeam": "H2012 Gul",
+    "opponent": "Rönninge Salem Fotboll Svart",
+    "activity": "Match",
+    "formattedTitle": "🏟️ H2012 Gul (vs Rönninge Salem Fotboll Svart)"
   },
   {
     "uid": "venue-match-6189513",
@@ -9465,63 +9130,6 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK vs Hallunda IF)"
-  },
-  {
-    "uid": "venue-match-6252409",
-    "start": "2025-06-15T08:00:00.000Z",
-    "end": "2025-06-15T09:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 2 vs Stuvsta IF 2:2",
-    "description": "P2012- 3J",
-    "location": "Västberga IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-2-stuvsta-if-22-pojkar-2012/6252409/",
-    "categories": [
-      "P2012- 3J"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6252409,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-stuvsta-if-22-pojkar-2012/6252409/",
-      "date": {
-        "iso8601": "2025-06-15 10:00",
-        "formatted": "10:00, 15 juni 2025"
-      },
-      "location": "Västberga IP 11",
-      "category": "P2012- 3J",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 2"
-        }
-      },
-      "away": {
-        "team": "Stuvsta IF 2:2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8931.png",
-          "alt": "Stuvsta IF 2:2"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2012- 3J",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 2",
-    "color": "Gul",
-    "formattedTeam": "H2012 Gul",
-    "opponent": "Stuvsta IF 2:2",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Gul (vs Stuvsta IF 2:2)"
   },
   {
     "uid": "venue-match-6256571",
