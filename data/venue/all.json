@@ -26,9 +26,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 5 Mellersta",
       "status": "",
+      "audience": "94",
       "note": "",
       "home": {
         "team": "Stockholm StreetSoccer FF",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13348.png",
           "alt": "Stockholm StreetSoccer FF"
@@ -36,6 +40,9 @@
       },
       "away": {
         "team": "Dardania Stockholm FF",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13269.png",
           "alt": "Dardania Stockholm FF"
@@ -22966,6 +22973,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 3",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 3"
@@ -22973,6 +22983,9 @@
       },
       "away": {
         "team": "Norsborgs IF 1",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10541.png",
           "alt": "Norsborgs IF 1"
