@@ -1679,6 +1679,64 @@
     "formattedTitle": "🏟️ P2015 Röd (vs Vasalund IF Järva 1)"
   },
   {
+    "uid": "venue-match-6274322",
+    "start": "2025-05-08T18:00:00.000Z",
+    "end": "2025-05-08T19:30:00.000Z",
+    "title": "IFK Aspudden-Tellus Blå 1 vs Apollon Solna FK Vit U",
+    "description": "P2015- 1",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-apollon-solna-fk-vit-u-pojkar-2015/6274322/",
+    "categories": [
+      "P2015- 1"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6274322,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-apollon-solna-fk-vit-u-pojkar-2015/6274322/",
+      "date": {
+        "iso8601": "2025-05-08 18:00",
+        "formatted": "18:00, 8 maj 2025"
+      },
+      "location": "Aspuddens IP 2",
+      "category": "P2015- 1",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Blå 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Blå 1"
+        }
+      },
+      "away": {
+        "team": "Apollon Solna FK Vit U",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12027.png",
+          "alt": "Apollon Solna FK Vit U"
+        }
+      }
+    },
+    "gender": "Pojkar",
+    "ageGroup": "2015",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "series": "P2015- 1",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Blå 1",
+    "color": "Blå",
+    "formattedTeam": "P2015 Blå",
+    "opponent": "Apollon Solna FK Vit U",
+    "activity": "Match",
+    "formattedTitle": "🏟️ P2015 Blå (vs Apollon Solna FK Vit U)"
+  },
+  {
     "uid": "venue-match-6278697",
     "start": "2025-05-10T09:30:00.000Z",
     "end": "2025-05-10T11:00:00.000Z",
@@ -2372,64 +2430,6 @@
     "opponent": "Reymersholms IK 3",
     "activity": "Match",
     "formattedTitle": "🏟️ P2014 Blå (vs Reymersholms IK 3)"
-  },
-  {
-    "uid": "venue-match-6274322",
-    "start": "2025-05-11T14:15:00.000Z",
-    "end": "2025-05-11T15:45:00.000Z",
-    "title": "IFK Aspudden-Tellus Blå 1 vs Apollon Solna FK Vit U",
-    "description": "P2015- 1",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-apollon-solna-fk-vit-u-pojkar-2015/6274322/",
-    "categories": [
-      "P2015- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6274322,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-apollon-solna-fk-vit-u-pojkar-2015/6274322/",
-      "date": {
-        "iso8601": "2025-05-11 14:15",
-        "formatted": "14:15, 11 maj 2025"
-      },
-      "location": "Aspuddens IP 2",
-      "category": "P2015- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Blå 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Blå 1"
-        }
-      },
-      "away": {
-        "team": "Apollon Solna FK Vit U",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12027.png",
-          "alt": "Apollon Solna FK Vit U"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2015",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "series": "P2015- 1",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Blå 1",
-    "color": "Blå",
-    "formattedTeam": "P2015 Blå",
-    "opponent": "Apollon Solna FK Vit U",
-    "activity": "Match",
-    "formattedTitle": "🏟️ P2015 Blå (vs Apollon Solna FK Vit U)"
   },
   {
     "uid": "venue-match-6277138",
