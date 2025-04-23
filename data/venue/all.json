@@ -29390,6 +29390,63 @@
     "formattedTitle": "🏟️ P2015 Vit (vs Stuvsta IF 3:2)"
   },
   {
+    "uid": "venue-match-6252397",
+    "start": "2025-05-31T14:00:00.000Z",
+    "end": "2025-05-31T15:30:00.000Z",
+    "title": "IFK Aspudden-Tellus Gul 2 vs Espanyol Academy IF",
+    "description": "P2012- 3J",
+    "location": "Västberga IP 11",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-2-espanyol-academy-if-pojkar-2012/6252397/",
+    "categories": [
+      "P2012- 3J"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6252397,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-espanyol-academy-if-pojkar-2012/6252397/",
+      "date": {
+        "iso8601": "2025-05-31 14:00",
+        "formatted": "14:00, 31 maj 2025"
+      },
+      "location": "Västberga IP 11",
+      "category": "P2012- 3J",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Gul 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Gul 2"
+        }
+      },
+      "away": {
+        "team": "Espanyol Academy IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13150.png",
+          "alt": "Espanyol Academy IF"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2012",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2012- 3J",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Gul 2",
+    "color": "Gul",
+    "formattedTeam": "H2012 Gul",
+    "opponent": "Espanyol Academy IF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ H2012 Gul (vs Espanyol Academy IF)"
+  },
+  {
     "uid": "venue-match-6222002",
     "start": "2025-05-31T16:00:00.000Z",
     "end": "2025-05-31T17:30:00.000Z",
@@ -29666,63 +29723,6 @@
     "opponent": "Hanvikens SK Guld",
     "activity": "Match",
     "formattedTitle": "🏟️ F2013 (vs Hanvikens SK Guld)"
-  },
-  {
-    "uid": "venue-match-6252397",
-    "start": "2025-06-01T12:30:00.000Z",
-    "end": "2025-06-01T14:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 2 vs Espanyol Academy IF",
-    "description": "P2012- 3J",
-    "location": "Västberga IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-2-espanyol-academy-if-pojkar-2012/6252397/",
-    "categories": [
-      "P2012- 3J"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6252397,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-espanyol-academy-if-pojkar-2012/6252397/",
-      "date": {
-        "iso8601": "2025-06-01 12:30",
-        "formatted": "12:30, 1 juni 2025"
-      },
-      "location": "Västberga IP 11",
-      "category": "P2012- 3J",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 2"
-        }
-      },
-      "away": {
-        "team": "Espanyol Academy IF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13150.png",
-          "alt": "Espanyol Academy IF"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2012- 3J",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 2",
-    "color": "Gul",
-    "formattedTeam": "H2012 Gul",
-    "opponent": "Espanyol Academy IF",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Gul (vs Espanyol Academy IF)"
   },
   {
     "uid": "venue-match-6277323",
