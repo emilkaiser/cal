@@ -2348,6 +2348,64 @@
     "formattedTitle": "🏟️ IFK Aspudden-Tellus  (vs Arameisk-Syrianska IF)"
   },
   {
+    "uid": "venue-match-6274296",
+    "start": "2025-05-04T09:30:00.000Z",
+    "end": "2025-05-04T11:00:00.000Z",
+    "title": "IFK Aspudden-Tellus Blå 2 vs Marockanska FC",
+    "description": "P2015- 1",
+    "location": "Aspuddens IP 12",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-marockanska-fc-pojkar-2015/6274296/",
+    "categories": [
+      "P2015- 1"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6274296,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-marockanska-fc-pojkar-2015/6274296/",
+      "date": {
+        "iso8601": "2025-05-04 09:30",
+        "formatted": "09:30, 4 maj 2025"
+      },
+      "location": "Aspuddens IP 12",
+      "category": "P2015- 1",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Blå 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Blå 2"
+        }
+      },
+      "away": {
+        "team": "Marockanska FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13021.png",
+          "alt": "Marockanska FC"
+        }
+      }
+    },
+    "gender": "Pojkar",
+    "ageGroup": "2015",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P2015- 1",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Blå 2",
+    "color": "Blå",
+    "formattedTeam": "P2015 Blå",
+    "opponent": "Marockanska FC",
+    "activity": "Match",
+    "formattedTitle": "🏟️ P2015 Blå (vs Marockanska FC)"
+  },
+  {
     "uid": "venue-match-6264219",
     "start": "2025-05-04T09:30:00.000Z",
     "end": "2025-05-04T11:00:00.000Z",
@@ -2750,64 +2808,6 @@
     "opponent": "Boo FF 2",
     "activity": "Match",
     "formattedTitle": "🏟️ H2009 (vs Boo FF 2)"
-  },
-  {
-    "uid": "venue-match-6274296",
-    "start": "2025-05-04T14:15:00.000Z",
-    "end": "2025-05-04T15:45:00.000Z",
-    "title": "IFK Aspudden-Tellus Blå 2 vs Marockanska FC",
-    "description": "P2015- 1",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-2-marockanska-fc-pojkar-2015/6274296/",
-    "categories": [
-      "P2015- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6274296,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-marockanska-fc-pojkar-2015/6274296/",
-      "date": {
-        "iso8601": "2025-05-04 14:15",
-        "formatted": "14:15, 4 maj 2025"
-      },
-      "location": "Aspuddens IP 2",
-      "category": "P2015- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Blå 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Blå 2"
-        }
-      },
-      "away": {
-        "team": "Marockanska FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13021.png",
-          "alt": "Marockanska FC"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2015",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "series": "P2015- 1",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Blå 2",
-    "color": "Blå",
-    "formattedTeam": "P2015 Blå",
-    "opponent": "Marockanska FC",
-    "activity": "Match",
-    "formattedTitle": "🏟️ P2015 Blå (vs Marockanska FC)"
   },
   {
     "uid": "venue-match-6274966",
@@ -11302,8 +11302,8 @@
   },
   {
     "uid": "venue-match-6191688",
-    "start": "2025-06-29T16:00:00.000Z",
-    "end": "2025-06-29T17:30:00.000Z",
+    "start": "2025-06-24T19:30:00.000Z",
+    "end": "2025-06-24T21:00:00.000Z",
     "title": "IFK Aspudden-Tellus  vs Nyköpings BIS",
     "description": "P19 Div.1 2025 - Region 4",
     "location": "Aspuddens IP 1",
@@ -11321,8 +11321,8 @@
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--nykopings-bis-p19-serier/6191688/",
       "date": {
-        "iso8601": "2025-06-29 16:00",
-        "formatted": "16:00, 29 juni 2025"
+        "iso8601": "2025-06-24 19:30",
+        "formatted": "19:30, 24 juni 2025"
       },
       "location": "Aspuddens IP 1",
       "category": "P19 Div.1 2025 - Region 4",
@@ -11411,6 +11411,62 @@
     "opponent": "BK Buffalo",
     "activity": "Match",
     "formattedTitle": "✈️ Aspuddens FF (vs BK Buffalo)"
+  },
+  {
+    "uid": "venue-match-6191701",
+    "start": "2025-08-03T14:00:00.000Z",
+    "end": "2025-08-03T15:30:00.000Z",
+    "title": "IFK Aspudden-Tellus  vs Adolfsbergs IK",
+    "description": "P19 Div.1 2025 - Region 4",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--adolfsbergs-ik-p19-serier/6191701/",
+    "categories": [
+      "P19 Div.1 2025 - Region 4"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6191701,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus--adolfsbergs-ik-p19-serier/6191701/",
+      "date": {
+        "iso8601": "2025-08-03 14:00",
+        "formatted": "14:00, 3 aug. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P19 Div.1 2025 - Region 4",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus ",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus "
+        }
+      },
+      "away": {
+        "team": "Adolfsbergs IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9406.png",
+          "alt": "Adolfsbergs IK"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P19 Div.1 2025 - Region 4",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus ",
+    "formattedTeam": "IFK Aspudden-Tellus ",
+    "opponent": "Adolfsbergs IK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus  (vs Adolfsbergs IK)"
   },
   {
     "uid": "venue-match-6186187",
