@@ -1,67 +1,5 @@
 [
   {
-    "uid": "venue-match-6190684",
-    "start": "2025-04-25T20:00:00.000Z",
-    "end": "2025-04-25T21:30:00.000Z",
-    "title": "Aspuddens FF vs Tungelsta IF",
-    "description": "Herrar 5 Södra",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-tungelsta-if-div-5-herrar/6190684/",
-    "categories": [
-      "Herrar 5 Södra"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6190684,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/aspuddens-ff-tungelsta-if-div-5-herrar/6190684/",
-      "date": {
-        "iso8601": "2025-04-25 20:00",
-        "formatted": "20:00, 25 apr. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 5 Södra",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Aspuddens FF",
-        "goals": {
-          "scored": 3
-        },
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
-          "alt": "Aspuddens FF"
-        }
-      },
-      "away": {
-        "team": "Tungelsta IF",
-        "goals": {
-          "scored": 4
-        },
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10037.png",
-          "alt": "Tungelsta IF"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 5 Södra",
-    "match": "Home",
-    "team": "Aspuddens FF",
-    "formattedTeam": "Aspuddens FF",
-    "opponent": "Tungelsta IF",
-    "activity": "Match",
-    "formattedTitle": "🏟️ Aspuddens FF (vs Tungelsta IF)"
-  },
-  {
     "uid": "venue-match-6266656",
     "start": "2025-04-26T09:00:00.000Z",
     "end": "2025-04-26T10:30:00.000Z",
@@ -22768,61 +22706,6 @@
     "opponent": "Ingarö IF Gul",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 (vs Ingarö IF Gul)"
-  },
-  {
-    "uid": "venue-match-6221380",
-    "start": "2025-04-25T20:00:00.000Z",
-    "end": "2025-04-25T21:30:00.000Z",
-    "title": "Aspuddens FF vs Enskede FF",
-    "description": "Damer 5 C",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-enskede-ff-div-5-damer/6221380/",
-    "categories": [
-      "Damer 5 C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221380,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/aspuddens-ff-enskede-ff-div-5-damer/6221380/",
-      "date": {
-        "iso8601": "2025-04-25 20:00",
-        "formatted": "20:00, 25 apr. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Damer 5 C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Aspuddens FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
-          "alt": "Aspuddens FF"
-        }
-      },
-      "away": {
-        "team": "Enskede FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7216.png",
-          "alt": "Enskede FF"
-        }
-      }
-    },
-    "gender": "Dam",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Damer 5 C",
-    "match": "Home",
-    "team": "Aspuddens FF",
-    "formattedTeam": "Aspuddens FF",
-    "opponent": "Enskede FF",
-    "activity": "Match",
-    "formattedTitle": "🏟️ Aspuddens FF (vs Enskede FF)"
   },
   {
     "uid": "venue-match-6267539",
