@@ -270,9 +270,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 5 Södra",
       "status": "",
+      "audience": "50",
       "note": "",
       "home": {
         "team": "BK Buffalo",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
           "alt": "BK Buffalo"
@@ -280,6 +284,9 @@
       },
       "away": {
         "team": "Tullinge Triangel Pojkar FK",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6759.png",
           "alt": "Tullinge Triangel Pojkar FK"
