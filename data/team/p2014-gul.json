@@ -1241,36 +1241,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 4"
   },
   {
-    "uid": "team-game-6272591",
-    "start": "2025-04-26T10:45:00.000Z",
-    "end": "2025-04-26T12:15:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 5 vs Stureby SK Gul",
-    "description": "P2014- 3",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6272591",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6272591",
-      "dateTime": "2025-04-26T12:45+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 5",
-      "awayTeam": "Stureby SK Gul",
-      "category": "P2014- 3",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6272591"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 5",
-    "team": "IFK Aspudden-Tellus Gul 5",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 5"
-  },
-  {
     "uid": "team-game-6272656",
     "start": "2025-05-04T08:15:00.000Z",
     "end": "2025-05-04T09:45:00.000Z",
