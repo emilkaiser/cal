@@ -330,9 +330,13 @@
       "location": "Aspuddens IP 1",
       "category": "DJ- 3B",
       "status": "",
+      "audience": "28",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -340,6 +344,9 @@
       },
       "away": {
         "team": "Karlbergs BK Vit",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10871.png",
           "alt": "Karlbergs BK Vit"
