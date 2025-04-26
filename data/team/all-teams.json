@@ -320,37 +320,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Röd 2"
   },
   {
-    "uid": "team-game-6270921",
-    "start": "2025-04-26T09:45:00.000Z",
-    "end": "2025-04-26T11:15:00.000Z",
-    "title": "IFK Aspudden-Tellus Blå 1 vs Stureby SK Blå",
-    "description": "P2014- 2",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/go-to/?fmid=6270921",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270921",
-      "dateTime": "2025-04-26T11:45+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Blå 1",
-      "awayTeam": "Stureby SK Blå",
-      "category": "P2014- 2",
-      "location": "Aspuddens IP 2",
-      "url": "https://www.stff.se/go-to/?fmid=6270921"
-    },
-    "color": "Blå",
-    "formattedTeam": "IFK Aspudden-Tellus Blå 1",
-    "team": "IFK Aspudden-Tellus Blå 1",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Blå 1"
-  },
-  {
     "uid": "team-game-6271125",
     "start": "2025-05-03T13:15:00.000Z",
     "end": "2025-05-03T14:45:00.000Z",
@@ -1221,36 +1190,6 @@
     ],
     "activity": "Match",
     "formattedTitle": "IFK Aspudden-Tellus Blå 2"
-  },
-  {
-    "uid": "team-game-6270167",
-    "start": "2025-04-26T09:30:00.000Z",
-    "end": "2025-04-26T11:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 1 vs IFK Lidingö FK 20 vit",
-    "description": "P2014- 1",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6270167",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270167",
-      "dateTime": "2025-04-26T11:30+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 1",
-      "awayTeam": "IFK Lidingö FK 20 vit",
-      "category": "P2014- 1",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6270167"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 1",
-    "team": "IFK Aspudden-Tellus Gul 1",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 1"
   },
   {
     "uid": "team-game-6270185",
