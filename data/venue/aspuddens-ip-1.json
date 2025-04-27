@@ -275,9 +275,13 @@
       "location": "Aspuddens IP 1",
       "category": "P2008- 2C",
       "status": "",
+      "audience": "50",
       "note": "",
       "home": {
         "team": "Gröndals IK 1",
+        "goals": {
+          "scored": 8
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK 1"
@@ -285,6 +289,9 @@
       },
       "away": {
         "team": "IK Frej Täby FF P17",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13076.png",
           "alt": "IK Frej Täby FF P17"
