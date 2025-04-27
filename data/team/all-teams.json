@@ -672,33 +672,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Blå 1"
   },
   {
-    "uid": "team-game-6270155",
-    "start": "2025-04-27T06:45:00.000Z",
-    "end": "2025-04-27T08:15:00.000Z",
-    "title": "IF Brommapojkarna 2014-32 vs IFK Aspudden-Tellus Gul 2",
-    "description": "P2014- 1",
-    "location": "Olovslunds BP 11",
-    "url": "https://www.stff.se/go-to/?fmid=6270155",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270155",
-      "dateTime": "2025-04-27T08:45+02:00",
-      "homeTeam": "IF Brommapojkarna 2014-32",
-      "awayTeam": "IFK Aspudden-Tellus Gul 2",
-      "category": "P2014- 1",
-      "location": "Olovslunds BP 11",
-      "url": "https://www.stff.se/go-to/?fmid=6270155"
-    },
-    "formattedTeam": "IF Brommapojkarna 2014-32",
-    "team": "IF Brommapojkarna 2014-32",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "IF Brommapojkarna 2014-32"
-  },
-  {
     "uid": "team-game-6270239",
     "start": "2025-05-10T09:30:00.000Z",
     "end": "2025-05-10T11:00:00.000Z",
@@ -1542,33 +1515,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 1"
   },
   {
-    "uid": "team-game-6270155",
-    "start": "2025-04-27T06:45:00.000Z",
-    "end": "2025-04-27T08:15:00.000Z",
-    "title": "IF Brommapojkarna 2014-32 vs IFK Aspudden-Tellus Gul 2",
-    "description": "P2014- 1",
-    "location": "Olovslunds BP 11",
-    "url": "https://www.stff.se/go-to/?fmid=6270155",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270155",
-      "dateTime": "2025-04-27T08:45+02:00",
-      "homeTeam": "IF Brommapojkarna 2014-32",
-      "awayTeam": "IFK Aspudden-Tellus Gul 2",
-      "category": "P2014- 1",
-      "location": "Olovslunds BP 11",
-      "url": "https://www.stff.se/go-to/?fmid=6270155"
-    },
-    "formattedTeam": "IF Brommapojkarna 2014-32",
-    "team": "IF Brommapojkarna 2014-32",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "IF Brommapojkarna 2014-32"
-  },
-  {
     "uid": "team-game-6270239",
     "start": "2025-05-10T09:30:00.000Z",
     "end": "2025-05-10T11:00:00.000Z",
@@ -1882,34 +1828,6 @@
     "venues": [],
     "activity": "Match",
     "formattedTitle": "Hammarby IF FF 13 grön"
-  },
-  {
-    "uid": "team-game-6271007",
-    "start": "2025-04-27T08:00:00.000Z",
-    "end": "2025-04-27T09:30:00.000Z",
-    "title": "Mälarhöjdens IK Fotboll Röd vs IFK Aspudden-Tellus Gul 3",
-    "description": "P2014- 2",
-    "location": "Bredängs BP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6271007",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271007",
-      "dateTime": "2025-04-27T10:00+02:00",
-      "homeTeam": "Mälarhöjdens IK Fotboll Röd",
-      "awayTeam": "IFK Aspudden-Tellus Gul 3",
-      "category": "P2014- 2",
-      "location": "Bredängs BP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6271007"
-    },
-    "color": "Röd",
-    "formattedTeam": "Mälarhöjdens IK Fotboll Röd",
-    "team": "Mälarhöjdens IK Fotboll Röd",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Mälarhöjdens IK Fotboll Röd"
   },
   {
     "uid": "team-game-6271089",
