@@ -152,7 +152,7 @@
       "home": {
         "team": "IFK Aspudden-Tellus 4",
         "goals": {
-          "scored": 7
+          "scored": 0
         },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
@@ -162,7 +162,7 @@
       "away": {
         "team": "IF Brommapojkarna 11-26",
         "goals": {
-          "scored": 3
+          "scored": 5
         },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
@@ -211,9 +211,13 @@
       "location": "Aspuddens IP 1",
       "category": "P2010- 3C",
       "status": "",
+      "audience": "35",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 3",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 3"
@@ -221,6 +225,9 @@
       },
       "away": {
         "team": "IFK Lidingö FK 8",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8255.png",
           "alt": "IFK Lidingö FK 8"
