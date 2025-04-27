@@ -339,6 +339,9 @@
       "note": "",
       "home": {
         "team": "Kransen United FF",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
           "alt": "Kransen United FF"
@@ -346,6 +349,9 @@
       },
       "away": {
         "team": "Stuvsta FF ",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7268.png",
           "alt": "Stuvsta FF "
@@ -392,6 +398,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -399,6 +408,9 @@
       },
       "away": {
         "team": "FK Bromma",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9027.png",
           "alt": "FK Bromma"

@@ -612,9 +612,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 5 Mellersta",
       "status": "",
+      "audience": "45",
       "note": "",
       "home": {
         "team": "BK Fyren",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
           "alt": "BK Fyren"
@@ -622,6 +626,9 @@
       },
       "away": {
         "team": "Essinge IK",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11980.png",
           "alt": "Essinge IK"
@@ -664,9 +671,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 7 G",
       "status": "",
+      "audience": "7",
       "note": "",
       "home": {
         "team": "Stockholm United FC",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13715.png",
           "alt": "Stockholm United FC"
@@ -674,6 +685,9 @@
       },
       "away": {
         "team": "Essinge Rovers IK",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13720.png",
           "alt": "Essinge Rovers IK"
