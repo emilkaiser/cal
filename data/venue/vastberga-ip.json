@@ -904,59 +904,6 @@
     "formattedTitle": "🏟️ P2015 Vit (vs Högalids IF P15-blå)"
   },
   {
-    "uid": "venue-match-6244001",
-    "start": "2025-05-04T16:00:00.000Z",
-    "end": "2025-05-04T17:30:00.000Z",
-    "title": "Gröndals IK 1 vs Reymersholms IK 3",
-    "description": "P2009- 3C",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/grondals-ik-1-reymersholms-ik-3-pojkar-2009/6244001/",
-    "categories": [
-      "P2009- 3C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6244001,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/grondals-ik-1-reymersholms-ik-3-pojkar-2009/6244001/",
-      "date": {
-        "iso8601": "2025-05-04 16:00",
-        "formatted": "16:00, 4 maj 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2009- 3C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Gröndals IK 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
-          "alt": "Gröndals IK 1"
-        }
-      },
-      "away": {
-        "team": "Reymersholms IK 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
-          "alt": "Reymersholms IK 3"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2009",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2009- 3C",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Gröndals IK 1 vs Reymersholms IK 3)"
-  },
-  {
     "uid": "venue-match-6189519",
     "start": "2025-05-04T18:00:00.000Z",
     "end": "2025-05-04T19:30:00.000Z",
