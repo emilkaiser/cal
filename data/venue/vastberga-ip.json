@@ -1,57 +1,5 @@
 [
   {
-    "uid": "venue-match-6221023",
-    "start": "2025-05-02T20:00:00.000Z",
-    "end": "2025-05-02T21:30:00.000Z",
-    "title": "Lado Sur FC vs Kransen United FF",
-    "description": "Herrar 6 E",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/lado-sur-fc-kransen-united-ff-div-6-herrar/6221023/",
-    "categories": [
-      "Herrar 6 E"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221023,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/lado-sur-fc-kransen-united-ff-div-6-herrar/6221023/",
-      "date": {
-        "iso8601": "2025-05-02 20:00",
-        "formatted": "20:00, 2 maj 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Herrar 6 E",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Lado Sur FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
-          "alt": "Lado Sur FC"
-        }
-      },
-      "away": {
-        "team": "Kransen United FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
-          "alt": "Kransen United FF"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Herrar 6 E",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Lado Sur FC vs Kransen United FF)"
-  },
-  {
     "uid": "venue-match-6268949",
     "start": "2025-05-03T09:00:00.000Z",
     "end": "2025-05-03T10:30:00.000Z",
