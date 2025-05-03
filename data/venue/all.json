@@ -379,9 +379,13 @@
       "location": "Aspuddens IP 1",
       "category": "Damer 3 B",
       "status": "",
+      "audience": "48",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -389,6 +393,9 @@
       },
       "away": {
         "team": "Skogås-Trångsunds FF",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
           "alt": "Skogås-Trångsunds FF"
@@ -21315,6 +21322,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 2",
+        "goals": {
+          "scored": 7
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 2"
@@ -21322,6 +21332,9 @@
       },
       "away": {
         "team": "Huddinge IF 12-7div3",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11107.png",
           "alt": "Huddinge IF 12-7div3"
@@ -21429,6 +21442,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 3",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 3"
@@ -21436,6 +21452,9 @@
       },
       "away": {
         "team": "Reymersholms IK 8",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
           "alt": "Reymersholms IK 8"

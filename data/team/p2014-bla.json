@@ -1,33 +1,5 @@
 [
   {
-    "uid": "team-game-6271125",
-    "start": "2025-05-03T13:15:00.000Z",
-    "end": "2025-05-03T14:45:00.000Z",
-    "title": "Älvsjö AIK FF Vit 3 vs IFK Aspudden-Tellus Blå 1",
-    "description": "P2014- 2",
-    "location": "Älvsjö IP 4",
-    "url": "https://www.stff.se/go-to/?fmid=6271125",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271125",
-      "dateTime": "2025-05-03T15:15+02:00",
-      "homeTeam": "Älvsjö AIK FF Vit 3",
-      "awayTeam": "IFK Aspudden-Tellus Blå 1",
-      "category": "P2014- 2",
-      "location": "Älvsjö IP 4",
-      "url": "https://www.stff.se/go-to/?fmid=6271125"
-    },
-    "color": "Vit",
-    "formattedTeam": "Älvsjö AIK FF Vit 3",
-    "team": "Älvsjö AIK FF Vit 3",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Älvsjö AIK FF Vit 3"
-  },
-  {
     "uid": "team-game-6271266",
     "start": "2025-05-11T15:00:00.000Z",
     "end": "2025-05-11T16:30:00.000Z",
