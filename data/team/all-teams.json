@@ -1771,36 +1771,6 @@
     "formattedTitle": "Hammarby IF FF 13 grön"
   },
   {
-    "uid": "team-game-6271089",
-    "start": "2025-05-03T10:45:00.000Z",
-    "end": "2025-05-03T12:15:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 3 vs Hammarby IF FF 2 vit",
-    "description": "P2014- 2",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6271089",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271089",
-      "dateTime": "2025-05-03T12:45+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 3",
-      "awayTeam": "Hammarby IF FF 2 vit",
-      "category": "P2014- 2",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6271089"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 3",
-    "team": "IFK Aspudden-Tellus Gul 3",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 3"
-  },
-  {
     "uid": "team-game-6271201",
     "start": "2025-05-10T09:30:00.000Z",
     "end": "2025-05-10T11:00:00.000Z",
