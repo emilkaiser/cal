@@ -1,33 +1,5 @@
 [
   {
-    "uid": "team-game-6270185",
-    "start": "2025-05-03T09:30:00.000Z",
-    "end": "2025-05-03T11:00:00.000Z",
-    "title": "IFK Viksjö P14gulvi vs IFK Aspudden-Tellus Gul 1",
-    "description": "P2014- 1",
-    "location": "Viksjövallen 3",
-    "url": "https://www.stff.se/go-to/?fmid=6270185",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270185",
-      "dateTime": "2025-05-03T11:30+02:00",
-      "homeTeam": "IFK Viksjö P14gulvi",
-      "awayTeam": "IFK Aspudden-Tellus Gul 1",
-      "category": "P2014- 1",
-      "location": "Viksjövallen 3",
-      "url": "https://www.stff.se/go-to/?fmid=6270185"
-    },
-    "gender": "Pojkar",
-    "formattedTeam": "IFK Viksjö P14gulvi",
-    "team": "IFK Viksjö P14gulvi",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "IFK Viksjö P14gulvi"
-  },
-  {
     "uid": "team-game-6270238",
     "start": "2025-05-10T08:15:00.000Z",
     "end": "2025-05-10T09:45:00.000Z",
