@@ -1,33 +1,5 @@
 [
   {
-    "uid": "team-game-6271118",
-    "start": "2025-05-04T10:00:00.000Z",
-    "end": "2025-05-04T11:30:00.000Z",
-    "title": "IF Brommapojkarna F14A vs IFK Aspudden-Tellus Röd 1",
-    "description": "P2014- 2",
-    "location": "Åkeshovs BP 11",
-    "url": "https://www.stff.se/go-to/?fmid=6271118",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271118",
-      "dateTime": "2025-05-04T12:00+02:00",
-      "homeTeam": "IF Brommapojkarna F14A",
-      "awayTeam": "IFK Aspudden-Tellus Röd 1",
-      "category": "P2014- 2",
-      "location": "Åkeshovs BP 11",
-      "url": "https://www.stff.se/go-to/?fmid=6271118"
-    },
-    "gender": "Flickor",
-    "formattedTeam": "IF Brommapojkarna F14A",
-    "team": "IF Brommapojkarna F14A",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "IF Brommapojkarna F14A"
-  },
-  {
     "uid": "team-game-6271372",
     "start": "2025-05-18T11:00:00.000Z",
     "end": "2025-05-18T12:30:00.000Z",
@@ -2207,33 +2179,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 4"
   },
   {
-    "uid": "team-game-6272656",
-    "start": "2025-05-04T08:15:00.000Z",
-    "end": "2025-05-04T09:45:00.000Z",
-    "title": "Enebybergs IF 1 vs IFK Aspudden-Tellus Gul 5",
-    "description": "P2014- 3",
-    "location": "Enebybergs IP 3",
-    "url": "https://www.stff.se/go-to/?fmid=6272656",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6272656",
-      "dateTime": "2025-05-04T10:15+02:00",
-      "homeTeam": "Enebybergs IF 1",
-      "awayTeam": "IFK Aspudden-Tellus Gul 5",
-      "category": "P2014- 3",
-      "location": "Enebybergs IP 3",
-      "url": "https://www.stff.se/go-to/?fmid=6272656"
-    },
-    "formattedTeam": "Enebybergs IF 1",
-    "team": "Enebybergs IF 1",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Enebybergs IF 1"
-  },
-  {
     "uid": "team-game-6272780",
     "start": "2025-05-10T10:45:00.000Z",
     "end": "2025-05-10T12:15:00.000Z",
@@ -2546,34 +2491,6 @@
     "venues": [],
     "activity": "Match",
     "formattedTitle": "Ingarö IF Röd"
-  },
-  {
-    "uid": "team-game-6272711",
-    "start": "2025-05-04T09:15:00.000Z",
-    "end": "2025-05-04T10:45:00.000Z",
-    "title": "Mälarhöjdens IK Fotboll Vit vs IFK Aspudden-Tellus Gul 6",
-    "description": "P2014- 3",
-    "location": "Bredängs BP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6272711",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6272711",
-      "dateTime": "2025-05-04T11:15+02:00",
-      "homeTeam": "Mälarhöjdens IK Fotboll Vit",
-      "awayTeam": "IFK Aspudden-Tellus Gul 6",
-      "category": "P2014- 3",
-      "location": "Bredängs BP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6272711"
-    },
-    "color": "Vit",
-    "formattedTeam": "Mälarhöjdens IK Fotboll Vit",
-    "team": "Mälarhöjdens IK Fotboll Vit",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Mälarhöjdens IK Fotboll Vit"
   },
   {
     "uid": "team-game-6272834",

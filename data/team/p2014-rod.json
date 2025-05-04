@@ -1,33 +1,5 @@
 [
   {
-    "uid": "team-game-6271118",
-    "start": "2025-05-04T10:00:00.000Z",
-    "end": "2025-05-04T11:30:00.000Z",
-    "title": "IF Brommapojkarna F14A vs IFK Aspudden-Tellus Röd 1",
-    "description": "P2014- 2",
-    "location": "Åkeshovs BP 11",
-    "url": "https://www.stff.se/go-to/?fmid=6271118",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271118",
-      "dateTime": "2025-05-04T12:00+02:00",
-      "homeTeam": "IF Brommapojkarna F14A",
-      "awayTeam": "IFK Aspudden-Tellus Röd 1",
-      "category": "P2014- 2",
-      "location": "Åkeshovs BP 11",
-      "url": "https://www.stff.se/go-to/?fmid=6271118"
-    },
-    "gender": "Flickor",
-    "formattedTeam": "IF Brommapojkarna F14A",
-    "team": "IF Brommapojkarna F14A",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "IF Brommapojkarna F14A"
-  },
-  {
     "uid": "team-game-6271372",
     "start": "2025-05-18T11:00:00.000Z",
     "end": "2025-05-18T12:30:00.000Z",
