@@ -13,10 +13,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190697,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/aspuddens-ff-vega-fc-div-5-herrar/6190697/",
       "date": {
@@ -185,10 +183,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190700,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-buffalo-botkyrka-kuluspor-ff-div-5-herrar/6190700/",
       "date": {
@@ -238,10 +234,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6189521,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/stockholm-streetsoccer-ff-ik-makkabi-div-5-herrar/6189521/",
       "date": {
@@ -1357,10 +1351,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190710,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/aspuddens-ff-atletic-blasut-fc-div-5-herrar/6190710/",
       "date": {
@@ -1413,10 +1405,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6250810,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-mortnas-if-gron-pojkar-2012/6250810/",
       "date": {
@@ -1442,7 +1432,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "ageGroup": "2012",
     "venues": [
       "Aspuddens IP",
@@ -1452,10 +1442,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
-    "formattedTeam": "H2012 Röd",
+    "formattedTeam": "P2012 Röd",
     "opponent": "Mörtnäs IF Grön",
     "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs Mörtnäs IF Grön)"
+    "formattedTitle": "🏟️ P2012 Röd (vs Mörtnäs IF Grön)"
   },
   {
     "uid": "venue-match-6267934",
@@ -1702,10 +1692,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190712,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-buffalo-tungelsta-if-div-5-herrar/6190712/",
       "date": {
@@ -2995,10 +2983,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6250822,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-hammarby-if-ff-26-vit-pojkar-2012/6250822/",
       "date": {
@@ -3024,7 +3010,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "ageGroup": "2012",
     "venues": [
       "Aspuddens IP",
@@ -3034,10 +3020,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
-    "formattedTeam": "H2012 Röd",
+    "formattedTeam": "P2012 Röd",
     "opponent": "Hammarby IF FF 26 vit",
     "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs Hammarby IF FF 26 vit)"
+    "formattedTitle": "🏟️ P2012 Röd (vs Hammarby IF FF 26 vit)"
   },
   {
     "uid": "venue-match-6268187",
@@ -3168,10 +3154,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190723,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/aspuddens-ff-sorskogens-if-div-5-herrar/6190723/",
       "date": {
@@ -3224,10 +3208,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190724,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-buffalo-malarhojden-hagersten-ff-div-5-herrar/6190724/",
       "date": {
@@ -4399,10 +4381,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190736,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-buffalo-aspuddens-ff-div-5-herrar/6190736/",
       "date": {
@@ -4681,10 +4661,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6250834,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-sickla-if-1-pojkar-2012/6250834/",
       "date": {
@@ -4710,7 +4688,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "ageGroup": "2012",
     "venues": [
       "Aspuddens IP",
@@ -4720,10 +4698,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
-    "formattedTeam": "H2012 Röd",
+    "formattedTeam": "P2012 Röd",
     "opponent": "Sickla IF 1",
     "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs Sickla IF 1)"
+    "formattedTitle": "🏟️ P2012 Röd (vs Sickla IF 1)"
   },
   {
     "uid": "venue-match-6245442",
@@ -4849,10 +4827,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190748,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-buffalo-sorskogens-if-div-5-herrar/6190748/",
       "date": {
@@ -5350,10 +5326,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190758,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/aspuddens-ff-fc-tyreso-united-div-5-herrar/6190758/",
       "date": {
@@ -5522,10 +5496,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6250846,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-nacka-fc-future2-pojkar-2012/6250846/",
       "date": {
@@ -5551,7 +5523,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "ageGroup": "2012",
     "venues": [
       "Aspuddens IP",
@@ -5561,10 +5533,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
-    "formattedTeam": "H2012 Röd",
+    "formattedTeam": "P2012 Röd",
     "opponent": "Nacka FC Future2",
     "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs Nacka FC Future2)"
+    "formattedTitle": "🏟️ P2012 Röd (vs Nacka FC Future2)"
   },
   {
     "uid": "venue-match-6190760",
@@ -5580,10 +5552,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190760,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-buffalo-kif-soderort-div-5-herrar/6190760/",
       "date": {
@@ -6649,10 +6619,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190769,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/aspuddens-ff-malarhojden-hagersten-ff-div-5-herrar/6190769/",
       "date": {
@@ -6821,10 +6789,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6250858,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-djurgardens-if-ff-3-pojkar-2012/6250858/",
       "date": {
@@ -6850,7 +6816,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "ageGroup": "2012",
     "venues": [
       "Aspuddens IP",
@@ -6860,10 +6826,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
-    "formattedTeam": "H2012 Röd",
+    "formattedTeam": "P2012 Röd",
     "opponent": "Djurgårdens IF FF 3",
     "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs Djurgårdens IF FF 3)"
+    "formattedTitle": "🏟️ P2012 Röd (vs Djurgårdens IF FF 3)"
   },
   {
     "uid": "venue-match-6266779",
@@ -6994,10 +6960,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190772,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-buffalo-atletic-blasut-fc-div-5-herrar/6190772/",
       "date": {
@@ -8115,10 +8079,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190780,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/aspuddens-ff-botkyrka-kuluspor-ff-div-5-herrar/6190780/",
       "date": {
@@ -8171,10 +8133,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6250870,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-jarla-if-fk-gra-pojkar-2012/6250870/",
       "date": {
@@ -8200,7 +8160,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "ageGroup": "2012",
     "venues": [
       "Aspuddens IP",
@@ -8210,10 +8170,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
-    "formattedTeam": "H2012 Röd",
+    "formattedTeam": "P2012 Röd",
     "opponent": "Järla IF FK Grå",
     "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs Järla IF FK Grå)"
+    "formattedTitle": "🏟️ P2012 Röd (vs Järla IF FK Grå)"
   },
   {
     "uid": "venue-match-6268713",
@@ -8403,10 +8363,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190784,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-buffalo-fc-tyreso-united-div-5-herrar/6190784/",
       "date": {
@@ -9748,10 +9706,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6250882,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-arsta-ff-1-pojkar-2012/6250882/",
       "date": {
@@ -9777,7 +9733,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "ageGroup": "2012",
     "venues": [
       "Aspuddens IP",
@@ -9787,10 +9743,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
-    "formattedTeam": "H2012 Röd",
+    "formattedTeam": "P2012 Röd",
     "opponent": "Årsta FF 1",
     "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs Årsta FF 1)"
+    "formattedTitle": "🏟️ P2012 Röd (vs Årsta FF 1)"
   },
   {
     "uid": "venue-match-6252597",
@@ -10035,10 +9991,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6190791,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/aspuddens-ff-sparvagens-ff--div-5-herrar/6190791/",
       "date": {
@@ -10825,10 +10779,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6250894,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-boo-ff-21-pojkar-2012/6250894/",
       "date": {
@@ -10854,7 +10806,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "ageGroup": "2012",
     "venues": [
       "Aspuddens IP",
@@ -10864,10 +10816,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Röd 1",
     "color": "Röd",
-    "formattedTeam": "H2012 Röd",
+    "formattedTeam": "P2012 Röd",
     "opponent": "Boo FF 21",
     "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs Boo FF 21)"
+    "formattedTitle": "🏟️ P2012 Röd (vs Boo FF 21)"
   },
   {
     "uid": "venue-match-6249337",
