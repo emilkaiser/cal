@@ -1350,63 +1350,6 @@
     "formattedTitle": "🏟️ P2013 Gul (vs Espanyol Academy IF)"
   },
   {
-    "uid": "venue-match-6282437",
-    "start": "2025-05-17T09:00:00.000Z",
-    "end": "2025-05-17T10:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 3 vs Solberga BK 1",
-    "description": "P2017- 1",
-    "location": "Västberga IP 116",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-3-solberga-bk-1-pojkar-2017/6282437/",
-    "categories": [
-      "P2017- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6282437,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-solberga-bk-1-pojkar-2017/6282437/",
-      "date": {
-        "iso8601": "2025-05-17 09:00",
-        "formatted": "09:00, 17 maj 2025"
-      },
-      "location": "Västberga IP 116",
-      "category": "P2017- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 3"
-        }
-      },
-      "away": {
-        "team": "Solberga BK 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10270.png",
-          "alt": "Solberga BK 1"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2017",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2017- 1",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 3",
-    "color": "Gul",
-    "formattedTeam": "P2017 Gul",
-    "opponent": "Solberga BK 1",
-    "activity": "Match",
-    "formattedTitle": "🏟️ P2017 Gul (vs Solberga BK 1)"
-  },
-  {
     "uid": "venue-match-6264356",
     "start": "2025-05-17T10:00:00.000Z",
     "end": "2025-05-17T11:30:00.000Z",
