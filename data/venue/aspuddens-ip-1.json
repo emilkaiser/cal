@@ -4274,6 +4274,59 @@
     "formattedTitle": " (Kransen United FF vs Westermalms IF FK)"
   },
   {
+    "uid": "venue-match-6221047",
+    "start": "2025-06-18T20:00:00.000Z",
+    "end": "2025-06-18T21:30:00.000Z",
+    "title": "Kransen United FF vs Westermalms IF FK",
+    "description": "Herrar 6 E",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-westermalms-if-fk-div-6-herrar/6221047/",
+    "categories": [
+      "Herrar 6 E"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6221047,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-westermalms-if-fk-div-6-herrar/6221047/",
+      "date": {
+        "iso8601": "2025-06-18 20:00",
+        "formatted": "20:00, 18 juni 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 6 E",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Westermalms IF FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7306.png",
+          "alt": "Westermalms IF FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 6 E",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Westermalms IF FK)"
+  },
+  {
     "uid": "venue-match-6186059",
     "start": "2025-06-22T18:00:00.000Z",
     "end": "2025-06-22T19:30:00.000Z",
@@ -4328,6 +4381,62 @@
     "opponent": "IFK Stockholm FK",
     "activity": "Match",
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs IFK Stockholm FK)"
+  },
+  {
+    "uid": "venue-match-6191688",
+    "start": "2025-06-24T19:30:00.000Z",
+    "end": "2025-06-24T21:00:00.000Z",
+    "title": "IFK Aspudden-Tellus  vs Nyköpings BIS",
+    "description": "P19 Div.1 2025 - Region 4",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--nykopings-bis-p19-serier/6191688/",
+    "categories": [
+      "P19 Div.1 2025 - Region 4"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6191688,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus--nykopings-bis-p19-serier/6191688/",
+      "date": {
+        "iso8601": "2025-06-24 19:30",
+        "formatted": "19:30, 24 juni 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P19 Div.1 2025 - Region 4",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus ",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus "
+        }
+      },
+      "away": {
+        "team": "Nyköpings BIS",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10524.png",
+          "alt": "Nyköpings BIS"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P19 Div.1 2025 - Region 4",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus ",
+    "formattedTeam": "IFK Aspudden-Tellus ",
+    "opponent": "Nyköpings BIS",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus  (vs Nyköpings BIS)"
   },
   {
     "uid": "venue-match-6191688",
