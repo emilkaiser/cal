@@ -1248,8 +1248,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220583,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-sickla-if-div-4-damer/6220583/",
       "date": {
@@ -1911,6 +1913,60 @@
     "opponent": "Konyaspor Kultur och IF U14 Vit",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 (vs Konyaspor Kultur och IF U14 Vit)"
+  },
+  {
+    "uid": "venue-match-6244276",
+    "start": "2025-05-25T12:00:00.000Z",
+    "end": "2025-05-25T13:30:00.000Z",
+    "title": "Ekerö IK 1 vs Hammarby IF FF 2",
+    "description": "P2010- 1B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ekero-ik-1-hammarby-if-ff-2-pojkar-2010/6244276/",
+    "categories": [
+      "P2010- 1B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6244276,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ekero-ik-1-hammarby-if-ff-2-pojkar-2010/6244276/",
+      "date": {
+        "iso8601": "2025-05-25 12:00",
+        "formatted": "12:00, 25 maj 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P2010- 1B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Ekerö IK 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11431.png",
+          "alt": "Ekerö IK 1"
+        }
+      },
+      "away": {
+        "team": "Hammarby IF FF 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
+          "alt": "Hammarby IF FF 2"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2010",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P2010- 1B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Ekerö IK 1 vs Hammarby IF FF 2)"
   },
   {
     "uid": "venue-match-6255235",
@@ -2770,8 +2826,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220593,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-osmo-gif-fk-div-4-damer/6220593/",
       "date": {
@@ -4067,8 +4125,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220603,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-ifk-haninge-div-4-damer/6220603/",
       "date": {
@@ -4213,6 +4273,62 @@
     "opponent": "Åkersberga FC 1",
     "activity": "Match",
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Åkersberga FC 1)"
+  },
+  {
+    "uid": "venue-match-6186147",
+    "start": "2025-06-18T20:00:00.000Z",
+    "end": "2025-06-18T21:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs IFK Tumba FK",
+    "description": "Herrar 4 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-ifk-tumba-fk-div-4-herrar/6186147/",
+    "categories": [
+      "Herrar 4 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6186147,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-ifk-tumba-fk-div-4-herrar/6186147/",
+      "date": {
+        "iso8601": "2025-06-18 20:00",
+        "formatted": "20:00, 18 juni 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "IFK Tumba FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7790.png",
+          "alt": "IFK Tumba FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Södra",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "IFK Tumba FK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs IFK Tumba FK)"
   },
   {
     "uid": "venue-match-6186059",
@@ -4843,8 +4959,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220613,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-ronninge-salem-fotboll--div-4-damer/6220613/",
       "date": {
@@ -6535,8 +6653,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220623,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-orby-is-div-4-damer/6220623/",
       "date": {
@@ -7999,8 +8119,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220633,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-foc-farsta-ff-div-4-damer/6220633/",
       "date": {
@@ -9630,8 +9752,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220647,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-arsta-ff-div-4-damer/6220647/",
       "date": {
