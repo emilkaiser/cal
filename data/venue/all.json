@@ -8043,59 +8043,6 @@
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Åkersberga FC 1)"
   },
   {
-    "uid": "venue-match-6221047",
-    "start": "2025-06-18T20:00:00.000Z",
-    "end": "2025-06-18T21:30:00.000Z",
-    "title": "Kransen United FF vs Westermalms IF FK",
-    "description": "Herrar 6 E",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-westermalms-if-fk-div-6-herrar/6221047/",
-    "categories": [
-      "Herrar 6 E"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221047,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/kransen-united-ff-westermalms-if-fk-div-6-herrar/6221047/",
-      "date": {
-        "iso8601": "2025-06-18 20:00",
-        "formatted": "20:00, 18 juni 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 6 E",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Kransen United FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
-          "alt": "Kransen United FF"
-        }
-      },
-      "away": {
-        "team": "Westermalms IF FK",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7306.png",
-          "alt": "Westermalms IF FK"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 6 E",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Kransen United FF vs Westermalms IF FK)"
-  },
-  {
     "uid": "venue-match-6186059",
     "start": "2025-06-22T18:00:00.000Z",
     "end": "2025-06-22T19:30:00.000Z",
@@ -25939,6 +25886,58 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Råsunda IS)"
+  },
+  {
+    "uid": "venue-match-6221047",
+    "start": "2025-06-18T20:00:00.000Z",
+    "end": "2025-06-18T21:30:00.000Z",
+    "title": "Kransen United FF vs Westermalms IF FK",
+    "description": "Herrar 6 E",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-westermalms-if-fk-div-6-herrar/6221047/",
+    "categories": [
+      "Herrar 6 E"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6221047,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-westermalms-if-fk-div-6-herrar/6221047/",
+      "date": {
+        "iso8601": "2025-06-18 20:00",
+        "formatted": "20:00, 18 juni 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 6 E",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Westermalms IF FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7306.png",
+          "alt": "Westermalms IF FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 6 E",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Westermalms IF FK)"
   },
   {
     "uid": "venue-match-6221057",
