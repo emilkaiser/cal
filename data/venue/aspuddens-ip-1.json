@@ -1248,10 +1248,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220583,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Kvinna",
-      "genderId": 3,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-sickla-if-div-4-damer/6220583/",
       "date": {
@@ -2772,10 +2770,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220593,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Kvinna",
-      "genderId": 3,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-osmo-gif-fk-div-4-damer/6220593/",
       "date": {
@@ -4071,10 +4067,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220603,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Kvinna",
-      "genderId": 3,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-ifk-haninge-div-4-damer/6220603/",
       "date": {
@@ -4849,10 +4843,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220613,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Kvinna",
-      "genderId": 3,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-ronninge-salem-fotboll--div-4-damer/6220613/",
       "date": {
@@ -6543,10 +6535,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220623,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Kvinna",
-      "genderId": 3,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-orby-is-div-4-damer/6220623/",
       "date": {
@@ -8009,10 +7999,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220633,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Kvinna",
-      "genderId": 3,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-foc-farsta-ff-div-4-damer/6220633/",
       "date": {
@@ -9642,10 +9630,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6220647,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Kvinna",
-      "genderId": 3,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-arsta-ff-div-4-damer/6220647/",
       "date": {
