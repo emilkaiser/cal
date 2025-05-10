@@ -983,36 +983,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 4"
   },
   {
-    "uid": "team-game-6272780",
-    "start": "2025-05-10T10:45:00.000Z",
-    "end": "2025-05-10T12:15:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 5 vs Reymersholms IK 4",
-    "description": "P2014- 3",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6272780",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6272780",
-      "dateTime": "2025-05-10T12:45+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 5",
-      "awayTeam": "Reymersholms IK 4",
-      "category": "P2014- 3",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6272780"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 5",
-    "team": "IFK Aspudden-Tellus Gul 5",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 5"
-  },
-  {
     "uid": "team-game-6272844",
     "start": "2025-05-17T09:30:00.000Z",
     "end": "2025-05-17T11:00:00.000Z",
