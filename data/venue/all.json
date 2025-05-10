@@ -379,9 +379,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 5 Södra",
       "status": "",
+      "audience": "20",
       "note": "",
       "home": {
         "team": "BK Buffalo",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
           "alt": "BK Buffalo"
@@ -389,6 +393,9 @@
       },
       "away": {
         "team": "Botkyrka Kuluspor FF",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13502.png",
           "alt": "Botkyrka Kuluspor FF"
@@ -20174,6 +20181,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 2",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 2"
@@ -20181,6 +20191,9 @@
       },
       "away": {
         "team": "Djurgårdens IF FF 6 Röd",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
           "alt": "Djurgårdens IF FF 6 Röd"
