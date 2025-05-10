@@ -208,9 +208,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 5 Mellersta",
       "status": "",
+      "audience": "54",
       "note": "",
       "home": {
         "team": "Stockholm StreetSoccer FF",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13348.png",
           "alt": "Stockholm StreetSoccer FF"
@@ -218,6 +222,9 @@
       },
       "away": {
         "team": "IK Makkabi",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10671.png",
           "alt": "IK Makkabi"
