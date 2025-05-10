@@ -20244,6 +20244,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -20251,6 +20254,9 @@
       },
       "away": {
         "team": "Uruguayanska FF Veteran",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12470.png",
           "alt": "Uruguayanska FF Veteran"
