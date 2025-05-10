@@ -1,35 +1,5 @@
 [
   {
-    "uid": "team-game-6270238",
-    "start": "2025-05-10T08:15:00.000Z",
-    "end": "2025-05-10T09:45:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 1 vs Norrtulls SK Svart 2S",
-    "description": "P2014- 1",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6270238",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270238",
-      "dateTime": "2025-05-10T10:15+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 1",
-      "awayTeam": "Norrtulls SK Svart 2S",
-      "category": "P2014- 1",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6270238"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 1",
-    "team": "IFK Aspudden-Tellus Gul 1",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 1"
-  },
-  {
     "uid": "team-game-6270304",
     "start": "2025-05-18T12:00:00.000Z",
     "end": "2025-05-18T13:30:00.000Z",
@@ -322,34 +292,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 1"
   },
   {
-    "uid": "team-game-6270239",
-    "start": "2025-05-10T09:30:00.000Z",
-    "end": "2025-05-10T11:00:00.000Z",
-    "title": "Rönninge Salem Fotboll Grön vs IFK Aspudden-Tellus Gul 2",
-    "description": "P2014- 1",
-    "location": "Prästboda BP 115",
-    "url": "https://www.stff.se/go-to/?fmid=6270239",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270239",
-      "dateTime": "2025-05-10T11:30+02:00",
-      "homeTeam": "Rönninge Salem Fotboll Grön",
-      "awayTeam": "IFK Aspudden-Tellus Gul 2",
-      "category": "P2014- 1",
-      "location": "Prästboda BP 115",
-      "url": "https://www.stff.se/go-to/?fmid=6270239"
-    },
-    "color": "Grön",
-    "formattedTeam": "Rönninge Salem Fotboll Grön",
-    "team": "Rönninge Salem Fotboll Grön",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Rönninge Salem Fotboll Grön"
-  },
-  {
     "uid": "team-game-6270312",
     "start": "2025-05-17T09:30:00.000Z",
     "end": "2025-05-17T11:00:00.000Z",
@@ -635,36 +577,6 @@
     "venues": [],
     "activity": "Match",
     "formattedTitle": "Hammarby IF FF 13 grön"
-  },
-  {
-    "uid": "team-game-6271201",
-    "start": "2025-05-10T09:30:00.000Z",
-    "end": "2025-05-10T11:00:00.000Z",
-    "title": "Högalids IF P14 Vit vs IFK Aspudden-Tellus Gul 3",
-    "description": "P2014- 2",
-    "location": "Långholmens BP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6271201",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271201",
-      "dateTime": "2025-05-10T11:30+02:00",
-      "homeTeam": "Högalids IF P14 Vit",
-      "awayTeam": "IFK Aspudden-Tellus Gul 3",
-      "category": "P2014- 2",
-      "location": "Långholmens BP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6271201"
-    },
-    "color": "Vit",
-    "gender": "Pojkar",
-    "ageGroup": "14",
-    "formattedTeam": "P14 Vit",
-    "team": "Högalids IF P14 Vit",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "P14 Vit"
   },
   {
     "uid": "team-game-6271389",
@@ -954,36 +866,6 @@
     ],
     "activity": "Match",
     "formattedTitle": "IFK Aspudden-Tellus Gul 3"
-  },
-  {
-    "uid": "team-game-6271204",
-    "start": "2025-05-10T09:30:00.000Z",
-    "end": "2025-05-10T11:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 4 vs Hammarby IF FF 8 vit",
-    "description": "P2014- 2",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6271204",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271204",
-      "dateTime": "2025-05-10T11:30+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 4",
-      "awayTeam": "Hammarby IF FF 8 vit",
-      "category": "P2014- 2",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6271204"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 4",
-    "team": "IFK Aspudden-Tellus Gul 4",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 4"
   },
   {
     "uid": "team-game-6271415",
