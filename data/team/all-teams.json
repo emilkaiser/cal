@@ -845,37 +845,6 @@
     "formattedTitle": "Hammarby IF FF 13 grön"
   },
   {
-    "uid": "team-game-6272786",
-    "start": "2025-05-11T11:00:00.000Z",
-    "end": "2025-05-11T12:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Blå 2 vs Reymersholms IK 3",
-    "description": "P2014- 3",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/go-to/?fmid=6272786",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6272786",
-      "dateTime": "2025-05-11T13:00+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Blå 2",
-      "awayTeam": "Reymersholms IK 3",
-      "category": "P2014- 3",
-      "location": "Aspuddens IP 2",
-      "url": "https://www.stff.se/go-to/?fmid=6272786"
-    },
-    "color": "Blå",
-    "formattedTeam": "IFK Aspudden-Tellus Blå 2",
-    "team": "IFK Aspudden-Tellus Blå 2",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Blå 2"
-  },
-  {
     "uid": "team-game-6272882",
     "start": "2025-05-25T08:15:00.000Z",
     "end": "2025-05-25T09:45:00.000Z",
