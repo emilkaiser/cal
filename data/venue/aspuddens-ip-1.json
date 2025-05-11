@@ -332,9 +332,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 6 E",
       "status": "",
+      "audience": "30",
       "note": "",
       "home": {
         "team": "Kransen United FF",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
           "alt": "Kransen United FF"
@@ -342,6 +346,9 @@
       },
       "away": {
         "team": "Preben BoIS",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12183.png",
           "alt": "Preben BoIS"
@@ -385,9 +392,13 @@
       "location": "Aspuddens IP 1",
       "category": "P2008- 2C",
       "status": "",
+      "audience": "50",
       "note": "",
       "home": {
         "team": "Gröndals IK 1",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK 1"
@@ -395,6 +406,9 @@
       },
       "away": {
         "team": "Enskede IK 1",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11417.png",
           "alt": "Enskede IK 1"

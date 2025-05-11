@@ -494,9 +494,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 7 G",
       "status": "",
+      "audience": "35",
       "note": "",
       "home": {
         "team": "Stockholm United FC",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13715.png",
           "alt": "Stockholm United FC"
@@ -504,6 +508,9 @@
       },
       "away": {
         "team": "Gröndals IK",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK"
