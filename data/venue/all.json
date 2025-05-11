@@ -674,9 +674,13 @@
       "location": "Aspuddens IP 1",
       "category": "P2009-kval till P17- B",
       "status": "",
+      "audience": "100",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 1",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 1"
@@ -684,6 +688,9 @@
       },
       "away": {
         "team": "Rågsveds IF",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10396.png",
           "alt": "Rågsveds IF"
