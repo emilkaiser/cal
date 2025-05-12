@@ -2356,58 +2356,6 @@
     "formattedTitle": " (Reymersholms IK 1 vs Spånga IS FK 1)"
   },
   {
-    "uid": "venue-match-6221995",
-    "start": "2025-05-25T20:00:00.000Z",
-    "end": "2025-05-25T21:30:00.000Z",
-    "title": "Långholmen FC vs Colo-Colo International FK",
-    "description": "Herrar 7 G",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/langholmen-fc-colo-colo-international-fk-div-7-herrar/6221995/",
-    "categories": [
-      "Herrar 7 G"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221995,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/langholmen-fc-colo-colo-international-fk-div-7-herrar/6221995/",
-      "date": {
-        "iso8601": "2025-05-25 20:00",
-        "formatted": "20:00, 25 maj 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Herrar 7 G",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Långholmen FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6892.png",
-          "alt": "Långholmen FC"
-        }
-      },
-      "away": {
-        "team": "Colo-Colo International FK",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13517.png",
-          "alt": "Colo-Colo International FK"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Herrar 7 G",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Långholmen FC vs Colo-Colo International FK)"
-  },
-  {
     "uid": "venue-match-6221406",
     "start": "2025-05-30T20:00:00.000Z",
     "end": "2025-05-30T21:30:00.000Z",
@@ -11138,58 +11086,6 @@
     "opponent": "Reymersholms IK 3",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 Gul (vs Reymersholms IK 3)"
-  },
-  {
-    "uid": "venue-match-6222047",
-    "start": "2025-09-20T16:00:00.000Z",
-    "end": "2025-09-20T17:30:00.000Z",
-    "title": "Stockholm United FC vs Colo-Colo International FK",
-    "description": "Herrar 7 G",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/stockholm-united-fc-colo-colo-international-fk-div-7-herrar/6222047/",
-    "categories": [
-      "Herrar 7 G"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6222047,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/stockholm-united-fc-colo-colo-international-fk-div-7-herrar/6222047/",
-      "date": {
-        "iso8601": "2025-09-20 16:00",
-        "formatted": "16:00, 20 sep. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Herrar 7 G",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Stockholm United FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13715.png",
-          "alt": "Stockholm United FC"
-        }
-      },
-      "away": {
-        "team": "Colo-Colo International FK",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13517.png",
-          "alt": "Colo-Colo International FK"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Herrar 7 G",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Stockholm United FC vs Colo-Colo International FK)"
   },
   {
     "uid": "venue-match-6266395",
