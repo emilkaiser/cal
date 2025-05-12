@@ -3579,6 +3579,59 @@
     "formattedTitle": " (Lado Sur FC vs Tudor Arms FC)"
   },
   {
+    "uid": "venue-match-6255861",
+    "start": "2025-06-06T13:30:00.000Z",
+    "end": "2025-06-06T15:00:00.000Z",
+    "title": "Älvsjö AIK FF 1 vs Rönninge Salem Fotboll Gul",
+    "description": "F2012- 1B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/alvsjo-aik-ff-1-ronninge-salem-fotboll-gul-flickor-2012/6255861/",
+    "categories": [
+      "F2012- 1B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6255861,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/alvsjo-aik-ff-1-ronninge-salem-fotboll-gul-flickor-2012/6255861/",
+      "date": {
+        "iso8601": "2025-06-06 13:30",
+        "formatted": "13:30, 6 juni 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "F2012- 1B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Älvsjö AIK FF 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7708.png",
+          "alt": "Älvsjö AIK FF 1"
+        }
+      },
+      "away": {
+        "team": "Rönninge Salem Fotboll Gul",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8142.png",
+          "alt": "Rönninge Salem Fotboll Gul"
+        }
+      }
+    },
+    "gender": "Damjunior",
+    "ageGroup": "2012",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "F2012- 1B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Älvsjö AIK FF 1 vs Rönninge Salem Fotboll Gul)"
+  },
+  {
     "uid": "venue-match-6262061",
     "start": "2025-06-07T09:00:00.000Z",
     "end": "2025-06-07T10:30:00.000Z",
