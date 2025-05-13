@@ -1658,64 +1658,6 @@
     "formattedTitle": "🏟️ P2013 Svart (vs Arameisk-Syrianska IF - Svart)"
   },
   {
-    "uid": "venue-match-6282700",
-    "start": "2025-05-24T10:30:00.000Z",
-    "end": "2025-05-24T12:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Röd 1 vs IF Brommapojkarna P17-13",
-    "description": "P2017- 1",
-    "location": "Aspuddens IP 26",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-if-brommapojkarna-p17-13-pojkar-2017/6282700/",
-    "categories": [
-      "P2017- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6282700,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-if-brommapojkarna-p17-13-pojkar-2017/6282700/",
-      "date": {
-        "iso8601": "2025-05-24 10:30",
-        "formatted": "10:30, 24 maj 2025"
-      },
-      "location": "Aspuddens IP 26",
-      "category": "P2017- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Röd 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Röd 1"
-        }
-      },
-      "away": {
-        "team": "IF Brommapojkarna P17-13",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
-          "alt": "IF Brommapojkarna P17-13"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2017",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "series": "P2017- 1",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Röd 1",
-    "color": "Röd",
-    "formattedTeam": "P2017 Röd",
-    "opponent": "IF Brommapojkarna P17-13",
-    "activity": "Match",
-    "formattedTitle": "🏟️ P2017 Röd (vs IF Brommapojkarna P17-13)"
-  },
-  {
     "uid": "venue-match-6347357",
     "start": "2025-05-24T12:15:00.000Z",
     "end": "2025-05-24T13:45:00.000Z",
@@ -20429,6 +20371,59 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Reymersholms IK 1 vs Spånga IS FK 1)"
+  },
+  {
+    "uid": "venue-match-6260424",
+    "start": "2025-05-28T19:00:00.000Z",
+    "end": "2025-05-28T20:30:00.000Z",
+    "title": "Reymersholms IK 2 vs Saltsjöbadens IF Vit",
+    "description": "F2013- 3",
+    "location": "Västberga IP 11",
+    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ik-2-saltsjobadens-if-vit-flickor-2013/6260424/",
+    "categories": [
+      "F2013- 3"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6260424,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/reymersholms-ik-2-saltsjobadens-if-vit-flickor-2013/6260424/",
+      "date": {
+        "iso8601": "2025-05-28 19:00",
+        "formatted": "19:00, 28 maj 2025"
+      },
+      "location": "Västberga IP 11",
+      "category": "F2013- 3",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Reymersholms IK 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
+          "alt": "Reymersholms IK 2"
+        }
+      },
+      "away": {
+        "team": "Saltsjöbadens IF Vit",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10370.png",
+          "alt": "Saltsjöbadens IF Vit"
+        }
+      }
+    },
+    "gender": "Flickor",
+    "ageGroup": "2013",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "F2013- 3",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Reymersholms IK 2 vs Saltsjöbadens IF Vit)"
   },
   {
     "uid": "venue-match-6221406",
