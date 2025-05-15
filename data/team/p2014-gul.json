@@ -265,6 +265,293 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 1"
   },
   {
+    "uid": "team-game-6270312",
+    "start": "2025-05-17T09:30:00.000Z",
+    "end": "2025-05-17T11:00:00.000Z",
+    "title": "IFK Aspudden-Tellus Gul 2 vs Rotebro IS FF Röd 4",
+    "description": "P2014- 1",
+    "location": "Västberga IP 12",
+    "url": "https://www.stff.se/go-to/?fmid=6270312",
+    "categories": [
+      "P2014- 1"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6270312",
+      "dateTime": "2025-05-17T11:30+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Gul 2",
+      "awayTeam": "Rotebro IS FF Röd 4",
+      "category": "P2014- 1",
+      "location": "Västberga IP 12",
+      "url": "https://www.stff.se/go-to/?fmid=6270312"
+    },
+    "color": "Gul",
+    "formattedTeam": "IFK Aspudden-Tellus Gul 2",
+    "team": "IFK Aspudden-Tellus Gul 2",
+    "venues": [
+      "Västberga IP"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Gul 2"
+  },
+  {
+    "uid": "team-game-6270353",
+    "start": "2025-05-24T13:15:00.000Z",
+    "end": "2025-05-24T14:45:00.000Z",
+    "title": "Hammarby IF FF 24 grön vs IFK Aspudden-Tellus Gul 2",
+    "description": "P2014- 1",
+    "location": "Kärrtorps IP 32",
+    "url": "https://www.stff.se/go-to/?fmid=6270353",
+    "categories": [
+      "P2014- 1"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6270353",
+      "dateTime": "2025-05-24T15:15+02:00",
+      "homeTeam": "Hammarby IF FF 24 grön",
+      "awayTeam": "IFK Aspudden-Tellus Gul 2",
+      "category": "P2014- 1",
+      "location": "Kärrtorps IP 32",
+      "url": "https://www.stff.se/go-to/?fmid=6270353"
+    },
+    "color": "Grön",
+    "formattedTeam": "Hammarby IF FF 24 grön",
+    "team": "Hammarby IF FF 24 grön",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Hammarby IF FF 24 grön"
+  },
+  {
+    "uid": "team-game-6270437",
+    "start": "2025-05-31T08:15:00.000Z",
+    "end": "2025-05-31T09:45:00.000Z",
+    "title": "IFK Aspudden-Tellus Gul 2 vs Tullinge Triangel Pojkar FK Grön",
+    "description": "P2014- 1",
+    "location": "Västberga IP 12",
+    "url": "https://www.stff.se/go-to/?fmid=6270437",
+    "categories": [
+      "P2014- 1"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6270437",
+      "dateTime": "2025-05-31T10:15+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Gul 2",
+      "awayTeam": "Tullinge Triangel Pojkar FK Grön",
+      "category": "P2014- 1",
+      "location": "Västberga IP 12",
+      "url": "https://www.stff.se/go-to/?fmid=6270437"
+    },
+    "color": "Gul",
+    "formattedTeam": "IFK Aspudden-Tellus Gul 2",
+    "team": "IFK Aspudden-Tellus Gul 2",
+    "venues": [
+      "Västberga IP"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Gul 2"
+  },
+  {
+    "uid": "team-game-6270494",
+    "start": "2025-06-07T08:30:00.000Z",
+    "end": "2025-06-07T10:00:00.000Z",
+    "title": "Djurgårdens IF FF 8 vs IFK Aspudden-Tellus Gul 2",
+    "description": "P2014- 1",
+    "location": "Hjorthagens IP 2",
+    "url": "https://www.stff.se/go-to/?fmid=6270494",
+    "categories": [
+      "P2014- 1"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6270494",
+      "dateTime": "2025-06-07T10:30+02:00",
+      "homeTeam": "Djurgårdens IF FF 8",
+      "awayTeam": "IFK Aspudden-Tellus Gul 2",
+      "category": "P2014- 1",
+      "location": "Hjorthagens IP 2",
+      "url": "https://www.stff.se/go-to/?fmid=6270494"
+    },
+    "formattedTeam": "Djurgårdens IF FF 8",
+    "team": "Djurgårdens IF FF 8",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Djurgårdens IF FF 8"
+  },
+  {
+    "uid": "team-game-6270561",
+    "start": "2025-08-23T09:30:00.000Z",
+    "end": "2025-08-23T11:00:00.000Z",
+    "title": "IFK Aspudden-Tellus Gul 2 vs Vega FC P2014 S3",
+    "description": "P2014- 1",
+    "location": "Västberga IP 12",
+    "url": "https://www.stff.se/go-to/?fmid=6270561",
+    "categories": [
+      "P2014- 1"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6270561",
+      "dateTime": "2025-08-23T11:30+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Gul 2",
+      "awayTeam": "Vega FC P2014 S3",
+      "category": "P2014- 1",
+      "location": "Västberga IP 12",
+      "url": "https://www.stff.se/go-to/?fmid=6270561"
+    },
+    "color": "Gul",
+    "formattedTeam": "IFK Aspudden-Tellus Gul 2",
+    "team": "IFK Aspudden-Tellus Gul 2",
+    "venues": [
+      "Västberga IP"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Gul 2"
+  },
+  {
+    "uid": "team-game-6270605",
+    "start": "2025-08-30T09:30:00.000Z",
+    "end": "2025-08-30T11:00:00.000Z",
+    "title": "Sollentuna FK Silver 1 vs IFK Aspudden-Tellus Gul 2",
+    "description": "P2014- 1",
+    "location": "Helenelunds IP 125",
+    "url": "https://www.stff.se/go-to/?fmid=6270605",
+    "categories": [
+      "P2014- 1"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6270605",
+      "dateTime": "2025-08-30T11:30+02:00",
+      "homeTeam": "Sollentuna FK Silver 1",
+      "awayTeam": "IFK Aspudden-Tellus Gul 2",
+      "category": "P2014- 1",
+      "location": "Helenelunds IP 125",
+      "url": "https://www.stff.se/go-to/?fmid=6270605"
+    },
+    "formattedTeam": "Sollentuna FK Silver 1",
+    "team": "Sollentuna FK Silver 1",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Sollentuna FK Silver 1"
+  },
+  {
+    "uid": "team-game-6270709",
+    "start": "2025-09-06T08:15:00.000Z",
+    "end": "2025-09-06T09:45:00.000Z",
+    "title": "IFK Aspudden-Tellus Gul 2 vs IFK Tumba FK Svart",
+    "description": "P2014- 1",
+    "location": "Västberga IP 12",
+    "url": "https://www.stff.se/go-to/?fmid=6270709",
+    "categories": [
+      "P2014- 1"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6270709",
+      "dateTime": "2025-09-06T10:15+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Gul 2",
+      "awayTeam": "IFK Tumba FK Svart",
+      "category": "P2014- 1",
+      "location": "Västberga IP 12",
+      "url": "https://www.stff.se/go-to/?fmid=6270709"
+    },
+    "color": "Gul",
+    "formattedTeam": "IFK Aspudden-Tellus Gul 2",
+    "team": "IFK Aspudden-Tellus Gul 2",
+    "venues": [
+      "Västberga IP"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Gul 2"
+  },
+  {
+    "uid": "team-game-6270733",
+    "start": "2025-09-13T09:30:00.000Z",
+    "end": "2025-09-13T11:00:00.000Z",
+    "title": "IFK Haninge HB2 vs IFK Aspudden-Tellus Gul 2",
+    "description": "P2014- 1",
+    "location": "Torvalla IP 22",
+    "url": "https://www.stff.se/go-to/?fmid=6270733",
+    "categories": [
+      "P2014- 1"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6270733",
+      "dateTime": "2025-09-13T11:30+02:00",
+      "homeTeam": "IFK Haninge HB2",
+      "awayTeam": "IFK Aspudden-Tellus Gul 2",
+      "category": "P2014- 1",
+      "location": "Torvalla IP 22",
+      "url": "https://www.stff.se/go-to/?fmid=6270733"
+    },
+    "formattedTeam": "IFK Haninge HB2",
+    "team": "IFK Haninge HB2",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "IFK Haninge HB2"
+  },
+  {
+    "uid": "team-game-6270794",
+    "start": "2025-09-20T09:30:00.000Z",
+    "end": "2025-09-20T11:00:00.000Z",
+    "title": "IFK Aspudden-Tellus Gul 2 vs Värmdö IF Svart",
+    "description": "P2014- 1",
+    "location": "Västberga IP 12",
+    "url": "https://www.stff.se/go-to/?fmid=6270794",
+    "categories": [
+      "P2014- 1"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6270794",
+      "dateTime": "2025-09-20T11:30+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Gul 2",
+      "awayTeam": "Värmdö IF Svart",
+      "category": "P2014- 1",
+      "location": "Västberga IP 12",
+      "url": "https://www.stff.se/go-to/?fmid=6270794"
+    },
+    "color": "Gul",
+    "formattedTeam": "IFK Aspudden-Tellus Gul 2",
+    "team": "IFK Aspudden-Tellus Gul 2",
+    "venues": [
+      "Västberga IP"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Gul 2"
+  },
+  {
+    "uid": "team-game-6270863",
+    "start": "2025-09-28T08:15:00.000Z",
+    "end": "2025-09-28T09:45:00.000Z",
+    "title": "Hammarby IF FF 13 grön vs IFK Aspudden-Tellus Gul 2",
+    "description": "P2014- 1",
+    "location": "Bagarmossens BP 12",
+    "url": "https://www.stff.se/go-to/?fmid=6270863",
+    "categories": [
+      "P2014- 1"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6270863",
+      "dateTime": "2025-09-28T10:15+02:00",
+      "homeTeam": "Hammarby IF FF 13 grön",
+      "awayTeam": "IFK Aspudden-Tellus Gul 2",
+      "category": "P2014- 1",
+      "location": "Bagarmossens BP 12",
+      "url": "https://www.stff.se/go-to/?fmid=6270863"
+    },
+    "color": "Grön",
+    "formattedTeam": "Hammarby IF FF 13 grön",
+    "team": "Hammarby IF FF 13 grön",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Hammarby IF FF 13 grön"
+  },
+  {
     "uid": "team-game-6271389",
     "start": "2025-05-17T10:45:00.000Z",
     "end": "2025-05-17T12:15:00.000Z",
@@ -951,5 +1238,123 @@
     "venues": [],
     "activity": "Match",
     "formattedTitle": "Ingarö IF Röd"
+  },
+  {
+    "uid": "team-game-6272834",
+    "start": "2025-05-18T10:45:00.000Z",
+    "end": "2025-05-18T12:15:00.000Z",
+    "title": "IFK Aspudden-Tellus Gul 6 vs Hammarby IF FF 13 gul",
+    "description": "P2014- 3",
+    "location": "Västberga IP 12",
+    "url": "https://www.stff.se/go-to/?fmid=6272834",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6272834",
+      "dateTime": "2025-05-18T12:45+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Gul 6",
+      "awayTeam": "Hammarby IF FF 13 gul",
+      "category": "P2014- 3",
+      "location": "Västberga IP 12",
+      "url": "https://www.stff.se/go-to/?fmid=6272834"
+    },
+    "color": "Gul",
+    "formattedTeam": "IFK Aspudden-Tellus Gul 6",
+    "team": "IFK Aspudden-Tellus Gul 6",
+    "venues": [
+      "Västberga IP"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Gul 6"
+  },
+  {
+    "uid": "team-game-6272962",
+    "start": "2025-05-31T12:00:00.000Z",
+    "end": "2025-05-31T13:30:00.000Z",
+    "title": "Älta IF gul vs IFK Aspudden-Tellus Gul 6",
+    "description": "P2014- 3",
+    "location": "Älta IP 2",
+    "url": "https://www.stff.se/go-to/?fmid=6272962",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6272962",
+      "dateTime": "2025-05-31T14:00+02:00",
+      "homeTeam": "Älta IF gul",
+      "awayTeam": "IFK Aspudden-Tellus Gul 6",
+      "category": "P2014- 3",
+      "location": "Älta IP 2",
+      "url": "https://www.stff.se/go-to/?fmid=6272962"
+    },
+    "color": "Gul",
+    "formattedTeam": "Älta IF gul",
+    "team": "Älta IF gul",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Älta IF gul"
+  },
+  {
+    "uid": "team-game-6273440",
+    "start": "2025-09-13T10:45:00.000Z",
+    "end": "2025-09-13T12:15:00.000Z",
+    "title": "IFK Aspudden-Tellus Gul 6 vs Saltsjöbadens IF Vit",
+    "description": "P2014- 3",
+    "location": "Västberga IP 12",
+    "url": "https://www.stff.se/go-to/?fmid=6273440",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6273440",
+      "dateTime": "2025-09-13T12:45+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Gul 6",
+      "awayTeam": "Saltsjöbadens IF Vit",
+      "category": "P2014- 3",
+      "location": "Västberga IP 12",
+      "url": "https://www.stff.se/go-to/?fmid=6273440"
+    },
+    "color": "Gul",
+    "formattedTeam": "IFK Aspudden-Tellus Gul 6",
+    "team": "IFK Aspudden-Tellus Gul 6",
+    "venues": [
+      "Västberga IP"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Gul 6"
+  },
+  {
+    "uid": "team-game-6273549",
+    "start": "2025-09-27T10:45:00.000Z",
+    "end": "2025-09-27T12:15:00.000Z",
+    "title": "IFK Aspudden-Tellus Gul 6 vs Boo FF 7 2",
+    "description": "P2014- 3",
+    "location": "Västberga IP 12",
+    "url": "https://www.stff.se/go-to/?fmid=6273549",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6273549",
+      "dateTime": "2025-09-27T12:45+02:00",
+      "homeTeam": "IFK Aspudden-Tellus Gul 6",
+      "awayTeam": "Boo FF 7 2",
+      "category": "P2014- 3",
+      "location": "Västberga IP 12",
+      "url": "https://www.stff.se/go-to/?fmid=6273549"
+    },
+    "color": "Gul",
+    "formattedTeam": "IFK Aspudden-Tellus Gul 6",
+    "team": "IFK Aspudden-Tellus Gul 6",
+    "venues": [
+      "Västberga IP"
+    ],
+    "activity": "Match",
+    "formattedTitle": "IFK Aspudden-Tellus Gul 6"
   }
 ]
