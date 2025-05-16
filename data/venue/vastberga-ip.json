@@ -26,9 +26,13 @@
       "location": "Västberga IP 1",
       "category": "Damer 5 C",
       "status": "",
+      "audience": "25",
       "note": "",
       "home": {
         "team": "Aspuddens FF",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
           "alt": "Aspuddens FF"
@@ -36,6 +40,9 @@
       },
       "away": {
         "team": "Långholmen FC",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6892.png",
           "alt": "Långholmen FC"
