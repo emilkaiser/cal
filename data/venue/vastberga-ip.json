@@ -496,6 +496,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 3",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 3"
@@ -503,6 +506,9 @@
       },
       "away": {
         "team": "Enskede IK Gul",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11417.png",
           "alt": "Enskede IK Gul"
