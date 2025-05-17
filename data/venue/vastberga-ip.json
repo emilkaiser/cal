@@ -559,6 +559,9 @@
       "note": "",
       "home": {
         "team": "Gröndals IK",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK"
@@ -566,6 +569,9 @@
       },
       "away": {
         "team": "Polonia Falcons FF",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12070.png",
           "alt": "Polonia Falcons FF"
