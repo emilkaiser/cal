@@ -610,9 +610,13 @@
       "location": "Aspuddens IP 1",
       "category": "Damer 4 B",
       "status": "",
+      "audience": "50",
       "note": "",
       "home": {
         "team": "Kransen United FF",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
           "alt": "Kransen United FF"
@@ -620,6 +624,9 @@
       },
       "away": {
         "team": "Sickla IF",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11612.png",
           "alt": "Sickla IF"
@@ -18058,9 +18065,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 5 Mellersta",
       "status": "",
+      "audience": "9",
       "note": "",
       "home": {
         "team": "BK Fyren",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
           "alt": "BK Fyren"
@@ -18068,6 +18079,9 @@
       },
       "away": {
         "team": "Handelskamraternas IS",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11802.png",
           "alt": "Handelskamraternas IS"
