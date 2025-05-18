@@ -18002,6 +18002,9 @@
       "note": "",
       "home": {
         "team": "Gröndals IK 1",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK 1"
@@ -18009,6 +18012,9 @@
       },
       "away": {
         "team": "Bagarmossen Kärrtorp BK",
+        "goals": {
+          "scored": 11
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7205.png",
           "alt": "Bagarmossen Kärrtorp BK"
