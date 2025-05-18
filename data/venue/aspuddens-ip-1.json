@@ -205,6 +205,9 @@
       "note": "",
       "home": {
         "team": "Gröndals IK 1",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK 1"
@@ -212,6 +215,9 @@
       },
       "away": {
         "team": "Huddinge IF P17U",
+        "goals": {
+          "scored": 13
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11107.png",
           "alt": "Huddinge IF P17U"
