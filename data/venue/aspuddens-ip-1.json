@@ -398,6 +398,60 @@
     "formattedTitle": " (BK Buffalo vs Tungelsta IF)"
   },
   {
+    "uid": "venue-match-6242657",
+    "start": "2025-05-24T16:00:00.000Z",
+    "end": "2025-05-24T17:30:00.000Z",
+    "title": "Djurgårdens IF FF 5 vs Enskede IK 2",
+    "description": "P2008- 2B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-5-enskede-ik-2-pojkar-2008/6242657/",
+    "categories": [
+      "P2008- 2B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6242657,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-if-ff-5-enskede-ik-2-pojkar-2008/6242657/",
+      "date": {
+        "iso8601": "2025-05-24 16:00",
+        "formatted": "16:00, 24 maj 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P2008- 2B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens IF FF 5",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 5"
+        }
+      },
+      "away": {
+        "team": "Enskede IK 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11417.png",
+          "alt": "Enskede IK 2"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2008",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P2008- 2B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens IF FF 5 vs Enskede IK 2)"
+  },
+  {
     "uid": "venue-match-6252259",
     "start": "2025-05-25T09:00:00.000Z",
     "end": "2025-05-25T10:30:00.000Z",
@@ -1467,6 +1521,60 @@
     "opponent": "Karlslunds IF FK",
     "activity": "Match",
     "formattedTitle": "🏟️ IFK Aspudden-Tellus  (vs Karlslunds IF FK)"
+  },
+  {
+    "uid": "venue-match-6252279",
+    "start": "2025-06-01T16:15:00.000Z",
+    "end": "2025-06-01T17:45:00.000Z",
+    "title": "Hammarby IF FF 25 vit vs Tungelsta IF 1",
+    "description": "P2012- 3I",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/hammarby-if-ff-25-vit-tungelsta-if-1-pojkar-2012/6252279/",
+    "categories": [
+      "P2012- 3I"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6252279,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/hammarby-if-ff-25-vit-tungelsta-if-1-pojkar-2012/6252279/",
+      "date": {
+        "iso8601": "2025-06-01 16:15",
+        "formatted": "16:15, 1 juni 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P2012- 3I",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Hammarby IF FF 25 vit",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
+          "alt": "Hammarby IF FF 25 vit"
+        }
+      },
+      "away": {
+        "team": "Tungelsta IF 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10037.png",
+          "alt": "Tungelsta IF 1"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2012",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P2012- 3I",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Hammarby IF FF 25 vit vs Tungelsta IF 1)"
   },
   {
     "uid": "venue-match-6220593",
