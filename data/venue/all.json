@@ -19727,6 +19727,63 @@
     "formattedTitle": "🏟️ P2014 Gul (vs Espanyol Academy IF Blanco)"
   },
   {
+    "uid": "venue-match-6252144",
+    "start": "2025-06-07T11:00:00.000Z",
+    "end": "2025-06-07T12:30:00.000Z",
+    "title": "IFK Aspudden-Tellus Gul 1 vs Skogås-Trångsunds FF Röd",
+    "description": "P2012- 3H",
+    "location": "Västberga IP 11",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-1-skogas-trangsunds-ff-rod-pojkar-2012/6252144/",
+    "categories": [
+      "P2012- 3H"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6252144,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-skogas-trangsunds-ff-rod-pojkar-2012/6252144/",
+      "date": {
+        "iso8601": "2025-06-07 11:00",
+        "formatted": "11:00, 7 juni 2025"
+      },
+      "location": "Västberga IP 11",
+      "category": "P2012- 3H",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Gul 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Gul 1"
+        }
+      },
+      "away": {
+        "team": "Skogås-Trångsunds FF Röd",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
+          "alt": "Skogås-Trångsunds FF Röd"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2012",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2012- 3H",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Gul 1",
+    "color": "Gul",
+    "formattedTeam": "H2012 Gul",
+    "opponent": "Skogås-Trångsunds FF Röd",
+    "activity": "Match",
+    "formattedTitle": "🏟️ H2012 Gul (vs Skogås-Trångsunds FF Röd)"
+  },
+  {
     "uid": "venue-match-6271780",
     "start": "2025-06-07T11:30:00.000Z",
     "end": "2025-06-07T13:00:00.000Z",
