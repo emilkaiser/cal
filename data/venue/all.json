@@ -1,61 +1,5 @@
 [
   {
-    "uid": "venue-match-6190710",
-    "start": "2025-05-23T20:00:00.000Z",
-    "end": "2025-05-23T21:30:00.000Z",
-    "title": "Aspuddens FF vs Atletic Blåsut FC",
-    "description": "Herrar 5 Södra",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-atletic-blasut-fc-div-5-herrar/6190710/",
-    "categories": [
-      "Herrar 5 Södra"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6190710,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/aspuddens-ff-atletic-blasut-fc-div-5-herrar/6190710/",
-      "date": {
-        "iso8601": "2025-05-23 20:00",
-        "formatted": "20:00, 23 maj 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 5 Södra",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Aspuddens FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
-          "alt": "Aspuddens FF"
-        }
-      },
-      "away": {
-        "team": "Atletic Blåsut FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13186.png",
-          "alt": "Atletic Blåsut FC"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 5 Södra",
-    "match": "Home",
-    "team": "Aspuddens FF",
-    "formattedTeam": "Aspuddens FF",
-    "opponent": "Atletic Blåsut FC",
-    "activity": "Match",
-    "formattedTitle": "🏟️ Aspuddens FF (vs Atletic Blåsut FC)"
-  },
-  {
     "uid": "venue-match-6250810",
     "start": "2025-05-24T09:00:00.000Z",
     "end": "2025-05-24T10:30:00.000Z",
@@ -16927,65 +16871,6 @@
     "opponent": "Ingarö IF Gul",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 (vs Ingarö IF Gul)"
-  },
-  {
-    "uid": "venue-match-6221035",
-    "start": "2025-05-23T20:00:00.000Z",
-    "end": "2025-05-23T21:30:00.000Z",
-    "title": "Lado Sur FC vs Westermalms IF FK",
-    "description": "Herrar 6 E",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/lado-sur-fc-westermalms-if-fk-div-6-herrar/6221035/",
-    "categories": [
-      "Herrar 6 E"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221035,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/lado-sur-fc-westermalms-if-fk-div-6-herrar/6221035/",
-      "date": {
-        "iso8601": "2025-05-23 20:00",
-        "formatted": "20:00, 23 maj 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Herrar 6 E",
-      "status": "",
-      "audience": "45",
-      "note": "",
-      "home": {
-        "team": "Lado Sur FC",
-        "goals": {
-          "scored": 1
-        },
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
-          "alt": "Lado Sur FC"
-        }
-      },
-      "away": {
-        "team": "Westermalms IF FK",
-        "goals": {
-          "scored": 1
-        },
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7306.png",
-          "alt": "Westermalms IF FK"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Herrar 6 E",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Lado Sur FC vs Westermalms IF FK)"
   },
   {
     "uid": "venue-match-6261941",
