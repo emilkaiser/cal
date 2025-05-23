@@ -16955,9 +16955,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 6 E",
       "status": "",
+      "audience": "45",
       "note": "",
       "home": {
         "team": "Lado Sur FC",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
           "alt": "Lado Sur FC"
@@ -16965,6 +16969,9 @@
       },
       "away": {
         "team": "Westermalms IF FK",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7306.png",
           "alt": "Westermalms IF FK"
