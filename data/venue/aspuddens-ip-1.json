@@ -5748,10 +5748,10 @@
     "uid": "venue-match-6245464",
     "start": "2025-09-06T12:00:00.000Z",
     "end": "2025-09-06T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 3 vs Nockebyhovs IF NFK",
+    "title": "IFK Aspudden-Tellus 3 vs Nockebyhov/FK Bromma",
     "description": "P2010- 3C",
     "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-nockebyhovs-if-nfk-pojkar-2010/6245464/",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-nockebyhovfk-bromma-pojkar-2010/6245464/",
     "categories": [
       "P2010- 3C"
     ],
@@ -5763,7 +5763,7 @@
       "genderName": "Man",
       "genderId": 2,
       "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-3-nockebyhovs-if-nfk-pojkar-2010/6245464/",
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-3-nockebyhovfk-bromma-pojkar-2010/6245464/",
       "date": {
         "iso8601": "2025-09-06 12:00",
         "formatted": "12:00, 6 sep. 2025"
@@ -5780,10 +5780,10 @@
         }
       },
       "away": {
-        "team": "Nockebyhovs IF NFK",
+        "team": "Nockebyhov/FK Bromma",
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6948.png",
-          "alt": "Nockebyhovs IF NFK"
+          "alt": "Nockebyhov/FK Bromma"
         }
       }
     },
@@ -5797,9 +5797,9 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus 3",
     "formattedTeam": "H2010",
-    "opponent": "Nockebyhovs IF NFK",
+    "opponent": "Nockebyhov/FK Bromma",
     "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs Nockebyhovs IF NFK)"
+    "formattedTitle": "🏟️ H2010 (vs Nockebyhov/FK Bromma)"
   },
   {
     "uid": "venue-match-6190772",
