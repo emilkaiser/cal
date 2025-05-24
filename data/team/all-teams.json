@@ -1624,34 +1624,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 3"
   },
   {
-    "uid": "team-game-6271415",
-    "start": "2025-05-24T08:00:00.000Z",
-    "end": "2025-05-24T09:30:00.000Z",
-    "title": "Arameisk-Syrianska IF 1 Gul vs IFK Aspudden-Tellus Gul 4",
-    "description": "P2014- 2",
-    "location": "Brunna IP 22",
-    "url": "https://www.stff.se/go-to/?fmid=6271415",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271415",
-      "dateTime": "2025-05-24T10:00+02:00",
-      "homeTeam": "Arameisk-Syrianska IF 1 Gul",
-      "awayTeam": "IFK Aspudden-Tellus Gul 4",
-      "category": "P2014- 2",
-      "location": "Brunna IP 22",
-      "url": "https://www.stff.se/go-to/?fmid=6271415"
-    },
-    "color": "Gul",
-    "formattedTeam": "Arameisk-Syrianska IF 1 Gul",
-    "team": "Arameisk-Syrianska IF 1 Gul",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Arameisk-Syrianska IF 1 Gul"
-  },
-  {
     "uid": "team-game-6271887",
     "start": "2025-08-23T10:45:00.000Z",
     "end": "2025-08-23T12:15:00.000Z",
