@@ -207,34 +207,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 1"
   },
   {
-    "uid": "team-game-6270353",
-    "start": "2025-05-24T13:15:00.000Z",
-    "end": "2025-05-24T14:45:00.000Z",
-    "title": "Hammarby IF FF 24 grön vs IFK Aspudden-Tellus Gul 2",
-    "description": "P2014- 1",
-    "location": "Kärrtorps IP 32",
-    "url": "https://www.stff.se/go-to/?fmid=6270353",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270353",
-      "dateTime": "2025-05-24T15:15+02:00",
-      "homeTeam": "Hammarby IF FF 24 grön",
-      "awayTeam": "IFK Aspudden-Tellus Gul 2",
-      "category": "P2014- 1",
-      "location": "Kärrtorps IP 32",
-      "url": "https://www.stff.se/go-to/?fmid=6270353"
-    },
-    "color": "Grön",
-    "formattedTeam": "Hammarby IF FF 24 grön",
-    "team": "Hammarby IF FF 24 grön",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Hammarby IF FF 24 grön"
-  },
-  {
     "uid": "team-game-6270437",
     "start": "2025-05-31T08:15:00.000Z",
     "end": "2025-05-31T09:45:00.000Z",
