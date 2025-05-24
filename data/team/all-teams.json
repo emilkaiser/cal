@@ -871,36 +871,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Blå 2"
   },
   {
-    "uid": "team-game-6270374",
-    "start": "2025-05-24T08:15:00.000Z",
-    "end": "2025-05-24T09:45:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 1 vs FC Balingsnäs 2",
-    "description": "P2014- 1",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6270374",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270374",
-      "dateTime": "2025-05-24T10:15+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 1",
-      "awayTeam": "FC Balingsnäs 2",
-      "category": "P2014- 1",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6270374"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 1",
-    "team": "IFK Aspudden-Tellus Gul 1",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 1"
-  },
-  {
     "uid": "team-game-6270427",
     "start": "2025-05-31T07:00:00.000Z",
     "end": "2025-05-31T08:30:00.000Z",
@@ -1709,36 +1679,6 @@
     ],
     "activity": "Match",
     "formattedTitle": "IFK Aspudden-Tellus Gul 4"
-  },
-  {
-    "uid": "team-game-6272943",
-    "start": "2025-05-24T09:30:00.000Z",
-    "end": "2025-05-24T11:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 5 vs Sörskogens IF 1",
-    "description": "P2014- 3",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6272943",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6272943",
-      "dateTime": "2025-05-24T11:30+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 5",
-      "awayTeam": "Sörskogens IF 1",
-      "category": "P2014- 3",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6272943"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 5",
-    "team": "IFK Aspudden-Tellus Gul 5",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 5"
   },
   {
     "uid": "team-game-6272983",
