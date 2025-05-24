@@ -614,9 +614,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar Vet B",
       "status": "",
+      "audience": "10",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -624,6 +628,9 @@
       },
       "away": {
         "team": "Ängby IF",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9781.png",
           "alt": "Ängby IF"
