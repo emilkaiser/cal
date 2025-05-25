@@ -438,6 +438,9 @@
       "note": "",
       "home": {
         "team": "Reymersholms IK 1",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
           "alt": "Reymersholms IK 1"
@@ -445,6 +448,9 @@
       },
       "away": {
         "team": "Spånga IS FK 1",
+        "goals": {
+          "scored": 8
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7892.png",
           "alt": "Spånga IS FK 1"
