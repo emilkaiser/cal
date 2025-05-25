@@ -397,9 +397,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 6 E",
       "status": "",
+      "audience": "30",
       "note": "",
       "home": {
         "team": "Kransen United FF",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
           "alt": "Kransen United FF"
@@ -407,6 +411,9 @@
       },
       "away": {
         "team": "FC Plavi Team",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7828.png",
           "alt": "FC Plavi Team"
