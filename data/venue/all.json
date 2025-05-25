@@ -267,6 +267,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 1",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 1"
@@ -274,6 +277,9 @@
       },
       "away": {
         "team": "Konyaspor Kultur och IF U14 Vit",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8003.png",
           "alt": "Konyaspor Kultur och IF U14 Vit"
@@ -498,6 +504,9 @@
       "note": "",
       "home": {
         "team": "Ekerö IK 1",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11431.png",
           "alt": "Ekerö IK 1"
@@ -505,6 +514,9 @@
       },
       "away": {
         "team": "Hammarby IF FF 2",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
           "alt": "Hammarby IF FF 2"
@@ -16451,6 +16463,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 4",
+        "goals": {
+          "scored": 11
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 4"
@@ -16458,6 +16473,9 @@
       },
       "away": {
         "team": "Gröndals IK Svart",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK Svart"

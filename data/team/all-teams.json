@@ -1192,33 +1192,6 @@
     "formattedTitle": "Hammarby IF FF 13 grön"
   },
   {
-    "uid": "team-game-6271442",
-    "start": "2025-05-25T10:45:00.000Z",
-    "end": "2025-05-25T12:15:00.000Z",
-    "title": "AIK FF 11 vs IFK Aspudden-Tellus Gul 3",
-    "description": "P2014- 2",
-    "location": "Huvudstafältet 12",
-    "url": "https://www.stff.se/go-to/?fmid=6271442",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271442",
-      "dateTime": "2025-05-25T12:45+02:00",
-      "homeTeam": "AIK FF 11",
-      "awayTeam": "IFK Aspudden-Tellus Gul 3",
-      "category": "P2014- 2",
-      "location": "Huvudstafältet 12",
-      "url": "https://www.stff.se/go-to/?fmid=6271442"
-    },
-    "formattedTeam": "AIK FF 11",
-    "team": "AIK FF 11",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "AIK FF 11"
-  },
-  {
     "uid": "team-game-6271603",
     "start": "2025-05-31T09:30:00.000Z",
     "end": "2025-05-31T11:00:00.000Z",
