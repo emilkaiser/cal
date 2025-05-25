@@ -462,34 +462,6 @@
     "formattedTitle": "Hammarby IF FF 13 grön"
   },
   {
-    "uid": "team-game-6272882",
-    "start": "2025-05-25T08:15:00.000Z",
-    "end": "2025-05-25T09:45:00.000Z",
-    "title": "IF Söderkamraterna Svart vs IFK Aspudden-Tellus Blå 2",
-    "description": "P2014- 3",
-    "location": "Sofiaskolans BP 1",
-    "url": "https://www.stff.se/go-to/?fmid=6272882",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6272882",
-      "dateTime": "2025-05-25T10:15+02:00",
-      "homeTeam": "IF Söderkamraterna Svart",
-      "awayTeam": "IFK Aspudden-Tellus Blå 2",
-      "category": "P2014- 3",
-      "location": "Sofiaskolans BP 1",
-      "url": "https://www.stff.se/go-to/?fmid=6272882"
-    },
-    "color": "Svart",
-    "formattedTeam": "IF Söderkamraterna Svart",
-    "team": "IF Söderkamraterna Svart",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "IF Söderkamraterna Svart"
-  },
-  {
     "uid": "team-game-6273077",
     "start": "2025-06-08T11:00:00.000Z",
     "end": "2025-06-08T12:30:00.000Z",
