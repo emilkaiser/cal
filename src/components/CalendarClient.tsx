@@ -8,6 +8,7 @@ import { Skeleton } from '@/components/ui/skeleton';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { CalendarIcon, RefreshCcw } from 'lucide-react';
+import moment from 'moment';
 
 interface CalendarClientProps {
   initialEvents: BaseCalendarEvent[];
@@ -25,11 +26,11 @@ export default function CalendarClient({ initialEvents, dataSources }: CalendarC
       return normalizedEventsCache.get(initialEvents);
     }
 
-    // Parse date strings to Date objects
+    // Parse date strings to Date objects with proper timezone handling
     const parsedEvents = initialEvents.map(event => ({
       ...event,
-      start: new Date(event.start),
-      end: new Date(event.end),
+      start: moment.utc(event.start).toDate(),
+      end: moment.utc(event.end).toDate(),
     }));
 
     // Store in cache

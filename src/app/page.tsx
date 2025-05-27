@@ -1,45 +1,45 @@
 'use client';
 
-import { useState, useEffect } from 'react';
 import TeamCalendar from '@/components/TeamCalendar';
-import { getAllEvents } from '@/lib/data';
-import { CalendarEvent } from '@/types/types';
-import { DataSource } from '@/lib/data-sources';
+import { useLoadCalendarData } from '@/lib/data';
 
 export default function Home() {
-  const [data, setData] = useState<{ events: CalendarEvent[]; dataSources: DataSource[] }>({
-    events: [],
-    dataSources: [],
-  });
-  const [loading, setLoading] = useState(true);
+  const { events, dataSources, isLoading, error } = useLoadCalendarData();
 
-  useEffect(() => {
-    // Get all events
-    const { events, dataSources } = getAllEvents();
-
-    // Parse date strings to Date objects
-    const parsedEvents = events.map(event => ({
-      ...event,
-      start: new Date(event.start),
-      end: new Date(event.end),
-    }));
-
-    setData({
-      events: parsedEvents,
-      dataSources,
-    });
-    setLoading(false);
-  }, []);
-
-  return (
-    <main>
-      {loading ? (
+  if (isLoading) {
+    return (
+      <main>
         <div style={{ textAlign: 'center', marginTop: '50px' }}>
           <h2>Loading calendar data...</h2>
         </div>
-      ) : (
-        <TeamCalendar events={data.events} dataSources={data.dataSources} />
-      )}
+      </main>
+    );
+  }
+
+  if (error) {
+    return (
+      <main>
+        <div style={{ textAlign: 'center', marginTop: '50px' }}>
+          <h2>Error loading calendar data</h2>
+          <p>{error.message}</p>
+        </div>
+      </main>
+    );
+  }
+
+  if (!events || events.length === 0) {
+    return (
+      <main>
+        <div style={{ textAlign: 'center', marginTop: '50px' }}>
+          <h2>No events found</h2>
+        </div>
+      </main>
+    );
+  }
+
+  return (
+    <main>
+      <TeamCalendar events={events} dataSources={dataSources} />
     </main>
   );
 }

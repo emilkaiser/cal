@@ -1,9 +1,5 @@
-import lagetData from '@/data/laget/calendar.json';
-
-import aspuddensIp1 from '@/data/venue/aspuddens-ip-1.json';
-import aspuddensIp2 from '@/data/venue/aspuddens-ip-2.json';
-import vastbergaIp from '@/data/venue/vastberga-ip.json';
 import { CalendarEvent } from '../types/types';
+import { fetchGithubJson } from './utils';
 
 export interface DataSource {
   id: string;
@@ -13,8 +9,12 @@ export interface DataSource {
 }
 
 // Create data sources from the venue JSON files
-export const getVenueDataSources = (): DataSource[] => {
+export const getVenueDataSources = async (): Promise<DataSource[]> => {
   const sources: DataSource[] = [];
+
+  const aspuddensIp1 = await fetchGithubJson<any[]>('data/venue/aspuddens-ip-1.json');
+  const aspuddensIp2 = await fetchGithubJson<any[]>('data/venue/aspuddens-ip-2.json');
+  const vastbergaIp = await fetchGithubJson<any[]>('data/venue/vastberga-ip.json');
 
   sources.push({
     id: 'venue-aspuddens-ip-1',
@@ -41,8 +41,9 @@ export const getVenueDataSources = (): DataSource[] => {
 };
 
 // Create laget data source
-export const getLagetDataSource = (): DataSource => {
-  const data = normalize(lagetData as any[]).map(event => ({
+export const getLagetDataSource = async (): Promise<DataSource> => {
+  const lagetData = await fetchGithubJson<any[]>('data/laget/calendar.json');
+  const data = normalize(lagetData).map(event => ({
     ...event,
     title: event.formattedTitle,
   }));
@@ -77,13 +78,13 @@ function normalize(events: any[]): CalendarEvent[] {
 }
 
 // Get all available data sources
-export const getAllDataSources = (): DataSource[] => {
-  return [getLagetDataSource(), ...getVenueDataSources()];
+export const getAllDataSources = async (): Promise<DataSource[]> => {
+  const [lagetSource, venueSources] = await Promise.all([
+    getLagetDataSource(),
+    getVenueDataSources(),
+  ]);
+  return [lagetSource, ...venueSources];
 };
-
-// Export all data sources for use in other files - memoize this to avoid recreating on every import
-const cachedAllDataSources = getAllDataSources();
-export const allDataSources = cachedAllDataSources;
 
 // Export helper functions for use in other files
 export function normalizeEvents(events: any[]): CalendarEvent[] {

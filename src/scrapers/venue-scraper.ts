@@ -16,6 +16,8 @@ import {
   getGenderFromTeamName,
 } from './utils/team-metadata';
 import { createFormattedTeamName } from './utils/team-parser';
+import moment from 'moment';
+import 'moment-timezone';
 
 // Define resource IDs for the venues we want to fetch
 const RESOURCE_IDS = [15452, 15469]; // Aspuddens IP and Västberga IP
@@ -93,8 +95,8 @@ function transformToSourceData(matches: Match[]): CalendarEvent[] {
   console.log('Transforming matches to source data events');
 
   return matches.map(match => {
-    // Parse the ISO date string from the API
-    const startDate = new Date(match.date.iso8601);
+    // Parse the ISO date string from the API, assuming it's in CEST
+    const startDate = moment.tz(match.date.iso8601, 'Europe/Stockholm').toDate();
 
     // Create an end date 1.5 hours after start time
     const endDate = new Date(startDate.getTime() + 90 * 60000); // 90 minutes
