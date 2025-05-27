@@ -2283,59 +2283,6 @@
     "formattedTitle": "🏟️ P2015 Blå (vs IF Brommapojkarna P15-5)"
   },
   {
-    "uid": "venue-match-6190724",
-    "start": "2025-06-07T16:00:00.000Z",
-    "end": "2025-06-07T17:30:00.000Z",
-    "title": "BK Buffalo vs Mälarhöjden-Hägersten FF",
-    "description": "Herrar 5 Södra",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-malarhojden-hagersten-ff-div-5-herrar/6190724/",
-    "categories": [
-      "Herrar 5 Södra"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6190724,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/bk-buffalo-malarhojden-hagersten-ff-div-5-herrar/6190724/",
-      "date": {
-        "iso8601": "2025-06-07 16:00",
-        "formatted": "16:00, 7 juni 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 5 Södra",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "BK Buffalo",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
-          "alt": "BK Buffalo"
-        }
-      },
-      "away": {
-        "team": "Mälarhöjden-Hägersten FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
-          "alt": "Mälarhöjden-Hägersten FF"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 5 Södra",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (BK Buffalo vs Mälarhöjden-Hägersten FF)"
-  },
-  {
     "uid": "venue-match-6252272",
     "start": "2025-06-08T09:00:00.000Z",
     "end": "2025-06-08T10:30:00.000Z",
@@ -3366,62 +3313,6 @@
     "opponent": "Hangvar SK",
     "activity": "Match",
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Hangvar SK)"
-  },
-  {
-    "uid": "venue-match-6255251",
-    "start": "2025-06-14T16:00:00.000Z",
-    "end": "2025-06-14T17:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Skå IK & Bygdegård",
-    "description": "DJ- 3B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-ska-ik--bygdegard-damjuniorer-0906/6255251/",
-    "categories": [
-      "DJ- 3B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6255251,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-ska-ik--bygdegard-damjuniorer-0906/6255251/",
-      "date": {
-        "iso8601": "2025-06-14 16:00",
-        "formatted": "16:00, 14 juni 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "DJ- 3B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Skå IK & Bygdegård",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12408.png",
-          "alt": "Skå IK & Bygdegård"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "DJ- 3B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Skå IK & Bygdegård",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Skå IK & Bygdegård)"
   },
   {
     "uid": "venue-match-6249272",
@@ -17850,62 +17741,6 @@
     "formattedTitle": "🏟️ D2012 (vs Karlbergs BK 41)"
   },
   {
-    "uid": "venue-match-6347950",
-    "start": "2025-06-14T12:00:00.000Z",
-    "end": "2025-06-14T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 1 vs Enskede IK U",
-    "description": "P2010- 1C",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-enskede-ik-u-pojkar-2010/6347950/",
-    "categories": [
-      "P2010- 1C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6347950,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-enskede-ik-u-pojkar-2010/6347950/",
-      "date": {
-        "iso8601": "2025-06-14 12:00",
-        "formatted": "12:00, 14 juni 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2010- 1C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 1"
-        }
-      },
-      "away": {
-        "team": "Enskede IK U",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11417.png",
-          "alt": "Enskede IK U"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2010- 1C",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "H2010",
-    "opponent": "Enskede IK U",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs Enskede IK U)"
-  },
-  {
     "uid": "venue-match-6248743",
     "start": "2025-06-14T14:15:00.000Z",
     "end": "2025-06-14T15:45:00.000Z",
@@ -18174,6 +18009,61 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs Råsunda IS)"
+  },
+  {
+    "uid": "venue-match-6255251",
+    "start": "2025-06-15T20:00:00.000Z",
+    "end": "2025-06-15T21:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Skå IK & Bygdegård",
+    "description": "DJ- 3B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-ska-ik--bygdegard-damjuniorer-0906/6255251/",
+    "categories": [
+      "DJ- 3B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6255251,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-ska-ik--bygdegard-damjuniorer-0906/6255251/",
+      "date": {
+        "iso8601": "2025-06-15 20:00",
+        "formatted": "20:00, 15 juni 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "DJ- 3B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Skå IK & Bygdegård",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12408.png",
+          "alt": "Skå IK & Bygdegård"
+        }
+      }
+    },
+    "gender": "Damjunior",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "DJ- 3B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Skå IK & Bygdegård",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Skå IK & Bygdegård)"
   },
   {
     "uid": "venue-match-6221047",
