@@ -17628,45 +17628,45 @@
     "formattedTitle": "🏟️ Aspuddens FF (vs Solberga BK)"
   },
   {
-    "uid": "venue-match-6257171",
+    "uid": "venue-match-6256571",
     "start": "2025-06-14T08:00:00.000Z",
     "end": "2025-06-14T09:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 2 vs Karlbergs BK 41",
-    "description": "F2012- 4C",
+    "title": "IFK Aspudden-Tellus 1 vs Karlbergs BK 31",
+    "description": "F2012- 3C",
     "location": "Västberga IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-karlbergs-bk-41-flickor-2012/6257171/",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-karlbergs-bk-31-flickor-2012/6256571/",
     "categories": [
-      "F2012- 4C"
+      "F2012- 3C"
     ],
     "sourceType": "venue",
     "rawData": {
-      "id": 6257171,
+      "id": 6256571,
       "ageCategoryName": "Ungdom",
       "ageCategoryId": 3,
       "genderName": "Kvinna",
       "genderId": 3,
       "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-2-karlbergs-bk-41-flickor-2012/6257171/",
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-karlbergs-bk-31-flickor-2012/6256571/",
       "date": {
         "iso8601": "2025-06-14 10:00",
         "formatted": "10:00, 14 juni 2025"
       },
       "location": "Västberga IP 11",
-      "category": "F2012- 4C",
+      "category": "F2012- 3C",
       "status": "",
       "note": "",
       "home": {
-        "team": "IFK Aspudden-Tellus 2",
+        "team": "IFK Aspudden-Tellus 1",
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 2"
+          "alt": "IFK Aspudden-Tellus 1"
         }
       },
       "away": {
-        "team": "Karlbergs BK 41",
+        "team": "Karlbergs BK 31",
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10871.png",
-          "alt": "Karlbergs BK 41"
+          "alt": "Karlbergs BK 31"
         }
       }
     },
@@ -17675,13 +17675,13 @@
     "venues": [
       "Västberga IP"
     ],
-    "series": "F2012- 4C",
+    "series": "F2012- 3C",
     "match": "Home",
-    "team": "IFK Aspudden-Tellus 2",
+    "team": "IFK Aspudden-Tellus 1",
     "formattedTeam": "D2012",
-    "opponent": "Karlbergs BK 41",
+    "opponent": "Karlbergs BK 31",
     "activity": "Match",
-    "formattedTitle": "🏟️ D2012 (vs Karlbergs BK 41)"
+    "formattedTitle": "🏟️ D2012 (vs Karlbergs BK 31)"
   },
   {
     "uid": "venue-match-6248743",
@@ -17793,45 +17793,45 @@
     "formattedTitle": " (Gröndals IK vs Hallunda IF)"
   },
   {
-    "uid": "venue-match-6256571",
+    "uid": "venue-match-6257171",
     "start": "2025-06-15T10:00:00.000Z",
     "end": "2025-06-15T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 1 vs Karlbergs BK 31",
-    "description": "F2012- 3C",
-    "location": "Västberga IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-karlbergs-bk-31-flickor-2012/6256571/",
+    "title": "IFK Aspudden-Tellus 2 vs Karlbergs BK 41",
+    "description": "F2012- 4C",
+    "location": "Västberga IP 12",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-karlbergs-bk-41-flickor-2012/6257171/",
     "categories": [
-      "F2012- 3C"
+      "F2012- 4C"
     ],
     "sourceType": "venue",
     "rawData": {
-      "id": 6256571,
+      "id": 6257171,
       "ageCategoryName": "Ungdom",
       "ageCategoryId": 3,
       "genderName": "Kvinna",
       "genderId": 3,
       "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-karlbergs-bk-31-flickor-2012/6256571/",
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-2-karlbergs-bk-41-flickor-2012/6257171/",
       "date": {
         "iso8601": "2025-06-15 12:00",
         "formatted": "12:00, 15 juni 2025"
       },
-      "location": "Västberga IP 11",
-      "category": "F2012- 3C",
+      "location": "Västberga IP 12",
+      "category": "F2012- 4C",
       "status": "",
       "note": "",
       "home": {
-        "team": "IFK Aspudden-Tellus 1",
+        "team": "IFK Aspudden-Tellus 2",
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 1"
+          "alt": "IFK Aspudden-Tellus 2"
         }
       },
       "away": {
-        "team": "Karlbergs BK 31",
+        "team": "Karlbergs BK 41",
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10871.png",
-          "alt": "Karlbergs BK 31"
+          "alt": "Karlbergs BK 41"
         }
       }
     },
@@ -17840,13 +17840,13 @@
     "venues": [
       "Västberga IP"
     ],
-    "series": "F2012- 3C",
+    "series": "F2012- 4C",
     "match": "Home",
-    "team": "IFK Aspudden-Tellus 1",
+    "team": "IFK Aspudden-Tellus 2",
     "formattedTeam": "D2012",
-    "opponent": "Karlbergs BK 31",
+    "opponent": "Karlbergs BK 41",
     "activity": "Match",
-    "formattedTitle": "🏟️ D2012 (vs Karlbergs BK 31)"
+    "formattedTitle": "🏟️ D2012 (vs Karlbergs BK 41)"
   },
   {
     "uid": "venue-match-6244032",
