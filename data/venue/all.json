@@ -15110,59 +15110,6 @@
     "formattedTitle": "🏟️ H2011 (vs Ingarö IF Gul)"
   },
   {
-    "uid": "venue-match-6260424",
-    "start": "2025-05-28T17:00:00.000Z",
-    "end": "2025-05-28T18:30:00.000Z",
-    "title": "Reymersholms IK 2 vs Saltsjöbadens IF Vit",
-    "description": "F2013- 3",
-    "location": "Västberga IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ik-2-saltsjobadens-if-vit-flickor-2013/6260424/",
-    "categories": [
-      "F2013- 3"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6260424,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/reymersholms-ik-2-saltsjobadens-if-vit-flickor-2013/6260424/",
-      "date": {
-        "iso8601": "2025-05-28 19:00",
-        "formatted": "19:00, 28 maj 2025"
-      },
-      "location": "Västberga IP 11",
-      "category": "F2013- 3",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Reymersholms IK 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
-          "alt": "Reymersholms IK 2"
-        }
-      },
-      "away": {
-        "team": "Saltsjöbadens IF Vit",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10370.png",
-          "alt": "Saltsjöbadens IF Vit"
-        }
-      }
-    },
-    "gender": "Flickor",
-    "ageGroup": "2013",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "F2013- 3",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Reymersholms IK 2 vs Saltsjöbadens IF Vit)"
-  },
-  {
     "uid": "venue-match-6221406",
     "start": "2025-05-30T18:00:00.000Z",
     "end": "2025-05-30T19:30:00.000Z",
