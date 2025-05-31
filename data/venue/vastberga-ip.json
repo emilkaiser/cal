@@ -609,6 +609,9 @@
       "note": "",
       "home": {
         "team": "Stockholm United FC",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13715.png",
           "alt": "Stockholm United FC"
@@ -616,6 +619,9 @@
       },
       "away": {
         "team": "Gröndals FF",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/14726.png",
           "alt": "Gröndals FF"
