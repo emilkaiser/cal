@@ -1,33 +1,5 @@
 [
   {
-    "uid": "team-game-6271568",
-    "start": "2025-05-31T10:45:00.000Z",
-    "end": "2025-05-31T12:15:00.000Z",
-    "title": "IFK Viksjö P14Vit-2 vs IFK Aspudden-Tellus Blå 1",
-    "description": "P2014- 2",
-    "location": "Viksjövallen 3",
-    "url": "https://www.stff.se/go-to/?fmid=6271568",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271568",
-      "dateTime": "2025-05-31T12:45+02:00",
-      "homeTeam": "IFK Viksjö P14Vit-2",
-      "awayTeam": "IFK Aspudden-Tellus Blå 1",
-      "category": "P2014- 2",
-      "location": "Viksjövallen 3",
-      "url": "https://www.stff.se/go-to/?fmid=6271568"
-    },
-    "gender": "Pojkar",
-    "formattedTeam": "IFK Viksjö P14Vit-2",
-    "team": "IFK Viksjö P14Vit-2",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "IFK Viksjö P14Vit-2"
-  },
-  {
     "uid": "team-game-6271724",
     "start": "2025-06-07T09:45:00.000Z",
     "end": "2025-06-07T11:15:00.000Z",
