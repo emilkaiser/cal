@@ -1,32 +1,5 @@
 [
   {
-    "uid": "team-game-6271651",
-    "start": "2025-05-31T08:15:00.000Z",
-    "end": "2025-05-31T09:45:00.000Z",
-    "title": "Järla IF FK Grå vs IFK Aspudden-Tellus Röd 1",
-    "description": "P2014- 2",
-    "location": "Nacka IP 225",
-    "url": "https://www.stff.se/go-to/?fmid=6271651",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271651",
-      "dateTime": "2025-05-31T10:15+02:00",
-      "homeTeam": "Järla IF FK Grå",
-      "awayTeam": "IFK Aspudden-Tellus Röd 1",
-      "category": "P2014- 2",
-      "location": "Nacka IP 225",
-      "url": "https://www.stff.se/go-to/?fmid=6271651"
-    },
-    "formattedTeam": "Järla IF FK Grå",
-    "team": "Järla IF FK Grå",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Järla IF FK Grå"
-  },
-  {
     "uid": "team-game-6271904",
     "start": "2025-08-23T09:45:00.000Z",
     "end": "2025-08-23T11:15:00.000Z",
