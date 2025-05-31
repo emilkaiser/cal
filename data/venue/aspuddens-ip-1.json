@@ -265,9 +265,13 @@
       "location": "Aspuddens IP 1",
       "category": "Damer 3 B",
       "status": "",
+      "audience": "50",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -275,6 +279,9 @@
       },
       "away": {
         "team": "Älvsjö AIK DFF",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13512.png",
           "alt": "Älvsjö AIK DFF"

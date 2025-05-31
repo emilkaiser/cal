@@ -497,9 +497,13 @@
       "location": "Aspuddens IP 1",
       "category": "Damer 3 B",
       "status": "",
+      "audience": "50",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -507,6 +511,9 @@
       },
       "away": {
         "team": "Älvsjö AIK DFF",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13512.png",
           "alt": "Älvsjö AIK DFF"
@@ -15270,6 +15277,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 1",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 1"
@@ -15277,6 +15287,9 @@
       },
       "away": {
         "team": "Hammarby IF FF 3 vit",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
           "alt": "Hammarby IF FF 3 vit"
@@ -15383,6 +15396,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 2",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 2"
@@ -15390,6 +15406,9 @@
       },
       "away": {
         "team": "IF Brommapojkarna 12-10",
+        "goals": {
+          "scored": 8
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
           "alt": "IF Brommapojkarna 12-10"
