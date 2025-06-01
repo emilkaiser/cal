@@ -1,33 +1,5 @@
 [
   {
-    "uid": "team-game-6270427",
-    "start": "2025-06-01T07:00:00.000Z",
-    "end": "2025-06-01T08:30:00.000Z",
-    "title": "Ekerö IK Svart vs IFK Aspudden-Tellus Gul 1",
-    "description": "P2014- 1",
-    "location": "Träkvistavallen 115",
-    "url": "https://www.stff.se/go-to/?fmid=6270427",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270427",
-      "dateTime": "2025-06-01T09:00+02:00",
-      "homeTeam": "Ekerö IK Svart",
-      "awayTeam": "IFK Aspudden-Tellus Gul 1",
-      "category": "P2014- 1",
-      "location": "Träkvistavallen 115",
-      "url": "https://www.stff.se/go-to/?fmid=6270427"
-    },
-    "color": "Svart",
-    "formattedTeam": "Ekerö IK Svart",
-    "team": "Ekerö IK Svart",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Ekerö IK Svart"
-  },
-  {
     "uid": "team-game-6270525",
     "start": "2025-06-07T08:15:00.000Z",
     "end": "2025-06-07T09:45:00.000Z",
