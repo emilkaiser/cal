@@ -214,6 +214,9 @@
       "note": "",
       "home": {
         "team": "Hammarby IF FF 25 vit",
+        "goals": {
+          "scored": 8
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
           "alt": "Hammarby IF FF 25 vit"
@@ -221,6 +224,9 @@
       },
       "away": {
         "team": "Tungelsta IF 1",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10037.png",
           "alt": "Tungelsta IF 1"

@@ -374,6 +374,9 @@
       "note": "",
       "home": {
         "team": "Gröndals IK 1",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK 1"
@@ -381,6 +384,9 @@
       },
       "away": {
         "team": "Enskede IK BRL",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11417.png",
           "alt": "Enskede IK BRL"
