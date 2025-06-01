@@ -14821,9 +14821,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 5 Mellersta",
       "status": "",
+      "audience": "25",
       "note": "",
       "home": {
         "team": "BK Fyren",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
           "alt": "BK Fyren"
@@ -14831,6 +14835,9 @@
       },
       "away": {
         "team": "Dardania Stockholm FF",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13269.png",
           "alt": "Dardania Stockholm FF"
@@ -14876,6 +14883,9 @@
       "note": "",
       "home": {
         "team": "Gröndals IK",
+        "goals": {
+          "scored": 7
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK"
@@ -14883,6 +14893,9 @@
       },
       "away": {
         "team": "Långholmen FC",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6892.png",
           "alt": "Långholmen FC"
