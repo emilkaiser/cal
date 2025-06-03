@@ -414,10 +414,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6269375,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-hasselby-sk-ff-p13-rod-pojkar-2013/6269375/",
       "date": {
@@ -3336,10 +3334,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6269490,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-grondals-ik-vit-pojkar-2013/6269490/",
       "date": {
@@ -4802,10 +4798,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6269671,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-nockebyhovs-if-2-pojkar-2013/6269671/",
       "date": {
@@ -6383,10 +6377,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6269832,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-orby-is-gul-pojkar-2013/6269832/",
       "date": {
