@@ -1809,8 +1809,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262170,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-ifk-lidingo-fk-9-flickor-2014/6262170/",
       "date": {
@@ -3080,8 +3082,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262231,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-spanga-is-fk-1-flickor-2014/6262231/",
       "date": {
@@ -4642,8 +4646,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262323,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-taby-fk-2-flickor-2014/6262323/",
       "date": {

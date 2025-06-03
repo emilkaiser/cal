@@ -175,8 +175,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262061,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-if-brommapojkarna-2014-2-flickor-2014/6262061/",
       "date": {
@@ -2615,8 +2617,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6269422,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-hammarby-if-ff-7-vit-pojkar-2013/6269422/",
       "date": {
@@ -4136,8 +4140,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262168,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-segeltorps-idrottsforening-fotboll-vit-flickor-2014/6262168/",
       "date": {
@@ -5081,8 +5087,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6269637,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-boo-ff-5-3-pojkar-2013/6269637/",
       "date": {
@@ -6143,8 +6151,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262244,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-ronninge-salem-fotboll-svart-flickor-2014/6262244/",
       "date": {
@@ -7160,8 +7170,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6269792,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-konyaspor-kultur-och-if-p2013bla-pojkar-2013/6269792/",
       "date": {
@@ -8337,8 +8349,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262367,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-vendelso-ik-bla-flickor-2014/6262367/",
       "date": {
