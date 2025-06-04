@@ -1326,6 +1326,60 @@
     "formattedTitle": "🏟️ P2014 Blå (vs Apollon Solna FK)"
   },
   {
+    "uid": "venue-match-6257156",
+    "start": "2025-06-08T12:00:00.000Z",
+    "end": "2025-06-08T13:30:00.000Z",
+    "title": "Hammarby IF FF 3 gul vs Djurgårdens IF FF 10",
+    "description": "F2012- 4C",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/hammarby-if-ff-3-gul-djurgardens-if-ff-10-flickor-2012/6257156/",
+    "categories": [
+      "F2012- 4C"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6257156,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/hammarby-if-ff-3-gul-djurgardens-if-ff-10-flickor-2012/6257156/",
+      "date": {
+        "iso8601": "2025-06-08 14:00",
+        "formatted": "14:00, 8 juni 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "F2012- 4C",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Hammarby IF FF 3 gul",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
+          "alt": "Hammarby IF FF 3 gul"
+        }
+      },
+      "away": {
+        "team": "Djurgårdens IF FF 10",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 10"
+        }
+      }
+    },
+    "gender": "Damjunior",
+    "ageGroup": "2012",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "F2012- 4C",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Hammarby IF FF 3 gul vs Djurgårdens IF FF 10)"
+  },
+  {
     "uid": "venue-match-6274475",
     "start": "2025-06-08T12:15:00.000Z",
     "end": "2025-06-08T13:45:00.000Z",
