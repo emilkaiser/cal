@@ -29,6 +29,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 1",
+        "goals": {
+          "scored": 9
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 1"
@@ -36,6 +39,9 @@
       },
       "away": {
         "team": "Skogås-Trångsunds FF Röd",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
           "alt": "Skogås-Trångsunds FF Röd"
