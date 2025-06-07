@@ -1193,36 +1193,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 4"
   },
   {
-    "uid": "team-game-6273116",
-    "start": "2025-06-07T10:45:00.000Z",
-    "end": "2025-06-07T12:15:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 5 vs Norrtulls SK Svart 2L",
-    "description": "P2014- 3",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6273116",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6273116",
-      "dateTime": "2025-06-07T12:45+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 5",
-      "awayTeam": "Norrtulls SK Svart 2L",
-      "category": "P2014- 3",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6273116"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 5",
-    "team": "IFK Aspudden-Tellus Gul 5",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 5"
-  },
-  {
     "uid": "team-game-6273149",
     "start": "2025-08-23T11:15:00.000Z",
     "end": "2025-08-23T12:45:00.000Z",
