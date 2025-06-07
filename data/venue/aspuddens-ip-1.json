@@ -214,6 +214,9 @@
       "note": "",
       "home": {
         "team": "Aspuddens FF",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
           "alt": "Aspuddens FF"
@@ -221,6 +224,9 @@
       },
       "away": {
         "team": "Sörskogens IF",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10113.png",
           "alt": "Sörskogens IF"
