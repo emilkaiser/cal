@@ -29,6 +29,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Röd 1",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Röd 1"
@@ -36,6 +39,9 @@
       },
       "away": {
         "team": "Hammarby IF FF 26 vit",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
           "alt": "Hammarby IF FF 26 vit"
@@ -261,6 +267,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 4",
+        "goals": {
+          "scored": 9
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 4"
@@ -268,6 +277,9 @@
       },
       "away": {
         "team": "Boo FF 5",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
           "alt": "Boo FF 5"
