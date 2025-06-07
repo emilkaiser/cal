@@ -14143,6 +14143,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus DJ",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus DJ"
@@ -14150,6 +14153,9 @@
       },
       "away": {
         "team": "Enskede IK 1",
+        "goals": {
+          "scored": 7
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11417.png",
           "alt": "Enskede IK 1"
