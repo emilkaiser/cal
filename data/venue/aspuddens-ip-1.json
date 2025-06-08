@@ -205,9 +205,13 @@
       "location": "Aspuddens IP 1",
       "category": "F2012- 4C",
       "status": "",
+      "audience": "4",
       "note": "",
       "home": {
         "team": "Hammarby IF FF 3 gul",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
           "alt": "Hammarby IF FF 3 gul"
@@ -215,6 +219,9 @@
       },
       "away": {
         "team": "Djurgårdens IF FF 10",
+        "goals": {
+          "scored": 8
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
           "alt": "Djurgårdens IF FF 10"
