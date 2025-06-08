@@ -145,6 +145,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 3",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 3"
@@ -152,6 +155,9 @@
       },
       "away": {
         "team": "Mälarhöjden-Hägersten FF 3",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
           "alt": "Mälarhöjden-Hägersten FF 3"
