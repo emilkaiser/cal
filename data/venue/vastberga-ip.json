@@ -504,6 +504,9 @@
       "note": "",
       "home": {
         "team": "Långholmen FC",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6892.png",
           "alt": "Långholmen FC"
@@ -511,6 +514,9 @@
       },
       "away": {
         "team": "Essinge Rovers IK",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13720.png",
           "alt": "Essinge Rovers IK"
