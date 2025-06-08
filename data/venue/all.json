@@ -13264,6 +13264,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 4",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 4"
@@ -13271,6 +13274,9 @@
       },
       "away": {
         "team": "Essinge IK Svart",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11980.png",
           "alt": "Essinge IK Svart"
