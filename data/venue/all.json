@@ -20305,59 +20305,6 @@
     "formattedTitle": " (BK Fyren vs IK Makkabi)"
   },
   {
-    "uid": "venue-match-6252466",
-    "start": "2025-10-04T14:00:00.000Z",
-    "end": "2025-10-04T15:30:00.000Z",
-    "title": "Mälarhöjden-Hägersten FF Röd vs Stuvsta IF 2:2",
-    "description": "P2012- 3J",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/malarhojden-hagersten-ff-rod-stuvsta-if-22-pojkar-2012/6252466/",
-    "categories": [
-      "P2012- 3J"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6252466,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/malarhojden-hagersten-ff-rod-stuvsta-if-22-pojkar-2012/6252466/",
-      "date": {
-        "iso8601": "2025-10-04 16:00",
-        "formatted": "16:00, 4 okt. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2012- 3J",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Mälarhöjden-Hägersten FF Röd",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
-          "alt": "Mälarhöjden-Hägersten FF Röd"
-        }
-      },
-      "away": {
-        "team": "Stuvsta IF 2:2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8931.png",
-          "alt": "Stuvsta IF 2:2"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2012- 3J",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Mälarhöjden-Hägersten FF Röd vs Stuvsta IF 2:2)"
-  },
-  {
     "uid": "venue-match-6252204",
     "start": "2025-10-05T08:30:00.000Z",
     "end": "2025-10-05T10:00:00.000Z",
