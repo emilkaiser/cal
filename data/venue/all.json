@@ -1455,6 +1455,60 @@
     "formattedTitle": "🏟️ H2011 (vs Rågsveds IF Grön)"
   },
   {
+    "uid": "venue-match-6256170",
+    "start": "2025-08-17T14:00:00.000Z",
+    "end": "2025-08-17T15:30:00.000Z",
+    "title": "Hammarby IF FF 3 grön vs Karlbergs BK 21",
+    "description": "F2012- 2B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/hammarby-if-ff-3-gron-karlbergs-bk-21-flickor-2012/6256170/",
+    "categories": [
+      "F2012- 2B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6256170,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/hammarby-if-ff-3-gron-karlbergs-bk-21-flickor-2012/6256170/",
+      "date": {
+        "iso8601": "2025-08-17 16:00",
+        "formatted": "16:00, 17 aug. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "F2012- 2B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Hammarby IF FF 3 grön",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
+          "alt": "Hammarby IF FF 3 grön"
+        }
+      },
+      "away": {
+        "team": "Karlbergs BK 21",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10871.png",
+          "alt": "Karlbergs BK 21"
+        }
+      }
+    },
+    "gender": "Damjunior",
+    "ageGroup": "2012",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "F2012- 2B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Hammarby IF FF 3 grön vs Karlbergs BK 21)"
+  },
+  {
     "uid": "venue-match-6233447",
     "start": "2025-08-17T16:00:00.000Z",
     "end": "2025-08-17T17:30:00.000Z",
