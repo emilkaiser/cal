@@ -1012,6 +1012,62 @@
     "formattedTitle": "🏟️ H2012 Röd (vs Sickla IF 1)"
   },
   {
+    "uid": "venue-match-6191709",
+    "start": "2025-08-10T12:00:00.000Z",
+    "end": "2025-08-10T13:30:00.000Z",
+    "title": "IFK Aspudden-Tellus  vs IF Karlstad Fotboll",
+    "description": "P19 Div.1 2025 - Region 4",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--if-karlstad-fotboll-p19-serier/6191709/",
+    "categories": [
+      "P19 Div.1 2025 - Region 4"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6191709,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus--if-karlstad-fotboll-p19-serier/6191709/",
+      "date": {
+        "iso8601": "2025-08-10 14:00",
+        "formatted": "14:00, 10 aug. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P19 Div.1 2025 - Region 4",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus ",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus "
+        }
+      },
+      "away": {
+        "team": "IF Karlstad Fotboll",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8801.png",
+          "alt": "IF Karlstad Fotboll"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P19 Div.1 2025 - Region 4",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus ",
+    "formattedTeam": "IFK Aspudden-Tellus ",
+    "opponent": "IF Karlstad Fotboll",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus  (vs IF Karlstad Fotboll)"
+  },
+  {
     "uid": "venue-match-6245442",
     "start": "2025-08-10T14:00:00.000Z",
     "end": "2025-08-10T15:30:00.000Z",
