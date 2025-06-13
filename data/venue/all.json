@@ -1918,8 +1918,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6279836,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-essinge-ik-1-pojkar-2016/6279836/",
       "date": {
@@ -1974,8 +1976,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6279887,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-3-hammarby-if-ff-11-pojkar-2016/6279887/",
       "date": {
@@ -2088,8 +2092,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283327,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-aik-ff-6-pojkar-2017/6283327/",
       "date": {
@@ -2144,8 +2150,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6271904,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-ifk-lidingo-fk-6-pojkar-2014/6271904/",
       "date": {
@@ -2200,8 +2208,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6263318,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-1-assyriska-botkyrka-sk-1-flickor-2015/6263318/",
       "date": {
@@ -2538,8 +2548,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6264771,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-boo-ff-f163-2-flickor-2016/6264771/",
       "date": {
@@ -2710,8 +2722,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283331,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-aik-ff-8-pojkar-2017/6283331/",
       "date": {
@@ -3275,8 +3289,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281583,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-angby-if-vit-pojkar-2016/6281583/",
       "date": {
@@ -3505,8 +3521,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283606,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-segeltorps-idrottsforening-fotboll-orange-pojkar-2017/6283606/",
       "date": {
@@ -3619,8 +3637,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6263368,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-2-sollentuna-fk-vallen-1-flickor-2015/6263368/",
       "date": {
@@ -3900,8 +3920,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280038,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-ifk-stockholm-fk-1-pojkar-2016/6280038/",
       "date": {
@@ -3956,8 +3978,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280214,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-huddinge-if-p20162m-pojkar-2016/6280214/",
       "date": {
@@ -4128,8 +4152,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283569,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-reymersholms-ik-4-pojkar-2017/6283569/",
       "date": {
@@ -4184,8 +4210,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262628,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-3-alvsjo-aik-ff-2-flickor-2014/6262628/",
       "date": {
@@ -4297,8 +4325,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6271932,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-nacka-fc-svart1-pojkar-2014/6271932/",
       "date": {
@@ -4525,8 +4555,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6270603,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-sollentuna-fk-vax-1-pojkar-2014/6270603/",
       "date": {
@@ -4806,8 +4838,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280380,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-ursvik-ik-svart-pojkar-2016/6280380/",
       "date": {
@@ -5036,8 +5070,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6263388,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-1-hammarby-if-ff-5-gron-flickor-2015/6263388/",
       "date": {
@@ -5546,8 +5582,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6264952,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-spanga-is-fk-44-flickor-2016/6264952/",
       "date": {
@@ -5602,8 +5640,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280485,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-3-mortnas-if-svart-pojkar-2016/6280485/",
       "date": {
@@ -5658,8 +5698,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283714,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-arsta-ff-3-pojkar-2017/6283714/",
       "date": {
@@ -5714,8 +5756,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283810,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-stuvsta-if-43-pojkar-2017/6283810/",
       "date": {
@@ -6275,8 +6319,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280518,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-hogalids-if-p16-pojkar-2016/6280518/",
       "date": {
@@ -6331,8 +6377,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280616,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-segeltorps-idrottsforening-fotboll-bla-pojkar-2016/6280616/",
       "date": {
@@ -6503,8 +6551,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283942,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-apollon-solna-fk-svart-pojkar-2017/6283942/",
       "date": {
@@ -6559,8 +6609,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284012,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-aik-ff-13-pojkar-2017/6284012/",
       "date": {
@@ -6844,8 +6896,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6272266,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-ifk-lidingo-fk-21-bla-pojkar-2014/6272266/",
       "date": {
@@ -6954,8 +7008,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6265029,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-huddinge-if-1-flickor-2016/6265029/",
       "date": {
@@ -7126,8 +7182,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281651,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-boo-ff-p168-pojkar-2016/6281651/",
       "date": {
@@ -7240,8 +7298,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262675,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-3-norrtulls-sk-l-flickor-2014/6262675/",
       "date": {
@@ -7750,8 +7810,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280895,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-aik-ff-8-pojkar-2016/6280895/",
       "date": {
@@ -7922,8 +7984,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6272401,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-hammarby-if-ff-5-vit-pojkar-2014/6272401/",
       "date": {
@@ -8036,8 +8100,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6263543,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-1-ifk-lidingo-fk-10-flickor-2015/6263543/",
       "date": {
@@ -8431,8 +8497,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6265096,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-segeltorps-idrottsforening-fotboll-bla-flickor-2016/6265096/",
       "date": {
@@ -8487,8 +8555,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280923,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-3-djurgardens-if-ff-9-gul-pojkar-2016/6280923/",
       "date": {
@@ -8600,8 +8670,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284150,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-ifk-stockholm-fk-2-pojkar-2017/6284150/",
       "date": {
@@ -8656,8 +8728,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284169,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-hammarby-if-ff-5-pojkar-2017/6284169/",
       "date": {
@@ -8827,8 +8901,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6273493,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-if-brommapojkarna-2014-14-pojkar-2014/6273493/",
       "date": {
@@ -9392,8 +9468,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281210,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-jarlabergs-if-2-pojkar-2016/6281210/",
       "date": {
@@ -9448,8 +9526,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281231,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-ifk-lidingo-fk-24-vit-pojkar-2016/6281231/",
       "date": {
@@ -9562,8 +9642,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284341,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-vasalund-if-solna-sv-pojkar-2017/6284341/",
       "date": {
@@ -9618,8 +9700,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284434,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-svensk-palestinska-ff-1-pojkar-2017/6284434/",
       "date": {
@@ -9674,8 +9758,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262734,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-3-arsta-ff-2-flickor-2014/6262734/",
       "date": {
@@ -9787,8 +9873,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6273606,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-jarla-if-fk-bla-pojkar-2014/6273606/",
       "date": {
@@ -10065,8 +10153,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6265229,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-boo-ff-f166-1-flickor-2016/6265229/",
       "date": {
@@ -10295,8 +10385,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281696,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-2-osteraker-united-fk-6-rosa-pojkar-2016/6281696/",
       "date": {
@@ -10467,8 +10559,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6272535,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-huddinge-if-vit-m2-pojkar-2014/6272535/",
       "date": {
@@ -12105,8 +12199,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6256571,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-1-karlbergs-bk-31-flickor-2012/6256571/",
       "date": {
@@ -12132,7 +12228,7 @@
         }
       }
     },
-    "gender": "Flickor",
+    "gender": "Damjunior",
     "ageGroup": "2012",
     "venues": [
       "Västberga IP"
@@ -12140,10 +12236,10 @@
     "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "F2012",
+    "formattedTeam": "D2012",
     "opponent": "Karlbergs BK 31",
     "activity": "Match",
-    "formattedTitle": "🏟️ F2012 (vs Karlbergs BK 31)"
+    "formattedTitle": "🏟️ D2012 (vs Karlbergs BK 31)"
   },
   {
     "uid": "venue-match-6248743",
@@ -12324,8 +12420,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6244032,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/grondals-ik-1-skondals-ik-fk-pojkar-2009/6244032/",
       "date": {
@@ -12351,7 +12449,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2009",
     "venues": [
       "Västberga IP"
@@ -12427,8 +12525,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6255251,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-ska-ik--bygdegard-damjuniorer-0906/6255251/",
       "date": {
@@ -12454,6 +12554,7 @@
         }
       }
     },
+    "gender": "Damjunior",
     "venues": [
       "Västberga IP"
     ],
@@ -12583,8 +12684,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6252156,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-boo-ff-41-pojkar-2012/6252156/",
       "date": {
@@ -12610,7 +12713,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2012",
     "venues": [
       "Västberga IP"
@@ -12619,10 +12722,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
-    "formattedTeam": "P2012 Gul",
+    "formattedTeam": "H2012 Gul",
     "opponent": "Boo FF 41",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2012 Gul (vs Boo FF 41)"
+    "formattedTitle": "🏟️ H2012 Gul (vs Boo FF 41)"
   },
   {
     "uid": "venue-match-6253607",
@@ -12803,8 +12906,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6248225,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-4-boo-ff-utv.-pojkar-2011/6248225/",
       "date": {
@@ -12830,7 +12935,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2011",
     "venues": [
       "Västberga IP"
@@ -12839,10 +12944,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
-    "formattedTeam": "P2011 Gul",
+    "formattedTeam": "H2011 Gul",
     "opponent": "Boo FF Utv.",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2011 Gul (vs Boo FF Utv.)"
+    "formattedTitle": "🏟️ H2011 Gul (vs Boo FF Utv.)"
   },
   {
     "uid": "venue-match-6189567",
@@ -13078,8 +13183,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6258080,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/malarhojden-hagersten-ff-2-huddinge-if-f11-div2-flickor-2011/6258080/",
       "date": {
@@ -13105,7 +13212,7 @@
         }
       }
     },
-    "gender": "Flickor",
+    "gender": "Damjunior",
     "ageGroup": "2011",
     "venues": [
       "Västberga IP"
@@ -13399,8 +13506,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6269422,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-hammarby-if-ff-7-vit-pojkar-2013/6269422/",
       "date": {
@@ -13454,8 +13563,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283321,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-aik-ff-3-pojkar-2017/6283321/",
       "date": {
@@ -13509,8 +13620,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6279891,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-hammarby-if-ff-4-pojkar-2016/6279891/",
       "date": {
@@ -13564,8 +13677,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283317,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-aik-ff-2-pojkar-2017/6283317/",
       "date": {
@@ -13676,8 +13791,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6256581,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-1-reymersholms-ik-1-flickor-2012/6256581/",
       "date": {
@@ -13703,7 +13820,7 @@
         }
       }
     },
-    "gender": "Flickor",
+    "gender": "Damjunior",
     "ageGroup": "2012",
     "venues": [
       "Västberga IP"
@@ -13711,10 +13828,10 @@
     "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "F2012",
+    "formattedTeam": "D2012",
     "opponent": "Reymersholms IK 1",
     "activity": "Match",
-    "formattedTitle": "🏟️ F2012 (vs Reymersholms IK 1)"
+    "formattedTitle": "🏟️ D2012 (vs Reymersholms IK 1)"
   },
   {
     "uid": "venue-match-6270561",
@@ -13730,8 +13847,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6270561,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-vega-fc-p2014-s3-pojkar-2014/6270561/",
       "date": {
@@ -13842,8 +13961,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6271887,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-4-stuvsta-if-2.2-pojkar-2014/6271887/",
       "date": {
@@ -13897,8 +14018,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6248237,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-4-if-brommapojkarna-11-30-pojkar-2011/6248237/",
       "date": {
@@ -13924,7 +14047,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2011",
     "venues": [
       "Västberga IP"
@@ -13933,10 +14056,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
-    "formattedTeam": "P2011 Gul",
+    "formattedTeam": "H2011 Gul",
     "opponent": "IF Brommapojkarna 11-30",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2011 Gul (vs IF Brommapojkarna 11-30)"
+    "formattedTitle": "🏟️ H2011 Gul (vs IF Brommapojkarna 11-30)"
   },
   {
     "uid": "venue-match-6260500",
@@ -13952,8 +14075,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6260500,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-1-ska-ik--bygdegard-gul-flickor-2013/6260500/",
       "date": {
@@ -14006,8 +14131,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6266034,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-boo-ff-f1710-flickor-2017/6266034/",
       "date": {
@@ -14061,8 +14188,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283279,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-tyreso-ff-c-gul-pojkar-2017/6283279/",
       "date": {
@@ -14116,8 +14245,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6260997,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-2-osmo-gif-fk-flickor-2013/6260997/",
       "date": {
@@ -14170,8 +14301,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6277497,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-boo-ff-p156-3-pojkar-2015/6277497/",
       "date": {
@@ -14225,8 +14358,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6252168,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-stuvsta-if-11-pojkar-2012/6252168/",
       "date": {
@@ -14252,7 +14387,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2012",
     "venues": [
       "Västberga IP"
@@ -14261,10 +14396,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
-    "formattedTeam": "P2012 Gul",
+    "formattedTeam": "H2012 Gul",
     "opponent": "Stuvsta IF 1:1",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2012 Gul (vs Stuvsta IF 1:1)"
+    "formattedTitle": "🏟️ H2012 Gul (vs Stuvsta IF 1:1)"
   },
   {
     "uid": "venue-match-6275968",
@@ -14280,8 +14415,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6275968,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-gustavsbergs-if-fk-3-pojkar-2015/6275968/",
       "date": {
@@ -14391,8 +14528,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6244889,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-2-norrtulls-sk-2-pojkar-2010/6244889/",
       "date": {
@@ -14418,7 +14557,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Västberga IP"
@@ -14426,10 +14565,10 @@
     "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "Norrtulls SK 2",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs Norrtulls SK 2)"
+    "formattedTitle": "🏟️ H2010 (vs Norrtulls SK 2)"
   },
   {
     "uid": "venue-match-6244042",
@@ -14445,8 +14584,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6244042,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/grondals-ik-1-djurgardens-if-ff-10-pojkar-2009/6244042/",
       "date": {
@@ -14472,7 +14613,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2009",
     "venues": [
       "Västberga IP"
@@ -14603,8 +14744,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6268337,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-ekero-ik-3bla-pojkar-2013/6268337/",
       "date": {
@@ -14658,8 +14801,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280185,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-ekero-ik-2gul-pojkar-2016/6280185/",
       "date": {
@@ -14713,8 +14858,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283457,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-enskede-ik-gra-pojkar-2017/6283457/",
       "date": {
@@ -14768,8 +14915,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6264820,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-ekero-ik-svart-flickor-2016/6264820/",
       "date": {
@@ -14823,8 +14972,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280167,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-ekero-ik-2bla-pojkar-2016/6280167/",
       "date": {
@@ -14878,8 +15029,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262168,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-segeltorps-idrottsforening-fotboll-vit-flickor-2014/6262168/",
       "date": {
@@ -15046,8 +15199,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6272030,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-huddinge-if-svart-m-pojkar-2014/6272030/",
       "date": {
@@ -15210,8 +15365,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280036,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-solberga-bk-orange-pojkar-2016/6280036/",
       "date": {
@@ -15265,8 +15422,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283584,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-boo-ff-p1711-pojkar-2017/6283584/",
       "date": {
@@ -15320,8 +15479,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280149,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-bagarmossen-karrtorp-bk-vit-pojkar-2016/6280149/",
       "date": {
@@ -15375,8 +15536,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6277617,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-ingaro-if-rod-pojkar-2015/6277617/",
       "date": {
@@ -15430,8 +15593,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6276124,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-aik-ff-9-pojkar-2015/6276124/",
       "date": {
@@ -15485,8 +15650,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6261014,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-2-grodinge-sk-gron-flickor-2013/6261014/",
       "date": {
@@ -15539,8 +15706,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6273255,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-5-angby-if-svart-1-pojkar-2014/6273255/",
       "date": {
@@ -15807,8 +15976,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6269637,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-boo-ff-5-3-pojkar-2013/6269637/",
       "date": {
@@ -15862,8 +16033,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280341,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-aik-ff-2-pojkar-2016/6280341/",
       "date": {
@@ -15917,8 +16090,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283811,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-ifk-lidingo-fk-13-bla-pojkar-2017/6283811/",
       "date": {
@@ -15972,8 +16147,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6270709,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-ifk-tumba-fk-svart-pojkar-2014/6270709/",
       "date": {
@@ -16027,8 +16204,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6256591,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-1-sollentuna-fk-syd-5-flickor-2012/6256591/",
       "date": {
@@ -16054,7 +16233,7 @@
         }
       }
     },
-    "gender": "Flickor",
+    "gender": "Damjunior",
     "ageGroup": "2012",
     "venues": [
       "Västberga IP"
@@ -16062,10 +16241,10 @@
     "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "F2012",
+    "formattedTeam": "D2012",
     "opponent": "Sollentuna FK Syd 5",
     "activity": "Match",
-    "formattedTitle": "🏟️ F2012 (vs Sollentuna FK Syd 5)"
+    "formattedTitle": "🏟️ D2012 (vs Sollentuna FK Syd 5)"
   },
   {
     "uid": "venue-match-6272117",
@@ -16081,8 +16260,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6272117,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-4-djurgardens-if-ff-6-pojkar-2014/6272117/",
       "date": {
@@ -16136,8 +16317,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6252180,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-hammarby-if-ff-3-pojkar-2012/6252180/",
       "date": {
@@ -16163,7 +16346,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2012",
     "venues": [
       "Västberga IP"
@@ -16172,10 +16355,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
-    "formattedTeam": "P2012 Gul",
+    "formattedTeam": "H2012 Gul",
     "opponent": "Hammarby IF FF 3",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2012 Gul (vs Hammarby IF FF 3)"
+    "formattedTitle": "🏟️ H2012 Gul (vs Hammarby IF FF 3)"
   },
   {
     "uid": "venue-match-6276332",
@@ -16191,8 +16374,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6276332,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-reymersholms-ik-4-pojkar-2015/6276332/",
       "date": {
@@ -16357,8 +16542,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6266208,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-ifk-lidingo-fk-14-flickor-2017/6266208/",
       "date": {
@@ -16412,8 +16599,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283817,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-if-brommapojkarna-p17-17-pojkar-2017/6283817/",
       "date": {
@@ -16467,8 +16656,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6260600,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-1-grodinge-sk-vit-flickor-2013/6260600/",
       "date": {
@@ -16578,8 +16769,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6277677,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-ekero-ik-2gul-pojkar-2015/6277677/",
       "date": {
@@ -16633,8 +16826,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6248249,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-4-hammarby-if-ff-24-pojkar-2011/6248249/",
       "date": {
@@ -16660,7 +16855,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2011",
     "venues": [
       "Västberga IP"
@@ -16669,10 +16864,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
-    "formattedTeam": "P2011 Gul",
+    "formattedTeam": "H2011 Gul",
     "opponent": "Hammarby IF FF 24",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2011 Gul (vs Hammarby IF FF 24)"
+    "formattedTitle": "🏟️ H2011 Gul (vs Hammarby IF FF 24)"
   },
   {
     "uid": "venue-match-6244052",
@@ -16688,8 +16883,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6244052,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/grondals-ik-1-boo-ff-3-pojkar-2009/6244052/",
       "date": {
@@ -16715,7 +16912,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2009",
     "venues": [
       "Västberga IP"
@@ -16843,8 +17040,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262244,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-ronninge-salem-fotboll-svart-flickor-2014/6262244/",
       "date": {
@@ -16898,8 +17097,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280603,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-norrtulls-sk-gul-3a-pojkar-2016/6280603/",
       "date": {
@@ -16953,8 +17154,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284097,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-boo-ff-p176-pojkar-2017/6284097/",
       "date": {
@@ -17008,8 +17211,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280674,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-sorskogens-if-rod-pojkar-2016/6280674/",
       "date": {
@@ -17063,8 +17268,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280713,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-hanvikens-sk-guld-pojkar-2016/6280713/",
       "date": {
@@ -17118,8 +17325,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6270774,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-konyaspor-kultur-och-if-p2014vit-pojkar-2014/6270774/",
       "date": {
@@ -17230,8 +17439,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6272297,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-vallingby-aik-1-pojkar-2014/6272297/",
       "date": {
@@ -17285,8 +17496,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6261092,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-2-boo-ff-f138-1-flickor-2013/6261092/",
       "date": {
@@ -17339,8 +17552,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6273440,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-6-saltsjobadens-if-vit-pojkar-2014/6273440/",
       "date": {
@@ -17451,8 +17666,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280681,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-boo-ff-p1613-2-pojkar-2016/6280681/",
       "date": {
@@ -17506,8 +17723,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6283885,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-ifk-lidingo-fk-8-pojkar-2017/6283885/",
       "date": {
@@ -17561,8 +17780,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6277797,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-stuvsta-if-42-pojkar-2015/6277797/",
       "date": {
@@ -17616,8 +17837,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6276486,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-ifk-lidingo-fk-22-pojkar-2015/6276486/",
       "date": {
@@ -17728,8 +17951,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6244905,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-2-enskede-ik-rodlila2-pojkar-2010/6244905/",
       "date": {
@@ -17755,7 +17980,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Västberga IP"
@@ -17763,10 +17988,10 @@
     "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "Enskede IK Rödlila2",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs Enskede IK Rödlila2)"
+    "formattedTitle": "🏟️ H2010 (vs Enskede IK Rödlila2)"
   },
   {
     "uid": "venue-match-6222043",
@@ -17834,8 +18059,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6269792,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-konyaspor-kultur-och-if-p2013bla-pojkar-2013/6269792/",
       "date": {
@@ -17889,8 +18116,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284268,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-boo-ff-p1713-1-pojkar-2017/6284268/",
       "date": {
@@ -17944,8 +18173,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6265073,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-if-brommapojkarna-f16-13-flickor-2016/6265073/",
       "date": {
@@ -18056,8 +18287,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6256601,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-1-ifk-lidingo-fk-c-bla-flickor-2012/6256601/",
       "date": {
@@ -18083,7 +18316,7 @@
         }
       }
     },
-    "gender": "Flickor",
+    "gender": "Damjunior",
     "ageGroup": "2012",
     "venues": [
       "Västberga IP"
@@ -18091,10 +18324,10 @@
     "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "F2012",
+    "formattedTeam": "D2012",
     "opponent": "IFK Lidingö FK C blå",
     "activity": "Match",
-    "formattedTitle": "🏟️ F2012 (vs IFK Lidingö FK C blå)"
+    "formattedTitle": "🏟️ D2012 (vs IFK Lidingö FK C blå)"
   },
   {
     "uid": "venue-match-6270794",
@@ -18110,8 +18343,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6270794,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-varmdo-if-svart-pojkar-2014/6270794/",
       "date": {
@@ -18221,8 +18456,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6273523,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-5-fisksatra-if-orange-pojkar-2014/6273523/",
       "date": {
@@ -18276,8 +18513,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6248261,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-4-reymersholms-ik-3-pojkar-2011/6248261/",
       "date": {
@@ -18303,7 +18542,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2011",
     "venues": [
       "Västberga IP"
@@ -18312,10 +18551,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
-    "formattedTeam": "P2011 Gul",
+    "formattedTeam": "H2011 Gul",
     "opponent": "Reymersholms IK 3",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2011 Gul (vs Reymersholms IK 3)"
+    "formattedTitle": "🏟️ H2011 Gul (vs Reymersholms IK 3)"
   },
   {
     "uid": "venue-match-6266395",
@@ -18331,8 +18570,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6266395,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-vega-fc-f2017-2-flickor-2017/6266395/",
       "date": {
@@ -18386,8 +18627,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284279,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-hanvikens-sk-bla-pojkar-2017/6284279/",
       "date": {
@@ -18441,8 +18684,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6280855,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-if-brommapojkarna-p16-25-pojkar-2016/6280855/",
       "date": {
@@ -18496,8 +18741,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284205,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-segeltorps-idrottsforening-fotboll-rod-pojkar-2017/6284205/",
       "date": {
@@ -18551,8 +18798,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6260662,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-1-tullinge-triangel-pojkar-fk-3-flickor-2013/6260662/",
       "date": {
@@ -18605,8 +18854,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6277877,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-ingaro-if-vit-pojkar-2015/6277877/",
       "date": {
@@ -18660,8 +18911,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6252192,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-skarpnack-ff-vit-pojkar-2012/6252192/",
       "date": {
@@ -18687,7 +18940,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2012",
     "venues": [
       "Västberga IP"
@@ -18696,10 +18949,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
-    "formattedTeam": "P2012 Gul",
+    "formattedTeam": "H2012 Gul",
     "opponent": "Skarpnäck FF Vit",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2012 Gul (vs Skarpnäck FF Vit)"
+    "formattedTitle": "🏟️ H2012 Gul (vs Skarpnäck FF Vit)"
   },
   {
     "uid": "venue-match-6276566",
@@ -18715,8 +18968,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6276566,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-1-djurgardens-if-ff-11-rod-pojkar-2015/6276566/",
       "date": {
@@ -18826,8 +19081,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6244062,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/grondals-ik-1-gustavsbergs-if-fk-vit-pojkar-2009/6244062/",
       "date": {
@@ -18853,7 +19110,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2009",
     "venues": [
       "Västberga IP"
@@ -18981,8 +19238,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6262367,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-vendelso-ik-bla-flickor-2014/6262367/",
       "date": {
@@ -19036,8 +19295,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281173,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-huddinge-if-rod-pojkar-2016/6281173/",
       "date": {
@@ -19091,8 +19352,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284500,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-ronninge-salem-fotboll-gul-pojkar-2017/6284500/",
       "date": {
@@ -19146,8 +19409,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281265,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-taby-fk-71-pojkar-2016/6281265/",
       "date": {
@@ -19201,8 +19466,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281353,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-ifk-lidingo-fk-18-pojkar-2016/6281353/",
       "date": {
@@ -19256,8 +19523,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6270891,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-grodinge-sk-svart-pojkar-2014/6270891/",
       "date": {
@@ -19368,8 +19637,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6272546,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-fisksatra-if-gul-pojkar-2014/6272546/",
       "date": {
@@ -19480,8 +19751,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6273549,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-6-boo-ff-7-2-pojkar-2014/6273549/",
       "date": {
@@ -19592,8 +19865,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6281169,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-2-stuvsta-if-11-pojkar-2016/6281169/",
       "date": {
@@ -19647,8 +19922,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6284499,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-hanvikens-sk-guld-pojkar-2017/6284499/",
       "date": {
@@ -19702,8 +19979,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6278002,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-vit-2-varmdo-if-bla-pojkar-2015/6278002/",
       "date": {
@@ -19757,8 +20036,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6261171,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-2-fisksatra-if-vit-flickor-2013/6261171/",
       "date": {
@@ -19811,8 +20092,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6276764,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-gustavsbergs-if-fk-1-pojkar-2015/6276764/",
       "date": {
@@ -19923,8 +20206,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6244914,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-2-if-brommapojkarna-10-31-pojkar-2010/6244914/",
       "date": {
@@ -19950,7 +20235,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Västberga IP"
@@ -19958,10 +20243,10 @@
     "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "IF Brommapojkarna 10-31",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs IF Brommapojkarna 10-31)"
+    "formattedTitle": "🏟️ H2010 (vs IF Brommapojkarna 10-31)"
   },
   {
     "uid": "venue-match-6221460",
@@ -20032,8 +20317,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6256611,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-1-djurgardens-if-ff-11-flickor-2012/6256611/",
       "date": {
@@ -20059,7 +20346,7 @@
         }
       }
     },
-    "gender": "Flickor",
+    "gender": "Damjunior",
     "ageGroup": "2012",
     "venues": [
       "Västberga IP"
@@ -20067,10 +20354,10 @@
     "series": "F2012- 3C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "F2012",
+    "formattedTeam": "D2012",
     "opponent": "Djurgårdens IF FF 11",
     "activity": "Match",
-    "formattedTitle": "🏟️ F2012 (vs Djurgårdens IF FF 11)"
+    "formattedTitle": "🏟️ D2012 (vs Djurgårdens IF FF 11)"
   },
   {
     "uid": "venue-match-6257225",
@@ -20194,8 +20481,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6252204,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-hanvikens-sk-svart-pojkar-2012/6252204/",
       "date": {
@@ -20221,7 +20510,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2012",
     "venues": [
       "Västberga IP"
@@ -20230,10 +20519,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 1",
     "color": "Gul",
-    "formattedTeam": "P2012 Gul",
+    "formattedTeam": "H2012 Gul",
     "opponent": "Hanvikens SK Svart",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2012 Gul (vs Hanvikens SK Svart)"
+    "formattedTitle": "🏟️ H2012 Gul (vs Hanvikens SK Svart)"
   },
   {
     "uid": "venue-match-6248273",
@@ -20249,8 +20538,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6248273,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-4-enskede-ik-3-pojkar-2011/6248273/",
       "date": {
@@ -20276,7 +20567,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2011",
     "venues": [
       "Västberga IP"
@@ -20285,10 +20576,10 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
-    "formattedTeam": "P2011 Gul",
+    "formattedTeam": "H2011 Gul",
     "opponent": "Enskede IK 3",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2011 Gul (vs Enskede IK 3)"
+    "formattedTitle": "🏟️ H2011 Gul (vs Enskede IK 3)"
   },
   {
     "uid": "venue-match-6247306",
@@ -20692,8 +20983,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6244923,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-2-djurgardens-if-ff-10-pojkar-2010/6244923/",
       "date": {
@@ -20719,7 +21012,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2010",
     "venues": [
       "Västberga IP"
@@ -20727,10 +21020,10 @@
     "series": "P2010- 2C",
     "match": "Home",
     "team": "IFK Aspudden-Tellus 2",
-    "formattedTeam": "P2010",
+    "formattedTeam": "H2010",
     "opponent": "Djurgårdens IF FF 10",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2010 (vs Djurgårdens IF FF 10)"
+    "formattedTitle": "🏟️ H2010 (vs Djurgårdens IF FF 10)"
   },
   {
     "uid": "venue-match-6244076",
@@ -20746,8 +21039,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6244076,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/grondals-ik-1-karlbergs-bk-rod-pojkar-2009/6244076/",
       "date": {
@@ -20773,7 +21068,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2009",
     "venues": [
       "Västberga IP"
@@ -20853,8 +21148,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6248285,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-4-varmdo-if-svart-pojkar-2011/6248285/",
       "date": {
@@ -20880,7 +21177,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "ageGroup": "2011",
     "venues": [
       "Västberga IP"
@@ -20889,9 +21186,9 @@
     "match": "Home",
     "team": "IFK Aspudden-Tellus Gul 4",
     "color": "Gul",
-    "formattedTeam": "P2011 Gul",
+    "formattedTeam": "H2011 Gul",
     "opponent": "Värmdö IF Svart",
     "activity": "Match",
-    "formattedTitle": "🏟️ P2011 Gul (vs Värmdö IF Svart)"
+    "formattedTitle": "🏟️ H2011 Gul (vs Värmdö IF Svart)"
   }
 ]
