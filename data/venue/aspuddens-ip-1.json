@@ -90,9 +90,13 @@
       "location": "Aspuddens IP 1",
       "category": "Damer 3 B",
       "status": "",
+      "audience": "37",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -100,6 +104,9 @@
       },
       "away": {
         "team": "Hangvar SK",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9660.png",
           "alt": "Hangvar SK"
