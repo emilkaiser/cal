@@ -12298,6 +12298,9 @@
       "note": "",
       "home": {
         "team": "Gröndals IK",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK"
@@ -12305,6 +12308,9 @@
       },
       "away": {
         "team": "Hallunda IF",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13527.png",
           "alt": "Hallunda IF"
