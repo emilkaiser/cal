@@ -29,6 +29,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 4",
+        "goals": {
+          "scored": 11
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 4"
@@ -36,6 +39,9 @@
       },
       "away": {
         "team": "Sköndals IK FK 3",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12895.png",
           "alt": "Sköndals IK FK 3"
