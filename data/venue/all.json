@@ -155,6 +155,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 1",
+        "goals": {
+          "scored": 7
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 1"
@@ -162,6 +165,9 @@
       },
       "away": {
         "team": "Ösmo GIF FK 1",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7867.png",
           "alt": "Ösmo GIF FK 1"
