@@ -91,6 +91,9 @@
       "note": "",
       "home": {
         "team": "Gröndals IK 1",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK 1"
@@ -98,6 +101,9 @@
       },
       "away": {
         "team": "Sköndals IK FK",
+        "goals": {
+          "scored": 8
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12895.png",
           "alt": "Sköndals IK FK"
