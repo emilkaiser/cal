@@ -89,9 +89,13 @@
       "location": "Aspuddens IP 1",
       "category": "P19 Div.1 2025 - Region 4",
       "status": "",
+      "audience": "45",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus ",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus "
@@ -99,6 +103,9 @@
       },
       "away": {
         "team": "Athletic FC Eskilstuna",
+        "goals": {
+          "scored": 11
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11922.png",
           "alt": "Athletic FC Eskilstuna"
