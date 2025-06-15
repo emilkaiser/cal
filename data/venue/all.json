@@ -12183,9 +12183,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 5 Mellersta",
       "status": "",
+      "audience": "34",
       "note": "",
       "home": {
         "team": "BK Fyren",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
           "alt": "BK Fyren"
@@ -12193,6 +12197,9 @@
       },
       "away": {
         "team": "Råsunda IS",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10393.png",
           "alt": "Råsunda IS"
@@ -12235,9 +12242,13 @@
       "location": "Västberga IP 1",
       "category": "DJ- 3B",
       "status": "",
+      "audience": "46",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -12245,6 +12256,9 @@
       },
       "away": {
         "team": "Skå IK & Bygdegård",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12408.png",
           "alt": "Skå IK & Bygdegård"
