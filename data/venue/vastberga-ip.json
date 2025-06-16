@@ -1,5 +1,57 @@
 [
   {
+    "uid": "venue-match-6222011",
+    "start": "2025-06-17T18:30:00.000Z",
+    "end": "2025-06-17T20:00:00.000Z",
+    "title": "Polonia Falcons FF vs Långholmen FC",
+    "description": "Herrar 7 G",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/polonia-falcons-ff-langholmen-fc-div-7-herrar/6222011/",
+    "categories": [
+      "Herrar 7 G"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6222011,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/polonia-falcons-ff-langholmen-fc-div-7-herrar/6222011/",
+      "date": {
+        "iso8601": "2025-06-17 20:30",
+        "formatted": "20:30, 17 juni 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 7 G",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Polonia Falcons FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12070.png",
+          "alt": "Polonia Falcons FF"
+        }
+      },
+      "away": {
+        "team": "Långholmen FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6892.png",
+          "alt": "Långholmen FC"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 7 G",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Polonia Falcons FF vs Långholmen FC)"
+  },
+  {
     "uid": "venue-match-6221047",
     "start": "2025-06-18T18:00:00.000Z",
     "end": "2025-06-18T19:30:00.000Z",
