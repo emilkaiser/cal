@@ -1547,6 +1547,58 @@
     "formattedTitle": "🏟️ H2011 Gul (vs IF Brommapojkarna 11-30)"
   },
   {
+    "uid": "venue-match-6220886",
+    "start": "2025-08-23T14:00:00.000Z",
+    "end": "2025-08-23T15:30:00.000Z",
+    "title": "Konglig Samhällsbyggnadssektion FC vs Tekniska Högskolan FC",
+    "description": "Herrar 6 C",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/konglig-samhallsbyggnadssektion-fc-tekniska-hogskolan-fc-div-6-herrar/6220886/",
+    "categories": [
+      "Herrar 6 C"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6220886,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/konglig-samhallsbyggnadssektion-fc-tekniska-hogskolan-fc-div-6-herrar/6220886/",
+      "date": {
+        "iso8601": "2025-08-23 16:00",
+        "formatted": "16:00, 23 aug. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 6 C",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Konglig Samhällsbyggnadssektion FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12915.png",
+          "alt": "Konglig Samhällsbyggnadssektion FC"
+        }
+      },
+      "away": {
+        "team": "Tekniska Högskolan FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12535.png",
+          "alt": "Tekniska Högskolan FC"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 6 C",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Konglig Samhällsbyggnadssektion FC vs Tekniska Högskolan FC)"
+  },
+  {
     "uid": "venue-match-6260500",
     "start": "2025-08-24T07:00:00.000Z",
     "end": "2025-08-24T08:30:00.000Z",
