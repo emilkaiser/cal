@@ -1,68 +1,5 @@
 [
   {
-    "uid": "venue-match-6233565",
-    "start": "2025-06-17T17:30:00.000Z",
-    "end": "2025-06-17T19:00:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Åkersberga FC 1",
-    "description": "SSH 3",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-akersberga-fc-1-stockholmsserien-3-herrar/6233565/",
-    "categories": [
-      "SSH 3"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6233565,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-akersberga-fc-1-stockholmsserien-3-herrar/6233565/",
-      "date": {
-        "iso8601": "2025-06-17 19:30",
-        "formatted": "19:30, 17 juni 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "SSH 3",
-      "status": "",
-      "audience": "19",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "goals": {
-          "scored": 3
-        },
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Åkersberga FC 1",
-        "goals": {
-          "scored": 5
-        },
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12855.png",
-          "alt": "Åkersberga FC 1"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "SSH 3",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Åkersberga FC 1",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Åkersberga FC 1)"
-  },
-  {
     "uid": "venue-match-6186147",
     "start": "2025-06-18T18:00:00.000Z",
     "end": "2025-06-18T19:30:00.000Z",
@@ -11745,58 +11682,6 @@
     "opponent": "Ingarö IF Gul",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 (vs Ingarö IF Gul)"
-  },
-  {
-    "uid": "venue-match-6222011",
-    "start": "2025-06-17T18:30:00.000Z",
-    "end": "2025-06-17T20:00:00.000Z",
-    "title": "Polonia Falcons FF vs Långholmen FC",
-    "description": "Herrar 7 G",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/polonia-falcons-ff-langholmen-fc-div-7-herrar/6222011/",
-    "categories": [
-      "Herrar 7 G"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6222011,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/polonia-falcons-ff-langholmen-fc-div-7-herrar/6222011/",
-      "date": {
-        "iso8601": "2025-06-17 20:30",
-        "formatted": "20:30, 17 juni 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Herrar 7 G",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Polonia Falcons FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12070.png",
-          "alt": "Polonia Falcons FF"
-        }
-      },
-      "away": {
-        "team": "Långholmen FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6892.png",
-          "alt": "Långholmen FC"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Herrar 7 G",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Polonia Falcons FF vs Långholmen FC)"
   },
   {
     "uid": "venue-match-6221047",
