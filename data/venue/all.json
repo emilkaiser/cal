@@ -7466,64 +7466,6 @@
     "formattedTitle": "🏟️ F2017 Röd (vs Huddinge IF 1)"
   },
   {
-    "uid": "venue-match-6266799",
-    "start": "2025-09-20T08:30:00.000Z",
-    "end": "2025-09-20T10:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Svart 1 vs Rönninge Salem Fotboll Svart 2",
-    "description": "P2013- 1",
-    "location": "Aspuddens IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-1-ronninge-salem-fotboll-svart-2-pojkar-2013/6266799/",
-    "categories": [
-      "P2013- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6266799,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-svart-1-ronninge-salem-fotboll-svart-2-pojkar-2013/6266799/",
-      "date": {
-        "iso8601": "2025-09-20 10:30",
-        "formatted": "10:30, 20 sep. 2025"
-      },
-      "location": "Aspuddens IP 11",
-      "category": "P2013- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Svart 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Svart 1"
-        }
-      },
-      "away": {
-        "team": "Rönninge Salem Fotboll Svart 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8142.png",
-          "alt": "Rönninge Salem Fotboll Svart 2"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2013",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2013- 1",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Svart 1",
-    "color": "Svart",
-    "formattedTeam": "P2013 Svart",
-    "opponent": "Rönninge Salem Fotboll Svart 2",
-    "activity": "Match",
-    "formattedTitle": "🏟️ P2013 Svart (vs Rönninge Salem Fotboll Svart 2)"
-  },
-  {
     "uid": "venue-match-6272401",
     "start": "2025-09-20T09:45:00.000Z",
     "end": "2025-09-20T11:15:00.000Z",
