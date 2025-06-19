@@ -4859,63 +4859,6 @@
     "formattedTitle": "🏟️ H2012 Gul (vs Tullinge Triangel Pojkar FK Blå)"
   },
   {
-    "uid": "venue-match-6272297",
-    "start": "2025-09-13T09:30:00.000Z",
-    "end": "2025-09-13T11:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 3 vs Vällingby AIK 1",
-    "description": "P2014- 2",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-3-vallingby-aik-1-pojkar-2014/6272297/",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6272297,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-vallingby-aik-1-pojkar-2014/6272297/",
-      "date": {
-        "iso8601": "2025-09-13 11:30",
-        "formatted": "11:30, 13 sep. 2025"
-      },
-      "location": "Västberga IP 12",
-      "category": "P2014- 2",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 3"
-        }
-      },
-      "away": {
-        "team": "Vällingby AIK 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9875.png",
-          "alt": "Vällingby AIK 1"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2014",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2014- 2",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 3",
-    "color": "Gul",
-    "formattedTeam": "P2014 Gul",
-    "opponent": "Vällingby AIK 1",
-    "activity": "Match",
-    "formattedTitle": "🏟️ P2014 Gul (vs Vällingby AIK 1)"
-  },
-  {
     "uid": "venue-match-6261092",
     "start": "2025-09-13T10:30:00.000Z",
     "end": "2025-09-13T12:00:00.000Z",

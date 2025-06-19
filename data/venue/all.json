@@ -8499,64 +8499,6 @@
     "formattedTitle": "🏟️ P2015 Blå (vs IFK Lidingö FK 11 vit)"
   },
   {
-    "uid": "venue-match-6277841",
-    "start": "2025-09-21T13:30:00.000Z",
-    "end": "2025-09-21T15:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Röd 3 vs Norrtulls SK Blå 1 L",
-    "description": "P2015- 3",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-norrtulls-sk-bla-1-l-pojkar-2015/6277841/",
-    "categories": [
-      "P2015- 3"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6277841,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-3-norrtulls-sk-bla-1-l-pojkar-2015/6277841/",
-      "date": {
-        "iso8601": "2025-09-21 15:30",
-        "formatted": "15:30, 21 sep. 2025"
-      },
-      "location": "Aspuddens IP 2",
-      "category": "P2015- 3",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Röd 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Röd 3"
-        }
-      },
-      "away": {
-        "team": "Norrtulls SK Blå 1 L",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10543.png",
-          "alt": "Norrtulls SK Blå 1 L"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2015",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "series": "P2015- 3",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Röd 3",
-    "color": "Röd",
-    "formattedTeam": "P2015 Röd",
-    "opponent": "Norrtulls SK Blå 1 L",
-    "activity": "Match",
-    "formattedTitle": "🏟️ P2015 Röd (vs Norrtulls SK Blå 1 L)"
-  },
-  {
     "uid": "venue-match-6255294",
     "start": "2025-09-21T14:00:00.000Z",
     "end": "2025-09-21T15:30:00.000Z",
@@ -9983,64 +9925,6 @@
     "opponent": "Huddinge IF Vit M2",
     "activity": "Match",
     "formattedTitle": "🏟️ P2014 Blå (vs Huddinge IF Vit M2)"
-  },
-  {
-    "uid": "venue-match-6274715",
-    "start": "2025-09-28T12:15:00.000Z",
-    "end": "2025-09-28T13:45:00.000Z",
-    "title": "IFK Aspudden-Tellus Blå 1 vs Saltsjöbadens IF Blå",
-    "description": "P2015- 1",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-saltsjobadens-if-bla-pojkar-2015/6274715/",
-    "categories": [
-      "P2015- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6274715,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-saltsjobadens-if-bla-pojkar-2015/6274715/",
-      "date": {
-        "iso8601": "2025-09-28 14:15",
-        "formatted": "14:15, 28 sep. 2025"
-      },
-      "location": "Aspuddens IP 2",
-      "category": "P2015- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Blå 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Blå 1"
-        }
-      },
-      "away": {
-        "team": "Saltsjöbadens IF Blå",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10370.png",
-          "alt": "Saltsjöbadens IF Blå"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2015",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "series": "P2015- 1",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Blå 1",
-    "color": "Blå",
-    "formattedTeam": "P2015 Blå",
-    "opponent": "Saltsjöbadens IF Blå",
-    "activity": "Match",
-    "formattedTitle": "🏟️ P2015 Blå (vs Saltsjöbadens IF Blå)"
   },
   {
     "uid": "venue-match-6277974",
@@ -16369,63 +16253,6 @@
     "opponent": "Tullinge Triangel Pojkar FK Blå",
     "activity": "Match",
     "formattedTitle": "🏟️ H2012 Gul (vs Tullinge Triangel Pojkar FK Blå)"
-  },
-  {
-    "uid": "venue-match-6272297",
-    "start": "2025-09-13T09:30:00.000Z",
-    "end": "2025-09-13T11:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 3 vs Vällingby AIK 1",
-    "description": "P2014- 2",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-3-vallingby-aik-1-pojkar-2014/6272297/",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6272297,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-vallingby-aik-1-pojkar-2014/6272297/",
-      "date": {
-        "iso8601": "2025-09-13 11:30",
-        "formatted": "11:30, 13 sep. 2025"
-      },
-      "location": "Västberga IP 12",
-      "category": "P2014- 2",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 3"
-        }
-      },
-      "away": {
-        "team": "Vällingby AIK 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9875.png",
-          "alt": "Vällingby AIK 1"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2014",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2014- 2",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 3",
-    "color": "Gul",
-    "formattedTeam": "P2014 Gul",
-    "opponent": "Vällingby AIK 1",
-    "activity": "Match",
-    "formattedTitle": "🏟️ P2014 Gul (vs Vällingby AIK 1)"
   },
   {
     "uid": "venue-match-6261092",

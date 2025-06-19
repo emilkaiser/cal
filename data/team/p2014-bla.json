@@ -346,36 +346,6 @@
     "formattedTitle": "Hammarby IF FF 13 grön"
   },
   {
-    "uid": "team-game-6273204",
-    "start": "2025-08-30T12:15:00.000Z",
-    "end": "2025-08-30T13:45:00.000Z",
-    "title": "Hässelby SK FF P14 Vit 2 vs IFK Aspudden-Tellus Blå 2",
-    "description": "P2014- 3",
-    "location": "Hässelby IP 22",
-    "url": "https://www.stff.se/go-to/?fmid=6273204",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6273204",
-      "dateTime": "2025-08-30T14:15+02:00",
-      "homeTeam": "Hässelby SK FF P14 Vit 2",
-      "awayTeam": "IFK Aspudden-Tellus Blå 2",
-      "category": "P2014- 3",
-      "location": "Hässelby IP 22",
-      "url": "https://www.stff.se/go-to/?fmid=6273204"
-    },
-    "color": "Vit",
-    "gender": "Pojkar",
-    "ageGroup": "14",
-    "formattedTeam": "P14 Vit",
-    "team": "Hässelby SK FF P14 Vit 2",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "P14 Vit"
-  },
-  {
     "uid": "team-game-6273375",
     "start": "2025-09-13T09:45:00.000Z",
     "end": "2025-09-13T11:15:00.000Z",
