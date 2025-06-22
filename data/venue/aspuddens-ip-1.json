@@ -26,9 +26,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 4 Södra",
       "status": "",
+      "audience": "88",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -36,6 +40,9 @@
       },
       "away": {
         "team": "IFK Stockholm FK",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12940.png",
           "alt": "IFK Stockholm FK"
@@ -1906,62 +1913,6 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF vs Tudor Arms FC)"
-  },
-  {
-    "uid": "venue-match-6234316",
-    "start": "2025-08-24T18:00:00.000Z",
-    "end": "2025-08-24T19:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Stureby SK",
-    "description": "Herrar Vet B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-stureby-sk-veteran/6234316/",
-    "categories": [
-      "Herrar Vet B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6234316,
-      "ageCategoryName": "Veteran",
-      "ageCategoryId": 5,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-stureby-sk-veteran/6234316/",
-      "date": {
-        "iso8601": "2025-08-24 20:00",
-        "formatted": "20:00, 24 aug. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar Vet B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Stureby SK",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10189.png",
-          "alt": "Stureby SK"
-        }
-      }
-    },
-    "gender": "Herrveteran",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar Vet B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Stureby SK",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Stureby SK)"
   },
   {
     "uid": "venue-match-6186124",
