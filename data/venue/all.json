@@ -11614,62 +11614,6 @@
     "formattedTitle": " (Långholmen FC vs Polonia Falcons FF)"
   },
   {
-    "uid": "venue-match-6347980",
-    "start": "2025-08-10T12:00:00.000Z",
-    "end": "2025-08-10T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 1 vs Hammarby IF FF 8",
-    "description": "P2010- 1C",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-hammarby-if-ff-8-pojkar-2010/6347980/",
-    "categories": [
-      "P2010- 1C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6347980,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-hammarby-if-ff-8-pojkar-2010/6347980/",
-      "date": {
-        "iso8601": "2025-08-10 14:00",
-        "formatted": "14:00, 10 aug. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2010- 1C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 1"
-        }
-      },
-      "away": {
-        "team": "Hammarby IF FF 8",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
-          "alt": "Hammarby IF FF 8"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2010- 1C",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "H2010",
-    "opponent": "Hammarby IF FF 8",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs Hammarby IF FF 8)"
-  },
-  {
     "uid": "venue-match-6248225",
     "start": "2025-08-10T14:00:00.000Z",
     "end": "2025-08-10T15:30:00.000Z",
