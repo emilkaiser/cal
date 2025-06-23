@@ -11787,6 +11787,59 @@
     "formattedTitle": " (Långholmen FC vs Polonia Falcons FF)"
   },
   {
+    "uid": "venue-match-6347978",
+    "start": "2025-08-10T12:00:00.000Z",
+    "end": "2025-08-10T13:30:00.000Z",
+    "title": "Djurgårdens IF FF 12 vs Reymersholms FF RFF VIT",
+    "description": "P2010- 1C",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-12-reymersholms-ff-rff-vit-pojkar-2010/6347978/",
+    "categories": [
+      "P2010- 1C"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6347978,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-if-ff-12-reymersholms-ff-rff-vit-pojkar-2010/6347978/",
+      "date": {
+        "iso8601": "2025-08-10 14:00",
+        "formatted": "14:00, 10 aug. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2010- 1C",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens IF FF 12",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 12"
+        }
+      },
+      "away": {
+        "team": "Reymersholms FF RFF VIT",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13451.png",
+          "alt": "Reymersholms FF RFF VIT"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2010",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2010- 1C",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens IF FF 12 vs Reymersholms FF RFF VIT)"
+  },
+  {
     "uid": "venue-match-6248225",
     "start": "2025-08-10T14:00:00.000Z",
     "end": "2025-08-10T15:30:00.000Z",
@@ -12336,6 +12389,58 @@
     "formattedTitle": "🏟️ H2011 Gul (vs Älvsjö AIK FF 3)"
   },
   {
+    "uid": "venue-match-6242261",
+    "start": "2025-08-17T13:30:00.000Z",
+    "end": "2025-08-17T15:00:00.000Z",
+    "title": "Värtans IK vs Tungelsta IF 1",
+    "description": "HJ- 2B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/vartans-ik-tungelsta-if-1-herrjuniorer-0706/6242261/",
+    "categories": [
+      "HJ- 2B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6242261,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/vartans-ik-tungelsta-if-1-herrjuniorer-0706/6242261/",
+      "date": {
+        "iso8601": "2025-08-17 15:30",
+        "formatted": "15:30, 17 aug. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "HJ- 2B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Värtans IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9866.png",
+          "alt": "Värtans IK"
+        }
+      },
+      "away": {
+        "team": "Tungelsta IF 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10037.png",
+          "alt": "Tungelsta IF 1"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "HJ- 2B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Värtans IK vs Tungelsta IF 1)"
+  },
+  {
     "uid": "venue-match-6189579",
     "start": "2025-08-17T16:00:00.000Z",
     "end": "2025-08-17T17:30:00.000Z",
@@ -12386,6 +12491,58 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (BK Fyren vs BK Karlbergare)"
+  },
+  {
+    "uid": "venue-match-6241789",
+    "start": "2025-08-17T18:00:00.000Z",
+    "end": "2025-08-17T19:30:00.000Z",
+    "title": "Djurgårdens TFF 7 vs Sickla IF 1",
+    "description": "HJ- 1B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-tff-7-sickla-if-1-herrjuniorer-0706/6241789/",
+    "categories": [
+      "HJ- 1B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6241789,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-tff-7-sickla-if-1-herrjuniorer-0706/6241789/",
+      "date": {
+        "iso8601": "2025-08-17 20:00",
+        "formatted": "20:00, 17 aug. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "HJ- 1B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens TFF 7",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13233.png",
+          "alt": "Djurgårdens TFF 7"
+        }
+      },
+      "away": {
+        "team": "Sickla IF 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11612.png",
+          "alt": "Sickla IF 1"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "HJ- 1B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens TFF 7 vs Sickla IF 1)"
   },
   {
     "uid": "venue-match-6221066",
@@ -13621,6 +13778,59 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Djurgårdens IF FF 10)"
+  },
+  {
+    "uid": "venue-match-6347986",
+    "start": "2025-08-24T16:00:00.000Z",
+    "end": "2025-08-24T17:30:00.000Z",
+    "title": "Djurgårdens IF FF 12 vs Årsta FF 1",
+    "description": "P2010- 1C",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-12-arsta-ff-1-pojkar-2010/6347986/",
+    "categories": [
+      "P2010- 1C"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6347986,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-if-ff-12-arsta-ff-1-pojkar-2010/6347986/",
+      "date": {
+        "iso8601": "2025-08-24 18:00",
+        "formatted": "18:00, 24 aug. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2010- 1C",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens IF FF 12",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 12"
+        }
+      },
+      "away": {
+        "team": "Årsta FF 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12299.png",
+          "alt": "Årsta FF 1"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2010",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2010- 1C",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens IF FF 12 vs Årsta FF 1)"
   },
   {
     "uid": "venue-match-6222026",
