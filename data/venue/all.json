@@ -781,6 +781,63 @@
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Bagarmossen Kärrtorp BK)"
   },
   {
+    "uid": "venue-match-6440607",
+    "start": "2025-08-16T14:00:00.000Z",
+    "end": "2025-08-16T15:30:00.000Z",
+    "title": "IFK Aspudden-Tellus 1 vs Enskede IK",
+    "description": "P2009 kval till P17- Div 1 Höst",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-enskede-ik-pojkar-2009-kval-till-p17/6440607/",
+    "categories": [
+      "P2009 kval till P17- Div 1 Höst"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6440607,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-enskede-ik-pojkar-2009-kval-till-p17/6440607/",
+      "date": {
+        "iso8601": "2025-08-16 16:00",
+        "formatted": "16:00, 16 aug. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P2009 kval till P17- Div 1 Höst",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus 1"
+        }
+      },
+      "away": {
+        "team": "Enskede IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11417.png",
+          "alt": "Enskede IK"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2009",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P2009 kval till P17- Div 1 Höst",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus 1",
+    "formattedTeam": "H2009",
+    "opponent": "Enskede IK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ H2009 (vs Enskede IK)"
+  },
+  {
     "uid": "venue-match-6248626",
     "start": "2025-08-17T10:00:00.000Z",
     "end": "2025-08-17T11:30:00.000Z",
@@ -3927,6 +3984,63 @@
     "formattedTitle": "🏟️ P2015 Röd (vs Älvsjö AIK FF Blå 2)"
   },
   {
+    "uid": "venue-match-6440617",
+    "start": "2025-08-31T14:00:00.000Z",
+    "end": "2025-08-31T15:30:00.000Z",
+    "title": "IFK Aspudden-Tellus 1 vs Skå IK & Bygdegård",
+    "description": "P2009 kval till P17- Div 1 Höst",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-ska-ik--bygdegard-pojkar-2009-kval-till-p17/6440617/",
+    "categories": [
+      "P2009 kval till P17- Div 1 Höst"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6440617,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-ska-ik--bygdegard-pojkar-2009-kval-till-p17/6440617/",
+      "date": {
+        "iso8601": "2025-08-31 16:00",
+        "formatted": "16:00, 31 aug. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P2009 kval till P17- Div 1 Höst",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus 1"
+        }
+      },
+      "away": {
+        "team": "Skå IK & Bygdegård",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12408.png",
+          "alt": "Skå IK & Bygdegård"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2009",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P2009 kval till P17- Div 1 Höst",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus 1",
+    "formattedTeam": "H2009",
+    "opponent": "Skå IK & Bygdegård",
+    "activity": "Match",
+    "formattedTitle": "🏟️ H2009 (vs Skå IK & Bygdegård)"
+  },
+  {
     "uid": "venue-match-6270603",
     "start": "2025-08-31T14:45:00.000Z",
     "end": "2025-08-31T16:15:00.000Z",
@@ -6957,6 +7071,63 @@
     "formattedTitle": "🏟️ P2015 Blå (vs Apollon Solna FK Röd 1)"
   },
   {
+    "uid": "venue-match-6440627",
+    "start": "2025-09-14T14:00:00.000Z",
+    "end": "2025-09-14T15:30:00.000Z",
+    "title": "IFK Aspudden-Tellus 1 vs Sörskogens IF 1",
+    "description": "P2009 kval till P17- Div 1 Höst",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-sorskogens-if-1-pojkar-2009-kval-till-p17/6440627/",
+    "categories": [
+      "P2009 kval till P17- Div 1 Höst"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6440627,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-sorskogens-if-1-pojkar-2009-kval-till-p17/6440627/",
+      "date": {
+        "iso8601": "2025-09-14 16:00",
+        "formatted": "16:00, 14 sep. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P2009 kval till P17- Div 1 Höst",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus 1"
+        }
+      },
+      "away": {
+        "team": "Sörskogens IF 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10113.png",
+          "alt": "Sörskogens IF 1"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2009",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P2009 kval till P17- Div 1 Höst",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus 1",
+    "formattedTeam": "H2009",
+    "opponent": "Sörskogens IF 1",
+    "activity": "Match",
+    "formattedTitle": "🏟️ H2009 (vs Sörskogens IF 1)"
+  },
+  {
     "uid": "venue-match-6220633",
     "start": "2025-09-14T16:00:00.000Z",
     "end": "2025-09-14T17:30:00.000Z",
@@ -9815,6 +9986,63 @@
     "formattedTitle": "🏟️ P2014 Blå (vs Huddinge IF Vit M2)"
   },
   {
+    "uid": "venue-match-6440637",
+    "start": "2025-09-28T12:00:00.000Z",
+    "end": "2025-09-28T13:30:00.000Z",
+    "title": "IFK Aspudden-Tellus 1 vs Karlbergs BK",
+    "description": "P2009 kval till P17- Div 1 Höst",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-karlbergs-bk-pojkar-2009-kval-till-p17/6440637/",
+    "categories": [
+      "P2009 kval till P17- Div 1 Höst"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6440637,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-karlbergs-bk-pojkar-2009-kval-till-p17/6440637/",
+      "date": {
+        "iso8601": "2025-09-28 14:00",
+        "formatted": "14:00, 28 sep. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P2009 kval till P17- Div 1 Höst",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus 1"
+        }
+      },
+      "away": {
+        "team": "Karlbergs BK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10871.png",
+          "alt": "Karlbergs BK"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2009",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P2009 kval till P17- Div 1 Höst",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus 1",
+    "formattedTeam": "H2009",
+    "opponent": "Karlbergs BK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ H2009 (vs Karlbergs BK)"
+  },
+  {
     "uid": "venue-match-6277974",
     "start": "2025-09-28T13:30:00.000Z",
     "end": "2025-09-28T15:00:00.000Z",
@@ -10884,6 +11112,63 @@
     "formattedTitle": " (Gröndals IK 1 vs Tungelsta IF 1)"
   },
   {
+    "uid": "venue-match-6440647",
+    "start": "2025-10-12T10:00:00.000Z",
+    "end": "2025-10-12T11:30:00.000Z",
+    "title": "IFK Aspudden-Tellus 1 vs Stuvsta IF 1",
+    "description": "P2009 kval till P17- Div 1 Höst",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-stuvsta-if-1-pojkar-2009-kval-till-p17/6440647/",
+    "categories": [
+      "P2009 kval till P17- Div 1 Höst"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6440647,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-stuvsta-if-1-pojkar-2009-kval-till-p17/6440647/",
+      "date": {
+        "iso8601": "2025-10-12 12:00",
+        "formatted": "12:00, 12 okt. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P2009 kval till P17- Div 1 Höst",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus 1"
+        }
+      },
+      "away": {
+        "team": "Stuvsta IF 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8931.png",
+          "alt": "Stuvsta IF 1"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2009",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P2009 kval till P17- Div 1 Höst",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus 1",
+    "formattedTeam": "H2009",
+    "opponent": "Stuvsta IF 1",
+    "activity": "Match",
+    "formattedTitle": "🏟️ H2009 (vs Stuvsta IF 1)"
+  },
+  {
     "uid": "venue-match-6245497",
     "start": "2025-10-12T12:00:00.000Z",
     "end": "2025-10-12T13:30:00.000Z",
@@ -11664,6 +11949,59 @@
     "opponent": "Ospecificerat",
     "activity": "Match",
     "formattedTitle": "🏟️ Aspuddens FF (vs Ospecificerat)"
+  },
+  {
+    "uid": "venue-match-6440548",
+    "start": "2025-08-15T18:00:00.000Z",
+    "end": "2025-08-15T19:30:00.000Z",
+    "title": "Reymersholms IK 1 vs Enskede IK",
+    "description": "P2007 kval till P19- Div 3 Höst",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ik-1-enskede-ik-pojkar-2007-kval-till-p19/6440548/",
+    "categories": [
+      "P2007 kval till P19- Div 3 Höst"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6440548,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/reymersholms-ik-1-enskede-ik-pojkar-2007-kval-till-p19/6440548/",
+      "date": {
+        "iso8601": "2025-08-15 20:00",
+        "formatted": "20:00, 15 aug. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2007 kval till P19- Div 3 Höst",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Reymersholms IK 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
+          "alt": "Reymersholms IK 1"
+        }
+      },
+      "away": {
+        "team": "Enskede IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11417.png",
+          "alt": "Enskede IK"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2007",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2007 kval till P19- Div 3 Höst",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Reymersholms IK 1 vs Enskede IK)"
   },
   {
     "uid": "venue-match-6257183",
@@ -14466,6 +14804,59 @@
     "opponent": "Ekerö IK Orange",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 Gul (vs Ekerö IK Orange)"
+  },
+  {
+    "uid": "venue-match-6440561",
+    "start": "2025-08-31T14:00:00.000Z",
+    "end": "2025-08-31T15:30:00.000Z",
+    "title": "Reymersholms IK 1 vs FK Bromma 2",
+    "description": "P2007 kval till P19- Div 3 Höst",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ik-1-fk-bromma-2-pojkar-2007-kval-till-p19/6440561/",
+    "categories": [
+      "P2007 kval till P19- Div 3 Höst"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6440561,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/reymersholms-ik-1-fk-bromma-2-pojkar-2007-kval-till-p19/6440561/",
+      "date": {
+        "iso8601": "2025-08-31 16:00",
+        "formatted": "16:00, 31 aug. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2007 kval till P19- Div 3 Höst",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Reymersholms IK 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
+          "alt": "Reymersholms IK 1"
+        }
+      },
+      "away": {
+        "team": "FK Bromma 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9027.png",
+          "alt": "FK Bromma 2"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2007",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2007 kval till P19- Div 3 Höst",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Reymersholms IK 1 vs FK Bromma 2)"
   },
   {
     "uid": "venue-match-6189591",

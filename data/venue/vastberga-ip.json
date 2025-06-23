@@ -382,6 +382,59 @@
     "formattedTitle": "🏟️ Aspuddens FF (vs Ospecificerat)"
   },
   {
+    "uid": "venue-match-6440548",
+    "start": "2025-08-15T18:00:00.000Z",
+    "end": "2025-08-15T19:30:00.000Z",
+    "title": "Reymersholms IK 1 vs Enskede IK",
+    "description": "P2007 kval till P19- Div 3 Höst",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ik-1-enskede-ik-pojkar-2007-kval-till-p19/6440548/",
+    "categories": [
+      "P2007 kval till P19- Div 3 Höst"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6440548,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/reymersholms-ik-1-enskede-ik-pojkar-2007-kval-till-p19/6440548/",
+      "date": {
+        "iso8601": "2025-08-15 20:00",
+        "formatted": "20:00, 15 aug. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2007 kval till P19- Div 3 Höst",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Reymersholms IK 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
+          "alt": "Reymersholms IK 1"
+        }
+      },
+      "away": {
+        "team": "Enskede IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11417.png",
+          "alt": "Enskede IK"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2007",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2007 kval till P19- Div 3 Höst",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Reymersholms IK 1 vs Enskede IK)"
+  },
+  {
     "uid": "venue-match-6257183",
     "start": "2025-08-16T08:30:00.000Z",
     "end": "2025-08-16T10:00:00.000Z",
@@ -3182,6 +3235,59 @@
     "opponent": "Ekerö IK Orange",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 Gul (vs Ekerö IK Orange)"
+  },
+  {
+    "uid": "venue-match-6440561",
+    "start": "2025-08-31T14:00:00.000Z",
+    "end": "2025-08-31T15:30:00.000Z",
+    "title": "Reymersholms IK 1 vs FK Bromma 2",
+    "description": "P2007 kval till P19- Div 3 Höst",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ik-1-fk-bromma-2-pojkar-2007-kval-till-p19/6440561/",
+    "categories": [
+      "P2007 kval till P19- Div 3 Höst"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6440561,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/reymersholms-ik-1-fk-bromma-2-pojkar-2007-kval-till-p19/6440561/",
+      "date": {
+        "iso8601": "2025-08-31 16:00",
+        "formatted": "16:00, 31 aug. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2007 kval till P19- Div 3 Höst",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Reymersholms IK 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
+          "alt": "Reymersholms IK 1"
+        }
+      },
+      "away": {
+        "team": "FK Bromma 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9027.png",
+          "alt": "FK Bromma 2"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2007",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2007 kval till P19- Div 3 Höst",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Reymersholms IK 1 vs FK Bromma 2)"
   },
   {
     "uid": "venue-match-6189591",
