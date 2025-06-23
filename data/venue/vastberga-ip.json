@@ -5289,6 +5289,59 @@
     "formattedTitle": "🏟️ H2011 Gul (vs IFK Lidingö FK C vit)"
   },
   {
+    "uid": "venue-match-6242802",
+    "start": "2025-09-13T14:00:00.000Z",
+    "end": "2025-09-13T15:30:00.000Z",
+    "title": "Djurgårdens IF FF 7 vs Tungelsta IF 1",
+    "description": "P2008- 2C",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-7-tungelsta-if-1-pojkar-2008/6242802/",
+    "categories": [
+      "P2008- 2C"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6242802,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-if-ff-7-tungelsta-if-1-pojkar-2008/6242802/",
+      "date": {
+        "iso8601": "2025-09-13 16:00",
+        "formatted": "16:00, 13 sep. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2008- 2C",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens IF FF 7",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 7"
+        }
+      },
+      "away": {
+        "team": "Tungelsta IF 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10037.png",
+          "alt": "Tungelsta IF 1"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2008",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2008- 2C",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens IF FF 7 vs Tungelsta IF 1)"
+  },
+  {
     "uid": "venue-match-6280681",
     "start": "2025-09-14T07:00:00.000Z",
     "end": "2025-09-14T08:30:00.000Z",
@@ -5680,6 +5733,112 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK vs Stockholm United FC)"
+  },
+  {
+    "uid": "venue-match-6243237",
+    "start": "2025-09-14T18:00:00.000Z",
+    "end": "2025-09-14T19:30:00.000Z",
+    "title": "Djurgårdens IF FF 4 Gul vs Boo FF 2",
+    "description": "P2009- 1B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-4-gul-boo-ff-2-pojkar-2009/6243237/",
+    "categories": [
+      "P2009- 1B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6243237,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-if-ff-4-gul-boo-ff-2-pojkar-2009/6243237/",
+      "date": {
+        "iso8601": "2025-09-14 20:00",
+        "formatted": "20:00, 14 sep. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2009- 1B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens IF FF 4 Gul",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 4 Gul"
+        }
+      },
+      "away": {
+        "team": "Boo FF 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
+          "alt": "Boo FF 2"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2009",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2009- 1B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens IF FF 4 Gul vs Boo FF 2)"
+  },
+  {
+    "uid": "venue-match-6244332",
+    "start": "2025-09-19T18:00:00.000Z",
+    "end": "2025-09-19T19:30:00.000Z",
+    "title": "Djurgårdens IF FF 19 vs IF Brommapojkarna 10-2",
+    "description": "P2010- 1B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-19-if-brommapojkarna-10-2-pojkar-2010/6244332/",
+    "categories": [
+      "P2010- 1B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6244332,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-if-ff-19-if-brommapojkarna-10-2-pojkar-2010/6244332/",
+      "date": {
+        "iso8601": "2025-09-19 20:00",
+        "formatted": "20:00, 19 sep. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2010- 1B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens IF FF 19",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 19"
+        }
+      },
+      "away": {
+        "team": "IF Brommapojkarna 10-2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
+          "alt": "IF Brommapojkarna 10-2"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2010",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2010- 1B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens IF FF 19 vs IF Brommapojkarna 10-2)"
   },
   {
     "uid": "venue-match-6269792",
@@ -6191,6 +6350,59 @@
     "opponent": "Reymersholms IK 3",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 Gul (vs Reymersholms IK 3)"
+  },
+  {
+    "uid": "venue-match-6242634",
+    "start": "2025-09-20T14:00:00.000Z",
+    "end": "2025-09-20T15:30:00.000Z",
+    "title": "Djurgårdens IF FF 4 vs Kungsängens IF",
+    "description": "P2008- 2A",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-4-kungsangens-if-pojkar-2008/6242634/",
+    "categories": [
+      "P2008- 2A"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6242634,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-if-ff-4-kungsangens-if-pojkar-2008/6242634/",
+      "date": {
+        "iso8601": "2025-09-20 16:00",
+        "formatted": "16:00, 20 sep. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2008- 2A",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens IF FF 4",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 4"
+        }
+      },
+      "away": {
+        "team": "Kungsängens IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10798.png",
+          "alt": "Kungsängens IF"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2008",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2008- 2A",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens IF FF 4 vs Kungsängens IF)"
   },
   {
     "uid": "venue-match-6266395",
@@ -7543,6 +7755,59 @@
     "formattedTitle": "🏟️ H2011 Gul (vs Mälarhöjden-Hägersten FF Blå)"
   },
   {
+    "uid": "venue-match-6243663",
+    "start": "2025-09-27T14:00:00.000Z",
+    "end": "2025-09-27T15:30:00.000Z",
+    "title": "Värtans IK vs Reymersholms IK 2",
+    "description": "P2009- 2C",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/vartans-ik-reymersholms-ik-2-pojkar-2009/6243663/",
+    "categories": [
+      "P2009- 2C"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6243663,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/vartans-ik-reymersholms-ik-2-pojkar-2009/6243663/",
+      "date": {
+        "iso8601": "2025-09-27 16:00",
+        "formatted": "16:00, 27 sep. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2009- 2C",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Värtans IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9866.png",
+          "alt": "Värtans IK"
+        }
+      },
+      "away": {
+        "team": "Reymersholms IK 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
+          "alt": "Reymersholms IK 2"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2009",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2009- 2C",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Värtans IK vs Reymersholms IK 2)"
+  },
+  {
     "uid": "venue-match-6281169",
     "start": "2025-09-28T07:00:00.000Z",
     "end": "2025-09-28T08:30:00.000Z",
@@ -7940,6 +8205,112 @@
     "formattedTitle": "🏟️ H2010 (vs IF Brommapojkarna 10-31)"
   },
   {
+    "uid": "venue-match-6246227",
+    "start": "2025-09-28T15:30:00.000Z",
+    "end": "2025-09-28T17:00:00.000Z",
+    "title": "Djurgårdens IF FF 1 vs IF Brommapojkarna A",
+    "description": "P2010- 1R",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-1-if-brommapojkarna-a-pojkar-2010/6246227/",
+    "categories": [
+      "P2010- 1R"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6246227,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-if-ff-1-if-brommapojkarna-a-pojkar-2010/6246227/",
+      "date": {
+        "iso8601": "2025-09-28 17:30",
+        "formatted": "17:30, 28 sep. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2010- 1R",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens IF FF 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 1"
+        }
+      },
+      "away": {
+        "team": "IF Brommapojkarna A",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
+          "alt": "IF Brommapojkarna A"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2010",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2010- 1R",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens IF FF 1 vs IF Brommapojkarna A)"
+  },
+  {
+    "uid": "venue-match-6259502",
+    "start": "2025-09-28T17:00:00.000Z",
+    "end": "2025-09-28T18:30:00.000Z",
+    "title": "Djurgårdens IF FF 4 vs Sollentuna FK F2010 1",
+    "description": "F2010- 3A",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-4-sollentuna-fk-f2010-1-flickor-2010/6259502/",
+    "categories": [
+      "F2010- 3A"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6259502,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-if-ff-4-sollentuna-fk-f2010-1-flickor-2010/6259502/",
+      "date": {
+        "iso8601": "2025-09-28 19:00",
+        "formatted": "19:00, 28 sep. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "F2010- 3A",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens IF FF 4",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 4"
+        }
+      },
+      "away": {
+        "team": "Sollentuna FK F2010 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7184.png",
+          "alt": "Sollentuna FK F2010 1"
+        }
+      }
+    },
+    "gender": "Damjunior",
+    "ageGroup": "2010",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "F2010- 3A",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens IF FF 4 vs Sollentuna FK F2010 1)"
+  },
+  {
     "uid": "venue-match-6221460",
     "start": "2025-10-03T18:00:00.000Z",
     "end": "2025-10-03T19:30:00.000Z",
@@ -8159,6 +8530,59 @@
     "formattedTitle": " (BK Fyren vs IK Makkabi)"
   },
   {
+    "uid": "venue-match-6242726",
+    "start": "2025-10-04T14:00:00.000Z",
+    "end": "2025-10-04T15:30:00.000Z",
+    "title": "Djurgårdens IF FF 5 vs Värmdö IF",
+    "description": "P2008- 2B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-5-varmdo-if-pojkar-2008/6242726/",
+    "categories": [
+      "P2008- 2B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6242726,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-if-ff-5-varmdo-if-pojkar-2008/6242726/",
+      "date": {
+        "iso8601": "2025-10-04 16:00",
+        "formatted": "16:00, 4 okt. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2008- 2B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens IF FF 5",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 5"
+        }
+      },
+      "away": {
+        "team": "Värmdö IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9869.png",
+          "alt": "Värmdö IF"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2008",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2008- 2B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens IF FF 5 vs Värmdö IF)"
+  },
+  {
     "uid": "venue-match-6252204",
     "start": "2025-10-05T08:30:00.000Z",
     "end": "2025-10-05T10:00:00.000Z",
@@ -8271,6 +8695,59 @@
     "opponent": "Enskede IK 3",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 Gul (vs Enskede IK 3)"
+  },
+  {
+    "uid": "venue-match-6244071",
+    "start": "2025-10-05T12:00:00.000Z",
+    "end": "2025-10-05T13:30:00.000Z",
+    "title": "Djurgårdens IF FF 10 vs Boo FF 3",
+    "description": "P2009- 3C",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-10-boo-ff-3-pojkar-2009/6244071/",
+    "categories": [
+      "P2009- 3C"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6244071,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/djurgardens-if-ff-10-boo-ff-3-pojkar-2009/6244071/",
+      "date": {
+        "iso8601": "2025-10-05 14:00",
+        "formatted": "14:00, 5 okt. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2009- 3C",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Djurgårdens IF FF 10",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 10"
+        }
+      },
+      "away": {
+        "team": "Boo FF 3",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
+          "alt": "Boo FF 3"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2009",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2009- 3C",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Djurgårdens IF FF 10 vs Boo FF 3)"
   },
   {
     "uid": "venue-match-6247306",
