@@ -346,6 +346,34 @@
     "formattedTitle": "Hammarby IF FF 13 grön"
   },
   {
+    "uid": "team-game-6443053",
+    "start": "2025-08-31T10:00:00.000Z",
+    "end": "2025-08-31T11:30:00.000Z",
+    "title": "Ekerö IK 3:Svart från Svår vs IFK Aspudden-Tellus Blå 2",
+    "description": "P2014- 3",
+    "location": "Träkvistavallen 225",
+    "url": "https://www.stff.se/go-to/?fmid=6443053",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6443053",
+      "dateTime": "2025-08-31T12:00+02:00",
+      "homeTeam": "Ekerö IK 3:Svart från Svår",
+      "awayTeam": "IFK Aspudden-Tellus Blå 2",
+      "category": "P2014- 3",
+      "location": "Träkvistavallen 225",
+      "url": "https://www.stff.se/go-to/?fmid=6443053"
+    },
+    "color": "Svart",
+    "formattedTeam": "Ekerö IK 3:Svart från Svår",
+    "team": "Ekerö IK 3:Svart från Svår",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Ekerö IK 3:Svart från Svår"
+  },
+  {
     "uid": "team-game-6273375",
     "start": "2025-09-13T09:45:00.000Z",
     "end": "2025-09-13T11:15:00.000Z",
