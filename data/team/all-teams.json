@@ -730,6 +730,34 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 1"
   },
   {
+    "uid": "team-game-6442977",
+    "start": "2025-09-20T12:15:00.000Z",
+    "end": "2025-09-20T13:45:00.000Z",
+    "title": "IF Brommapojkarna F14A från Medel vs IFK Aspudden-Tellus Gul 1",
+    "description": "P2014- 1",
+    "location": "Stora Mossens IP 2",
+    "url": "https://www.stff.se/go-to/?fmid=6442977",
+    "categories": [
+      "P2014- 1"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6442977",
+      "dateTime": "2025-09-20T14:15+02:00",
+      "homeTeam": "IF Brommapojkarna F14A från Medel",
+      "awayTeam": "IFK Aspudden-Tellus Gul 1",
+      "category": "P2014- 1",
+      "location": "Stora Mossens IP 2",
+      "url": "https://www.stff.se/go-to/?fmid=6442977"
+    },
+    "gender": "Flickor",
+    "formattedTeam": "IF Brommapojkarna F14A från Medel",
+    "team": "IF Brommapojkarna F14A från Medel",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "IF Brommapojkarna F14A från Medel"
+  },
+  {
     "uid": "team-game-6270891",
     "start": "2025-09-27T08:15:00.000Z",
     "end": "2025-09-27T09:45:00.000Z",
@@ -1301,6 +1329,34 @@
     "venues": [],
     "activity": "Match",
     "formattedTitle": "Ingarö IF Röd"
+  },
+  {
+    "uid": "team-game-6443065",
+    "start": "2025-08-30T11:00:00.000Z",
+    "end": "2025-08-30T12:30:00.000Z",
+    "title": "Norrtulls SK Vit L vs IFK Aspudden-Tellus Gul 6",
+    "description": "P2014- 3",
+    "location": "Bellevue BP 1",
+    "url": "https://www.stff.se/go-to/?fmid=6443065",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6443065",
+      "dateTime": "2025-08-30T13:00+02:00",
+      "homeTeam": "Norrtulls SK Vit L",
+      "awayTeam": "IFK Aspudden-Tellus Gul 6",
+      "category": "P2014- 3",
+      "location": "Bellevue BP 1",
+      "url": "https://www.stff.se/go-to/?fmid=6443065"
+    },
+    "color": "Vit",
+    "formattedTeam": "Norrtulls SK Vit L",
+    "team": "Norrtulls SK Vit L",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Norrtulls SK Vit L"
   },
   {
     "uid": "team-game-6273440",
