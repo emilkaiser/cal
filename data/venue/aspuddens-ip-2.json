@@ -637,6 +637,64 @@
     "formattedTitle": "🏟️ F2014 Röd (vs Tullinge Triangel Pojkar FK Vit)"
   },
   {
+    "uid": "venue-match-6443047",
+    "start": "2025-08-24T11:00:00.000Z",
+    "end": "2025-08-24T12:30:00.000Z",
+    "title": "IFK Aspudden-Tellus Röd 2 vs Ekerö IK 3:Svart från Svår",
+    "description": "P2014- 3",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-2-ekero-ik-3svart-fran-svar-pojkar-2014/6443047/",
+    "categories": [
+      "P2014- 3"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6443047,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-2-ekero-ik-3svart-fran-svar-pojkar-2014/6443047/",
+      "date": {
+        "iso8601": "2025-08-24 13:00",
+        "formatted": "13:00, 24 aug. 2025"
+      },
+      "location": "Aspuddens IP 2",
+      "category": "P2014- 3",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Röd 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Röd 2"
+        }
+      },
+      "away": {
+        "team": "Ekerö IK 3:Svart från Svår",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11431.png",
+          "alt": "Ekerö IK 3:Svart från Svår"
+        }
+      }
+    },
+    "gender": "Pojkar",
+    "ageGroup": "2014",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "series": "P2014- 3",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Röd 2",
+    "color": "Röd",
+    "formattedTeam": "P2014 Röd",
+    "opponent": "Ekerö IK 3:Svart från Svår",
+    "activity": "Match",
+    "formattedTitle": "🏟️ P2014 Röd (vs Ekerö IK 3:Svart från Svår)"
+  },
+  {
     "uid": "venue-match-6274504",
     "start": "2025-08-24T12:15:00.000Z",
     "end": "2025-08-24T13:45:00.000Z",
@@ -4634,6 +4692,64 @@
     "formattedTitle": "🏟️ P2014 Blå (vs Huddinge IF Vit M2)"
   },
   {
+    "uid": "venue-match-6443339",
+    "start": "2025-09-28T12:15:00.000Z",
+    "end": "2025-09-28T13:45:00.000Z",
+    "title": "IFK Aspudden-Tellus Blå 1 vs Sköndals IK FK Blå från Medel",
+    "description": "P2015- 1",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bla-1-skondals-ik-fk-bla-fran-medel-pojkar-2015/6443339/",
+    "categories": [
+      "P2015- 1"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6443339,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-bla-1-skondals-ik-fk-bla-fran-medel-pojkar-2015/6443339/",
+      "date": {
+        "iso8601": "2025-09-28 14:15",
+        "formatted": "14:15, 28 sep. 2025"
+      },
+      "location": "Aspuddens IP 2",
+      "category": "P2015- 1",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Blå 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Blå 1"
+        }
+      },
+      "away": {
+        "team": "Sköndals IK FK Blå från Medel",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12895.png",
+          "alt": "Sköndals IK FK Blå från Medel"
+        }
+      }
+    },
+    "gender": "Pojkar",
+    "ageGroup": "2015",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "series": "P2015- 1",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Blå 1",
+    "color": "Blå",
+    "formattedTeam": "P2015 Blå",
+    "opponent": "Sköndals IK FK Blå från Medel",
+    "activity": "Match",
+    "formattedTitle": "🏟️ P2015 Blå (vs Sköndals IK FK Blå från Medel)"
+  },
+  {
     "uid": "venue-match-6277974",
     "start": "2025-09-28T13:30:00.000Z",
     "end": "2025-09-28T15:00:00.000Z",
@@ -4690,5 +4806,63 @@
     "opponent": "KIF Söderort Guld",
     "activity": "Match",
     "formattedTitle": "🏟️ P2015 Röd (vs KIF Söderort Guld)"
+  },
+  {
+    "uid": "venue-match-6441247",
+    "start": "2025-09-28T14:45:00.000Z",
+    "end": "2025-09-28T16:15:00.000Z",
+    "title": "IFK Aspudden-Tellus Röd 3 vs Hanvikens SK Röd från Medel",
+    "description": "F2014- 3",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-3-hanvikens-sk-rod-fran-medel-flickor-2014/6441247/",
+    "categories": [
+      "F2014- 3"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6441247,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-3-hanvikens-sk-rod-fran-medel-flickor-2014/6441247/",
+      "date": {
+        "iso8601": "2025-09-28 16:45",
+        "formatted": "16:45, 28 sep. 2025"
+      },
+      "location": "Aspuddens IP 2",
+      "category": "F2014- 3",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Röd 3",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Röd 3"
+        }
+      },
+      "away": {
+        "team": "Hanvikens SK Röd från Medel",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11182.png",
+          "alt": "Hanvikens SK Röd från Medel"
+        }
+      }
+    },
+    "gender": "Flickor",
+    "ageGroup": "2014",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "series": "F2014- 3",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Röd 3",
+    "color": "Röd",
+    "formattedTeam": "F2014 Röd",
+    "opponent": "Hanvikens SK Röd från Medel",
+    "activity": "Match",
+    "formattedTitle": "🏟️ F2014 Röd (vs Hanvikens SK Röd från Medel)"
   }
 ]
