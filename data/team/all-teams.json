@@ -1018,6 +1018,34 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 3"
   },
   {
+    "uid": "team-game-6443008",
+    "start": "2025-09-06T12:15:00.000Z",
+    "end": "2025-09-06T13:45:00.000Z",
+    "title": "Ingarö IF Gul vs IFK Aspudden-Tellus Gul 3",
+    "description": "P2014- 2",
+    "location": "Ingarö IP 21",
+    "url": "https://www.stff.se/go-to/?fmid=6443008",
+    "categories": [
+      "P2014- 2"
+    ],
+    "sourceType": "team",
+    "rawData": {
+      "id": "6443008",
+      "dateTime": "2025-09-06T14:15+02:00",
+      "homeTeam": "Ingarö IF Gul",
+      "awayTeam": "IFK Aspudden-Tellus Gul 3",
+      "category": "P2014- 2",
+      "location": "Ingarö IP 21",
+      "url": "https://www.stff.se/go-to/?fmid=6443008"
+    },
+    "color": "Gul",
+    "formattedTeam": "Ingarö IF Gul",
+    "team": "Ingarö IF Gul",
+    "venues": [],
+    "activity": "Match",
+    "formattedTitle": "Ingarö IF Gul"
+  },
+  {
     "uid": "team-game-6443016",
     "start": "2025-09-14T08:00:00.000Z",
     "end": "2025-09-14T09:30:00.000Z",

@@ -341,10 +341,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6189567,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-fyren-stockholm-streetsoccer-ff-div-5-herrar/6189567/",
       "date": {
@@ -885,10 +883,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6189579,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-fyren-bk-karlbergare-div-5-herrar/6189579/",
       "date": {
@@ -3513,10 +3509,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6189591,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-fyren-ljungbackens-if-div-5-herrar/6189591/",
       "date": {
@@ -7091,10 +7085,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6189609,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-fyren-jarla-if-fk-div-5-herrar/6189609/",
       "date": {
@@ -8600,10 +8592,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6189620,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-fyren-ik-makkabi-div-5-herrar/6189620/",
       "date": {

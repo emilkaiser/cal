@@ -69,10 +69,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191701,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--adolfsbergs-ik-p19-serier/6191701/",
       "date": {
@@ -98,7 +96,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
@@ -353,10 +351,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191709,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--if-karlstad-fotboll-p19-serier/6191709/",
       "date": {
@@ -382,7 +378,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
@@ -1414,10 +1410,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191770,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--boo-ff--p19-serier/6191770/",
       "date": {
@@ -1443,7 +1437,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
@@ -2771,10 +2765,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191724,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--vendelso-ik--p19-serier/6191724/",
       "date": {
@@ -2800,7 +2792,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
@@ -4179,10 +4171,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191736,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--ifk-eskilstuna-p19-serier/6191736/",
       "date": {
@@ -4208,7 +4198,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
@@ -6210,10 +6200,8 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191772,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
+      "ageCategoryId": 0,
+      "genderId": 0,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--irsta-if-p19-serier/6191772/",
       "date": {
@@ -6239,7 +6227,7 @@
         }
       }
     },
-    "gender": "Herrjunior",
+    "gender": "Pojkar",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
