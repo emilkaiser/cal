@@ -69,8 +69,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191701,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--adolfsbergs-ik-p19-serier/6191701/",
       "date": {
@@ -96,7 +98,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
@@ -351,8 +353,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191709,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--if-karlstad-fotboll-p19-serier/6191709/",
       "date": {
@@ -378,7 +382,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
@@ -1757,8 +1761,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191770,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--boo-ff--p19-serier/6191770/",
       "date": {
@@ -1784,7 +1790,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
@@ -4791,8 +4797,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191724,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--vendelso-ik--p19-serier/6191724/",
       "date": {
@@ -4818,7 +4826,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
@@ -7761,8 +7769,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191736,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--ifk-eskilstuna-p19-serier/6191736/",
       "date": {
@@ -7788,7 +7798,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
@@ -11008,8 +11018,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6191772,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--irsta-if-p19-serier/6191772/",
       "date": {
@@ -11035,7 +11047,7 @@
         }
       }
     },
-    "gender": "Pojkar",
+    "gender": "Herrjunior",
     "venues": [
       "Aspuddens IP",
       "Aspuddens IP 1"
@@ -11901,8 +11913,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6189567,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-fyren-stockholm-streetsoccer-ff-div-5-herrar/6189567/",
       "date": {
@@ -12443,8 +12457,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6189579,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-fyren-bk-karlbergare-div-5-herrar/6189579/",
       "date": {
@@ -15069,8 +15085,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6189591,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-fyren-ljungbackens-if-div-5-herrar/6189591/",
       "date": {
@@ -18645,8 +18663,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6189609,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-fyren-jarla-if-fk-div-5-herrar/6189609/",
       "date": {
@@ -20152,8 +20172,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6189620,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
       "courtId": -1,
       "url": "/rs/matchfakta/bk-fyren-ik-makkabi-div-5-herrar/6189620/",
       "date": {
