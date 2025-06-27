@@ -2269,63 +2269,6 @@
     "formattedTitle": "🏟️ P2014 Röd (vs Ekerö IK 3:Svart från Svår)"
   },
   {
-    "uid": "venue-match-6243218",
-    "start": "2025-08-24T12:00:00.000Z",
-    "end": "2025-08-24T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 2 vs Djurgårdens IF FF 4 Gul",
-    "description": "P2009- 1B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-djurgardens-if-ff-4-gul-pojkar-2009/6243218/",
-    "categories": [
-      "P2009- 1B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6243218,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-2-djurgardens-if-ff-4-gul-pojkar-2009/6243218/",
-      "date": {
-        "iso8601": "2025-08-24 14:00",
-        "formatted": "14:00, 24 aug. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2009- 1B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 2"
-        }
-      },
-      "away": {
-        "team": "Djurgårdens IF FF 4 Gul",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
-          "alt": "Djurgårdens IF FF 4 Gul"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2009",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2009- 1B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 2",
-    "formattedTeam": "H2009",
-    "opponent": "Djurgårdens IF FF 4 Gul",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2009 (vs Djurgårdens IF FF 4 Gul)"
-  },
-  {
     "uid": "venue-match-6274504",
     "start": "2025-08-24T12:15:00.000Z",
     "end": "2025-08-24T13:45:00.000Z",
