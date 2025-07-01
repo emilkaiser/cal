@@ -11511,63 +11511,6 @@
     "formattedTitle": " (Lado Sur FC vs IF Lokomotiv Blackeberg)"
   },
   {
-    "uid": "venue-match-6252156",
-    "start": "2025-08-09T09:00:00.000Z",
-    "end": "2025-08-09T10:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 1 vs Boo FF 41",
-    "description": "P2012- 3H",
-    "location": "Västberga IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-1-boo-ff-41-pojkar-2012/6252156/",
-    "categories": [
-      "P2012- 3H"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6252156,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-boo-ff-41-pojkar-2012/6252156/",
-      "date": {
-        "iso8601": "2025-08-09 11:00",
-        "formatted": "11:00, 9 aug. 2025"
-      },
-      "location": "Västberga IP 11",
-      "category": "P2012- 3H",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 1"
-        }
-      },
-      "away": {
-        "team": "Boo FF 41",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
-          "alt": "Boo FF 41"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2012- 3H",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 1",
-    "color": "Gul",
-    "formattedTeam": "H2012 Gul",
-    "opponent": "Boo FF 41",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Gul (vs Boo FF 41)"
-  },
-  {
     "uid": "venue-match-6253607",
     "start": "2025-08-09T10:30:00.000Z",
     "end": "2025-08-09T12:00:00.000Z",
