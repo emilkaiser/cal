@@ -15450,6 +15450,59 @@
     "formattedTitle": "🏟️ H2010 (vs IF Brommapojkarna 10-11)"
   },
   {
+    "uid": "venue-match-6242710",
+    "start": "2025-09-06T15:00:00.000Z",
+    "end": "2025-09-06T16:30:00.000Z",
+    "title": "Reymersholms IK 1 vs Djurgårdens IF FF 5",
+    "description": "P2008- 2B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ik-1-djurgardens-if-ff-5-pojkar-2008/6242710/",
+    "categories": [
+      "P2008- 2B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6242710,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/reymersholms-ik-1-djurgardens-if-ff-5-pojkar-2008/6242710/",
+      "date": {
+        "iso8601": "2025-09-06 17:00",
+        "formatted": "17:00, 6 sep. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2008- 2B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Reymersholms IK 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
+          "alt": "Reymersholms IK 1"
+        }
+      },
+      "away": {
+        "team": "Djurgårdens IF FF 5",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
+          "alt": "Djurgårdens IF FF 5"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2008",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2008- 2B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Reymersholms IK 1 vs Djurgårdens IF FF 5)"
+  },
+  {
     "uid": "venue-match-6266208",
     "start": "2025-09-07T07:00:00.000Z",
     "end": "2025-09-07T08:30:00.000Z",
