@@ -3036,64 +3036,6 @@
     "formattedTitle": "🏟️ P2013 Svart (vs Huddinge IF 2013:1S)"
   },
   {
-    "uid": "venue-match-6268549",
-    "start": "2025-09-13T08:30:00.000Z",
-    "end": "2025-09-13T10:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Svart 3 vs Solberga BK 2",
-    "description": "P2013- 3",
-    "location": "Aspuddens IP 12",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-svart-3-solberga-bk-2-pojkar-2013/6268549/",
-    "categories": [
-      "P2013- 3"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6268549,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-svart-3-solberga-bk-2-pojkar-2013/6268549/",
-      "date": {
-        "iso8601": "2025-09-13 10:30",
-        "formatted": "10:30, 13 sep. 2025"
-      },
-      "location": "Aspuddens IP 12",
-      "category": "P2013- 3",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Svart 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Svart 3"
-        }
-      },
-      "away": {
-        "team": "Solberga BK 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10270.png",
-          "alt": "Solberga BK 2"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2013",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2013- 3",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Svart 3",
-    "color": "Svart",
-    "formattedTeam": "P2013 Svart",
-    "opponent": "Solberga BK 2",
-    "activity": "Match",
-    "formattedTitle": "🏟️ P2013 Svart (vs Solberga BK 2)"
-  },
-  {
     "uid": "venue-match-6187950",
     "start": "2025-09-13T12:00:00.000Z",
     "end": "2025-09-13T13:30:00.000Z",
