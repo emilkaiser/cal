@@ -3996,63 +3996,6 @@
     "formattedTitle": "🏟️ H2011 (vs FoC Farsta FF Blå)"
   },
   {
-    "uid": "venue-match-6347397",
-    "start": "2025-09-21T10:15:00.000Z",
-    "end": "2025-09-21T11:45:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Sickla IF Svart",
-    "description": "F2011- 4B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-sickla-if-svart-flickor-2011/6347397/",
-    "categories": [
-      "F2011- 4B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6347397,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-sickla-if-svart-flickor-2011/6347397/",
-      "date": {
-        "iso8601": "2025-09-21 12:15",
-        "formatted": "12:15, 21 sep. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "F2011- 4B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Sickla IF Svart",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11612.png",
-          "alt": "Sickla IF Svart"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "ageGroup": "2011",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "F2011- 4B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "D2011",
-    "opponent": "Sickla IF Svart",
-    "activity": "Match",
-    "formattedTitle": "🏟️ D2011 (vs Sickla IF Svart)"
-  },
-  {
     "uid": "venue-match-6255038",
     "start": "2025-09-21T12:00:00.000Z",
     "end": "2025-09-21T13:30:00.000Z",
