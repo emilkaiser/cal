@@ -11226,59 +11226,6 @@
     "formattedTitle": "🏟️ H2012 Gul (vs Stuvsta IF 2:3)"
   },
   {
-    "uid": "venue-match-6347978",
-    "start": "2025-08-10T12:00:00.000Z",
-    "end": "2025-08-10T13:30:00.000Z",
-    "title": "Djurgårdens IF FF 12 vs Reymersholms FF RFF VIT",
-    "description": "P2010- 1C",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-12-reymersholms-ff-rff-vit-pojkar-2010/6347978/",
-    "categories": [
-      "P2010- 1C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6347978,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/djurgardens-if-ff-12-reymersholms-ff-rff-vit-pojkar-2010/6347978/",
-      "date": {
-        "iso8601": "2025-08-10 14:00",
-        "formatted": "14:00, 10 aug. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2010- 1C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Djurgårdens IF FF 12",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
-          "alt": "Djurgårdens IF FF 12"
-        }
-      },
-      "away": {
-        "team": "Reymersholms FF RFF VIT",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13451.png",
-          "alt": "Reymersholms FF RFF VIT"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2010- 1C",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Djurgårdens IF FF 12 vs Reymersholms FF RFF VIT)"
-  },
-  {
     "uid": "venue-match-6248225",
     "start": "2025-08-10T14:00:00.000Z",
     "end": "2025-08-10T15:30:00.000Z",
