@@ -29,6 +29,9 @@
       "note": "",
       "home": {
         "team": "Lado Sur FC",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
           "alt": "Lado Sur FC"
@@ -36,6 +39,9 @@
       },
       "away": {
         "team": "IF Lokomotiv Blackeberg",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7325.png",
           "alt": "IF Lokomotiv Blackeberg"
