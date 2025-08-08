@@ -11931,6 +11931,59 @@
     "formattedTitle": " (Djurgårdens TFF 7 vs Sickla IF 1)"
   },
   {
+    "uid": "venue-match-6347981",
+    "start": "2025-08-19T18:30:00.000Z",
+    "end": "2025-08-19T20:00:00.000Z",
+    "title": "Årsta FF 1 vs IF Brommapojkarna 10-11",
+    "description": "P2010- 1C",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/arsta-ff-1-if-brommapojkarna-10-11-pojkar-2010/6347981/",
+    "categories": [
+      "P2010- 1C"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6347981,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/arsta-ff-1-if-brommapojkarna-10-11-pojkar-2010/6347981/",
+      "date": {
+        "iso8601": "2025-08-19 20:30",
+        "formatted": "20:30, 19 aug. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2010- 1C",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Årsta FF 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12299.png",
+          "alt": "Årsta FF 1"
+        }
+      },
+      "away": {
+        "team": "IF Brommapojkarna 10-11",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
+          "alt": "IF Brommapojkarna 10-11"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2010",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2010- 1C",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Årsta FF 1 vs IF Brommapojkarna 10-11)"
+  },
+  {
     "uid": "venue-match-6221066",
     "start": "2025-08-22T18:00:00.000Z",
     "end": "2025-08-22T19:30:00.000Z",
