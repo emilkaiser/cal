@@ -8902,6 +8902,59 @@
     "formattedTitle": " (Reymersholms IK 1 vs Vallentuna BK)"
   },
   {
+    "uid": "venue-match-6259863",
+    "start": "2025-10-11T08:30:00.000Z",
+    "end": "2025-10-11T10:00:00.000Z",
+    "title": "Reymersholms IK 1 vs Boo FF F10:3",
+    "description": "F2010- 4B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ik-1-boo-ff-f103-flickor-2010/6259863/",
+    "categories": [
+      "F2010- 4B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6259863,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/reymersholms-ik-1-boo-ff-f103-flickor-2010/6259863/",
+      "date": {
+        "iso8601": "2025-10-11 10:30",
+        "formatted": "10:30, 11 okt. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "F2010- 4B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Reymersholms IK 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
+          "alt": "Reymersholms IK 1"
+        }
+      },
+      "away": {
+        "team": "Boo FF F10:3",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
+          "alt": "Boo FF F10:3"
+        }
+      }
+    },
+    "gender": "Damjunior",
+    "ageGroup": "2010",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "F2010- 4B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Reymersholms IK 1 vs Boo FF F10:3)"
+  },
+  {
     "uid": "venue-match-6253662",
     "start": "2025-10-11T10:00:00.000Z",
     "end": "2025-10-11T11:30:00.000Z",
@@ -9180,6 +9233,58 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK 1 vs Karlbergs BK Röd)"
+  },
+  {
+    "uid": "venue-match-6255052",
+    "start": "2025-10-12T16:00:00.000Z",
+    "end": "2025-10-12T17:30:00.000Z",
+    "title": "Reymersholms IK DJ vs Älvsjö AIK FF 2",
+    "description": "DJ- 2C",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ik-dj-alvsjo-aik-ff-2-damjuniorer-0906/6255052/",
+    "categories": [
+      "DJ- 2C"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6255052,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/reymersholms-ik-dj-alvsjo-aik-ff-2-damjuniorer-0906/6255052/",
+      "date": {
+        "iso8601": "2025-10-12 18:00",
+        "formatted": "18:00, 12 okt. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "DJ- 2C",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Reymersholms IK DJ",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
+          "alt": "Reymersholms IK DJ"
+        }
+      },
+      "away": {
+        "team": "Älvsjö AIK FF 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7708.png",
+          "alt": "Älvsjö AIK FF 2"
+        }
+      }
+    },
+    "gender": "Damjunior",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "DJ- 2C",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Reymersholms IK DJ vs Älvsjö AIK FF 2)"
   },
   {
     "uid": "venue-match-6257236",
