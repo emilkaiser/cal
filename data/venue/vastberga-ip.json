@@ -29,6 +29,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 3",
+        "goals": {
+          "scored": 8
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 3"
@@ -36,6 +39,9 @@
       },
       "away": {
         "team": "Stuvsta IF 2:3",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8931.png",
           "alt": "Stuvsta IF 2:3"
