@@ -89,9 +89,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 5 Mellersta",
       "status": "",
+      "audience": "44",
       "note": "",
       "home": {
         "team": "BK Fyren",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
           "alt": "BK Fyren"
@@ -99,6 +103,9 @@
       },
       "away": {
         "team": "Stockholm StreetSoccer FF",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13348.png",
           "alt": "Stockholm StreetSoccer FF"
