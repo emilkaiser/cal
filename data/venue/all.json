@@ -388,62 +388,6 @@
     "formattedTitle": " (Hammarby IF FF 3 grön vs Karlbergs BK 21)"
   },
   {
-    "uid": "venue-match-6233447",
-    "start": "2025-08-17T16:00:00.000Z",
-    "end": "2025-08-17T17:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Norrtulls SK B",
-    "description": "SSD 2",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-norrtulls-sk-b-stockholmsserien-2-damer/6233447/",
-    "categories": [
-      "SSD 2"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6233447,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-norrtulls-sk-b-stockholmsserien-2-damer/6233447/",
-      "date": {
-        "iso8601": "2025-08-17 18:00",
-        "formatted": "18:00, 17 aug. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "SSD 2",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Norrtulls SK B",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10543.png",
-          "alt": "Norrtulls SK B"
-        }
-      }
-    },
-    "gender": "Dam",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "SSD 2",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Norrtulls SK B",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Norrtulls SK B)"
-  },
-  {
     "uid": "venue-match-6234396",
     "start": "2025-08-17T18:00:00.000Z",
     "end": "2025-08-17T19:30:00.000Z",
