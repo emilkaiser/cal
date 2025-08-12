@@ -1684,62 +1684,6 @@
     "formattedTitle": " (Kransen United FF vs Örby IS)"
   },
   {
-    "uid": "venue-match-6190769",
-    "start": "2025-09-05T18:00:00.000Z",
-    "end": "2025-09-05T19:30:00.000Z",
-    "title": "Aspuddens FF vs Mälarhöjden-Hägersten FF",
-    "description": "Herrar 5 Södra",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-malarhojden-hagersten-ff-div-5-herrar/6190769/",
-    "categories": [
-      "Herrar 5 Södra"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6190769,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/aspuddens-ff-malarhojden-hagersten-ff-div-5-herrar/6190769/",
-      "date": {
-        "iso8601": "2025-09-05 20:00",
-        "formatted": "20:00, 5 sep. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 5 Södra",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Aspuddens FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
-          "alt": "Aspuddens FF"
-        }
-      },
-      "away": {
-        "team": "Mälarhöjden-Hägersten FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
-          "alt": "Mälarhöjden-Hägersten FF"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 5 Södra",
-    "match": "Home",
-    "team": "Aspuddens FF",
-    "formattedTeam": "Aspuddens FF",
-    "opponent": "Mälarhöjden-Hägersten FF",
-    "activity": "Match",
-    "formattedTitle": "🏟️ Aspuddens FF (vs Mälarhöjden-Hägersten FF)"
-  },
-  {
     "uid": "venue-match-6252307",
     "start": "2025-09-06T07:00:00.000Z",
     "end": "2025-09-06T08:30:00.000Z",
