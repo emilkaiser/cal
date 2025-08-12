@@ -328,63 +328,6 @@
     "formattedTitle": " (Högalids IF vs Konglig Samhällsbyggnadssektion FC)"
   },
   {
-    "uid": "venue-match-6248755",
-    "start": "2025-08-17T12:00:00.000Z",
-    "end": "2025-08-17T13:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 3 vs Älvsjö AIK FF 3",
-    "description": "P2011- 3I",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-gul-3-alvsjo-aik-ff-3-pojkar-2011/6248755/",
-    "categories": [
-      "P2011- 3I"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6248755,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-3-alvsjo-aik-ff-3-pojkar-2011/6248755/",
-      "date": {
-        "iso8601": "2025-08-17 14:00",
-        "formatted": "14:00, 17 aug. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2011- 3I",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Gul 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Gul 3"
-        }
-      },
-      "away": {
-        "team": "Älvsjö AIK FF 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7708.png",
-          "alt": "Älvsjö AIK FF 3"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2011",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2011- 3I",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Gul 3",
-    "color": "Gul",
-    "formattedTeam": "H2011 Gul",
-    "opponent": "Älvsjö AIK FF 3",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2011 Gul (vs Älvsjö AIK FF 3)"
-  },
-  {
     "uid": "venue-match-6242261",
     "start": "2025-08-17T13:30:00.000Z",
     "end": "2025-08-17T15:00:00.000Z",

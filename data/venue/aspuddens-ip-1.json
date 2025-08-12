@@ -2421,62 +2421,6 @@
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Reymersholms IK DJ-U)"
   },
   {
-    "uid": "venue-match-6255028",
-    "start": "2025-09-07T14:00:00.000Z",
-    "end": "2025-09-07T15:30:00.000Z",
-    "title": "IFK Aspudden-Tellus DJ vs Årsta FF 1",
-    "description": "DJ- 2C",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dj-arsta-ff-1-damjuniorer-0906/6255028/",
-    "categories": [
-      "DJ- 2C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6255028,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-dj-arsta-ff-1-damjuniorer-0906/6255028/",
-      "date": {
-        "iso8601": "2025-09-07 16:00",
-        "formatted": "16:00, 7 sep. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "DJ- 2C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus DJ",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus DJ"
-        }
-      },
-      "away": {
-        "team": "Årsta FF 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12299.png",
-          "alt": "Årsta FF 1"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "DJ- 2C",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus DJ",
-    "formattedTeam": "IFK Aspudden-Tellus DJ",
-    "opponent": "Årsta FF 1",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus DJ (vs Årsta FF 1)"
-  },
-  {
     "uid": "venue-match-6221076",
     "start": "2025-09-07T16:00:00.000Z",
     "end": "2025-09-07T17:30:00.000Z",
@@ -4895,6 +4839,60 @@
     "opponent": "IFK Stockholm FK 1",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 (vs IFK Stockholm FK 1)"
+  },
+  {
+    "uid": "venue-match-6247195",
+    "start": "2025-10-04T14:30:00.000Z",
+    "end": "2025-10-04T16:00:00.000Z",
+    "title": "Värtans IK Röd 1 vs Sollentuna FK Väst 1",
+    "description": "P2011- 2C",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/vartans-ik-rod-1-sollentuna-fk-vast-1-pojkar-2011/6247195/",
+    "categories": [
+      "P2011- 2C"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6247195,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/vartans-ik-rod-1-sollentuna-fk-vast-1-pojkar-2011/6247195/",
+      "date": {
+        "iso8601": "2025-10-04 16:30",
+        "formatted": "16:30, 4 okt. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "P2011- 2C",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Värtans IK Röd 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9866.png",
+          "alt": "Värtans IK Röd 1"
+        }
+      },
+      "away": {
+        "team": "Sollentuna FK Väst 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7184.png",
+          "alt": "Sollentuna FK Väst 1"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2011",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P2011- 2C",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Värtans IK Röd 1 vs Sollentuna FK Väst 1)"
   },
   {
     "uid": "venue-match-6249326",
