@@ -1,58 +1,5 @@
 [
   {
-    "uid": "venue-match-6220613",
-    "start": "2025-08-15T18:00:00.000Z",
-    "end": "2025-08-15T19:30:00.000Z",
-    "title": "Kransen United FF vs Rönninge Salem Fotboll ",
-    "description": "Damer 4 B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-ronninge-salem-fotboll--div-4-damer/6220613/",
-    "categories": [
-      "Damer 4 B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6220613,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/kransen-united-ff-ronninge-salem-fotboll--div-4-damer/6220613/",
-      "date": {
-        "iso8601": "2025-08-15 20:00",
-        "formatted": "20:00, 15 aug. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Damer 4 B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Kransen United FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
-          "alt": "Kransen United FF"
-        }
-      },
-      "away": {
-        "team": "Rönninge Salem Fotboll ",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8142.png",
-          "alt": "Rönninge Salem Fotboll "
-        }
-      }
-    },
-    "gender": "Dam",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Damer 4 B",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Kransen United FF vs Rönninge Salem Fotboll )"
-  },
-  {
     "uid": "venue-match-6187914",
     "start": "2025-08-16T12:00:00.000Z",
     "end": "2025-08-16T13:30:00.000Z",
