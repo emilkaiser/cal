@@ -10646,6 +10646,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 2",
+        "goals": {
+          "scored": 8
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 2"
@@ -10653,6 +10656,9 @@
       },
       "away": {
         "team": "Värtans IK Röd 2",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9866.png",
           "alt": "Värtans IK Röd 2"
