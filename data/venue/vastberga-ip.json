@@ -276,6 +276,9 @@
       "note": "",
       "home": {
         "team": "Högalids IF",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11053.png",
           "alt": "Högalids IF"
@@ -283,6 +286,9 @@
       },
       "away": {
         "team": "Konglig Samhällsbyggnadssektion FC",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12915.png",
           "alt": "Konglig Samhällsbyggnadssektion FC"
