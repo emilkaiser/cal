@@ -92,6 +92,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 2",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 2"
@@ -99,6 +102,9 @@
       },
       "away": {
         "team": "Årsta FF 2",
+        "goals": {
+          "scored": 7
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12299.png",
           "alt": "Årsta FF 2"
@@ -148,6 +154,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 2",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 2"
@@ -155,6 +164,9 @@
       },
       "away": {
         "team": "Älvsjö AIK FF 3",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7708.png",
           "alt": "Älvsjö AIK FF 3"
