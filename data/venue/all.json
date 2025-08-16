@@ -10834,6 +10834,9 @@
       "note": "",
       "home": {
         "team": "Mälarhöjden-Hägersten FF 2",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
           "alt": "Mälarhöjden-Hägersten FF 2"
@@ -10841,6 +10844,9 @@
       },
       "away": {
         "team": "Huddinge IF F11 div2",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11107.png",
           "alt": "Huddinge IF F11 div2"
