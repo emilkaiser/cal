@@ -93,6 +93,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 1",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 1"
@@ -100,6 +103,9 @@
       },
       "away": {
         "team": "Rågsveds IF Grön",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10396.png",
           "alt": "Rågsveds IF Grön"
@@ -150,6 +156,9 @@
       "note": "",
       "home": {
         "team": "Hammarby IF FF 3 grön",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
           "alt": "Hammarby IF FF 3 grön"
@@ -157,6 +166,9 @@
       },
       "away": {
         "team": "Karlbergs BK 21",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10871.png",
           "alt": "Karlbergs BK 21"
