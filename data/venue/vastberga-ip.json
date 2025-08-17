@@ -29,6 +29,9 @@
       "note": "",
       "home": {
         "team": "Värtans IK",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9866.png",
           "alt": "Värtans IK"
@@ -36,6 +39,9 @@
       },
       "away": {
         "team": "Tungelsta IF 1",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10037.png",
           "alt": "Tungelsta IF 1"
@@ -78,6 +84,7 @@
       "location": "Västberga IP 1",
       "category": "Herrar 5 Mellersta",
       "status": "",
+      "audience": "15",
       "note": "",
       "home": {
         "team": "BK Fyren",
@@ -136,9 +143,13 @@
       "location": "Västberga IP 1",
       "category": "HJ- 1B",
       "status": "",
+      "audience": "20",
       "note": "",
       "home": {
         "team": "Djurgårdens TFF 7",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13233.png",
           "alt": "Djurgårdens TFF 7"
@@ -146,6 +157,9 @@
       },
       "away": {
         "team": "Sickla IF 1",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11612.png",
           "alt": "Sickla IF 1"
