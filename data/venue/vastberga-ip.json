@@ -81,6 +81,9 @@
       "note": "",
       "home": {
         "team": "BK Fyren",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
           "alt": "BK Fyren"
@@ -88,6 +91,9 @@
       },
       "away": {
         "team": "BK Karlbergare",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12187.png",
           "alt": "BK Karlbergare"
