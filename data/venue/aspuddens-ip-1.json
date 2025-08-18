@@ -567,6 +567,60 @@
     "formattedTitle": "🏟️ P2013 Blå (vs Täby FK 52)"
   },
   {
+    "uid": "venue-match-6259256",
+    "start": "2025-08-24T08:30:00.000Z",
+    "end": "2025-08-24T10:00:00.000Z",
+    "title": "Örby IS Röd vs Järla IF FK Svart",
+    "description": "F2010- 2B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/orby-is-rod-jarla-if-fk-svart-flickor-2010/6259256/",
+    "categories": [
+      "F2010- 2B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6259256,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/orby-is-rod-jarla-if-fk-svart-flickor-2010/6259256/",
+      "date": {
+        "iso8601": "2025-08-24 10:30",
+        "formatted": "10:30, 24 aug. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "F2010- 2B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Örby IS Röd",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9763.png",
+          "alt": "Örby IS Röd"
+        }
+      },
+      "away": {
+        "team": "Järla IF FK Svart",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7621.png",
+          "alt": "Järla IF FK Svart"
+        }
+      }
+    },
+    "gender": "Damjunior",
+    "ageGroup": "2010",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "F2010- 2B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Örby IS Röd vs Järla IF FK Svart)"
+  },
+  {
     "uid": "venue-match-6245453",
     "start": "2025-08-24T10:00:00.000Z",
     "end": "2025-08-24T11:30:00.000Z",
