@@ -10249,6 +10249,9 @@
       "note": "",
       "home": {
         "team": "Årsta FF 1",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12299.png",
           "alt": "Årsta FF 1"
@@ -10256,6 +10259,9 @@
       },
       "away": {
         "team": "IF Brommapojkarna 10-11",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
           "alt": "IF Brommapojkarna 10-11"
