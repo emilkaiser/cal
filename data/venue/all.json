@@ -26,9 +26,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 5 Södra",
       "status": "",
+      "audience": "18",
       "note": "",
       "home": {
         "team": "Aspuddens FF",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
           "alt": "Aspuddens FF"
@@ -36,6 +40,9 @@
       },
       "away": {
         "team": "FC Tyresö United",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13087.png",
           "alt": "FC Tyresö United"
