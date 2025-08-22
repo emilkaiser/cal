@@ -1,68 +1,5 @@
 [
   {
-    "uid": "venue-match-6190758",
-    "start": "2025-08-22T18:00:00.000Z",
-    "end": "2025-08-22T19:30:00.000Z",
-    "title": "Aspuddens FF vs FC Tyresö United",
-    "description": "Herrar 5 Södra",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-fc-tyreso-united-div-5-herrar/6190758/",
-    "categories": [
-      "Herrar 5 Södra"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6190758,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/aspuddens-ff-fc-tyreso-united-div-5-herrar/6190758/",
-      "date": {
-        "iso8601": "2025-08-22 20:00",
-        "formatted": "20:00, 22 aug. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 5 Södra",
-      "status": "",
-      "audience": "18",
-      "note": "",
-      "home": {
-        "team": "Aspuddens FF",
-        "goals": {
-          "scored": 2
-        },
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
-          "alt": "Aspuddens FF"
-        }
-      },
-      "away": {
-        "team": "FC Tyresö United",
-        "goals": {
-          "scored": 6
-        },
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13087.png",
-          "alt": "FC Tyresö United"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 5 Södra",
-    "match": "Home",
-    "team": "Aspuddens FF",
-    "formattedTeam": "Aspuddens FF",
-    "opponent": "FC Tyresö United",
-    "activity": "Match",
-    "formattedTitle": "🏟️ Aspuddens FF (vs FC Tyresö United)"
-  },
-  {
     "uid": "venue-match-6267212",
     "start": "2025-08-23T07:00:00.000Z",
     "end": "2025-08-23T08:30:00.000Z",
@@ -10169,58 +10106,6 @@
     "opponent": "Ingarö IF Gul",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 (vs Ingarö IF Gul)"
-  },
-  {
-    "uid": "venue-match-6221066",
-    "start": "2025-08-22T18:00:00.000Z",
-    "end": "2025-08-22T19:30:00.000Z",
-    "title": "Lado Sur FC vs FC Plavi Team",
-    "description": "Herrar 6 E",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/lado-sur-fc-fc-plavi-team-div-6-herrar/6221066/",
-    "categories": [
-      "Herrar 6 E"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221066,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/lado-sur-fc-fc-plavi-team-div-6-herrar/6221066/",
-      "date": {
-        "iso8601": "2025-08-22 20:00",
-        "formatted": "20:00, 22 aug. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Herrar 6 E",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Lado Sur FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
-          "alt": "Lado Sur FC"
-        }
-      },
-      "away": {
-        "team": "FC Plavi Team",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7828.png",
-          "alt": "FC Plavi Team"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Herrar 6 E",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Lado Sur FC vs FC Plavi Team)"
   },
   {
     "uid": "venue-match-6269422",

@@ -1,57 +1,5 @@
 [
   {
-    "uid": "venue-match-6221066",
-    "start": "2025-08-22T18:00:00.000Z",
-    "end": "2025-08-22T19:30:00.000Z",
-    "title": "Lado Sur FC vs FC Plavi Team",
-    "description": "Herrar 6 E",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/lado-sur-fc-fc-plavi-team-div-6-herrar/6221066/",
-    "categories": [
-      "Herrar 6 E"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221066,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/lado-sur-fc-fc-plavi-team-div-6-herrar/6221066/",
-      "date": {
-        "iso8601": "2025-08-22 20:00",
-        "formatted": "20:00, 22 aug. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Herrar 6 E",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Lado Sur FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
-          "alt": "Lado Sur FC"
-        }
-      },
-      "away": {
-        "team": "FC Plavi Team",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7828.png",
-          "alt": "FC Plavi Team"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Herrar 6 E",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Lado Sur FC vs FC Plavi Team)"
-  },
-  {
     "uid": "venue-match-6269422",
     "start": "2025-08-23T07:00:00.000Z",
     "end": "2025-08-23T08:30:00.000Z",
