@@ -612,6 +612,7 @@
       "location": "Aspuddens IP 1",
       "category": "P19 Div.1 2025 - Region 4",
       "status": "",
+      "audience": "35",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus ",
@@ -10742,6 +10743,9 @@
       "note": "",
       "home": {
         "team": "Konglig Samhällsbyggnadssektion FC",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12915.png",
           "alt": "Konglig Samhällsbyggnadssektion FC"
@@ -10749,6 +10753,9 @@
       },
       "away": {
         "team": "Tekniska Högskolan FC",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12535.png",
           "alt": "Tekniska Högskolan FC"

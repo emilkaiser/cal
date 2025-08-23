@@ -616,6 +616,9 @@
       "note": "",
       "home": {
         "team": "Konglig Samhällsbyggnadssektion FC",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12915.png",
           "alt": "Konglig Samhällsbyggnadssektion FC"
@@ -623,6 +626,9 @@
       },
       "away": {
         "team": "Tekniska Högskolan FC",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12535.png",
           "alt": "Tekniska Högskolan FC"
