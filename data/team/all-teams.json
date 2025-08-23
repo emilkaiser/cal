@@ -1014,36 +1014,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 3"
   },
   {
-    "uid": "team-game-6271887",
-    "start": "2025-08-23T10:45:00.000Z",
-    "end": "2025-08-23T12:15:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 4 vs Stuvsta IF 2.2",
-    "description": "P2014- 2",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6271887",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271887",
-      "dateTime": "2025-08-23T12:45+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 4",
-      "awayTeam": "Stuvsta IF 2.2",
-      "category": "P2014- 2",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6271887"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 4",
-    "team": "IFK Aspudden-Tellus Gul 4",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 4"
-  },
-  {
     "uid": "team-game-6272045",
     "start": "2025-08-30T12:30:00.000Z",
     "end": "2025-08-30T14:00:00.000Z",
@@ -1099,33 +1069,6 @@
     ],
     "activity": "Match",
     "formattedTitle": "IFK Aspudden-Tellus Gul 4"
-  },
-  {
-    "uid": "team-game-6273149",
-    "start": "2025-08-23T11:15:00.000Z",
-    "end": "2025-08-23T12:45:00.000Z",
-    "title": "Boo FF 2 vs IFK Aspudden-Tellus Gul 5",
-    "description": "P2014- 3",
-    "location": "Boovallen 216",
-    "url": "https://www.stff.se/go-to/?fmid=6273149",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6273149",
-      "dateTime": "2025-08-23T13:15+02:00",
-      "homeTeam": "Boo FF 2",
-      "awayTeam": "IFK Aspudden-Tellus Gul 5",
-      "category": "P2014- 3",
-      "location": "Boovallen 216",
-      "url": "https://www.stff.se/go-to/?fmid=6273149"
-    },
-    "formattedTeam": "Boo FF 2",
-    "team": "Boo FF 2",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Boo FF 2"
   },
   {
     "uid": "team-game-6273255",
