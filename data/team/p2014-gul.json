@@ -1,33 +1,5 @@
 [
   {
-    "uid": "team-game-6270540",
-    "start": "2025-08-23T07:30:00.000Z",
-    "end": "2025-08-23T09:00:00.000Z",
-    "title": "Boo FF Röd 1 vs IFK Aspudden-Tellus Gul 1",
-    "description": "P2014- 1",
-    "location": "Boovallen 215",
-    "url": "https://www.stff.se/go-to/?fmid=6270540",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270540",
-      "dateTime": "2025-08-23T09:30+02:00",
-      "homeTeam": "Boo FF Röd 1",
-      "awayTeam": "IFK Aspudden-Tellus Gul 1",
-      "category": "P2014- 1",
-      "location": "Boovallen 215",
-      "url": "https://www.stff.se/go-to/?fmid=6270540"
-    },
-    "color": "Röd",
-    "formattedTeam": "Boo FF Röd 1",
-    "team": "Boo FF Röd 1",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Boo FF Röd 1"
-  },
-  {
     "uid": "team-game-6270603",
     "start": "2025-08-31T14:45:00.000Z",
     "end": "2025-08-31T16:15:00.000Z",
