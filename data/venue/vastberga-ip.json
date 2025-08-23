@@ -433,6 +433,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 3",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 3"
@@ -440,6 +443,9 @@
       },
       "away": {
         "team": "Mälarhöjden-Hägersten FF Svart",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
           "alt": "Mälarhöjden-Hägersten FF Svart"
@@ -547,6 +553,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 4",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 4"
@@ -554,6 +563,9 @@
       },
       "away": {
         "team": "IF Brommapojkarna 11-30",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
           "alt": "IF Brommapojkarna 11-30"
