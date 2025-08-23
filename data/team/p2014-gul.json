@@ -149,36 +149,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 1"
   },
   {
-    "uid": "team-game-6270561",
-    "start": "2025-08-23T09:30:00.000Z",
-    "end": "2025-08-23T11:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 2 vs Vega FC P2014 S3",
-    "description": "P2014- 1",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6270561",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270561",
-      "dateTime": "2025-08-23T11:30+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 2",
-      "awayTeam": "Vega FC P2014 S3",
-      "category": "P2014- 1",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6270561"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 2",
-    "team": "IFK Aspudden-Tellus Gul 2",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 2"
-  },
-  {
     "uid": "team-game-6270605",
     "start": "2025-08-30T09:30:00.000Z",
     "end": "2025-08-30T11:00:00.000Z",
