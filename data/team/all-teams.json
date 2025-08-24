@@ -148,33 +148,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Röd 2"
   },
   {
-    "uid": "team-game-6271825",
-    "start": "2025-08-24T09:00:00.000Z",
-    "end": "2025-08-24T10:30:00.000Z",
-    "title": "IF Brommapojkarna 2014-5 vs IFK Aspudden-Tellus Blå 1",
-    "description": "P2014- 2",
-    "location": "Vällingby BP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6271825",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271825",
-      "dateTime": "2025-08-24T11:00+02:00",
-      "homeTeam": "IF Brommapojkarna 2014-5",
-      "awayTeam": "IFK Aspudden-Tellus Blå 1",
-      "category": "P2014- 2",
-      "location": "Vällingby BP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6271825"
-    },
-    "formattedTeam": "IF Brommapojkarna 2014-5",
-    "team": "IF Brommapojkarna 2014-5",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "IF Brommapojkarna 2014-5"
-  },
-  {
     "uid": "team-game-6271932",
     "start": "2025-08-31T11:00:00.000Z",
     "end": "2025-08-31T12:30:00.000Z",
