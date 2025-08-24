@@ -10052,6 +10052,9 @@
       "note": "",
       "home": {
         "team": "Djurgårdens IF FF 12",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
           "alt": "Djurgårdens IF FF 12"
@@ -10059,6 +10062,9 @@
       },
       "away": {
         "team": "Årsta FF 1",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12299.png",
           "alt": "Årsta FF 1"
