@@ -329,9 +329,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 6 E",
       "status": "",
+      "audience": "16",
       "note": "",
       "home": {
         "team": "Kransen United FF",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
           "alt": "Kransen United FF"
@@ -339,6 +343,9 @@
       },
       "away": {
         "team": "Tudor Arms FC",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8918.png",
           "alt": "Tudor Arms FC"

@@ -793,9 +793,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 6 E",
       "status": "",
+      "audience": "16",
       "note": "",
       "home": {
         "team": "Kransen United FF",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
           "alt": "Kransen United FF"
@@ -803,6 +807,9 @@
       },
       "away": {
         "team": "Tudor Arms FC",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8918.png",
           "alt": "Tudor Arms FC"
@@ -9986,6 +9993,9 @@
       "note": "",
       "home": {
         "team": "Gröndals IK 1",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK 1"
@@ -9993,6 +10003,9 @@
       },
       "away": {
         "team": "Djurgårdens IF FF 10",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
           "alt": "Djurgårdens IF FF 10"
