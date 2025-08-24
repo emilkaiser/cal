@@ -59,37 +59,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Röd 1"
   },
   {
-    "uid": "team-game-6443047",
-    "start": "2025-08-24T11:00:00.000Z",
-    "end": "2025-08-24T12:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Röd 2 vs Ekerö IK 3:Svart från Svår",
-    "description": "P2014- 3",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/go-to/?fmid=6443047",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6443047",
-      "dateTime": "2025-08-24T13:00+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Röd 2",
-      "awayTeam": "Ekerö IK 3:Svart från Svår",
-      "category": "P2014- 3",
-      "location": "Aspuddens IP 2",
-      "url": "https://www.stff.se/go-to/?fmid=6443047"
-    },
-    "color": "Röd",
-    "formattedTeam": "IFK Aspudden-Tellus Röd 2",
-    "team": "IFK Aspudden-Tellus Röd 2",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Röd 2"
-  },
-  {
     "uid": "team-game-6273292",
     "start": "2025-09-06T10:00:00.000Z",
     "end": "2025-09-06T11:30:00.000Z",

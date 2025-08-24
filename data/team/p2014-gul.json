@@ -291,34 +291,6 @@
     "formattedTitle": "Hammarby IF FF 13 grön"
   },
   {
-    "uid": "team-game-6271826",
-    "start": "2025-08-24T11:45:00.000Z",
-    "end": "2025-08-24T13:15:00.000Z",
-    "title": "Enskede IK Blå 1 vs IFK Aspudden-Tellus Gul 3",
-    "description": "P2014- 2",
-    "location": "Enskede IP 4",
-    "url": "https://www.stff.se/go-to/?fmid=6271826",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6271826",
-      "dateTime": "2025-08-24T13:45+02:00",
-      "homeTeam": "Enskede IK Blå 1",
-      "awayTeam": "IFK Aspudden-Tellus Gul 3",
-      "category": "P2014- 2",
-      "location": "Enskede IP 4",
-      "url": "https://www.stff.se/go-to/?fmid=6271826"
-    },
-    "color": "Blå",
-    "formattedTeam": "Enskede IK Blå 1",
-    "team": "Enskede IK Blå 1",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Enskede IK Blå 1"
-  },
-  {
     "uid": "team-game-6272030",
     "start": "2025-08-30T10:45:00.000Z",
     "end": "2025-08-30T12:15:00.000Z",
