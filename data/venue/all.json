@@ -8732,59 +8732,6 @@
     "formattedTitle": "🏟️ H2011 (vs Ingarö IF Gul)"
   },
   {
-    "uid": "venue-match-6221023",
-    "start": "2025-08-27T18:30:00.000Z",
-    "end": "2025-08-27T20:00:00.000Z",
-    "title": "Lado Sur FC vs Kransen United FF",
-    "description": "Herrar 6 E - TK-beslut per den 26/5",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/lado-sur-fc-kransen-united-ff-div-6-herrar/6221023/",
-    "categories": [
-      "Herrar 6 E"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221023,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/lado-sur-fc-kransen-united-ff-div-6-herrar/6221023/",
-      "date": {
-        "iso8601": "2025-08-27 20:30",
-        "formatted": "20:30, 27 aug. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Herrar 6 E",
-      "status": "",
-      "audience": "58",
-      "note": "TK-beslut per den 26/5",
-      "home": {
-        "team": "Lado Sur FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
-          "alt": "Lado Sur FC"
-        }
-      },
-      "away": {
-        "team": "Kransen United FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
-          "alt": "Kransen United FF"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Herrar 6 E",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Lado Sur FC vs Kransen United FF)"
-  },
-  {
     "uid": "venue-match-6221436",
     "start": "2025-08-29T18:00:00.000Z",
     "end": "2025-08-29T19:30:00.000Z",
