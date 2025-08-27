@@ -6100,62 +6100,6 @@
     "formattedTitle": "🏟️ Aspuddens FF (vs IFK Stockholm FK Dam)"
   },
   {
-    "uid": "venue-match-6256611",
-    "start": "2025-10-04T08:00:00.000Z",
-    "end": "2025-10-04T09:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 1 vs Djurgårdens IF FF 11",
-    "description": "F2012- 3C",
-    "location": "Västberga IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-djurgardens-if-ff-11-flickor-2012/6256611/",
-    "categories": [
-      "F2012- 3C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6256611,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-djurgardens-if-ff-11-flickor-2012/6256611/",
-      "date": {
-        "iso8601": "2025-10-04 10:00",
-        "formatted": "10:00, 4 okt. 2025"
-      },
-      "location": "Västberga IP 11",
-      "category": "F2012- 3C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 1"
-        }
-      },
-      "away": {
-        "team": "Djurgårdens IF FF 11",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
-          "alt": "Djurgårdens IF FF 11"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "F2012- 3C",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "D2012",
-    "opponent": "Djurgårdens IF FF 11",
-    "activity": "Match",
-    "formattedTitle": "🏟️ D2012 (vs Djurgårdens IF FF 11)"
-  },
-  {
     "uid": "venue-match-6257225",
     "start": "2025-10-04T10:00:00.000Z",
     "end": "2025-10-04T11:30:00.000Z",
