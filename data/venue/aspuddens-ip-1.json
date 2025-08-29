@@ -2481,62 +2481,6 @@
     "formattedTitle": "🏟️ IFK Aspudden-Tellus DJ (vs Nynäshamns IF FK 1 blå)"
   },
   {
-    "uid": "venue-match-6255294",
-    "start": "2025-09-21T14:00:00.000Z",
-    "end": "2025-09-21T15:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Hammarby IF FF 1619vit",
-    "description": "DJ- 3B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-hammarby-if-ff-1619vit-damjuniorer-0906/6255294/",
-    "categories": [
-      "DJ- 3B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6255294,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-hammarby-if-ff-1619vit-damjuniorer-0906/6255294/",
-      "date": {
-        "iso8601": "2025-09-21 16:00",
-        "formatted": "16:00, 21 sep. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "DJ- 3B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Hammarby IF FF 1619vit",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
-          "alt": "Hammarby IF FF 1619vit"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "DJ- 3B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Hammarby IF FF 1619vit",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Hammarby IF FF 1619vit)"
-  },
-  {
     "uid": "venue-match-6221085",
     "start": "2025-09-21T16:00:00.000Z",
     "end": "2025-09-21T17:30:00.000Z",
