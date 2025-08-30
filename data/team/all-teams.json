@@ -264,33 +264,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Blå 1"
   },
   {
-    "uid": "team-game-6270605",
-    "start": "2025-08-30T09:30:00.000Z",
-    "end": "2025-08-30T11:00:00.000Z",
-    "title": "Sollentuna FK Silver 1 vs IFK Aspudden-Tellus Gul 2",
-    "description": "P2014- 1",
-    "location": "Helenelunds IP 125",
-    "url": "https://www.stff.se/go-to/?fmid=6270605",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270605",
-      "dateTime": "2025-08-30T11:30+02:00",
-      "homeTeam": "Sollentuna FK Silver 1",
-      "awayTeam": "IFK Aspudden-Tellus Gul 2",
-      "category": "P2014- 1",
-      "location": "Helenelunds IP 125",
-      "url": "https://www.stff.se/go-to/?fmid=6270605"
-    },
-    "formattedTeam": "Sollentuna FK Silver 1",
-    "team": "Sollentuna FK Silver 1",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Sollentuna FK Silver 1"
-  },
-  {
     "uid": "team-game-6270709",
     "start": "2025-09-06T08:15:00.000Z",
     "end": "2025-09-06T09:45:00.000Z",
@@ -639,33 +612,6 @@
     ],
     "activity": "Match",
     "formattedTitle": "IFK Aspudden-Tellus Gul 1"
-  },
-  {
-    "uid": "team-game-6270605",
-    "start": "2025-08-30T09:30:00.000Z",
-    "end": "2025-08-30T11:00:00.000Z",
-    "title": "Sollentuna FK Silver 1 vs IFK Aspudden-Tellus Gul 2",
-    "description": "P2014- 1",
-    "location": "Helenelunds IP 125",
-    "url": "https://www.stff.se/go-to/?fmid=6270605",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270605",
-      "dateTime": "2025-08-30T11:30+02:00",
-      "homeTeam": "Sollentuna FK Silver 1",
-      "awayTeam": "IFK Aspudden-Tellus Gul 2",
-      "category": "P2014- 1",
-      "location": "Helenelunds IP 125",
-      "url": "https://www.stff.se/go-to/?fmid=6270605"
-    },
-    "formattedTeam": "Sollentuna FK Silver 1",
-    "team": "Sollentuna FK Silver 1",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Sollentuna FK Silver 1"
   },
   {
     "uid": "team-game-6270709",
