@@ -379,33 +379,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Gul 3"
   },
   {
-    "uid": "team-game-6272045",
-    "start": "2025-08-30T12:30:00.000Z",
-    "end": "2025-08-30T14:00:00.000Z",
-    "title": "Boo FF 9 1 vs IFK Aspudden-Tellus Gul 4",
-    "description": "P2014- 2",
-    "location": "Boovallen 215",
-    "url": "https://www.stff.se/go-to/?fmid=6272045",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6272045",
-      "dateTime": "2025-08-30T14:30+02:00",
-      "homeTeam": "Boo FF 9 1",
-      "awayTeam": "IFK Aspudden-Tellus Gul 4",
-      "category": "P2014- 2",
-      "location": "Boovallen 215",
-      "url": "https://www.stff.se/go-to/?fmid=6272045"
-    },
-    "formattedTeam": "Boo FF 9 1",
-    "team": "Boo FF 9 1",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Boo FF 9 1"
-  },
-  {
     "uid": "team-game-6272117",
     "start": "2025-09-06T09:30:00.000Z",
     "end": "2025-09-06T11:00:00.000Z",
