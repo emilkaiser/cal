@@ -613,9 +613,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 7 G",
       "status": "",
+      "audience": "15",
       "note": "",
       "home": {
         "team": "Stockholm United FC",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13715.png",
           "alt": "Stockholm United FC"
@@ -623,6 +627,9 @@
       },
       "away": {
         "team": "Polonia Falcons FF",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12070.png",
           "alt": "Polonia Falcons FF"
