@@ -543,6 +543,9 @@
       "note": "",
       "home": {
         "team": "BK Fyren",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
           "alt": "BK Fyren"
@@ -550,6 +553,9 @@
       },
       "away": {
         "team": "Ljungbackens IF",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6724.png",
           "alt": "Ljungbackens IF"
@@ -592,9 +598,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 7 G",
       "status": "",
+      "audience": "40",
       "note": "",
       "home": {
         "team": "Gröndals IK",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK"
@@ -602,6 +612,9 @@
       },
       "away": {
         "team": "Gröndals FF",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/14726.png",
           "alt": "Gröndals FF"
