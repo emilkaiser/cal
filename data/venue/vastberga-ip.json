@@ -484,6 +484,9 @@
       "note": "",
       "home": {
         "team": "Reymersholms IK 1",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
           "alt": "Reymersholms IK 1"
@@ -491,6 +494,9 @@
       },
       "away": {
         "team": "FK Bromma 2",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9027.png",
           "alt": "FK Bromma 2"
