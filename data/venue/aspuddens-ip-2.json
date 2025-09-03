@@ -1,5 +1,62 @@
 [
   {
+    "uid": "venue-match-6263388",
+    "start": "2025-09-06T06:15:00.000Z",
+    "end": "2025-09-06T07:45:00.000Z",
+    "title": "IFK Aspudden-Tellus 1 vs Hammarby IF FF 5 grön",
+    "description": "F2015- 2",
+    "location": "Aspuddens IP 2",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-hammarby-if-ff-5-gron-flickor-2015/6263388/",
+    "categories": [
+      "F2015- 2"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6263388,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-hammarby-if-ff-5-gron-flickor-2015/6263388/",
+      "date": {
+        "iso8601": "2025-09-06 08:15",
+        "formatted": "08:15, 6 sep. 2025"
+      },
+      "location": "Aspuddens IP 2",
+      "category": "F2015- 2",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus 1"
+        }
+      },
+      "away": {
+        "team": "Hammarby IF FF 5 grön",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
+          "alt": "Hammarby IF FF 5 grön"
+        }
+      }
+    },
+    "gender": "Flickor",
+    "ageGroup": "2015",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "series": "F2015- 2",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus 1",
+    "formattedTeam": "F2015",
+    "opponent": "Hammarby IF FF 5 grön",
+    "activity": "Match",
+    "formattedTitle": "🏟️ F2015 (vs Hammarby IF FF 5 grön)"
+  },
+  {
     "uid": "venue-match-6280380",
     "start": "2025-09-06T07:30:00.000Z",
     "end": "2025-09-06T09:00:00.000Z",
@@ -114,63 +171,6 @@
     "opponent": "IF Brommapojkarna F17-6",
     "activity": "Match",
     "formattedTitle": "🏟️ F2017 Röd (vs IF Brommapojkarna F17-6)"
-  },
-  {
-    "uid": "venue-match-6263388",
-    "start": "2025-09-06T09:45:00.000Z",
-    "end": "2025-09-06T11:15:00.000Z",
-    "title": "IFK Aspudden-Tellus 1 vs Hammarby IF FF 5 grön",
-    "description": "F2015- 2",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-hammarby-if-ff-5-gron-flickor-2015/6263388/",
-    "categories": [
-      "F2015- 2"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6263388,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-hammarby-if-ff-5-gron-flickor-2015/6263388/",
-      "date": {
-        "iso8601": "2025-09-06 11:45",
-        "formatted": "11:45, 6 sep. 2025"
-      },
-      "location": "Aspuddens IP 2",
-      "category": "F2015- 2",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 1"
-        }
-      },
-      "away": {
-        "team": "Hammarby IF FF 5 grön",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
-          "alt": "Hammarby IF FF 5 grön"
-        }
-      }
-    },
-    "gender": "Flickor",
-    "ageGroup": "2015",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "series": "F2015- 2",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "F2015",
-    "opponent": "Hammarby IF FF 5 grön",
-    "activity": "Match",
-    "formattedTitle": "🏟️ F2015 (vs Hammarby IF FF 5 grön)"
   },
   {
     "uid": "venue-match-6276295",
