@@ -406,36 +406,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Blå 2"
   },
   {
-    "uid": "team-game-6270671",
-    "start": "2025-09-06T14:45:00.000Z",
-    "end": "2025-09-06T16:15:00.000Z",
-    "title": "Hässelby SK FF P14 Vit 1 vs IFK Aspudden-Tellus Gul 1",
-    "description": "P2014- 1",
-    "location": "Hässelby IP 22",
-    "url": "https://www.stff.se/go-to/?fmid=6270671",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270671",
-      "dateTime": "2025-09-06T16:45+02:00",
-      "homeTeam": "Hässelby SK FF P14 Vit 1",
-      "awayTeam": "IFK Aspudden-Tellus Gul 1",
-      "category": "P2014- 1",
-      "location": "Hässelby IP 22",
-      "url": "https://www.stff.se/go-to/?fmid=6270671"
-    },
-    "color": "Vit",
-    "gender": "Pojkar",
-    "ageGroup": "14",
-    "formattedTeam": "P14 Vit",
-    "team": "Hässelby SK FF P14 Vit 1",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "P14 Vit"
-  },
-  {
     "uid": "team-game-6270774",
     "start": "2025-09-13T08:15:00.000Z",
     "end": "2025-09-13T09:45:00.000Z",
@@ -637,34 +607,6 @@
     "venues": [],
     "activity": "Match",
     "formattedTitle": "Hammarby IF FF 13 grön"
-  },
-  {
-    "uid": "team-game-6443008",
-    "start": "2025-09-06T12:15:00.000Z",
-    "end": "2025-09-06T13:45:00.000Z",
-    "title": "Ingarö IF Gul vs IFK Aspudden-Tellus Gul 3",
-    "description": "P2014- 2",
-    "location": "Ingarö IP 21",
-    "url": "https://www.stff.se/go-to/?fmid=6443008",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6443008",
-      "dateTime": "2025-09-06T14:15+02:00",
-      "homeTeam": "Ingarö IF Gul",
-      "awayTeam": "IFK Aspudden-Tellus Gul 3",
-      "category": "P2014- 2",
-      "location": "Ingarö IP 21",
-      "url": "https://www.stff.se/go-to/?fmid=6443008"
-    },
-    "color": "Gul",
-    "formattedTeam": "Ingarö IF Gul",
-    "team": "Ingarö IF Gul",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Ingarö IF Gul"
   },
   {
     "uid": "team-game-6443016",
