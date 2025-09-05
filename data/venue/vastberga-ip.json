@@ -562,62 +562,6 @@
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Iberoamericana IF)"
   },
   {
-    "uid": "venue-match-6347916",
-    "start": "2025-09-06T13:30:00.000Z",
-    "end": "2025-09-06T15:00:00.000Z",
-    "title": "IFK Aspudden-Tellus 1 vs IF Brommapojkarna 10-11",
-    "description": "P2010- 1C",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-if-brommapojkarna-10-11-pojkar-2010/6347916/",
-    "categories": [
-      "P2010- 1C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6347916,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-if-brommapojkarna-10-11-pojkar-2010/6347916/",
-      "date": {
-        "iso8601": "2025-09-06 15:30",
-        "formatted": "15:30, 6 sep. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2010- 1C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 1"
-        }
-      },
-      "away": {
-        "team": "IF Brommapojkarna 10-11",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
-          "alt": "IF Brommapojkarna 10-11"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2010- 1C",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 1",
-    "formattedTeam": "H2010",
-    "opponent": "IF Brommapojkarna 10-11",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2010 (vs IF Brommapojkarna 10-11)"
-  },
-  {
     "uid": "venue-match-6266208",
     "start": "2025-09-07T07:00:00.000Z",
     "end": "2025-09-07T08:30:00.000Z",
