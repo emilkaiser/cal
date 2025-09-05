@@ -1,59 +1,5 @@
 [
   {
-    "uid": "venue-match-6440790",
-    "start": "2025-09-05T18:00:00.000Z",
-    "end": "2025-09-05T19:30:00.000Z",
-    "title": "Reymersholms FF RFF vs Mälarhöjden-Hägersten FF",
-    "description": "P2010 kval till P16- Div 2 Höst",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ff-rff-malarhojden-hagersten-ff-pojkar-2010-kval-till-p16/6440790/",
-    "categories": [
-      "P2010 kval till P16- Div 2 Höst"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6440790,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/reymersholms-ff-rff-malarhojden-hagersten-ff-pojkar-2010-kval-till-p16/6440790/",
-      "date": {
-        "iso8601": "2025-09-05 20:00",
-        "formatted": "20:00, 5 sep. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010 kval till P16- Div 2 Höst",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Reymersholms FF RFF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13451.png",
-          "alt": "Reymersholms FF RFF"
-        }
-      },
-      "away": {
-        "team": "Mälarhöjden-Hägersten FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
-          "alt": "Mälarhöjden-Hägersten FF"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010 kval till P16- Div 2 Höst",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Reymersholms FF RFF vs Mälarhöjden-Hägersten FF)"
-  },
-  {
     "uid": "venue-match-6252307",
     "start": "2025-09-06T07:00:00.000Z",
     "end": "2025-09-06T08:30:00.000Z",

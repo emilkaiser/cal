@@ -1,57 +1,5 @@
 [
   {
-    "uid": "venue-match-6221075",
-    "start": "2025-09-05T18:00:00.000Z",
-    "end": "2025-09-05T19:30:00.000Z",
-    "title": "Lado Sur FC vs Preben BoIS",
-    "description": "Herrar 6 E",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/lado-sur-fc-preben-bois-div-6-herrar/6221075/",
-    "categories": [
-      "Herrar 6 E"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221075,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/lado-sur-fc-preben-bois-div-6-herrar/6221075/",
-      "date": {
-        "iso8601": "2025-09-05 20:00",
-        "formatted": "20:00, 5 sep. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Herrar 6 E",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Lado Sur FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
-          "alt": "Lado Sur FC"
-        }
-      },
-      "away": {
-        "team": "Preben BoIS",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12183.png",
-          "alt": "Preben BoIS"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Herrar 6 E",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Lado Sur FC vs Preben BoIS)"
-  },
-  {
     "uid": "venue-match-6269637",
     "start": "2025-09-06T07:00:00.000Z",
     "end": "2025-09-06T08:30:00.000Z",

@@ -1,59 +1,5 @@
 [
   {
-    "uid": "venue-match-6440790",
-    "start": "2025-09-05T18:00:00.000Z",
-    "end": "2025-09-05T19:30:00.000Z",
-    "title": "Reymersholms FF RFF vs Mälarhöjden-Hägersten FF",
-    "description": "P2010 kval till P16- Div 2 Höst",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/reymersholms-ff-rff-malarhojden-hagersten-ff-pojkar-2010-kval-till-p16/6440790/",
-    "categories": [
-      "P2010 kval till P16- Div 2 Höst"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6440790,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/reymersholms-ff-rff-malarhojden-hagersten-ff-pojkar-2010-kval-till-p16/6440790/",
-      "date": {
-        "iso8601": "2025-09-05 20:00",
-        "formatted": "20:00, 5 sep. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2010 kval till P16- Div 2 Höst",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Reymersholms FF RFF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13451.png",
-          "alt": "Reymersholms FF RFF"
-        }
-      },
-      "away": {
-        "team": "Mälarhöjden-Hägersten FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
-          "alt": "Mälarhöjden-Hägersten FF"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2010 kval till P16- Div 2 Höst",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Reymersholms FF RFF vs Mälarhöjden-Hägersten FF)"
-  },
-  {
     "uid": "venue-match-6263388",
     "start": "2025-09-06T06:15:00.000Z",
     "end": "2025-09-06T07:45:00.000Z",
@@ -7298,58 +7244,6 @@
     "opponent": "Ingarö IF Gul",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 (vs Ingarö IF Gul)"
-  },
-  {
-    "uid": "venue-match-6221075",
-    "start": "2025-09-05T18:00:00.000Z",
-    "end": "2025-09-05T19:30:00.000Z",
-    "title": "Lado Sur FC vs Preben BoIS",
-    "description": "Herrar 6 E",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/lado-sur-fc-preben-bois-div-6-herrar/6221075/",
-    "categories": [
-      "Herrar 6 E"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221075,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/lado-sur-fc-preben-bois-div-6-herrar/6221075/",
-      "date": {
-        "iso8601": "2025-09-05 20:00",
-        "formatted": "20:00, 5 sep. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Herrar 6 E",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Lado Sur FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
-          "alt": "Lado Sur FC"
-        }
-      },
-      "away": {
-        "team": "Preben BoIS",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12183.png",
-          "alt": "Preben BoIS"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Herrar 6 E",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Lado Sur FC vs Preben BoIS)"
   },
   {
     "uid": "venue-match-6269637",
