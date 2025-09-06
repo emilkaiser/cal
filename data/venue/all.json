@@ -685,6 +685,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus ",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus "
@@ -692,6 +695,9 @@
       },
       "away": {
         "team": "Vendelsö IK ",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9945.png",
           "alt": "Vendelsö IK "
@@ -7767,6 +7773,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -7774,6 +7783,9 @@
       },
       "away": {
         "team": "Iberoamericana IF ",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6881.png",
           "alt": "Iberoamericana IF "
