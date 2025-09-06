@@ -116,36 +116,6 @@
     "formattedTitle": "IFK Aspudden-Tellus Blå 1"
   },
   {
-    "uid": "team-game-6270709",
-    "start": "2025-09-06T08:15:00.000Z",
-    "end": "2025-09-06T09:45:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 2 vs IFK Tumba FK Svart",
-    "description": "P2014- 1",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6270709",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270709",
-      "dateTime": "2025-09-06T10:15+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 2",
-      "awayTeam": "IFK Tumba FK Svart",
-      "category": "P2014- 1",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6270709"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 2",
-    "team": "IFK Aspudden-Tellus Gul 2",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 2"
-  },
-  {
     "uid": "team-game-6270733",
     "start": "2025-09-13T09:30:00.000Z",
     "end": "2025-09-13T11:00:00.000Z",
