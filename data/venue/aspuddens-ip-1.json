@@ -333,9 +333,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 5 Södra",
       "status": "",
+      "audience": "40",
       "note": "",
       "home": {
         "team": "BK Buffalo",
+        "goals": {
+          "scored": 11
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
           "alt": "BK Buffalo"
@@ -343,6 +347,9 @@
       },
       "away": {
         "team": "Atletic Blåsut FC",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13186.png",
           "alt": "Atletic Blåsut FC"

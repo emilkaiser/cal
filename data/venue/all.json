@@ -564,9 +564,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 5 Södra",
       "status": "",
+      "audience": "40",
       "note": "",
       "home": {
         "team": "BK Buffalo",
+        "goals": {
+          "scored": 11
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
           "alt": "BK Buffalo"
@@ -574,6 +578,9 @@
       },
       "away": {
         "team": "Atletic Blåsut FC",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13186.png",
           "alt": "Atletic Blåsut FC"
@@ -7640,6 +7647,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 1",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 1"
@@ -7647,6 +7657,9 @@
       },
       "away": {
         "team": "Hammarby IF FF 3",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
           "alt": "Hammarby IF FF 3"
