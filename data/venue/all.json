@@ -6767,9 +6767,13 @@
       "location": "Västberga IP 11",
       "category": "P2012- 4H",
       "status": "",
+      "audience": "15",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 3",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 3"
@@ -6777,6 +6781,9 @@
       },
       "away": {
         "team": "Högdalens AIS 1",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11050.png",
           "alt": "Högdalens AIS 1"
@@ -6884,6 +6891,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 4",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 4"
@@ -6891,6 +6901,9 @@
       },
       "away": {
         "team": "Hammarby IF FF 24",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7186.png",
           "alt": "Hammarby IF FF 24"
