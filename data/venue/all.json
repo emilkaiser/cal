@@ -733,9 +733,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 6 E",
       "status": "",
+      "audience": "15",
       "note": "",
       "home": {
         "team": "Kransen United FF",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
           "alt": "Kransen United FF"
@@ -743,6 +747,9 @@
       },
       "away": {
         "team": "IF Lokomotiv Blackeberg",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7325.png",
           "alt": "IF Lokomotiv Blackeberg"
@@ -789,6 +796,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -796,6 +806,9 @@
       },
       "away": {
         "team": "Segeltorps IF Fotboll",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13623.png",
           "alt": "Segeltorps IF Fotboll"
@@ -7016,9 +7029,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 7 G",
       "status": "",
+      "audience": "30",
       "note": "",
       "home": {
         "team": "Långholmen FC",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6892.png",
           "alt": "Långholmen FC"
@@ -7026,6 +7043,9 @@
       },
       "away": {
         "team": "Stockholm United FC",
+        "goals": {
+          "scored": 9
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13715.png",
           "alt": "Stockholm United FC"

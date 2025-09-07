@@ -439,9 +439,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 7 G",
       "status": "",
+      "audience": "30",
       "note": "",
       "home": {
         "team": "Långholmen FC",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6892.png",
           "alt": "Långholmen FC"
@@ -449,6 +453,9 @@
       },
       "away": {
         "team": "Stockholm United FC",
+        "goals": {
+          "scored": 9
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13715.png",
           "alt": "Stockholm United FC"
