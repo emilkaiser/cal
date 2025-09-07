@@ -383,6 +383,9 @@
       "note": "",
       "home": {
         "team": "Gröndals IK 1",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK 1"
@@ -390,6 +393,9 @@
       },
       "away": {
         "team": "Boo FF 3",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
           "alt": "Boo FF 3"

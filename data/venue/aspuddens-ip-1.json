@@ -268,6 +268,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -275,6 +278,9 @@
       },
       "away": {
         "team": "Reymersholms IK DJ-U",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
           "alt": "Reymersholms IK DJ-U"
