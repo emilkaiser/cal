@@ -86,6 +86,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Röd 2",
+        "goals": {
+          "scored": 11
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Röd 2"
@@ -93,6 +96,9 @@
       },
       "away": {
         "team": "Gröndals IK Blå",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK Blå"
