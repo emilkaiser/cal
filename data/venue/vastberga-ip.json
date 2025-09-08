@@ -3808,59 +3808,6 @@
     "formattedTitle": "🏟️ H2011 Gul (vs Enskede IK 3)"
   },
   {
-    "uid": "venue-match-6244071",
-    "start": "2025-10-05T12:00:00.000Z",
-    "end": "2025-10-05T13:30:00.000Z",
-    "title": "Djurgårdens IF FF 10 vs Boo FF 3",
-    "description": "P2009- 3C",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-10-boo-ff-3-pojkar-2009/6244071/",
-    "categories": [
-      "P2009- 3C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6244071,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/djurgardens-if-ff-10-boo-ff-3-pojkar-2009/6244071/",
-      "date": {
-        "iso8601": "2025-10-05 14:00",
-        "formatted": "14:00, 5 okt. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2009- 3C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Djurgårdens IF FF 10",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
-          "alt": "Djurgårdens IF FF 10"
-        }
-      },
-      "away": {
-        "team": "Boo FF 3",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
-          "alt": "Boo FF 3"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2009",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2009- 3C",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Djurgårdens IF FF 10 vs Boo FF 3)"
-  },
-  {
     "uid": "venue-match-6247306",
     "start": "2025-10-05T14:00:00.000Z",
     "end": "2025-10-05T15:30:00.000Z",
