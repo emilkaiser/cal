@@ -1331,8 +1331,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6187950,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-ingaro-if-div-3-damer/6187950/",
       "date": {
@@ -3392,8 +3394,10 @@
     "sourceType": "venue",
     "rawData": {
       "id": 6187968,
-      "ageCategoryId": 0,
-      "genderId": 0,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-norsborg-fc-div-3-damer/6187968/",
       "date": {
