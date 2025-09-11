@@ -116,64 +116,6 @@
     "formattedTitle": "🏟️ P2016 Blå (vs Segeltorps Idrottsförening Fotboll Blå)"
   },
   {
-    "uid": "venue-match-6283942",
-    "start": "2025-09-13T08:30:00.000Z",
-    "end": "2025-09-13T10:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Röd 1 vs Apollon Solna FK Svart",
-    "description": "P2017- 1",
-    "location": "Aspuddens IP 26",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-apollon-solna-fk-svart-pojkar-2017/6283942/",
-    "categories": [
-      "P2017- 1"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6283942,
-      "ageCategoryName": "Barn",
-      "ageCategoryId": 2,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-apollon-solna-fk-svart-pojkar-2017/6283942/",
-      "date": {
-        "iso8601": "2025-09-13 10:30",
-        "formatted": "10:30, 13 sep. 2025"
-      },
-      "location": "Aspuddens IP 26",
-      "category": "P2017- 1",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Röd 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Röd 1"
-        }
-      },
-      "away": {
-        "team": "Apollon Solna FK Svart",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12027.png",
-          "alt": "Apollon Solna FK Svart"
-        }
-      }
-    },
-    "gender": "Pojkar",
-    "ageGroup": "2017",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "series": "P2017- 1",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Röd 1",
-    "color": "Röd",
-    "formattedTeam": "P2017 Röd",
-    "opponent": "Apollon Solna FK Svart",
-    "activity": "Match",
-    "formattedTitle": "🏟️ P2017 Röd (vs Apollon Solna FK Svart)"
-  },
-  {
     "uid": "venue-match-6284012",
     "start": "2025-09-13T08:30:00.000Z",
     "end": "2025-09-13T10:00:00.000Z",
@@ -809,6 +751,64 @@
     "opponent": "Apollon Solna FK Röd 1",
     "activity": "Match",
     "formattedTitle": "🏟️ P2015 Blå (vs Apollon Solna FK Röd 1)"
+  },
+  {
+    "uid": "venue-match-6283942",
+    "start": "2025-09-14T13:30:00.000Z",
+    "end": "2025-09-14T15:00:00.000Z",
+    "title": "IFK Aspudden-Tellus Röd 1 vs Apollon Solna FK Svart",
+    "description": "P2017- 1",
+    "location": "Aspuddens IP 26",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-apollon-solna-fk-svart-pojkar-2017/6283942/",
+    "categories": [
+      "P2017- 1"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6283942,
+      "ageCategoryName": "Barn",
+      "ageCategoryId": 2,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-apollon-solna-fk-svart-pojkar-2017/6283942/",
+      "date": {
+        "iso8601": "2025-09-14 15:30",
+        "formatted": "15:30, 14 sep. 2025"
+      },
+      "location": "Aspuddens IP 26",
+      "category": "P2017- 1",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Röd 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Röd 1"
+        }
+      },
+      "away": {
+        "team": "Apollon Solna FK Svart",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12027.png",
+          "alt": "Apollon Solna FK Svart"
+        }
+      }
+    },
+    "gender": "Pojkar",
+    "ageGroup": "2017",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 2"
+    ],
+    "series": "P2017- 1",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Röd 1",
+    "color": "Röd",
+    "formattedTeam": "P2017 Röd",
+    "opponent": "Apollon Solna FK Svart",
+    "activity": "Match",
+    "formattedTitle": "🏟️ P2017 Röd (vs Apollon Solna FK Svart)"
   },
   {
     "uid": "venue-match-6280895",
