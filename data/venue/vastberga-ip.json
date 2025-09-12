@@ -26,9 +26,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 6 E",
       "status": "",
+      "audience": "22",
       "note": "",
       "home": {
         "team": "Lado Sur FC",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
           "alt": "Lado Sur FC"
@@ -36,6 +40,9 @@
       },
       "away": {
         "team": "Sundbyberg FC",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7108.png",
           "alt": "Sundbyberg FC"
