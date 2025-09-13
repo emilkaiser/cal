@@ -610,6 +610,9 @@
       "note": "",
       "home": {
         "team": "Djurgårdens IF FF 7",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
           "alt": "Djurgårdens IF FF 7"
@@ -617,6 +620,9 @@
       },
       "away": {
         "team": "Tungelsta IF 1",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10037.png",
           "alt": "Tungelsta IF 1"
