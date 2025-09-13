@@ -261,36 +261,6 @@
     "formattedTitle": "Ingarö IF Röd"
   },
   {
-    "uid": "team-game-6273440",
-    "start": "2025-09-13T10:45:00.000Z",
-    "end": "2025-09-13T12:15:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 6 vs Saltsjöbadens IF Vit",
-    "description": "P2014- 3",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6273440",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6273440",
-      "dateTime": "2025-09-13T12:45+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 6",
-      "awayTeam": "Saltsjöbadens IF Vit",
-      "category": "P2014- 3",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6273440"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 6",
-    "team": "IFK Aspudden-Tellus Gul 6",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 6"
-  },
-  {
     "uid": "team-game-6273549",
     "start": "2025-09-27T10:45:00.000Z",
     "end": "2025-09-27T12:15:00.000Z",

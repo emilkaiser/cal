@@ -5964,6 +5964,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 2",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 2"
@@ -5971,6 +5974,9 @@
       },
       "away": {
         "team": "Tullinge Triangel Pojkar FK Blå",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6759.png",
           "alt": "Tullinge Triangel Pojkar FK Blå"
