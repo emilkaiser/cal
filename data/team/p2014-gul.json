@@ -116,36 +116,6 @@
     "formattedTitle": "Hammarby IF FF 13 grön"
   },
   {
-    "uid": "team-game-6443016",
-    "start": "2025-09-14T08:00:00.000Z",
-    "end": "2025-09-14T09:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 3 vs Bagarmossen Kärrtorp BK Vit 3",
-    "description": "P2014- 2",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6443016",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6443016",
-      "dateTime": "2025-09-14T10:00+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 3",
-      "awayTeam": "Bagarmossen Kärrtorp BK Vit 3",
-      "category": "P2014- 2",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6443016"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 3",
-    "team": "IFK Aspudden-Tellus Gul 3",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 3"
-  },
-  {
     "uid": "team-game-6272350",
     "start": "2025-09-20T08:15:00.000Z",
     "end": "2025-09-20T09:45:00.000Z",
