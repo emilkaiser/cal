@@ -372,6 +372,9 @@
       "note": "",
       "home": {
         "team": "Djurgårdens IF FF 4 Gul",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
           "alt": "Djurgårdens IF FF 4 Gul"
@@ -379,6 +382,9 @@
       },
       "away": {
         "team": "Boo FF 2",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
           "alt": "Boo FF 2"
