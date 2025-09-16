@@ -3707,6 +3707,59 @@
     "formattedTitle": "🏟️ H2012 Röd (vs Hammarby IF FF 25 vit)"
   },
   {
+    "uid": "venue-match-6234347",
+    "start": "2025-10-11T11:30:00.000Z",
+    "end": "2025-10-11T13:00:00.000Z",
+    "title": "Långholmen FC vs Tudor Arms FC",
+    "description": "Herrar Vet B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/langholmen-fc-tudor-arms-fc-veteran/6234347/",
+    "categories": [
+      "Herrar Vet B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6234347,
+      "ageCategoryName": "Veteran",
+      "ageCategoryId": 5,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/langholmen-fc-tudor-arms-fc-veteran/6234347/",
+      "date": {
+        "iso8601": "2025-10-11 13:30",
+        "formatted": "13:30, 11 okt. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar Vet B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Långholmen FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6892.png",
+          "alt": "Långholmen FC"
+        }
+      },
+      "away": {
+        "team": "Tudor Arms FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8918.png",
+          "alt": "Tudor Arms FC"
+        }
+      }
+    },
+    "gender": "Herrveteran",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar Vet B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Långholmen FC vs Tudor Arms FC)"
+  },
+  {
     "uid": "venue-match-6242824",
     "start": "2025-10-11T14:00:00.000Z",
     "end": "2025-10-11T15:30:00.000Z",
