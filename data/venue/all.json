@@ -6238,59 +6238,6 @@
     "formattedTitle": "🏟️ H2011 Gul (vs Mälarhöjden-Hägersten FF Blå)"
   },
   {
-    "uid": "venue-match-6243663",
-    "start": "2025-09-27T14:00:00.000Z",
-    "end": "2025-09-27T15:30:00.000Z",
-    "title": "Värtans IK vs Reymersholms IK 2",
-    "description": "P2009- 2C",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/vartans-ik-reymersholms-ik-2-pojkar-2009/6243663/",
-    "categories": [
-      "P2009- 2C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6243663,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/vartans-ik-reymersholms-ik-2-pojkar-2009/6243663/",
-      "date": {
-        "iso8601": "2025-09-27 16:00",
-        "formatted": "16:00, 27 sep. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2009- 2C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Värtans IK",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9866.png",
-          "alt": "Värtans IK"
-        }
-      },
-      "away": {
-        "team": "Reymersholms IK 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
-          "alt": "Reymersholms IK 2"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2009",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2009- 2C",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Värtans IK vs Reymersholms IK 2)"
-  },
-  {
     "uid": "venue-match-6262691",
     "start": "2025-09-28T07:00:00.000Z",
     "end": "2025-09-28T08:30:00.000Z",
