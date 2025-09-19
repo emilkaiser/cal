@@ -1,58 +1,5 @@
 [
   {
-    "uid": "venue-match-6244332",
-    "start": "2025-09-19T18:00:00.000Z",
-    "end": "2025-09-19T19:30:00.000Z",
-    "title": "Djurgårdens IF FF 19 vs IF Brommapojkarna 10-2",
-    "description": "P2010- 1B",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-19-if-brommapojkarna-10-2-pojkar-2010/6244332/",
-    "categories": [
-      "P2010- 1B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6244332,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/djurgardens-if-ff-19-if-brommapojkarna-10-2-pojkar-2010/6244332/",
-      "date": {
-        "iso8601": "2025-09-19 20:00",
-        "formatted": "20:00, 19 sep. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2010- 1B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Djurgårdens IF FF 19",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
-          "alt": "Djurgårdens IF FF 19"
-        }
-      },
-      "away": {
-        "team": "IF Brommapojkarna 10-2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
-          "alt": "IF Brommapojkarna 10-2"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2010- 1B",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Djurgårdens IF FF 19 vs IF Brommapojkarna 10-2)"
-  },
-  {
     "uid": "venue-match-6269792",
     "start": "2025-09-20T07:00:00.000Z",
     "end": "2025-09-20T08:30:00.000Z",
