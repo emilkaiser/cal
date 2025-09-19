@@ -4778,59 +4778,6 @@
     "formattedTitle": "🏟️ H2011 Gul (vs Reymersholms IK 3)"
   },
   {
-    "uid": "venue-match-6242634",
-    "start": "2025-09-20T14:00:00.000Z",
-    "end": "2025-09-20T15:30:00.000Z",
-    "title": "Djurgårdens IF FF 4 vs Kungsängens IF",
-    "description": "P2008- 2A",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-4-kungsangens-if-pojkar-2008/6242634/",
-    "categories": [
-      "P2008- 2A"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6242634,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/djurgardens-if-ff-4-kungsangens-if-pojkar-2008/6242634/",
-      "date": {
-        "iso8601": "2025-09-20 16:00",
-        "formatted": "16:00, 20 sep. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2008- 2A",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Djurgårdens IF FF 4",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
-          "alt": "Djurgårdens IF FF 4"
-        }
-      },
-      "away": {
-        "team": "Kungsängens IF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10798.png",
-          "alt": "Kungsängens IF"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2008",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2008- 2A",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Djurgårdens IF FF 4 vs Kungsängens IF)"
-  },
-  {
     "uid": "venue-match-6266395",
     "start": "2025-09-21T06:00:00.000Z",
     "end": "2025-09-21T07:30:00.000Z",
