@@ -26,9 +26,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 5 Södra",
       "status": "",
+      "audience": "58",
       "note": "",
       "home": {
         "team": "Aspuddens FF",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
           "alt": "Aspuddens FF"
@@ -36,6 +40,9 @@
       },
       "away": {
         "team": "Botkyrka Kuluspor FF",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13502.png",
           "alt": "Botkyrka Kuluspor FF"
