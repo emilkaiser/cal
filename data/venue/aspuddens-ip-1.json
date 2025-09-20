@@ -215,6 +215,9 @@
       "note": "",
       "home": {
         "team": "BK Buffalo",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
           "alt": "BK Buffalo"
@@ -222,6 +225,9 @@
       },
       "away": {
         "team": "FC Tyresö United",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13087.png",
           "alt": "FC Tyresö United"

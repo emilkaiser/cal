@@ -438,6 +438,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 4",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 4"
@@ -445,6 +448,9 @@
       },
       "away": {
         "team": "Reymersholms IK 3",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
           "alt": "Reymersholms IK 3"
