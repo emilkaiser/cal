@@ -274,6 +274,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 3",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 3"
@@ -281,6 +284,9 @@
       },
       "away": {
         "team": "Karlbergs BK Grön",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10871.png",
           "alt": "Karlbergs BK Grön"
