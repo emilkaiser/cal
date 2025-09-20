@@ -29,6 +29,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Röd 1",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Röd 1"
@@ -36,6 +39,9 @@
       },
       "away": {
         "team": "Järla IF FK Grå",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7621.png",
           "alt": "Järla IF FK Grå"

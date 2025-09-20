@@ -1,32 +1,5 @@
 [
   {
-    "uid": "team-game-6272355",
-    "start": "2025-09-20T09:30:00.000Z",
-    "end": "2025-09-20T11:00:00.000Z",
-    "title": "Sköndals IK FK C vs IFK Aspudden-Tellus Blå 1",
-    "description": "P2014- 2",
-    "location": "Sandåkra BP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6272355",
-    "categories": [
-      "P2014- 2"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6272355",
-      "dateTime": "2025-09-20T11:30+02:00",
-      "homeTeam": "Sköndals IK FK C",
-      "awayTeam": "IFK Aspudden-Tellus Blå 1",
-      "category": "P2014- 2",
-      "location": "Sandåkra BP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6272355"
-    },
-    "formattedTeam": "Sköndals IK FK C",
-    "team": "Sköndals IK FK C",
-    "venues": [],
-    "activity": "Match",
-    "formattedTitle": "Sköndals IK FK C"
-  },
-  {
     "uid": "team-game-6272535",
     "start": "2025-09-28T11:00:00.000Z",
     "end": "2025-09-28T12:30:00.000Z",
@@ -56,36 +29,6 @@
     ],
     "activity": "Match",
     "formattedTitle": "IFK Aspudden-Tellus Blå 1"
-  },
-  {
-    "uid": "team-game-6270794",
-    "start": "2025-09-20T09:30:00.000Z",
-    "end": "2025-09-20T11:00:00.000Z",
-    "title": "IFK Aspudden-Tellus Gul 2 vs Värmdö IF Svart",
-    "description": "P2014- 1",
-    "location": "Västberga IP 12",
-    "url": "https://www.stff.se/go-to/?fmid=6270794",
-    "categories": [
-      "P2014- 1"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6270794",
-      "dateTime": "2025-09-20T11:30+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Gul 2",
-      "awayTeam": "Värmdö IF Svart",
-      "category": "P2014- 1",
-      "location": "Västberga IP 12",
-      "url": "https://www.stff.se/go-to/?fmid=6270794"
-    },
-    "color": "Gul",
-    "formattedTeam": "IFK Aspudden-Tellus Gul 2",
-    "team": "IFK Aspudden-Tellus Gul 2",
-    "venues": [
-      "Västberga IP"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Gul 2"
   },
   {
     "uid": "team-game-6270863",
