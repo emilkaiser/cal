@@ -4198,9 +4198,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 5 Mellersta",
       "status": "",
+      "audience": "28",
       "note": "",
       "home": {
         "team": "BK Fyren",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
           "alt": "BK Fyren"
@@ -4208,6 +4212,9 @@
       },
       "away": {
         "team": "Järla IF FK",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7621.png",
           "alt": "Järla IF FK"
