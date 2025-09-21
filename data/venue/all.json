@@ -624,6 +624,9 @@
       "note": "",
       "home": {
         "team": "Kransen United FF",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
           "alt": "Kransen United FF"
@@ -631,6 +634,9 @@
       },
       "away": {
         "team": "Lado Sur FC",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
           "alt": "Lado Sur FC"
