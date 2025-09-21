@@ -370,6 +370,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 1",
+        "goals": {
+          "scored": 8
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 1"
@@ -377,6 +380,9 @@
       },
       "away": {
         "team": "Skarpnäck FF Vit",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12091.png",
           "alt": "Skarpnäck FF Vit"

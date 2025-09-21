@@ -498,6 +498,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus DJ",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus DJ"
@@ -505,6 +508,9 @@
       },
       "away": {
         "team": "Nynäshamns IF FK 1 blå",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8033.png",
           "alt": "Nynäshamns IF FK 1 blå"
@@ -3960,6 +3966,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 1",
+        "goals": {
+          "scored": 8
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 1"
@@ -3967,6 +3976,9 @@
       },
       "away": {
         "team": "Skarpnäck FF Vit",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12091.png",
           "alt": "Skarpnäck FF Vit"
