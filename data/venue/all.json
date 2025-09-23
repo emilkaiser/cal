@@ -2053,62 +2053,6 @@
     "formattedTitle": "🏟️ D2011 (vs Gustavsbergs IF FK 1)"
   },
   {
-    "uid": "venue-match-6255048",
-    "start": "2025-10-05T18:00:00.000Z",
-    "end": "2025-10-05T19:30:00.000Z",
-    "title": "IFK Aspudden-Tellus DJ vs Reymersholms IK DJ",
-    "description": "DJ- 2C",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dj-reymersholms-ik-dj-damjuniorer-0906/6255048/",
-    "categories": [
-      "DJ- 2C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6255048,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-dj-reymersholms-ik-dj-damjuniorer-0906/6255048/",
-      "date": {
-        "iso8601": "2025-10-05 20:00",
-        "formatted": "20:00, 5 okt. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "DJ- 2C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus DJ",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus DJ"
-        }
-      },
-      "away": {
-        "team": "Reymersholms IK DJ",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
-          "alt": "Reymersholms IK DJ"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "DJ- 2C",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus DJ",
-    "formattedTeam": "IFK Aspudden-Tellus DJ",
-    "opponent": "Reymersholms IK DJ",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus DJ (vs Reymersholms IK DJ)"
-  },
-  {
     "uid": "venue-match-6234346",
     "start": "2025-10-10T18:00:00.000Z",
     "end": "2025-10-10T19:30:00.000Z",
@@ -3916,59 +3860,6 @@
     "opponent": "Gustavsbergs IF FK 1",
     "activity": "Match",
     "formattedTitle": "🏟️ P2015 Gul (vs Gustavsbergs IF FK 1)"
-  },
-  {
-    "uid": "venue-match-6246227",
-    "start": "2025-09-28T15:30:00.000Z",
-    "end": "2025-09-28T17:00:00.000Z",
-    "title": "Djurgårdens IF FF 1 vs IF Brommapojkarna A",
-    "description": "P2010- 1R",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/djurgardens-if-ff-1-if-brommapojkarna-a-pojkar-2010/6246227/",
-    "categories": [
-      "P2010- 1R"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6246227,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/djurgardens-if-ff-1-if-brommapojkarna-a-pojkar-2010/6246227/",
-      "date": {
-        "iso8601": "2025-09-28 17:30",
-        "formatted": "17:30, 28 sep. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "P2010- 1R",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Djurgårdens IF FF 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
-          "alt": "Djurgårdens IF FF 1"
-        }
-      },
-      "away": {
-        "team": "IF Brommapojkarna A",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9026.png",
-          "alt": "IF Brommapojkarna A"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2010",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "P2010- 1R",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Djurgårdens IF FF 1 vs IF Brommapojkarna A)"
   },
   {
     "uid": "venue-match-6259502",

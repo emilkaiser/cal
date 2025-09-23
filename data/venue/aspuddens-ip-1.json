@@ -1241,62 +1241,6 @@
     "formattedTitle": "🏟️ D2011 (vs Gustavsbergs IF FK 1)"
   },
   {
-    "uid": "venue-match-6255048",
-    "start": "2025-10-05T18:00:00.000Z",
-    "end": "2025-10-05T19:30:00.000Z",
-    "title": "IFK Aspudden-Tellus DJ vs Reymersholms IK DJ",
-    "description": "DJ- 2C",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dj-reymersholms-ik-dj-damjuniorer-0906/6255048/",
-    "categories": [
-      "DJ- 2C"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6255048,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-dj-reymersholms-ik-dj-damjuniorer-0906/6255048/",
-      "date": {
-        "iso8601": "2025-10-05 20:00",
-        "formatted": "20:00, 5 okt. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "DJ- 2C",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus DJ",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus DJ"
-        }
-      },
-      "away": {
-        "team": "Reymersholms IK DJ",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
-          "alt": "Reymersholms IK DJ"
-        }
-      }
-    },
-    "gender": "Damjunior",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "DJ- 2C",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus DJ",
-    "formattedTeam": "IFK Aspudden-Tellus DJ",
-    "opponent": "Reymersholms IK DJ",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus DJ (vs Reymersholms IK DJ)"
-  },
-  {
     "uid": "venue-match-6234346",
     "start": "2025-10-10T18:00:00.000Z",
     "end": "2025-10-10T19:30:00.000Z",
