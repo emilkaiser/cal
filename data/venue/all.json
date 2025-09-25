@@ -4079,8 +4079,8 @@
   },
   {
     "uid": "venue-match-6252204",
-    "start": "2025-10-05T08:30:00.000Z",
-    "end": "2025-10-05T10:00:00.000Z",
+    "start": "2025-10-04T14:15:00.000Z",
+    "end": "2025-10-04T15:45:00.000Z",
     "title": "IFK Aspudden-Tellus Gul 1 vs Hanvikens SK Svart",
     "description": "P2012- 3H",
     "location": "Västberga IP 11",
@@ -4098,8 +4098,8 @@
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-gul-1-hanvikens-sk-svart-pojkar-2012/6252204/",
       "date": {
-        "iso8601": "2025-10-05 10:30",
-        "formatted": "10:30, 5 okt. 2025"
+        "iso8601": "2025-10-04 16:15",
+        "formatted": "16:15, 4 okt. 2025"
       },
       "location": "Västberga IP 11",
       "category": "P2012- 3H",
