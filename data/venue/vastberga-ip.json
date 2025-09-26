@@ -1,57 +1,5 @@
 [
   {
-    "uid": "venue-match-6221093",
-    "start": "2025-09-26T18:00:00.000Z",
-    "end": "2025-09-26T19:30:00.000Z",
-    "title": "Lado Sur FC vs AC Azzurri",
-    "description": "Herrar 6 E",
-    "location": "Västberga IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/lado-sur-fc-ac-azzurri-div-6-herrar/6221093/",
-    "categories": [
-      "Herrar 6 E"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6221093,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/lado-sur-fc-ac-azzurri-div-6-herrar/6221093/",
-      "date": {
-        "iso8601": "2025-09-26 20:00",
-        "formatted": "20:00, 26 sep. 2025"
-      },
-      "location": "Västberga IP 1",
-      "category": "Herrar 6 E",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Lado Sur FC",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13363.png",
-          "alt": "Lado Sur FC"
-        }
-      },
-      "away": {
-        "team": "AC Azzurri",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9040.png",
-          "alt": "AC Azzurri"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Västberga IP"
-    ],
-    "series": "Herrar 6 E",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Lado Sur FC vs AC Azzurri)"
-  },
-  {
     "uid": "venue-match-6262367",
     "start": "2025-09-27T07:00:00.000Z",
     "end": "2025-09-27T08:30:00.000Z",
