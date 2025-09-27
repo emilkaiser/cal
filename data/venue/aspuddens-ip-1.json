@@ -332,9 +332,13 @@
       "location": "Aspuddens IP 1",
       "category": "P2008- 2C",
       "status": "",
+      "audience": "50",
       "note": "",
       "home": {
         "team": "Gröndals IK 1",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK 1"
@@ -342,6 +346,9 @@
       },
       "away": {
         "team": "Rönninge Salem Fotboll 1",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8142.png",
           "alt": "Rönninge Salem Fotboll 1"
