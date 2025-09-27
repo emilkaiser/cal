@@ -3289,6 +3289,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 3",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 3"
@@ -3296,6 +3299,9 @@
       },
       "away": {
         "team": "KIF Söderort 2",
+        "goals": {
+          "scored": 7
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11340.png",
           "alt": "KIF Söderort 2"
