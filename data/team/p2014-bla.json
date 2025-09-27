@@ -57,36 +57,5 @@
     "venues": [],
     "activity": "Match",
     "formattedTitle": "Hammarby IF FF 13 grön"
-  },
-  {
-    "uid": "team-game-6273606",
-    "start": "2025-09-27T11:00:00.000Z",
-    "end": "2025-09-27T12:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Blå 2 vs Järla IF FK Blå",
-    "description": "P2014- 3",
-    "location": "Aspuddens IP 2",
-    "url": "https://www.stff.se/go-to/?fmid=6273606",
-    "categories": [
-      "P2014- 3"
-    ],
-    "sourceType": "team",
-    "rawData": {
-      "id": "6273606",
-      "dateTime": "2025-09-27T13:00+02:00",
-      "homeTeam": "IFK Aspudden-Tellus Blå 2",
-      "awayTeam": "Järla IF FK Blå",
-      "category": "P2014- 3",
-      "location": "Aspuddens IP 2",
-      "url": "https://www.stff.se/go-to/?fmid=6273606"
-    },
-    "color": "Blå",
-    "formattedTeam": "IFK Aspudden-Tellus Blå 2",
-    "team": "IFK Aspudden-Tellus Blå 2",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 2"
-    ],
-    "activity": "Match",
-    "formattedTitle": "IFK Aspudden-Tellus Blå 2"
   }
 ]
