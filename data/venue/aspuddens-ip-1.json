@@ -323,6 +323,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -330,6 +333,9 @@
       },
       "away": {
         "team": "Gröndals IK ",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK "

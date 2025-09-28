@@ -370,6 +370,9 @@
       "note": "",
       "home": {
         "team": "Djurgårdens IF FF 4",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
           "alt": "Djurgårdens IF FF 4"
@@ -377,6 +380,9 @@
       },
       "away": {
         "team": "Sollentuna FK F2010 1",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7184.png",
           "alt": "Sollentuna FK F2010 1"

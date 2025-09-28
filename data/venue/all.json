@@ -787,6 +787,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus"
@@ -794,6 +797,9 @@
       },
       "away": {
         "team": "Gröndals IK ",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK "
@@ -2481,6 +2487,9 @@
       "note": "",
       "home": {
         "team": "Djurgårdens IF FF 4",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7897.png",
           "alt": "Djurgårdens IF FF 4"
@@ -2488,6 +2497,9 @@
       },
       "away": {
         "team": "Sollentuna FK F2010 1",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7184.png",
           "alt": "Sollentuna FK F2010 1"
