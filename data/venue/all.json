@@ -486,9 +486,13 @@
       "location": "Aspuddens IP 1",
       "category": "P2009 kval till P17- Div 1 Höst",
       "status": "",
+      "audience": "36",
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 1",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 1"
@@ -496,6 +500,9 @@
       },
       "away": {
         "team": "Karlbergs BK",
+        "goals": {
+          "scored": 4
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10871.png",
           "alt": "Karlbergs BK"
@@ -717,9 +724,13 @@
       "location": "Aspuddens IP 1",
       "category": "Herrar 6 E",
       "status": "",
+      "audience": "40",
       "note": "",
       "home": {
         "team": "Kransen United FF",
+        "goals": {
+          "scored": 7
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
           "alt": "Kransen United FF"
@@ -727,6 +738,9 @@
       },
       "away": {
         "team": "Sundbyberg FC",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7108.png",
           "alt": "Sundbyberg FC"
