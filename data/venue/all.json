@@ -954,6 +954,64 @@
     "formattedTitle": "🏟️ H2009 (vs Norrtulls SK 1)"
   },
   {
+    "uid": "venue-match-6250894",
+    "start": "2025-10-15T17:00:00.000Z",
+    "end": "2025-10-15T18:30:00.000Z",
+    "title": "IFK Aspudden-Tellus Röd 1 vs Boo FF 21",
+    "description": "P2012- 2D",
+    "location": "Aspuddens IP 11",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-boo-ff-21-pojkar-2012/6250894/",
+    "categories": [
+      "P2012- 2D"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6250894,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-boo-ff-21-pojkar-2012/6250894/",
+      "date": {
+        "iso8601": "2025-10-15 19:00",
+        "formatted": "19:00, 15 okt. 2025"
+      },
+      "location": "Aspuddens IP 11",
+      "category": "P2012- 2D",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus Röd 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus Röd 1"
+        }
+      },
+      "away": {
+        "team": "Boo FF 21",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
+          "alt": "Boo FF 21"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2012",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "P2012- 2D",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus Röd 1",
+    "color": "Röd",
+    "formattedTeam": "H2012 Röd",
+    "opponent": "Boo FF 21",
+    "activity": "Match",
+    "formattedTitle": "🏟️ H2012 Röd (vs Boo FF 21)"
+  },
+  {
     "uid": "venue-match-6347413",
     "start": "2025-10-18T10:00:00.000Z",
     "end": "2025-10-18T11:30:00.000Z",
@@ -1123,64 +1181,6 @@
     "opponent": "Enskede IK 2",
     "activity": "Match",
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Enskede IK 2)"
-  },
-  {
-    "uid": "venue-match-6250894",
-    "start": "2025-10-19T10:00:00.000Z",
-    "end": "2025-10-19T11:30:00.000Z",
-    "title": "IFK Aspudden-Tellus Röd 1 vs Boo FF 21",
-    "description": "P2012- 2D",
-    "location": "Aspuddens IP 11",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-rod-1-boo-ff-21-pojkar-2012/6250894/",
-    "categories": [
-      "P2012- 2D"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6250894,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-rod-1-boo-ff-21-pojkar-2012/6250894/",
-      "date": {
-        "iso8601": "2025-10-19 12:00",
-        "formatted": "12:00, 19 okt. 2025"
-      },
-      "location": "Aspuddens IP 11",
-      "category": "P2012- 2D",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus Röd 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus Röd 1"
-        }
-      },
-      "away": {
-        "team": "Boo FF 21",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
-          "alt": "Boo FF 21"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2012",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2012- 2D",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus Röd 1",
-    "color": "Röd",
-    "formattedTeam": "H2012 Röd",
-    "opponent": "Boo FF 21",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2012 Röd (vs Boo FF 21)"
   },
   {
     "uid": "venue-match-6243250",
