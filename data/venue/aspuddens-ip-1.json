@@ -1,58 +1,5 @@
 [
   {
-    "uid": "venue-match-6220647",
-    "start": "2025-10-03T18:00:00.000Z",
-    "end": "2025-10-03T19:30:00.000Z",
-    "title": "Kransen United FF vs Årsta FF",
-    "description": "Damer 4 B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-arsta-ff-div-4-damer/6220647/",
-    "categories": [
-      "Damer 4 B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6220647,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Kvinna",
-      "genderId": 3,
-      "courtId": -1,
-      "url": "/rs/matchfakta/kransen-united-ff-arsta-ff-div-4-damer/6220647/",
-      "date": {
-        "iso8601": "2025-10-03 20:00",
-        "formatted": "20:00, 3 okt. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Damer 4 B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Kransen United FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
-          "alt": "Kransen United FF"
-        }
-      },
-      "away": {
-        "team": "Årsta FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12299.png",
-          "alt": "Årsta FF"
-        }
-      }
-    },
-    "gender": "Dam",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Damer 4 B",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Kransen United FF vs Årsta FF)"
-  },
-  {
     "uid": "venue-match-6250882",
     "start": "2025-10-04T08:30:00.000Z",
     "end": "2025-10-04T10:00:00.000Z",
