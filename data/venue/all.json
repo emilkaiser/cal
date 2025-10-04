@@ -159,6 +159,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 1",
+        "goals": {
+          "scored": 8
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 1"
@@ -166,6 +169,9 @@
       },
       "away": {
         "team": "IFK Stockholm FK 1",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12940.png",
           "alt": "IFK Stockholm FK 1"
@@ -1346,9 +1352,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 5 Mellersta",
       "status": "",
+      "audience": "15",
       "note": "",
       "home": {
         "team": "BK Fyren",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
           "alt": "BK Fyren"
@@ -1356,6 +1366,9 @@
       },
       "away": {
         "team": "IK Makkabi",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10671.png",
           "alt": "IK Makkabi"
