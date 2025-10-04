@@ -222,6 +222,9 @@
       "note": "",
       "home": {
         "team": "Värtans IK Röd 1",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9866.png",
           "alt": "Värtans IK Röd 1"
@@ -229,6 +232,9 @@
       },
       "away": {
         "team": "Sollentuna FK Väst 1",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7184.png",
           "alt": "Sollentuna FK Väst 1"
