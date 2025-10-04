@@ -150,6 +150,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 1",
+        "goals": {
+          "scored": 15
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 1"
@@ -157,6 +160,9 @@
       },
       "away": {
         "team": "Hanvikens SK Svart",
+        "goals": {
+          "scored": 3
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11182.png",
           "alt": "Hanvikens SK Svart"
