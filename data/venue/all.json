@@ -1193,9 +1193,13 @@
       "location": "Västberga IP 1",
       "category": "Herrar 7 G",
       "status": "",
+      "audience": "25",
       "note": "",
       "home": {
         "team": "Gröndals IK",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK"
@@ -1203,6 +1207,9 @@
       },
       "away": {
         "team": "Essinge Rovers IK",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13720.png",
           "alt": "Essinge Rovers IK"
