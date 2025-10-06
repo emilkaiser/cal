@@ -169,8 +169,8 @@
   },
   {
     "uid": "venue-match-6234347",
-    "start": "2025-10-11T11:30:00.000Z",
-    "end": "2025-10-11T13:00:00.000Z",
+    "start": "2025-10-11T10:00:00.000Z",
+    "end": "2025-10-11T11:30:00.000Z",
     "title": "Långholmen FC vs Tudor Arms FC",
     "description": "Herrar Vet B",
     "location": "Aspuddens IP 1",
@@ -188,8 +188,8 @@
       "courtId": -1,
       "url": "/rs/matchfakta/langholmen-fc-tudor-arms-fc-veteran/6234347/",
       "date": {
-        "iso8601": "2025-10-11 13:30",
-        "formatted": "13:30, 11 okt. 2025"
+        "iso8601": "2025-10-11 12:00",
+        "formatted": "12:00, 11 okt. 2025"
       },
       "location": "Aspuddens IP 1",
       "category": "Herrar Vet B",
