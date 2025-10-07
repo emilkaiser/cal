@@ -504,6 +504,59 @@
     "formattedTitle": "🏟️ H2012 Röd (vs Boo FF 21)"
   },
   {
+    "uid": "venue-match-6506577",
+    "start": "2025-10-17T18:00:00.000Z",
+    "end": "2025-10-17T19:30:00.000Z",
+    "title": "Kransen United FF (6) vs Bromstens IK (4)",
+    "description": "Stockholm Cup 25/26 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-6-bromstens-ik-4-stockholm-cup/6506577/",
+    "categories": [
+      "Stockholm Cup 25/26 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6506577,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-6-bromstens-ik-4-stockholm-cup/6506577/",
+      "date": {
+        "iso8601": "2025-10-17 20:00",
+        "formatted": "20:00, 17 okt. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Stockholm Cup 25/26 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF (6)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF (6)"
+        }
+      },
+      "away": {
+        "team": "Bromstens IK (4)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11517.png",
+          "alt": "Bromstens IK (4)"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Stockholm Cup 25/26 B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF (6) vs Bromstens IK (4))"
+  },
+  {
     "uid": "venue-match-6347413",
     "start": "2025-10-18T10:00:00.000Z",
     "end": "2025-10-18T11:30:00.000Z",
