@@ -1,61 +1,5 @@
 [
   {
-    "uid": "venue-match-6234346",
-    "start": "2025-10-10T18:00:00.000Z",
-    "end": "2025-10-10T19:30:00.000Z",
-    "title": "IFK Aspudden-Tellus vs Vällingby AIK",
-    "description": "Herrar Vet B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vallingby-aik-veteran/6234346/",
-    "categories": [
-      "Herrar Vet B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6234346,
-      "ageCategoryName": "Veteran",
-      "ageCategoryId": 5,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-vallingby-aik-veteran/6234346/",
-      "date": {
-        "iso8601": "2025-10-10 20:00",
-        "formatted": "20:00, 10 okt. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar Vet B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus"
-        }
-      },
-      "away": {
-        "team": "Vällingby AIK",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9875.png",
-          "alt": "Vällingby AIK"
-        }
-      }
-    },
-    "gender": "Herrveteran",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar Vet B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus",
-    "formattedTeam": "IFK Aspudden-Tellus",
-    "opponent": "Vällingby AIK",
-    "activity": "Match",
-    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Vällingby AIK)"
-  },
-  {
     "uid": "venue-match-6258549",
     "start": "2025-10-10T22:00:00.000Z",
     "end": "2025-10-10T23:30:00.000Z",
@@ -896,6 +840,62 @@
     "opponent": "Ingarö IF Gul",
     "activity": "Match",
     "formattedTitle": "🏟️ H2011 (vs Ingarö IF Gul)"
+  },
+  {
+    "uid": "venue-match-6234346",
+    "start": "2025-10-19T18:15:00.000Z",
+    "end": "2025-10-19T19:45:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Vällingby AIK",
+    "description": "Herrar Vet B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vallingby-aik-veteran/6234346/",
+    "categories": [
+      "Herrar Vet B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6234346,
+      "ageCategoryName": "Veteran",
+      "ageCategoryId": 5,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-vallingby-aik-veteran/6234346/",
+      "date": {
+        "iso8601": "2025-10-19 20:15",
+        "formatted": "20:15, 19 okt. 2025"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar Vet B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Vällingby AIK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9875.png",
+          "alt": "Vällingby AIK"
+        }
+      }
+    },
+    "gender": "Herrveteran",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar Vet B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Vällingby AIK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Vällingby AIK)"
   },
   {
     "uid": "venue-match-6506999",

@@ -381,6 +381,58 @@
     "formattedTitle": " (Reymersholms IK DJ vs Älvsjö AIK FF 2)"
   },
   {
+    "uid": "venue-match-6506563",
+    "start": "2025-10-12T18:00:00.000Z",
+    "end": "2025-10-12T19:30:00.000Z",
+    "title": "Gröndals IK (7) vs Spånga IS FF (7)",
+    "description": "Stockholm Cup 25/26 B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/grondals-ik-7-spanga-is-ff-7-stockholm-cup/6506563/",
+    "categories": [
+      "Stockholm Cup 25/26 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6506563,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/grondals-ik-7-spanga-is-ff-7-stockholm-cup/6506563/",
+      "date": {
+        "iso8601": "2025-10-12 20:00",
+        "formatted": "20:00, 12 okt. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "Stockholm Cup 25/26 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Gröndals IK (7)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
+          "alt": "Gröndals IK (7)"
+        }
+      },
+      "away": {
+        "team": "Spånga IS FF (7)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12494.png",
+          "alt": "Spånga IS FF (7)"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Stockholm Cup 25/26 B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Gröndals IK (7) vs Spånga IS FF (7))"
+  },
+  {
     "uid": "venue-match-6257236",
     "start": "2025-10-18T09:00:00.000Z",
     "end": "2025-10-18T10:30:00.000Z",
