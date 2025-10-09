@@ -389,63 +389,6 @@
     "formattedTitle": "🏟️ H2010 (vs Ängby IF 3)"
   },
   {
-    "uid": "venue-match-6243262",
-    "start": "2025-10-12T14:00:00.000Z",
-    "end": "2025-10-12T15:30:00.000Z",
-    "title": "IFK Aspudden-Tellus 2 vs Norrtulls SK 1",
-    "description": "P2009- 1B",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-norrtulls-sk-1-pojkar-2009/6243262/",
-    "categories": [
-      "P2009- 1B"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6243262,
-      "ageCategoryName": "Ungdom",
-      "ageCategoryId": 3,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/ifk-aspudden-tellus-2-norrtulls-sk-1-pojkar-2009/6243262/",
-      "date": {
-        "iso8601": "2025-10-12 16:00",
-        "formatted": "16:00, 12 okt. 2025"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "P2009- 1B",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "IFK Aspudden-Tellus 2",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
-          "alt": "IFK Aspudden-Tellus 2"
-        }
-      },
-      "away": {
-        "team": "Norrtulls SK 1",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10543.png",
-          "alt": "Norrtulls SK 1"
-        }
-      }
-    },
-    "gender": "Herrjunior",
-    "ageGroup": "2009",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "P2009- 1B",
-    "match": "Home",
-    "team": "IFK Aspudden-Tellus 2",
-    "formattedTeam": "H2009",
-    "opponent": "Norrtulls SK 1",
-    "activity": "Match",
-    "formattedTitle": "🏟️ H2009 (vs Norrtulls SK 1)"
-  },
-  {
     "uid": "venue-match-6250894",
     "start": "2025-10-15T17:00:00.000Z",
     "end": "2025-10-15T18:30:00.000Z",
@@ -1385,6 +1328,62 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Gröndals IK (7) vs Spånga IS FF (7))"
+  },
+  {
+    "uid": "venue-match-6243262",
+    "start": "2025-10-17T17:00:00.000Z",
+    "end": "2025-10-17T18:30:00.000Z",
+    "title": "IFK Aspudden-Tellus 2 vs Norrtulls SK 1",
+    "description": "P2009- 1B",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-2-norrtulls-sk-1-pojkar-2009/6243262/",
+    "categories": [
+      "P2009- 1B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6243262,
+      "ageCategoryName": "Ungdom",
+      "ageCategoryId": 3,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-2-norrtulls-sk-1-pojkar-2009/6243262/",
+      "date": {
+        "iso8601": "2025-10-17 19:00",
+        "formatted": "19:00, 17 okt. 2025"
+      },
+      "location": "Västberga IP 1",
+      "category": "P2009- 1B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus 2",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus 2"
+        }
+      },
+      "away": {
+        "team": "Norrtulls SK 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10543.png",
+          "alt": "Norrtulls SK 1"
+        }
+      }
+    },
+    "gender": "Herrjunior",
+    "ageGroup": "2009",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "P2009- 1B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus 2",
+    "formattedTeam": "H2009",
+    "opponent": "Norrtulls SK 1",
+    "activity": "Match",
+    "formattedTitle": "🏟️ H2009 (vs Norrtulls SK 1)"
   },
   {
     "uid": "venue-match-6257236",
