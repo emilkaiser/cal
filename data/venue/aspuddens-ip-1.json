@@ -266,9 +266,13 @@
       "location": "Aspuddens IP 1",
       "category": "P2008- 2C",
       "status": "",
+      "audience": "35",
       "note": "",
       "home": {
         "team": "Gröndals IK 1",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
           "alt": "Gröndals IK 1"
@@ -276,6 +280,9 @@
       },
       "away": {
         "team": "Tungelsta IF 1",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10037.png",
           "alt": "Tungelsta IF 1"
