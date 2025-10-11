@@ -82,6 +82,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus Gul 3",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus Gul 3"
@@ -89,6 +92,9 @@
       },
       "away": {
         "team": "Älvsjö AIK FF 4",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7708.png",
           "alt": "Älvsjö AIK FF 4"
