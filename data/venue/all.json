@@ -952,6 +952,9 @@
       "note": "",
       "home": {
         "team": "Reymersholms IK 1",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
           "alt": "Reymersholms IK 1"
@@ -959,6 +962,9 @@
       },
       "away": {
         "team": "Boo FF F10:3",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9030.png",
           "alt": "Boo FF F10:3"
