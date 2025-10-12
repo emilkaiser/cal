@@ -145,6 +145,9 @@
       "note": "",
       "home": {
         "team": "Reymersholms IK DJ",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10438.png",
           "alt": "Reymersholms IK DJ"
@@ -152,6 +155,9 @@
       },
       "away": {
         "team": "Älvsjö AIK FF 2",
+        "goals": {
+          "scored": 6
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7708.png",
           "alt": "Älvsjö AIK FF 2"
