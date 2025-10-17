@@ -26,9 +26,13 @@
       "location": "Aspuddens IP 1",
       "category": "Stockholm Cup 25/26 B",
       "status": "",
+      "audience": "20",
       "note": "",
       "home": {
         "team": "Kransen United FF (6)",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
           "alt": "Kransen United FF (6)"
@@ -36,6 +40,9 @@
       },
       "away": {
         "team": "Bromstens IK (4)",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11517.png",
           "alt": "Bromstens IK (4)"
@@ -479,6 +486,9 @@
       "note": "",
       "home": {
         "team": "IFK Aspudden-Tellus 2",
+        "goals": {
+          "scored": 2
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden-Tellus 2"
@@ -486,6 +496,9 @@
       },
       "away": {
         "team": "Norrtulls SK 1",
+        "goals": {
+          "scored": 0
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10543.png",
           "alt": "Norrtulls SK 1"
