@@ -26,9 +26,13 @@
       "location": "Aspuddens IP 1",
       "category": "Kval till div 3 herrar, Grupp 6",
       "status": "",
+      "audience": "303",
       "note": "",
       "home": {
         "team": "IFK Aspudden",
+        "goals": {
+          "scored": 5
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
           "alt": "IFK Aspudden"
@@ -36,6 +40,9 @@
       },
       "away": {
         "team": "IFK Mariefred",
+        "goals": {
+          "scored": 1
+        },
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10984.png",
           "alt": "IFK Mariefred"
