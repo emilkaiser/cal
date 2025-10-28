@@ -1,1 +1,220 @@
-[]
+[
+  {
+    "uid": "venue-match-6516661",
+    "start": "2026-02-20T23:00:00.000Z",
+    "end": "2026-02-21T00:30:00.000Z",
+    "title": "Kransen United FF (4) vs Norrtulls SK (3)",
+    "description": "Victoria Cup 25/26 B grupp 2",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-4-norrtulls-sk-3-victoria-cup/6516661/",
+    "categories": [
+      "Victoria Cup 25/26 B grupp 2"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6516661,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-4-norrtulls-sk-3-victoria-cup/6516661/",
+      "date": {
+        "iso8601": "2026-02-21",
+        "formatted": "21 feb. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Victoria Cup 25/26 B grupp 2",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF (4)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF (4)"
+        }
+      },
+      "away": {
+        "team": "Norrtulls SK (3)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10543.png",
+          "alt": "Norrtulls SK (3)"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Victoria Cup 25/26 B grupp 2",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF (4) vs Norrtulls SK (3))"
+  },
+  {
+    "uid": "venue-match-6516673",
+    "start": "2026-02-20T23:00:00.000Z",
+    "end": "2026-02-21T00:30:00.000Z",
+    "title": "IFK Aspudden-Tellus (3) vs Älta IF  (3)",
+    "description": "Victoria Cup 25/26 B grupp 4",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-alta-if--3-victoria-cup/6516673/",
+    "categories": [
+      "Victoria Cup 25/26 B grupp 4"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6516673,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-3-alta-if--3-victoria-cup/6516673/",
+      "date": {
+        "iso8601": "2026-02-21",
+        "formatted": "21 feb. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Victoria Cup 25/26 B grupp 4",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus (3)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus (3)"
+        }
+      },
+      "away": {
+        "team": "Älta IF  (3)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9790.png",
+          "alt": "Älta IF  (3)"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Victoria Cup 25/26 B grupp 4",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus (3)",
+    "formattedTeam": "IFK Aspudden-Tellus (3)",
+    "opponent": "Älta IF  (3)",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (3) (vs Älta IF  (3))"
+  },
+  {
+    "uid": "venue-match-6516664",
+    "start": "2026-03-20T23:00:00.000Z",
+    "end": "2026-03-21T00:30:00.000Z",
+    "title": "Kransen United FF (4) vs IFK Haninge (4)",
+    "description": "Victoria Cup 25/26 B grupp 2",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-4-ifk-haninge-4-victoria-cup/6516664/",
+    "categories": [
+      "Victoria Cup 25/26 B grupp 2"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6516664,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-4-ifk-haninge-4-victoria-cup/6516664/",
+      "date": {
+        "iso8601": "2026-03-21",
+        "formatted": "21 mars 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Victoria Cup 25/26 B grupp 2",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF (4)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF (4)"
+        }
+      },
+      "away": {
+        "team": "IFK Haninge (4)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11529.png",
+          "alt": "IFK Haninge (4)"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Victoria Cup 25/26 B grupp 2",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF (4) vs IFK Haninge (4))"
+  },
+  {
+    "uid": "venue-match-6516676",
+    "start": "2026-03-20T23:00:00.000Z",
+    "end": "2026-03-21T00:30:00.000Z",
+    "title": "IFK Aspudden-Tellus (3) vs Sundbybergs IK (4)",
+    "description": "Victoria Cup 25/26 B grupp 4",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-3-sundbybergs-ik-4-victoria-cup/6516676/",
+    "categories": [
+      "Victoria Cup 25/26 B grupp 4"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6516676,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-3-sundbybergs-ik-4-victoria-cup/6516676/",
+      "date": {
+        "iso8601": "2026-03-21",
+        "formatted": "21 mars 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Victoria Cup 25/26 B grupp 4",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus (3)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus (3)"
+        }
+      },
+      "away": {
+        "team": "Sundbybergs IK (4)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10175.png",
+          "alt": "Sundbybergs IK (4)"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Victoria Cup 25/26 B grupp 4",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus (3)",
+    "formattedTeam": "IFK Aspudden-Tellus (3)",
+    "opponent": "Sundbybergs IK (4)",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (3) (vs Sundbybergs IK (4))"
+  }
+]
