@@ -1,8 +1,8 @@
 [
   {
     "uid": "venue-match-6516664",
-    "start": "2026-03-21T23:00:00.000Z",
-    "end": "2026-03-22T00:30:00.000Z",
+    "start": "2026-03-22T15:00:00.000Z",
+    "end": "2026-03-22T16:30:00.000Z",
     "title": "Kransen United FF (4) vs IFK Haninge (4)",
     "description": "Victoria Cup 25/26 B grupp 2",
     "location": "Aspuddens IP 1",
@@ -20,8 +20,8 @@
       "courtId": -1,
       "url": "/rs/matchfakta/kransen-united-ff-4-ifk-haninge-4-victoria-cup/6516664/",
       "date": {
-        "iso8601": "2026-03-22",
-        "formatted": "22 mars 2026"
+        "iso8601": "2026-03-22 16:00",
+        "formatted": "16:00, 22 mars 2026"
       },
       "location": "Aspuddens IP 1",
       "category": "Victoria Cup 25/26 B grupp 2",
