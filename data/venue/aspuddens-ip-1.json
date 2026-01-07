@@ -3,10 +3,10 @@
     "uid": "venue-match-6516664",
     "start": "2026-03-22T15:00:00.000Z",
     "end": "2026-03-22T16:30:00.000Z",
-    "title": "Kransen United FF (4) vs IFK Haninge (4)",
+    "title": "Kransen United FF (3) vs IFK Haninge (3)",
     "description": "Victoria Cup 25/26 B grupp 2",
     "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-4-ifk-haninge-4-victoria-cup/6516664/",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-3-ifk-haninge-3-victoria-cup/6516664/",
     "categories": [
       "Victoria Cup 25/26 B grupp 2"
     ],
@@ -18,7 +18,7 @@
       "genderName": "Kvinna",
       "genderId": 3,
       "courtId": -1,
-      "url": "/rs/matchfakta/kransen-united-ff-4-ifk-haninge-4-victoria-cup/6516664/",
+      "url": "/rs/matchfakta/kransen-united-ff-3-ifk-haninge-3-victoria-cup/6516664/",
       "date": {
         "iso8601": "2026-03-22 16:00",
         "formatted": "16:00, 22 mars 2026"
@@ -28,17 +28,17 @@
       "status": "",
       "note": "",
       "home": {
-        "team": "Kransen United FF (4)",
+        "team": "Kransen United FF (3)",
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
-          "alt": "Kransen United FF (4)"
+          "alt": "Kransen United FF (3)"
         }
       },
       "away": {
-        "team": "IFK Haninge (4)",
+        "team": "IFK Haninge (3)",
         "logo": {
           "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11529.png",
-          "alt": "IFK Haninge (4)"
+          "alt": "IFK Haninge (3)"
         }
       }
     },
@@ -50,6 +50,6 @@
     "series": "Victoria Cup 25/26 B grupp 2",
     "match": "External",
     "activity": "Match",
-    "formattedTitle": " (Kransen United FF (4) vs IFK Haninge (4))"
+    "formattedTitle": " (Kransen United FF (3) vs IFK Haninge (3))"
   }
 ]
