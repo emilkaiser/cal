@@ -1,5 +1,61 @@
 [
   {
+    "uid": "venue-match-6516923",
+    "start": "2026-03-08T17:00:00.000Z",
+    "end": "2026-03-08T18:30:00.000Z",
+    "title": "IFK Aspudden-Tellus (4) vs Kälvesta IOFF FK (4)",
+    "description": "Stockholm Cup 25/26 B grupp 1",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-4-kalvesta-ioff-fk-4-stockholm-cup/6516923/",
+    "categories": [
+      "Stockholm Cup 25/26 B grupp 1"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6516923,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-4-kalvesta-ioff-fk-4-stockholm-cup/6516923/",
+      "date": {
+        "iso8601": "2026-03-08 18:00",
+        "formatted": "18:00, 8 mars 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Stockholm Cup 25/26 B grupp 1",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus (4)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus (4)"
+        }
+      },
+      "away": {
+        "team": "Kälvesta IOFF FK (4)",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7540.png",
+          "alt": "Kälvesta IOFF FK (4)"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Stockholm Cup 25/26 B grupp 1",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus (4)",
+    "formattedTeam": "IFK Aspudden-Tellus (4)",
+    "opponent": "Kälvesta IOFF FK (4)",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (4) (vs Kälvesta IOFF FK (4))"
+  },
+  {
     "uid": "venue-match-6516664",
     "start": "2026-03-22T15:00:00.000Z",
     "end": "2026-03-22T16:30:00.000Z",
