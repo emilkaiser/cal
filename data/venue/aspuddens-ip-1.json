@@ -1,5 +1,61 @@
 [
   {
+    "uid": "venue-match-6544519",
+    "start": "2026-03-07T23:00:00.000Z",
+    "end": "2026-03-08T00:30:00.000Z",
+    "title": "IFK Aspudden-Tellus  vs Älta IF",
+    "description": "Grupp 2",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--alta-if-j-dm-pojkar/6544519/",
+    "categories": [
+      "Grupp 2"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6544519,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus--alta-if-j-dm-pojkar/6544519/",
+      "date": {
+        "iso8601": "2026-03-08",
+        "formatted": "8 mars 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Grupp 2",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus ",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus "
+        }
+      },
+      "away": {
+        "team": "Älta IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9790.png",
+          "alt": "Älta IF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Grupp 2",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus ",
+    "formattedTeam": "IFK Aspudden-Tellus ",
+    "opponent": "Älta IF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus  (vs Älta IF)"
+  },
+  {
     "uid": "venue-match-6516923",
     "start": "2026-03-08T17:00:00.000Z",
     "end": "2026-03-08T18:30:00.000Z",
@@ -54,6 +110,171 @@
     "opponent": "Kälvesta IOFF FK (4)",
     "activity": "Match",
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (4) (vs Kälvesta IOFF FK (4))"
+  },
+  {
+    "uid": "venue-match-6544532",
+    "start": "2026-03-14T23:00:00.000Z",
+    "end": "2026-03-15T00:30:00.000Z",
+    "title": "Gröndals IK vs IFK Lidingö FK 08:C",
+    "description": "Grupp 4",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/grondals-ik-ifk-lidingo-fk-08c-j-dm-pojkar/6544532/",
+    "categories": [
+      "Grupp 4"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6544532,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/grondals-ik-ifk-lidingo-fk-08c-j-dm-pojkar/6544532/",
+      "date": {
+        "iso8601": "2026-03-15",
+        "formatted": "15 mars 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Grupp 4",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Gröndals IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
+          "alt": "Gröndals IK"
+        }
+      },
+      "away": {
+        "team": "IFK Lidingö FK 08:C",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8255.png",
+          "alt": "IFK Lidingö FK 08:C"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Grupp 4",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Gröndals IK vs IFK Lidingö FK 08:C)"
+  },
+  {
+    "uid": "venue-match-6544521",
+    "start": "2026-03-21T23:00:00.000Z",
+    "end": "2026-03-22T00:30:00.000Z",
+    "title": "IFK Aspudden-Tellus  vs Vallentuna BK",
+    "description": "Grupp 2",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus--vallentuna-bk-j-dm-pojkar/6544521/",
+    "categories": [
+      "Grupp 2"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6544521,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus--vallentuna-bk-j-dm-pojkar/6544521/",
+      "date": {
+        "iso8601": "2026-03-22",
+        "formatted": "22 mars 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Grupp 2",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus ",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus "
+        }
+      },
+      "away": {
+        "team": "Vallentuna BK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9973.png",
+          "alt": "Vallentuna BK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Grupp 2",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus ",
+    "formattedTeam": "IFK Aspudden-Tellus ",
+    "opponent": "Vallentuna BK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus  (vs Vallentuna BK)"
+  },
+  {
+    "uid": "venue-match-6544563",
+    "start": "2026-03-21T23:00:00.000Z",
+    "end": "2026-03-22T00:30:00.000Z",
+    "title": "IFK Aspudden-Tellus 1 vs Vallentuna BK",
+    "description": "Grupp 3",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-1-vallentuna-bk-j-dm-flickor/6544563/",
+    "categories": [
+      "Grupp 3"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6544563,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-1-vallentuna-bk-j-dm-flickor/6544563/",
+      "date": {
+        "iso8601": "2026-03-22",
+        "formatted": "22 mars 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Grupp 3",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus 1",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus 1"
+        }
+      },
+      "away": {
+        "team": "Vallentuna BK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9973.png",
+          "alt": "Vallentuna BK"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Grupp 3",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus 1",
+    "formattedTeam": "IFK Aspudden-Tellus 1",
+    "opponent": "Vallentuna BK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus 1 (vs Vallentuna BK)"
   },
   {
     "uid": "venue-match-6516664",
