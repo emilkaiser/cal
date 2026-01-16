@@ -328,5 +328,117 @@
     "match": "External",
     "activity": "Match",
     "formattedTitle": " (Kransen United FF (3) vs IFK Haninge (3))"
+  },
+  {
+    "uid": "venue-match-6545200",
+    "start": "2026-04-25T22:00:00.000Z",
+    "end": "2026-04-25T23:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Sollentuna FK Y",
+    "description": "Grupp 1",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-sollentuna-fk-y-veteran-dm/6545200/",
+    "categories": [
+      "Grupp 1"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6545200,
+      "ageCategoryName": "Veteran",
+      "ageCategoryId": 5,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-sollentuna-fk-y-veteran-dm/6545200/",
+      "date": {
+        "iso8601": "2026-04-26",
+        "formatted": "26 apr. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Grupp 1",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Sollentuna FK Y",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7184.png",
+          "alt": "Sollentuna FK Y"
+        }
+      }
+    },
+    "gender": "Herrveteran",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Grupp 1",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Sollentuna FK Y",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Sollentuna FK Y)"
+  },
+  {
+    "uid": "venue-match-6545202",
+    "start": "2026-06-13T22:00:00.000Z",
+    "end": "2026-06-13T23:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Bro IK",
+    "description": "Grupp 1",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bro-ik-veteran-dm/6545202/",
+    "categories": [
+      "Grupp 1"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6545202,
+      "ageCategoryName": "Veteran",
+      "ageCategoryId": 5,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-bro-ik-veteran-dm/6545202/",
+      "date": {
+        "iso8601": "2026-06-14",
+        "formatted": "14 juni 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Grupp 1",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Bro IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11520.png",
+          "alt": "Bro IK"
+        }
+      }
+    },
+    "gender": "Herrveteran",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Grupp 1",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Bro IK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Bro IK)"
   }
 ]
