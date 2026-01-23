@@ -1,8 +1,8 @@
 [
   {
     "uid": "venue-match-6544519",
-    "start": "2026-03-07T23:00:00.000Z",
-    "end": "2026-03-08T00:30:00.000Z",
+    "start": "2026-03-08T13:00:00.000Z",
+    "end": "2026-03-08T14:30:00.000Z",
     "title": "IFK Aspudden-Tellus  vs Älta IF",
     "description": "Grupp 2",
     "location": "Aspuddens IP 1",
@@ -20,8 +20,8 @@
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus--alta-if-j-dm-pojkar/6544519/",
       "date": {
-        "iso8601": "2026-03-08",
-        "formatted": "8 mars 2026"
+        "iso8601": "2026-03-08 14:00",
+        "formatted": "14:00, 8 mars 2026"
       },
       "location": "Aspuddens IP 1",
       "category": "Grupp 2",
