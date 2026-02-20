@@ -113,60 +113,6 @@
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (4) (vs Kälvesta IOFF FK (4))"
   },
   {
-    "uid": "venue-match-6544532",
-    "start": "2026-03-14T23:00:00.000Z",
-    "end": "2026-03-15T00:30:00.000Z",
-    "title": "Gröndals IK vs IFK Lidingö FK 08:C",
-    "description": "J-DM 2026 Pojkar-Grp 4",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/grondals-ik-ifk-lidingo-fk-08c-j-dm-pojkar/6544532/",
-    "categories": [
-      "J-DM 2026 Pojkar-Grp 4"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6544532,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/grondals-ik-ifk-lidingo-fk-08c-j-dm-pojkar/6544532/",
-      "date": {
-        "iso8601": "2026-03-15",
-        "formatted": "15 mars 2026"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "J-DM 2026 Pojkar-Grp 4",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Gröndals IK",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11254.png",
-          "alt": "Gröndals IK"
-        }
-      },
-      "away": {
-        "team": "IFK Lidingö FK 08:C",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8255.png",
-          "alt": "IFK Lidingö FK 08:C"
-        }
-      }
-    },
-    "gender": "Herr",
-    "ageGroup": "2026",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "J-DM 2026 Pojkar-Grp 4",
-    "match": "External",
-    "activity": "Match",
-    "formattedTitle": " (Gröndals IK vs IFK Lidingö FK 08:C)"
-  },
-  {
     "uid": "venue-match-6544521",
     "start": "2026-03-22T13:00:00.000Z",
     "end": "2026-03-22T14:30:00.000Z",
