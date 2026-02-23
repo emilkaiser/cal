@@ -1,1 +1,577 @@
-[]
+[
+  {
+    "uid": "venue-match-6560417",
+    "start": "2026-04-06T16:00:00.000Z",
+    "end": "2026-04-06T17:30:00.000Z",
+    "title": "BK Fyren vs Tullinge Triangel Pojkar FK",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-tullinge-triangel-pojkar-fk-div-5-herrar/6560417/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560417,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-tullinge-triangel-pojkar-fk-div-5-herrar/6560417/",
+      "date": {
+        "iso8601": "2026-04-06 18:00",
+        "formatted": "18:00, 6 apr. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Tullinge Triangel Pojkar FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6759.png",
+          "alt": "Tullinge Triangel Pojkar FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Tullinge Triangel Pojkar FK)"
+  },
+  {
+    "uid": "venue-match-6560395",
+    "start": "2026-04-19T16:00:00.000Z",
+    "end": "2026-04-19T17:30:00.000Z",
+    "title": "BK Fyren vs Grödinge SK",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-grodinge-sk-div-5-herrar/6560395/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560395,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-grodinge-sk-div-5-herrar/6560395/",
+      "date": {
+        "iso8601": "2026-04-19 18:00",
+        "formatted": "18:00, 19 apr. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Grödinge SK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9008.png",
+          "alt": "Grödinge SK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Grödinge SK)"
+  },
+  {
+    "uid": "venue-match-6560359",
+    "start": "2026-05-10T16:00:00.000Z",
+    "end": "2026-05-10T17:30:00.000Z",
+    "title": "BK Fyren vs Spårvägens FF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-sparvagens-ff-div-5-herrar/6560359/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560359,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-sparvagens-ff-div-5-herrar/6560359/",
+      "date": {
+        "iso8601": "2026-05-10 18:00",
+        "formatted": "18:00, 10 maj 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Spårvägens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7864.png",
+          "alt": "Spårvägens FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Spårvägens FF)"
+  },
+  {
+    "uid": "venue-match-6560337",
+    "start": "2026-05-24T16:00:00.000Z",
+    "end": "2026-05-24T17:30:00.000Z",
+    "title": "BK Fyren vs Aspuddens FF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-aspuddens-ff-div-5-herrar/6560337/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560337,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-aspuddens-ff-div-5-herrar/6560337/",
+      "date": {
+        "iso8601": "2026-05-24 18:00",
+        "formatted": "18:00, 24 maj 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Away",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "BK Fyren",
+    "activity": "Match",
+    "formattedTitle": "✈️ Aspuddens FF (vs BK Fyren)"
+  },
+  {
+    "uid": "venue-match-6560439",
+    "start": "2026-06-07T16:00:00.000Z",
+    "end": "2026-06-07T17:30:00.000Z",
+    "title": "BK Fyren vs Atletic Blåsut FC",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-atletic-blasut-fc-div-5-herrar/6560439/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560439,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-atletic-blasut-fc-div-5-herrar/6560439/",
+      "date": {
+        "iso8601": "2026-06-07 18:00",
+        "formatted": "18:00, 7 juni 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Atletic Blåsut FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13186.png",
+          "alt": "Atletic Blåsut FC"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Atletic Blåsut FC)"
+  },
+  {
+    "uid": "venue-match-6560426",
+    "start": "2026-06-17T18:00:00.000Z",
+    "end": "2026-06-17T19:30:00.000Z",
+    "title": "BK Fyren vs Skogås-Trångsunds FF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-skogas-trangsunds-ff-div-5-herrar/6560426/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560426,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-skogas-trangsunds-ff-div-5-herrar/6560426/",
+      "date": {
+        "iso8601": "2026-06-17 20:00",
+        "formatted": "20:00, 17 juni 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Skogås-Trångsunds FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
+          "alt": "Skogås-Trångsunds FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Skogås-Trångsunds FF)"
+  },
+  {
+    "uid": "venue-match-6560448",
+    "start": "2026-08-12T18:00:00.000Z",
+    "end": "2026-08-12T19:30:00.000Z",
+    "title": "BK Fyren vs Sörskogens IF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-sorskogens-if-div-5-herrar/6560448/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560448,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-sorskogens-if-div-5-herrar/6560448/",
+      "date": {
+        "iso8601": "2026-08-12 20:00",
+        "formatted": "20:00, 12 aug. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Sörskogens IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10113.png",
+          "alt": "Sörskogens IF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Sörskogens IF)"
+  },
+  {
+    "uid": "venue-match-6560352",
+    "start": "2026-08-23T16:00:00.000Z",
+    "end": "2026-08-23T17:30:00.000Z",
+    "title": "BK Fyren vs Rönninge/Salem Fotboll",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-ronningesalem-fotboll-div-5-herrar/6560352/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560352,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-ronningesalem-fotboll-div-5-herrar/6560352/",
+      "date": {
+        "iso8601": "2026-08-23 18:00",
+        "formatted": "18:00, 23 aug. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Rönninge/Salem Fotboll",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8142.png",
+          "alt": "Rönninge/Salem Fotboll"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Rönninge/Salem Fotboll)"
+  },
+  {
+    "uid": "venue-match-6560374",
+    "start": "2026-09-06T16:00:00.000Z",
+    "end": "2026-09-06T17:30:00.000Z",
+    "title": "BK Fyren vs MHFF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-mhff-div-5-herrar/6560374/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560374,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-mhff-div-5-herrar/6560374/",
+      "date": {
+        "iso8601": "2026-09-06 18:00",
+        "formatted": "18:00, 6 sep. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "MHFF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
+          "alt": "MHFF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs MHFF)"
+  },
+  {
+    "uid": "venue-match-6560461",
+    "start": "2026-09-13T16:00:00.000Z",
+    "end": "2026-09-13T17:30:00.000Z",
+    "title": "BK Fyren vs Kransen United FF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-kransen-united-ff-div-5-herrar/6560461/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560461,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-kransen-united-ff-div-5-herrar/6560461/",
+      "date": {
+        "iso8601": "2026-09-13 18:00",
+        "formatted": "18:00, 13 sep. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Kransen United FF)"
+  },
+  {
+    "uid": "venue-match-6560404",
+    "start": "2026-09-27T16:00:00.000Z",
+    "end": "2026-09-27T17:30:00.000Z",
+    "title": "BK Fyren vs Solberga BK",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-solberga-bk-div-5-herrar/6560404/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560404,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-solberga-bk-div-5-herrar/6560404/",
+      "date": {
+        "iso8601": "2026-09-27 18:00",
+        "formatted": "18:00, 27 sep. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Solberga BK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10270.png",
+          "alt": "Solberga BK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Solberga BK)"
+  }
+]

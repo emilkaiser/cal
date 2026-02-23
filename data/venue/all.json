@@ -223,6 +223,554 @@
     "formattedTitle": " (Kransen United FF (3) vs IFK Haninge (3))"
   },
   {
+    "uid": "venue-match-6560465",
+    "start": "2026-04-06T14:00:00.000Z",
+    "end": "2026-04-06T15:30:00.000Z",
+    "title": "Aspuddens FF vs Kransen United FF",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-kransen-united-ff-div-5-herrar/6560465/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560465,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/aspuddens-ff-kransen-united-ff-div-5-herrar/6560465/",
+      "date": {
+        "iso8601": "2026-04-06 16:00",
+        "formatted": "16:00, 6 apr. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      },
+      "away": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Home",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "Kransen United FF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ Aspuddens FF (vs Kransen United FF)"
+  },
+  {
+    "uid": "venue-match-6562197",
+    "start": "2026-04-06T16:00:00.000Z",
+    "end": "2026-04-06T17:30:00.000Z",
+    "title": "BK Buffalo vs IFK Aspudden-Tellus",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-ifk-aspudden-tellus-div-4-herrar/6562197/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562197,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-buffalo-ifk-aspudden-tellus-div-4-herrar/6562197/",
+      "date": {
+        "iso8601": "2026-04-06 18:00",
+        "formatted": "18:00, 6 apr. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      },
+      "away": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Away",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "BK Buffalo",
+    "activity": "Match",
+    "formattedTitle": "✈️ IFK Aspudden-Tellus (vs BK Buffalo)"
+  },
+  {
+    "uid": "venue-match-6562122",
+    "start": "2026-04-10T18:00:00.000Z",
+    "end": "2026-04-10T19:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Älta IF",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-alta-if-div-4-herrar/6562122/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562122,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-alta-if-div-4-herrar/6562122/",
+      "date": {
+        "iso8601": "2026-04-10 20:00",
+        "formatted": "20:00, 10 apr. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Älta IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9790.png",
+          "alt": "Älta IF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Älta IF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Älta IF)"
+  },
+  {
+    "uid": "venue-match-6560390",
+    "start": "2026-04-11T14:00:00.000Z",
+    "end": "2026-04-11T15:30:00.000Z",
+    "title": "Kransen United FF vs Grödinge SK",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-grodinge-sk-div-5-herrar/6560390/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560390,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-grodinge-sk-div-5-herrar/6560390/",
+      "date": {
+        "iso8601": "2026-04-11 16:00",
+        "formatted": "16:00, 11 apr. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Grödinge SK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9008.png",
+          "alt": "Grödinge SK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Grödinge SK)"
+  },
+  {
+    "uid": "venue-match-6594745",
+    "start": "2026-04-12T16:00:00.000Z",
+    "end": "2026-04-12T17:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Kransen United FF",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-kransen-united-ff-div-3-damer/6594745/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594745,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-kransen-united-ff-div-3-damer/6594745/",
+      "date": {
+        "iso8601": "2026-04-12 18:00",
+        "formatted": "18:00, 12 apr. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Kransen United FF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Kransen United FF)"
+  },
+  {
+    "uid": "venue-match-6562174",
+    "start": "2026-04-17T18:00:00.000Z",
+    "end": "2026-04-17T19:30:00.000Z",
+    "title": "BK Buffalo vs Solna FC",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-solna-fc-div-4-herrar/6562174/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562174,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-buffalo-solna-fc-div-4-herrar/6562174/",
+      "date": {
+        "iso8601": "2026-04-17 20:00",
+        "formatted": "20:00, 17 apr. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      },
+      "away": {
+        "team": "Solna FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12451.png",
+          "alt": "Solna FC"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Buffalo vs Solna FC)"
+  },
+  {
+    "uid": "venue-match-6560442",
+    "start": "2026-04-18T12:00:00.000Z",
+    "end": "2026-04-18T13:30:00.000Z",
+    "title": "Aspuddens FF vs Atletic Blåsut FC",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-atletic-blasut-fc-div-5-herrar/6560442/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560442,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/aspuddens-ff-atletic-blasut-fc-div-5-herrar/6560442/",
+      "date": {
+        "iso8601": "2026-04-18 14:00",
+        "formatted": "14:00, 18 apr. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      },
+      "away": {
+        "team": "Atletic Blåsut FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13186.png",
+          "alt": "Atletic Blåsut FC"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Home",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "Atletic Blåsut FC",
+    "activity": "Match",
+    "formattedTitle": "🏟️ Aspuddens FF (vs Atletic Blåsut FC)"
+  },
+  {
+    "uid": "venue-match-6594754",
+    "start": "2026-04-19T16:00:00.000Z",
+    "end": "2026-04-19T17:30:00.000Z",
+    "title": "Kransen United FF vs Bagarmossen Kärrtorp BK",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-bagarmossen-karrtorp-bk-div-3-damer/6594754/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594754,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-bagarmossen-karrtorp-bk-div-3-damer/6594754/",
+      "date": {
+        "iso8601": "2026-04-19 18:00",
+        "formatted": "18:00, 19 apr. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Bagarmossen Kärrtorp BK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7205.png",
+          "alt": "Bagarmossen Kärrtorp BK"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Bagarmossen Kärrtorp BK)"
+  },
+  {
+    "uid": "venue-match-6562118",
+    "start": "2026-04-24T18:00:00.000Z",
+    "end": "2026-04-24T19:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Apollon Solna FK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-apollon-solna-fk-div-4-herrar/6562118/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562118,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-apollon-solna-fk-div-4-herrar/6562118/",
+      "date": {
+        "iso8601": "2026-04-24 20:00",
+        "formatted": "20:00, 24 apr. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Apollon Solna FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12027.png",
+          "alt": "Apollon Solna FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Apollon Solna FK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Apollon Solna FK)"
+  },
+  {
+    "uid": "venue-match-6560386",
+    "start": "2026-04-25T14:00:00.000Z",
+    "end": "2026-04-25T15:30:00.000Z",
+    "title": "Kransen United FF vs BK Fyren",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-bk-fyren-div-5-herrar/6560386/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560386,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-bk-fyren-div-5-herrar/6560386/",
+      "date": {
+        "iso8601": "2026-04-25 16:00",
+        "formatted": "16:00, 25 apr. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs BK Fyren)"
+  },
+  {
     "uid": "venue-match-6545200",
     "start": "2026-04-25T22:00:00.000Z",
     "end": "2026-04-25T23:30:00.000Z",
@@ -279,6 +827,1152 @@
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Sollentuna FK Y)"
   },
   {
+    "uid": "venue-match-6560420",
+    "start": "2026-05-02T12:00:00.000Z",
+    "end": "2026-05-02T13:30:00.000Z",
+    "title": "Aspuddens FF vs Tullinge Triangel Pojkar FK",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-tullinge-triangel-pojkar-fk-div-5-herrar/6560420/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560420,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/aspuddens-ff-tullinge-triangel-pojkar-fk-div-5-herrar/6560420/",
+      "date": {
+        "iso8601": "2026-05-02 14:00",
+        "formatted": "14:00, 2 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      },
+      "away": {
+        "team": "Tullinge Triangel Pojkar FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6759.png",
+          "alt": "Tullinge Triangel Pojkar FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Home",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "Tullinge Triangel Pojkar FK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ Aspuddens FF (vs Tullinge Triangel Pojkar FK)"
+  },
+  {
+    "uid": "venue-match-6594764",
+    "start": "2026-05-03T14:00:00.000Z",
+    "end": "2026-05-03T15:30:00.000Z",
+    "title": "Kransen United FF vs Skogås-Trångsunds FF",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-skogas-trangsunds-ff-div-3-damer/6594764/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594764,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-skogas-trangsunds-ff-div-3-damer/6594764/",
+      "date": {
+        "iso8601": "2026-05-03 16:00",
+        "formatted": "16:00, 3 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Skogås-Trångsunds FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
+          "alt": "Skogås-Trångsunds FF"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Skogås-Trångsunds FF)"
+  },
+  {
+    "uid": "venue-match-6562152",
+    "start": "2026-05-03T16:00:00.000Z",
+    "end": "2026-05-03T17:30:00.000Z",
+    "title": "BK Buffalo vs Värtans IK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-vartans-ik-div-4-herrar/6562152/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562152,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-buffalo-vartans-ik-div-4-herrar/6562152/",
+      "date": {
+        "iso8601": "2026-05-03 18:00",
+        "formatted": "18:00, 3 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      },
+      "away": {
+        "team": "Värtans IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9866.png",
+          "alt": "Värtans IK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Buffalo vs Värtans IK)"
+  },
+  {
+    "uid": "venue-match-6562100",
+    "start": "2026-05-08T18:00:00.000Z",
+    "end": "2026-05-08T19:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Oranje FK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-oranje-fk-div-4-herrar/6562100/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562100,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-oranje-fk-div-4-herrar/6562100/",
+      "date": {
+        "iso8601": "2026-05-08 20:00",
+        "formatted": "20:00, 8 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Oranje FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7070.png",
+          "alt": "Oranje FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Oranje FK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Oranje FK)"
+  },
+  {
+    "uid": "venue-match-6594765",
+    "start": "2026-05-09T12:00:00.000Z",
+    "end": "2026-05-09T13:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs IFK Haninge",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-ifk-haninge-div-3-damer/6594765/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594765,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-ifk-haninge-div-3-damer/6594765/",
+      "date": {
+        "iso8601": "2026-05-09 14:00",
+        "formatted": "14:00, 9 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "IFK Haninge",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11529.png",
+          "alt": "IFK Haninge"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "IFK Haninge",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs IFK Haninge)"
+  },
+  {
+    "uid": "venue-match-6560368",
+    "start": "2026-05-09T14:00:00.000Z",
+    "end": "2026-05-09T15:30:00.000Z",
+    "title": "Kransen United FF vs MHFF",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-mhff-div-5-herrar/6560368/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560368,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-mhff-div-5-herrar/6560368/",
+      "date": {
+        "iso8601": "2026-05-09 16:00",
+        "formatted": "16:00, 9 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "MHFF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
+          "alt": "MHFF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs MHFF)"
+  },
+  {
+    "uid": "venue-match-6562130",
+    "start": "2026-05-15T18:00:00.000Z",
+    "end": "2026-05-15T19:30:00.000Z",
+    "title": "BK Buffalo vs Älta IF",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-alta-if-div-4-herrar/6562130/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562130,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-buffalo-alta-if-div-4-herrar/6562130/",
+      "date": {
+        "iso8601": "2026-05-15 20:00",
+        "formatted": "20:00, 15 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      },
+      "away": {
+        "team": "Älta IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9790.png",
+          "alt": "Älta IF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Buffalo vs Älta IF)"
+  },
+  {
+    "uid": "venue-match-6560398",
+    "start": "2026-05-16T12:00:00.000Z",
+    "end": "2026-05-16T13:30:00.000Z",
+    "title": "Aspuddens FF vs Grödinge SK",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-grodinge-sk-div-5-herrar/6560398/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560398,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/aspuddens-ff-grodinge-sk-div-5-herrar/6560398/",
+      "date": {
+        "iso8601": "2026-05-16 14:00",
+        "formatted": "14:00, 16 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      },
+      "away": {
+        "team": "Grödinge SK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9008.png",
+          "alt": "Grödinge SK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Home",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "Grödinge SK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ Aspuddens FF (vs Grödinge SK)"
+  },
+  {
+    "uid": "venue-match-6594755",
+    "start": "2026-05-17T16:00:00.000Z",
+    "end": "2026-05-17T17:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Älta IF",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-alta-if-div-3-damer/6594755/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594755,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-alta-if-div-3-damer/6594755/",
+      "date": {
+        "iso8601": "2026-05-17 18:00",
+        "formatted": "18:00, 17 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Älta IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9790.png",
+          "alt": "Älta IF"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Älta IF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Älta IF)"
+  },
+  {
+    "uid": "venue-match-6562097",
+    "start": "2026-05-22T18:00:00.000Z",
+    "end": "2026-05-22T19:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Värmdö IF",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-varmdo-if-div-4-herrar/6562097/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562097,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-varmdo-if-div-4-herrar/6562097/",
+      "date": {
+        "iso8601": "2026-05-22 20:00",
+        "formatted": "20:00, 22 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Värmdö IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9869.png",
+          "alt": "Värmdö IF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Värmdö IF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Värmdö IF)"
+  },
+  {
+    "uid": "venue-match-6560365",
+    "start": "2026-05-23T12:00:00.000Z",
+    "end": "2026-05-23T13:30:00.000Z",
+    "title": "Kransen United FF vs Spårvägens FF",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-sparvagens-ff-div-5-herrar/6560365/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560365,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-sparvagens-ff-div-5-herrar/6560365/",
+      "date": {
+        "iso8601": "2026-05-23 14:00",
+        "formatted": "14:00, 23 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Spårvägens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7864.png",
+          "alt": "Spårvägens FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Spårvägens FF)"
+  },
+  {
+    "uid": "venue-match-6594774",
+    "start": "2026-05-24T16:00:00.000Z",
+    "end": "2026-05-24T17:30:00.000Z",
+    "title": "Kransen United FF vs Sundbybergs IK",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-sundbybergs-ik-div-3-damer/6594774/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594774,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-sundbybergs-ik-div-3-damer/6594774/",
+      "date": {
+        "iso8601": "2026-05-24 18:00",
+        "formatted": "18:00, 24 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Sundbybergs IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10175.png",
+          "alt": "Sundbybergs IK"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Sundbybergs IK)"
+  },
+  {
+    "uid": "venue-match-6562109",
+    "start": "2026-05-29T18:00:00.000Z",
+    "end": "2026-05-29T19:30:00.000Z",
+    "title": "BK Buffalo vs Oranje FK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-oranje-fk-div-4-herrar/6562109/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562109,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-buffalo-oranje-fk-div-4-herrar/6562109/",
+      "date": {
+        "iso8601": "2026-05-29 20:00",
+        "formatted": "20:00, 29 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      },
+      "away": {
+        "team": "Oranje FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7070.png",
+          "alt": "Oranje FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Buffalo vs Oranje FK)"
+  },
+  {
+    "uid": "venue-match-6594775",
+    "start": "2026-05-30T12:00:00.000Z",
+    "end": "2026-05-30T13:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Skogås-Trångsunds FF",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-skogas-trangsunds-ff-div-3-damer/6594775/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594775,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-skogas-trangsunds-ff-div-3-damer/6594775/",
+      "date": {
+        "iso8601": "2026-05-30 14:00",
+        "formatted": "14:00, 30 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Skogås-Trångsunds FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
+          "alt": "Skogås-Trångsunds FF"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Skogås-Trångsunds FF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Skogås-Trångsunds FF)"
+  },
+  {
+    "uid": "venue-match-6560377",
+    "start": "2026-05-30T14:00:00.000Z",
+    "end": "2026-05-30T15:30:00.000Z",
+    "title": "Aspuddens FF vs MHFF",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-mhff-div-5-herrar/6560377/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560377,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/aspuddens-ff-mhff-div-5-herrar/6560377/",
+      "date": {
+        "iso8601": "2026-05-30 16:00",
+        "formatted": "16:00, 30 maj 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      },
+      "away": {
+        "team": "MHFF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
+          "alt": "MHFF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Home",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "MHFF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ Aspuddens FF (vs MHFF)"
+  },
+  {
+    "uid": "venue-match-6562079",
+    "start": "2026-06-05T18:00:00.000Z",
+    "end": "2026-06-05T19:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs AIK Framtid FK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-aik-framtid-fk-div-4-herrar/6562079/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562079,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-aik-framtid-fk-div-4-herrar/6562079/",
+      "date": {
+        "iso8601": "2026-06-05 20:00",
+        "formatted": "20:00, 5 juni 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "AIK Framtid FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11817.png",
+          "alt": "AIK Framtid FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "AIK Framtid FK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs AIK Framtid FK)"
+  },
+  {
+    "uid": "venue-match-6560347",
+    "start": "2026-06-06T12:00:00.000Z",
+    "end": "2026-06-06T13:30:00.000Z",
+    "title": "Kransen United FF vs Rönninge/Salem Fotboll",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-ronningesalem-fotboll-div-5-herrar/6560347/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560347,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-ronningesalem-fotboll-div-5-herrar/6560347/",
+      "date": {
+        "iso8601": "2026-06-06 14:00",
+        "formatted": "14:00, 6 juni 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Rönninge/Salem Fotboll",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8142.png",
+          "alt": "Rönninge/Salem Fotboll"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Rönninge/Salem Fotboll)"
+  },
+  {
+    "uid": "venue-match-6594784",
+    "start": "2026-06-07T16:00:00.000Z",
+    "end": "2026-06-07T17:30:00.000Z",
+    "title": "Kransen United FF vs Älta IF",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-alta-if-div-3-damer/6594784/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594784,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-alta-if-div-3-damer/6594784/",
+      "date": {
+        "iso8601": "2026-06-07 18:00",
+        "formatted": "18:00, 7 juni 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Älta IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9790.png",
+          "alt": "Älta IF"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Älta IF)"
+  },
+  {
+    "uid": "venue-match-6594785",
+    "start": "2026-06-10T18:00:00.000Z",
+    "end": "2026-06-10T19:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Älvsjö AIK DFF",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-alvsjo-aik-dff-div-3-damer/6594785/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594785,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-alvsjo-aik-dff-div-3-damer/6594785/",
+      "date": {
+        "iso8601": "2026-06-10 20:00",
+        "formatted": "20:00, 10 juni 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Älvsjö AIK DFF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13512.png",
+          "alt": "Älvsjö AIK DFF"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Älvsjö AIK DFF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Älvsjö AIK DFF)"
+  },
+  {
+    "uid": "venue-match-6562087",
+    "start": "2026-06-12T18:00:00.000Z",
+    "end": "2026-06-12T19:30:00.000Z",
+    "title": "BK Buffalo vs AIK Framtid FK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-aik-framtid-fk-div-4-herrar/6562087/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562087,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-buffalo-aik-framtid-fk-div-4-herrar/6562087/",
+      "date": {
+        "iso8601": "2026-06-12 20:00",
+        "formatted": "20:00, 12 juni 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      },
+      "away": {
+        "team": "AIK Framtid FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11817.png",
+          "alt": "AIK Framtid FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Buffalo vs AIK Framtid FK)"
+  },
+  {
+    "uid": "venue-match-6560355",
+    "start": "2026-06-13T14:00:00.000Z",
+    "end": "2026-06-13T15:30:00.000Z",
+    "title": "Aspuddens FF vs Rönninge/Salem Fotboll",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-ronningesalem-fotboll-div-5-herrar/6560355/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560355,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/aspuddens-ff-ronningesalem-fotboll-div-5-herrar/6560355/",
+      "date": {
+        "iso8601": "2026-06-13 16:00",
+        "formatted": "16:00, 13 juni 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      },
+      "away": {
+        "team": "Rönninge/Salem Fotboll",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8142.png",
+          "alt": "Rönninge/Salem Fotboll"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Home",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "Rönninge/Salem Fotboll",
+    "activity": "Match",
+    "formattedTitle": "🏟️ Aspuddens FF (vs Rönninge/Salem Fotboll)"
+  },
+  {
     "uid": "venue-match-6545202",
     "start": "2026-06-13T22:00:00.000Z",
     "end": "2026-06-13T23:30:00.000Z",
@@ -333,5 +2027,2274 @@
     "opponent": "Bro IK",
     "activity": "Match",
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Bro IK)"
+  },
+  {
+    "uid": "venue-match-6562141",
+    "start": "2026-06-21T16:00:00.000Z",
+    "end": "2026-06-21T17:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Mariebergs SK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-mariebergs-sk-div-4-herrar/6562141/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562141,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-mariebergs-sk-div-4-herrar/6562141/",
+      "date": {
+        "iso8601": "2026-06-21 18:00",
+        "formatted": "18:00, 21 juni 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Mariebergs SK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10654.png",
+          "alt": "Mariebergs SK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Mariebergs SK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Mariebergs SK)"
+  },
+  {
+    "uid": "venue-match-6560409",
+    "start": "2026-08-02T16:00:00.000Z",
+    "end": "2026-08-02T17:30:00.000Z",
+    "title": "Kransen United FF vs Solberga BK",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-solberga-bk-div-5-herrar/6560409/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560409,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-solberga-bk-div-5-herrar/6560409/",
+      "date": {
+        "iso8601": "2026-08-02 18:00",
+        "formatted": "18:00, 2 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Solberga BK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10270.png",
+          "alt": "Solberga BK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Solberga BK)"
+  },
+  {
+    "uid": "venue-match-6562088",
+    "start": "2026-08-07T18:00:00.000Z",
+    "end": "2026-08-07T19:30:00.000Z",
+    "title": "BK Buffalo vs Värmdö IF",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-varmdo-if-div-4-herrar/6562088/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562088,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-buffalo-varmdo-if-div-4-herrar/6562088/",
+      "date": {
+        "iso8601": "2026-08-07 20:00",
+        "formatted": "20:00, 7 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      },
+      "away": {
+        "team": "Värmdö IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9869.png",
+          "alt": "Värmdö IF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Buffalo vs Värmdö IF)"
+  },
+  {
+    "uid": "venue-match-6560356",
+    "start": "2026-08-08T12:00:00.000Z",
+    "end": "2026-08-08T13:30:00.000Z",
+    "title": "Aspuddens FF vs Spårvägens FF",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-sparvagens-ff-div-5-herrar/6560356/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560356,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/aspuddens-ff-sparvagens-ff-div-5-herrar/6560356/",
+      "date": {
+        "iso8601": "2026-08-08 14:00",
+        "formatted": "14:00, 8 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      },
+      "away": {
+        "team": "Spårvägens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7864.png",
+          "alt": "Spårvägens FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Home",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "Spårvägens FF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ Aspuddens FF (vs Spårvägens FF)"
+  },
+  {
+    "uid": "venue-match-6594794",
+    "start": "2026-08-09T16:00:00.000Z",
+    "end": "2026-08-09T17:30:00.000Z",
+    "title": "Kransen United FF vs IFK Haninge",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-ifk-haninge-div-3-damer/6594794/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594794,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-ifk-haninge-div-3-damer/6594794/",
+      "date": {
+        "iso8601": "2026-08-09 18:00",
+        "formatted": "18:00, 9 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "IFK Haninge",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11529.png",
+          "alt": "IFK Haninge"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs IFK Haninge)"
+  },
+  {
+    "uid": "venue-match-6560412",
+    "start": "2026-08-12T18:00:00.000Z",
+    "end": "2026-08-12T19:30:00.000Z",
+    "title": "Kransen United FF vs Tullinge Triangel Pojkar FK",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-tullinge-triangel-pojkar-fk-div-5-herrar/6560412/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560412,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-tullinge-triangel-pojkar-fk-div-5-herrar/6560412/",
+      "date": {
+        "iso8601": "2026-08-12 20:00",
+        "formatted": "20:00, 12 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Tullinge Triangel Pojkar FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6759.png",
+          "alt": "Tullinge Triangel Pojkar FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Tullinge Triangel Pojkar FK)"
+  },
+  {
+    "uid": "venue-match-6562144",
+    "start": "2026-08-14T18:00:00.000Z",
+    "end": "2026-08-14T19:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Värtans IK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-vartans-ik-div-4-herrar/6562144/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562144,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-vartans-ik-div-4-herrar/6562144/",
+      "date": {
+        "iso8601": "2026-08-14 20:00",
+        "formatted": "20:00, 14 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Värtans IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9866.png",
+          "alt": "Värtans IK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Värtans IK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Värtans IK)"
+  },
+  {
+    "uid": "venue-match-6594795",
+    "start": "2026-08-15T12:00:00.000Z",
+    "end": "2026-08-15T13:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Sundbybergs IK",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-sundbybergs-ik-div-3-damer/6594795/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594795,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-sundbybergs-ik-div-3-damer/6594795/",
+      "date": {
+        "iso8601": "2026-08-15 14:00",
+        "formatted": "14:00, 15 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Sundbybergs IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10175.png",
+          "alt": "Sundbybergs IK"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Sundbybergs IK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Sundbybergs IK)"
+  },
+  {
+    "uid": "venue-match-6560379",
+    "start": "2026-08-15T14:00:00.000Z",
+    "end": "2026-08-15T15:30:00.000Z",
+    "title": "Aspuddens FF vs BK Fyren",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-bk-fyren-div-5-herrar/6560379/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560379,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/aspuddens-ff-bk-fyren-div-5-herrar/6560379/",
+      "date": {
+        "iso8601": "2026-08-15 16:00",
+        "formatted": "16:00, 15 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      },
+      "away": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Home",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "BK Fyren",
+    "activity": "Match",
+    "formattedTitle": "🏟️ Aspuddens FF (vs BK Fyren)"
+  },
+  {
+    "uid": "venue-match-6562111",
+    "start": "2026-08-19T18:00:00.000Z",
+    "end": "2026-08-19T19:30:00.000Z",
+    "title": "BK Buffalo vs Apollon Solna FK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-apollon-solna-fk-div-4-herrar/6562111/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562111,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-buffalo-apollon-solna-fk-div-4-herrar/6562111/",
+      "date": {
+        "iso8601": "2026-08-19 20:00",
+        "formatted": "20:00, 19 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      },
+      "away": {
+        "team": "Apollon Solna FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12027.png",
+          "alt": "Apollon Solna FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Buffalo vs Apollon Solna FK)"
+  },
+  {
+    "uid": "venue-match-6560431",
+    "start": "2026-08-21T18:00:00.000Z",
+    "end": "2026-08-21T19:30:00.000Z",
+    "title": "Kransen United FF vs Skogås-Trångsunds FF",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-skogas-trangsunds-ff-div-5-herrar/6560431/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560431,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-skogas-trangsunds-ff-div-5-herrar/6560431/",
+      "date": {
+        "iso8601": "2026-08-21 20:00",
+        "formatted": "20:00, 21 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Skogås-Trångsunds FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
+          "alt": "Skogås-Trångsunds FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Skogås-Trångsunds FF)"
+  },
+  {
+    "uid": "venue-match-6562163",
+    "start": "2026-08-22T12:00:00.000Z",
+    "end": "2026-08-22T13:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Essinge IK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-essinge-ik-div-4-herrar/6562163/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562163,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-essinge-ik-div-4-herrar/6562163/",
+      "date": {
+        "iso8601": "2026-08-22 14:00",
+        "formatted": "14:00, 22 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Essinge IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11980.png",
+          "alt": "Essinge IK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Essinge IK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Essinge IK)"
+  },
+  {
+    "uid": "venue-match-6594804",
+    "start": "2026-08-23T16:00:00.000Z",
+    "end": "2026-08-23T17:30:00.000Z",
+    "title": "Kransen United FF vs Ingarö IF",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-ingaro-if-div-3-damer/6594804/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594804,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-ingaro-if-div-3-damer/6594804/",
+      "date": {
+        "iso8601": "2026-08-23 18:00",
+        "formatted": "18:00, 23 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Ingarö IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10928.png",
+          "alt": "Ingarö IF"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Ingarö IF)"
+  },
+  {
+    "uid": "venue-match-6562133",
+    "start": "2026-08-28T18:00:00.000Z",
+    "end": "2026-08-28T19:30:00.000Z",
+    "title": "BK Buffalo vs Mariebergs SK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-mariebergs-sk-div-4-herrar/6562133/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562133,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-buffalo-mariebergs-sk-div-4-herrar/6562133/",
+      "date": {
+        "iso8601": "2026-08-28 20:00",
+        "formatted": "20:00, 28 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      },
+      "away": {
+        "team": "Mariebergs SK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10654.png",
+          "alt": "Mariebergs SK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Buffalo vs Mariebergs SK)"
+  },
+  {
+    "uid": "venue-match-6594805",
+    "start": "2026-08-29T12:00:00.000Z",
+    "end": "2026-08-29T13:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Bagarmossen Kärrtorp BK",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bagarmossen-karrtorp-bk-div-3-damer/6594805/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594805,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-bagarmossen-karrtorp-bk-div-3-damer/6594805/",
+      "date": {
+        "iso8601": "2026-08-29 14:00",
+        "formatted": "14:00, 29 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Bagarmossen Kärrtorp BK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7205.png",
+          "alt": "Bagarmossen Kärrtorp BK"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Bagarmossen Kärrtorp BK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Bagarmossen Kärrtorp BK)"
+  },
+  {
+    "uid": "venue-match-6560401",
+    "start": "2026-08-29T14:00:00.000Z",
+    "end": "2026-08-29T15:30:00.000Z",
+    "title": "Aspuddens FF vs Solberga BK",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-solberga-bk-div-5-herrar/6560401/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560401,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/aspuddens-ff-solberga-bk-div-5-herrar/6560401/",
+      "date": {
+        "iso8601": "2026-08-29 16:00",
+        "formatted": "16:00, 29 aug. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      },
+      "away": {
+        "team": "Solberga BK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10270.png",
+          "alt": "Solberga BK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Home",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "Solberga BK",
+    "activity": "Match",
+    "formattedTitle": "🏟️ Aspuddens FF (vs Solberga BK)"
+  },
+  {
+    "uid": "venue-match-6562166",
+    "start": "2026-09-04T18:00:00.000Z",
+    "end": "2026-09-04T19:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Solna FC",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-solna-fc-div-4-herrar/6562166/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562166,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-solna-fc-div-4-herrar/6562166/",
+      "date": {
+        "iso8601": "2026-09-04 20:00",
+        "formatted": "20:00, 4 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Solna FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12451.png",
+          "alt": "Solna FC"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Solna FC",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Solna FC)"
+  },
+  {
+    "uid": "venue-match-6560434",
+    "start": "2026-09-05T12:00:00.000Z",
+    "end": "2026-09-05T13:30:00.000Z",
+    "title": "Kransen United FF vs Atletic Blåsut FC",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-atletic-blasut-fc-div-5-herrar/6560434/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560434,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-atletic-blasut-fc-div-5-herrar/6560434/",
+      "date": {
+        "iso8601": "2026-09-05 14:00",
+        "formatted": "14:00, 5 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Atletic Blåsut FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13186.png",
+          "alt": "Atletic Blåsut FC"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Atletic Blåsut FC)"
+  },
+  {
+    "uid": "venue-match-6594814",
+    "start": "2026-09-06T16:00:00.000Z",
+    "end": "2026-09-06T17:30:00.000Z",
+    "title": "Kransen United FF vs Älvsjö AIK DFF",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-alvsjo-aik-dff-div-3-damer/6594814/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594814,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-alvsjo-aik-dff-div-3-damer/6594814/",
+      "date": {
+        "iso8601": "2026-09-06 18:00",
+        "formatted": "18:00, 6 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Älvsjö AIK DFF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13512.png",
+          "alt": "Älvsjö AIK DFF"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Älvsjö AIK DFF)"
+  },
+  {
+    "uid": "venue-match-6562155",
+    "start": "2026-09-11T18:00:00.000Z",
+    "end": "2026-09-11T19:30:00.000Z",
+    "title": "BK Buffalo vs Essinge IK",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-essinge-ik-div-4-herrar/6562155/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562155,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-buffalo-essinge-ik-div-4-herrar/6562155/",
+      "date": {
+        "iso8601": "2026-09-11 20:00",
+        "formatted": "20:00, 11 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      },
+      "away": {
+        "team": "Essinge IK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11980.png",
+          "alt": "Essinge IK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Buffalo vs Essinge IK)"
+  },
+  {
+    "uid": "venue-match-6594815",
+    "start": "2026-09-12T12:00:00.000Z",
+    "end": "2026-09-12T13:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Ingarö IF",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-ingaro-if-div-3-damer/6594815/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594815,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-ingaro-if-div-3-damer/6594815/",
+      "date": {
+        "iso8601": "2026-09-12 14:00",
+        "formatted": "14:00, 12 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Ingarö IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10928.png",
+          "alt": "Ingarö IF"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Ingarö IF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Ingarö IF)"
+  },
+  {
+    "uid": "venue-match-6560423",
+    "start": "2026-09-12T14:00:00.000Z",
+    "end": "2026-09-12T15:30:00.000Z",
+    "title": "Aspuddens FF vs Skogås-Trångsunds FF",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-skogas-trangsunds-ff-div-5-herrar/6560423/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560423,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/aspuddens-ff-skogas-trangsunds-ff-div-5-herrar/6560423/",
+      "date": {
+        "iso8601": "2026-09-12 16:00",
+        "formatted": "16:00, 12 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      },
+      "away": {
+        "team": "Skogås-Trångsunds FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
+          "alt": "Skogås-Trångsunds FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Home",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "Skogås-Trångsunds FF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ Aspuddens FF (vs Skogås-Trångsunds FF)"
+  },
+  {
+    "uid": "venue-match-6562185",
+    "start": "2026-09-18T18:00:00.000Z",
+    "end": "2026-09-18T19:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Sickla IF",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-sickla-if-div-4-herrar/6562185/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562185,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-sickla-if-div-4-herrar/6562185/",
+      "date": {
+        "iso8601": "2026-09-18 20:00",
+        "formatted": "20:00, 18 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Sickla IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11612.png",
+          "alt": "Sickla IF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Sickla IF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Sickla IF)"
+  },
+  {
+    "uid": "venue-match-6560453",
+    "start": "2026-09-19T11:00:00.000Z",
+    "end": "2026-09-19T12:30:00.000Z",
+    "title": "Kransen United FF vs Sörskogens IF",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-sorskogens-if-div-5-herrar/6560453/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560453,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-sorskogens-if-div-5-herrar/6560453/",
+      "date": {
+        "iso8601": "2026-09-19 13:00",
+        "formatted": "13:00, 19 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Sörskogens IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10113.png",
+          "alt": "Sörskogens IF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Sörskogens IF)"
+  },
+  {
+    "uid": "venue-match-6594824",
+    "start": "2026-09-19T13:00:00.000Z",
+    "end": "2026-09-19T14:30:00.000Z",
+    "title": "Kransen United FF vs Dalhem IF",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-dalhem-if-div-3-damer/6594824/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594824,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-dalhem-if-div-3-damer/6594824/",
+      "date": {
+        "iso8601": "2026-09-19 15:00",
+        "formatted": "15:00, 19 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Dalhem IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11471.png",
+          "alt": "Dalhem IF"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (Kransen United FF vs Dalhem IF)"
+  },
+  {
+    "uid": "venue-match-6562177",
+    "start": "2026-09-25T18:00:00.000Z",
+    "end": "2026-09-25T19:30:00.000Z",
+    "title": "BK Buffalo vs Sickla IF",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-buffalo-sickla-if-div-4-herrar/6562177/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562177,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-buffalo-sickla-if-div-4-herrar/6562177/",
+      "date": {
+        "iso8601": "2026-09-25 20:00",
+        "formatted": "20:00, 25 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      },
+      "away": {
+        "team": "Sickla IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11612.png",
+          "alt": "Sickla IF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Buffalo vs Sickla IF)"
+  },
+  {
+    "uid": "venue-match-6560445",
+    "start": "2026-09-26T11:00:00.000Z",
+    "end": "2026-09-26T12:30:00.000Z",
+    "title": "Aspuddens FF vs Sörskogens IF",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-sorskogens-if-div-5-herrar/6560445/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560445,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/aspuddens-ff-sorskogens-if-div-5-herrar/6560445/",
+      "date": {
+        "iso8601": "2026-09-26 13:00",
+        "formatted": "13:00, 26 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      },
+      "away": {
+        "team": "Sörskogens IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10113.png",
+          "alt": "Sörskogens IF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Home",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "Sörskogens IF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ Aspuddens FF (vs Sörskogens IF)"
+  },
+  {
+    "uid": "venue-match-6594825",
+    "start": "2026-09-26T13:00:00.000Z",
+    "end": "2026-09-26T14:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs Dalhem IF",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-dalhem-if-div-3-damer/6594825/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594825,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-dalhem-if-div-3-damer/6594825/",
+      "date": {
+        "iso8601": "2026-09-26 15:00",
+        "formatted": "15:00, 26 sep. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "Dalhem IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11471.png",
+          "alt": "Dalhem IF"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Dalhem IF",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Dalhem IF)"
+  },
+  {
+    "uid": "venue-match-6562076",
+    "start": "2026-10-02T18:00:00.000Z",
+    "end": "2026-10-02T19:30:00.000Z",
+    "title": "IFK Aspudden-Tellus vs BK Buffalo",
+    "description": "Herrar 4 Mellersta",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/ifk-aspudden-tellus-bk-buffalo-div-4-herrar/6562076/",
+    "categories": [
+      "Herrar 4 Mellersta"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6562076,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/ifk-aspudden-tellus-bk-buffalo-div-4-herrar/6562076/",
+      "date": {
+        "iso8601": "2026-10-02 20:00",
+        "formatted": "20:00, 2 okt. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 4 Mellersta",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      },
+      "away": {
+        "team": "BK Buffalo",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13515.png",
+          "alt": "BK Buffalo"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 4 Mellersta",
+    "match": "Home",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "BK Buffalo",
+    "activity": "Match",
+    "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs BK Buffalo)"
+  },
+  {
+    "uid": "venue-match-6594834",
+    "start": "2026-10-04T10:00:00.000Z",
+    "end": "2026-10-04T11:30:00.000Z",
+    "title": "Kransen United FF vs IFK Aspudden-Tellus",
+    "description": "Damer 3 B",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-ifk-aspudden-tellus-div-3-damer/6594834/",
+    "categories": [
+      "Damer 3 B"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6594834,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Kvinna",
+      "genderId": 3,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-ifk-aspudden-tellus-div-3-damer/6594834/",
+      "date": {
+        "iso8601": "2026-10-04 12:00",
+        "formatted": "12:00, 4 okt. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Damer 3 B",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "IFK Aspudden-Tellus",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11027.png",
+          "alt": "IFK Aspudden-Tellus"
+        }
+      }
+    },
+    "gender": "Dam",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Damer 3 B",
+    "match": "Away",
+    "team": "IFK Aspudden-Tellus",
+    "formattedTeam": "IFK Aspudden-Tellus",
+    "opponent": "Kransen United FF",
+    "activity": "Match",
+    "formattedTitle": "✈️ IFK Aspudden-Tellus (vs Kransen United FF)"
+  },
+  {
+    "uid": "venue-match-6560344",
+    "start": "2026-10-04T14:00:00.000Z",
+    "end": "2026-10-04T15:30:00.000Z",
+    "title": "Kransen United FF vs Aspuddens FF",
+    "description": "Herrar 5 Södra",
+    "location": "Aspuddens IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/kransen-united-ff-aspuddens-ff-div-5-herrar/6560344/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560344,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/kransen-united-ff-aspuddens-ff-div-5-herrar/6560344/",
+      "date": {
+        "iso8601": "2026-10-04 16:00",
+        "formatted": "16:00, 4 okt. 2026"
+      },
+      "location": "Aspuddens IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      },
+      "away": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Aspuddens IP",
+      "Aspuddens IP 1"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Away",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "Kransen United FF",
+    "activity": "Match",
+    "formattedTitle": "✈️ Aspuddens FF (vs Kransen United FF)"
+  },
+  {
+    "uid": "venue-match-6560417",
+    "start": "2026-04-06T16:00:00.000Z",
+    "end": "2026-04-06T17:30:00.000Z",
+    "title": "BK Fyren vs Tullinge Triangel Pojkar FK",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-tullinge-triangel-pojkar-fk-div-5-herrar/6560417/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560417,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-tullinge-triangel-pojkar-fk-div-5-herrar/6560417/",
+      "date": {
+        "iso8601": "2026-04-06 18:00",
+        "formatted": "18:00, 6 apr. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Tullinge Triangel Pojkar FK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/6759.png",
+          "alt": "Tullinge Triangel Pojkar FK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Tullinge Triangel Pojkar FK)"
+  },
+  {
+    "uid": "venue-match-6560395",
+    "start": "2026-04-19T16:00:00.000Z",
+    "end": "2026-04-19T17:30:00.000Z",
+    "title": "BK Fyren vs Grödinge SK",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-grodinge-sk-div-5-herrar/6560395/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560395,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-grodinge-sk-div-5-herrar/6560395/",
+      "date": {
+        "iso8601": "2026-04-19 18:00",
+        "formatted": "18:00, 19 apr. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Grödinge SK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/9008.png",
+          "alt": "Grödinge SK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Grödinge SK)"
+  },
+  {
+    "uid": "venue-match-6560359",
+    "start": "2026-05-10T16:00:00.000Z",
+    "end": "2026-05-10T17:30:00.000Z",
+    "title": "BK Fyren vs Spårvägens FF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-sparvagens-ff-div-5-herrar/6560359/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560359,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-sparvagens-ff-div-5-herrar/6560359/",
+      "date": {
+        "iso8601": "2026-05-10 18:00",
+        "formatted": "18:00, 10 maj 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Spårvägens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7864.png",
+          "alt": "Spårvägens FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Spårvägens FF)"
+  },
+  {
+    "uid": "venue-match-6560337",
+    "start": "2026-05-24T16:00:00.000Z",
+    "end": "2026-05-24T17:30:00.000Z",
+    "title": "BK Fyren vs Aspuddens FF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-aspuddens-ff-div-5-herrar/6560337/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560337,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-aspuddens-ff-div-5-herrar/6560337/",
+      "date": {
+        "iso8601": "2026-05-24 18:00",
+        "formatted": "18:00, 24 maj 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Aspuddens FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
+          "alt": "Aspuddens FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "Away",
+    "team": "Aspuddens FF",
+    "formattedTeam": "Aspuddens FF",
+    "opponent": "BK Fyren",
+    "activity": "Match",
+    "formattedTitle": "✈️ Aspuddens FF (vs BK Fyren)"
+  },
+  {
+    "uid": "venue-match-6560439",
+    "start": "2026-06-07T16:00:00.000Z",
+    "end": "2026-06-07T17:30:00.000Z",
+    "title": "BK Fyren vs Atletic Blåsut FC",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-atletic-blasut-fc-div-5-herrar/6560439/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560439,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-atletic-blasut-fc-div-5-herrar/6560439/",
+      "date": {
+        "iso8601": "2026-06-07 18:00",
+        "formatted": "18:00, 7 juni 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Atletic Blåsut FC",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13186.png",
+          "alt": "Atletic Blåsut FC"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Atletic Blåsut FC)"
+  },
+  {
+    "uid": "venue-match-6560426",
+    "start": "2026-06-17T18:00:00.000Z",
+    "end": "2026-06-17T19:30:00.000Z",
+    "title": "BK Fyren vs Skogås-Trångsunds FF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-skogas-trangsunds-ff-div-5-herrar/6560426/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560426,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-skogas-trangsunds-ff-div-5-herrar/6560426/",
+      "date": {
+        "iso8601": "2026-06-17 20:00",
+        "formatted": "20:00, 17 juni 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Skogås-Trångsunds FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
+          "alt": "Skogås-Trångsunds FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Skogås-Trångsunds FF)"
+  },
+  {
+    "uid": "venue-match-6560448",
+    "start": "2026-08-12T18:00:00.000Z",
+    "end": "2026-08-12T19:30:00.000Z",
+    "title": "BK Fyren vs Sörskogens IF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-sorskogens-if-div-5-herrar/6560448/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560448,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-sorskogens-if-div-5-herrar/6560448/",
+      "date": {
+        "iso8601": "2026-08-12 20:00",
+        "formatted": "20:00, 12 aug. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Sörskogens IF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10113.png",
+          "alt": "Sörskogens IF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Sörskogens IF)"
+  },
+  {
+    "uid": "venue-match-6560352",
+    "start": "2026-08-23T16:00:00.000Z",
+    "end": "2026-08-23T17:30:00.000Z",
+    "title": "BK Fyren vs Rönninge/Salem Fotboll",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-ronningesalem-fotboll-div-5-herrar/6560352/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560352,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-ronningesalem-fotboll-div-5-herrar/6560352/",
+      "date": {
+        "iso8601": "2026-08-23 18:00",
+        "formatted": "18:00, 23 aug. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Rönninge/Salem Fotboll",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/8142.png",
+          "alt": "Rönninge/Salem Fotboll"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Rönninge/Salem Fotboll)"
+  },
+  {
+    "uid": "venue-match-6560374",
+    "start": "2026-09-06T16:00:00.000Z",
+    "end": "2026-09-06T17:30:00.000Z",
+    "title": "BK Fyren vs MHFF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-mhff-div-5-herrar/6560374/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560374,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-mhff-div-5-herrar/6560374/",
+      "date": {
+        "iso8601": "2026-09-06 18:00",
+        "formatted": "18:00, 6 sep. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "MHFF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13101.png",
+          "alt": "MHFF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs MHFF)"
+  },
+  {
+    "uid": "venue-match-6560461",
+    "start": "2026-09-13T16:00:00.000Z",
+    "end": "2026-09-13T17:30:00.000Z",
+    "title": "BK Fyren vs Kransen United FF",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-kransen-united-ff-div-5-herrar/6560461/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560461,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-kransen-united-ff-div-5-herrar/6560461/",
+      "date": {
+        "iso8601": "2026-09-13 18:00",
+        "formatted": "18:00, 13 sep. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Kransen United FF",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/11895.png",
+          "alt": "Kransen United FF"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Kransen United FF)"
+  },
+  {
+    "uid": "venue-match-6560404",
+    "start": "2026-09-27T16:00:00.000Z",
+    "end": "2026-09-27T17:30:00.000Z",
+    "title": "BK Fyren vs Solberga BK",
+    "description": "Herrar 5 Södra",
+    "location": "Västberga IP 1",
+    "url": "https://www.stff.se/rs/matchfakta/bk-fyren-solberga-bk-div-5-herrar/6560404/",
+    "categories": [
+      "Herrar 5 Södra"
+    ],
+    "sourceType": "venue",
+    "rawData": {
+      "id": 6560404,
+      "ageCategoryName": "Senior",
+      "ageCategoryId": 4,
+      "genderName": "Man",
+      "genderId": 2,
+      "courtId": -1,
+      "url": "/rs/matchfakta/bk-fyren-solberga-bk-div-5-herrar/6560404/",
+      "date": {
+        "iso8601": "2026-09-27 18:00",
+        "formatted": "18:00, 27 sep. 2026"
+      },
+      "location": "Västberga IP 1",
+      "category": "Herrar 5 Södra",
+      "status": "",
+      "note": "",
+      "home": {
+        "team": "BK Fyren",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/13180.png",
+          "alt": "BK Fyren"
+        }
+      },
+      "away": {
+        "team": "Solberga BK",
+        "logo": {
+          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/10270.png",
+          "alt": "Solberga BK"
+        }
+      }
+    },
+    "gender": "Herr",
+    "venues": [
+      "Västberga IP"
+    ],
+    "series": "Herrar 5 Södra",
+    "match": "External",
+    "activity": "Match",
+    "formattedTitle": " (BK Fyren vs Solberga BK)"
   }
 ]
