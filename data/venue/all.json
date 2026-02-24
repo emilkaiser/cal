@@ -3172,62 +3172,6 @@
     "formattedTitle": "🏟️ IFK Aspudden-Tellus (vs Ingarö IF)"
   },
   {
-    "uid": "venue-match-6560423",
-    "start": "2026-09-12T14:00:00.000Z",
-    "end": "2026-09-12T15:30:00.000Z",
-    "title": "Aspuddens FF vs Skogås-Trångsunds FF",
-    "description": "Herrar 5 Södra",
-    "location": "Aspuddens IP 1",
-    "url": "https://www.stff.se/rs/matchfakta/aspuddens-ff-skogas-trangsunds-ff-div-5-herrar/6560423/",
-    "categories": [
-      "Herrar 5 Södra"
-    ],
-    "sourceType": "venue",
-    "rawData": {
-      "id": 6560423,
-      "ageCategoryName": "Senior",
-      "ageCategoryId": 4,
-      "genderName": "Man",
-      "genderId": 2,
-      "courtId": -1,
-      "url": "/rs/matchfakta/aspuddens-ff-skogas-trangsunds-ff-div-5-herrar/6560423/",
-      "date": {
-        "iso8601": "2026-09-12 16:00",
-        "formatted": "16:00, 12 sep. 2026"
-      },
-      "location": "Aspuddens IP 1",
-      "category": "Herrar 5 Södra",
-      "status": "",
-      "note": "",
-      "home": {
-        "team": "Aspuddens FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/12688.png",
-          "alt": "Aspuddens FF"
-        }
-      },
-      "away": {
-        "team": "Skogås-Trångsunds FF",
-        "logo": {
-          "src": "https://staticcdn.svenskfotboll.se/img/teamssm/7643.png",
-          "alt": "Skogås-Trångsunds FF"
-        }
-      }
-    },
-    "gender": "Herr",
-    "venues": [
-      "Aspuddens IP",
-      "Aspuddens IP 1"
-    ],
-    "series": "Herrar 5 Södra",
-    "match": "Home",
-    "team": "Aspuddens FF",
-    "formattedTeam": "Aspuddens FF",
-    "opponent": "Skogås-Trångsunds FF",
-    "activity": "Match",
-    "formattedTitle": "🏟️ Aspuddens FF (vs Skogås-Trångsunds FF)"
-  },
-  {
     "uid": "venue-match-6562185",
     "start": "2026-09-18T18:00:00.000Z",
     "end": "2026-09-18T19:30:00.000Z",
