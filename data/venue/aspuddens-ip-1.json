@@ -2030,8 +2030,8 @@
   },
   {
     "uid": "venue-match-6562141",
-    "start": "2026-06-21T16:00:00.000Z",
-    "end": "2026-06-21T17:30:00.000Z",
+    "start": "2026-06-17T18:00:00.000Z",
+    "end": "2026-06-17T19:30:00.000Z",
     "title": "IFK Aspudden-Tellus vs Mariebergs SK",
     "description": "Herrar 4 Mellersta",
     "location": "Aspuddens IP 1",
@@ -2049,8 +2049,8 @@
       "courtId": -1,
       "url": "/rs/matchfakta/ifk-aspudden-tellus-mariebergs-sk-div-4-herrar/6562141/",
       "date": {
-        "iso8601": "2026-06-21 18:00",
-        "formatted": "18:00, 21 juni 2026"
+        "iso8601": "2026-06-17 20:00",
+        "formatted": "20:00, 17 juni 2026"
       },
       "location": "Aspuddens IP 1",
       "category": "Herrar 4 Mellersta",
